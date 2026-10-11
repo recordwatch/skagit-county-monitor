@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:11:13",
+  "generatedAt": "2026-10-11T12:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 233,
@@ -460,8 +460,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 105,
-      "pct": 23.6
+      "count": 104,
+      "pct": 23.4
     },
     {
       "name": "Own Recognizance Release",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 32,
-      "pct": 7.2
+      "count": 33,
+      "pct": 7.4
     },
     {
       "name": "Pending Transport",
@@ -552,18 +552,18 @@
     },
     {
       "name": "N",
-      "count": 26,
-      "pct": 13.5
+      "count": 25,
+      "pct": 13.1
     },
     {
       "name": "P",
       "count": 32,
-      "pct": 16.7
+      "pct": 16.8
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.1
+      "pct": 15.2
     },
     {
       "name": "R",
