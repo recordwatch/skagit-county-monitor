@@ -1,9 +1,9 @@
 [
   {
-    "id": "723747-20261011040000",
-    "nameNumber": "723747",
-    "name": "SPADY, JARED CHARLES",
-    "bookedAt": "2026-10-11T04:00:00",
+    "id": "742319-20261011044000",
+    "nameNumber": "742319",
+    "name": "ROCHA-ALATORRE, MARIO ALBERTO",
+    "bookedAt": "2026-10-11T04:40:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -17,6 +17,55 @@
     ],
     "bondTotal": null,
     "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T06:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "723747-20261011040000",
+    "nameNumber": "723747",
+    "name": "SPADY, JARED CHARLES",
+    "bookedAt": "2026-10-11T04:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T03:08:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2025-07-30T00:00:00",
+        "incident": "25-M12310",
+        "court": "SC",
+        "courtReference": "25-1-00650-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-07-30T00:00:00",
+        "incident": "25-M12310",
+        "court": "SC",
+        "courtReference": "25-1-00650-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T05:11:14",
     "releasedAt": null,
@@ -44,7 +93,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -57,6 +106,18 @@
         "disposition": null,
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "HIT RUN UNATTENDED",
+        "offenseDate": "2026-10-11T00:41:00",
+        "incident": "26-SP1601",
+        "court": "DC",
+        "courtReference": "6A0360245",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "status": "in_custody",

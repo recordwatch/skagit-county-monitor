@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T05:11:14",
+  "generatedAt": "2026-10-11T06:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 231,
-    "bookingsObserved": 28,
+    "bookingsTracked": 232,
+    "bookingsObserved": 29,
     "releasesObserved": 24,
-    "inCustody": 207,
+    "inCustody": 208,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 45,
-      "pct": 4
+      "count": 46,
+      "pct": 4.1
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -189,7 +189,7 @@
     {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 31,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -248,8 +248,8 @@
     },
     {
       "name": "IDENTITY THEFT 2ND",
-      "count": 15,
-      "pct": 1.3
+      "count": 16,
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 62,
-      "pct": 27,
+      "count": 63,
+      "pct": 27.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 54,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "SC",
-      "count": 747,
+      "count": 749,
       "pct": 66.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 111,
+      "count": 112,
       "pct": 9.9,
       "label": "Skagit County District Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 74,
-      "pct": 32.2
+      "pct": 32
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 48,
-      "pct": 20.9
+      "count": 49,
+      "pct": 21.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -404,12 +404,12 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 19,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 13,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -574,7 +574,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 621,
+      "count": 624,
       "pct": 96
     },
     {
@@ -623,15 +623,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 51.4,
-    "currentLongestDaysHeld": 968.5
+    "currentMedianDaysHeld": 50.8,
+    "currentLongestDaysHeld": 968.6
   },
   "bond": {
-    "withBond": 135,
-    "noBond": 72,
+    "withBond": 137,
+    "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21227600
+    "totalBond": 21233100
   },
   "chargesPerBooking": 4.9
 }
