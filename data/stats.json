@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T08:11:14",
+  "generatedAt": "2026-10-11T09:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 233,
@@ -508,7 +508,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "DORM 1 (E101)",
@@ -518,7 +518,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -533,7 +533,7 @@
     {
       "name": "K",
       "count": 22,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "M",
@@ -552,18 +552,18 @@
     },
     {
       "name": "N",
-      "count": 22,
-      "pct": 11.7
+      "count": 23,
+      "pct": 12.2
     },
     {
       "name": "P",
       "count": 32,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "R",
@@ -623,8 +623,8 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 50.8,
-    "currentLongestDaysHeld": 968.6
+    "currentMedianDaysHeld": 50.9,
+    "currentLongestDaysHeld": 968.7
   },
   "bond": {
     "withBond": 137,
