@@ -1,5 +1,29 @@
 [
   {
+    "id": "723747-20261011040000",
+    "nameNumber": "723747",
+    "name": "SPADY, JARED CHARLES",
+    "bookedAt": "2026-10-11T04:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T05:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742316-20261011025500",
     "nameNumber": "742316",
     "name": "CASTILLO-ESTEVEZ, JOSE GILBERTO",
@@ -13,6 +37,11 @@
         "arrestDate": "2026-10-11T01:09:00",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "arrestDate": "2026-10-11T01:12:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
