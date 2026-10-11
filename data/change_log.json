@@ -1,5 +1,54 @@
 [
   {
+    "id": "710985-20261011014000",
+    "nameNumber": "710985",
+    "name": "SANTOS, MIGUEL LUIS",
+    "bookedAt": "2026-10-11T01:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T01:09:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2024-06-23T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009382",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2024-06-23T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009382",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T03:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "6469-20261010193000",
     "nameNumber": "6469",
     "name": "TRUJILLO, JUAN ROY",
