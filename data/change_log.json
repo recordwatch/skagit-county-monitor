@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-11T04:40:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-11T01:26:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-11T04:40:00",
+        "incident": "26-W04933",
+        "court": "SWMC",
+        "courtReference": "6A0426532",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T06:11:14",
     "releasedAt": null,
@@ -132,7 +145,7 @@
     "name": "HINES, STEVEN D",
     "bookedAt": "2026-10-11T02:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J105",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1500,7 +1513,7 @@
     "name": "RILEY, EARL JR",
     "bookedAt": "2026-10-07T13:36:00",
     "scheduledRelease": null,
-    "location": "J105",
+    "location": "M101",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -2331,7 +2344,7 @@
     "name": "WICK, ASHLEY ELIZABETH",
     "bookedAt": "2026-10-06T11:00:00",
     "scheduledRelease": "2026-12-15T11:00:00",
-    "location": "J104",
+    "location": "J203",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

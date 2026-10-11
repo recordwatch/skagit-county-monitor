@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:11:16",
+  "generatedAt": "2026-10-11T08:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 233,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 56,
+      "count": 57,
       "pct": 5
     },
     {
@@ -266,31 +266,31 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 63,
-      "pct": 27.2,
+      "pct": 27,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 54,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 28,
-      "pct": 12.1,
+      "pct": 12,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 24,
-      "pct": 10.3,
+      "count": 25,
+      "pct": 10.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 21,
-      "pct": 9.1,
+      "pct": 9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 82,
-      "pct": 7.3,
+      "pct": 7.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 23,
-      "pct": 2,
+      "count": 24,
+      "pct": 2.1,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 74,
-      "pct": 31.9
+      "pct": 31.8
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 49,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 21,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -418,13 +418,13 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 6,
-      "pct": 2.6
+      "count": 7,
+      "pct": 3
     },
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 5,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "REVOCATION OF PR",
@@ -528,17 +528,17 @@
     {
       "name": "J",
       "count": 17,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "K",
       "count": 22,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 4.3
+      "count": 9,
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -553,22 +553,22 @@
     {
       "name": "N",
       "count": 22,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "P",
       "count": 32,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 12.3
+      "pct": 12.2
     }
   ],
   "bailTypes": [
