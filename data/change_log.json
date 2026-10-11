@@ -1,5 +1,78 @@
 [
   {
+    "id": "162575-20261011131500",
+    "nameNumber": "162575",
+    "name": "SCHMITT, VIRGINIA ANNE",
+    "bookedAt": "2026-10-11T13:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T13:15:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-11T13:15:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "a",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-11T13:15:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "a",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-11T13:15:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "a",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-11T13:15:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "a",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T13:50:05",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742319-20261011044000",
     "nameNumber": "742319",
     "name": "ROCHA-ALATORRE, MARIO ALBERTO",
@@ -19,7 +92,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-10-11T04:40:00",
+        "offenseDate": "2026-10-11T02:19:00",
         "incident": "26-W04933",
         "court": "SWMC",
         "courtReference": "6A0426532",
@@ -101,7 +174,7 @@
         "agency": "WA STATE PATROL"
       },
       {
-        "arrestDate": "2026-10-11T01:12:00",
+        "arrestDate": "2026-10-11T02:55:00",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -184,11 +257,11 @@
     "scheduledRelease": null,
     "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-11T01:09:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -203,7 +276,7 @@
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
       {
@@ -215,7 +288,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
