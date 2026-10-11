@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:11:15",
+  "generatedAt": "2026-10-11T15:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 234,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 51,
-      "pct": 4.5
+      "count": 52,
+      "pct": 4.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -187,14 +187,14 @@
       "pct": 2.9
     },
     {
-      "name": "DWLS/R 3RD DEGREE",
-      "count": 32,
-      "pct": 2.8
-    },
-    {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 31,
       "pct": 2.7
+    },
+    {
+      "name": "DWLS/R 3RD DEGREE",
+      "count": 30,
+      "pct": 2.6
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -574,7 +574,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 624,
+      "count": 628,
       "pct": 96
     },
     {
@@ -623,15 +623,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 50.4,
+    "currentMedianDaysHeld": 50.5,
     "currentLongestDaysHeld": 968.9
   },
   "bond": {
-    "withBond": 137,
-    "noBond": 70,
+    "withBond": 138,
+    "noBond": 69,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21233100
+    "totalBond": 21245600
   },
   "chargesPerBooking": 4.9
 }
