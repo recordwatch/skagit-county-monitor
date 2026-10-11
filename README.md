@@ -1,5 +1,8 @@
 # Skagit County Jail Roster Monitor
 
-Work in progress. A one-off `Probe Skagit roster` workflow checks whether the
-[Skagit roster](https://classic.skagitcountywa.gov/reporting/JailRoster/)
-is reachable from GitHub Actions before the scraper is built.
+Tracks bookings and releases at the Skagit County jail by scraping the
+[public roster](https://classic.skagitcountywa.gov/Reporting/JailRoster/) and
+[release report](https://classic.skagitcountywa.gov/Reporting/JailRelease/),
+and publishes a searchable site on GitHub Pages.
+
+See `CLAUDE.md` for how it works.
