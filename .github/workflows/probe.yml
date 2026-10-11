@@ -1,0 +1,45 @@
+name: Probe Skagit roster
+
+# One-off test: can GitHub's servers reach the Skagit roster, and what does
+# the page look like? Saves what it downloads to the `probe` branch.
+# Replaced by the real scraper once we know.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download roster page and a few linked pages
+        run: |
+          mkdir -p out && cd out
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0'
+          BASE='https://classic.skagitcountywa.gov/reporting/JailRoster/'
+          curl -sS -L -A "$UA" -D headers.txt -o roster.html -w '%{http_code} %{url_effective}\n' "$BASE" > status.txt 2> error.txt || true
+          cat status.txt error.txt
+          # Grab up to 5 same-site links that look roster-related, to learn the
+          # detail-page format. A short pause between requests keeps it polite.
+          grep -oiE 'href="[^"#]+"' roster.html 2>/dev/null | sed -E 's/^href="//I; s/"$//' \
+            | grep -iE 'roster|inmate|booking|detail|charge' | sort -u | head -5 > links.txt || true
+          i=0
+          while read -r link; do
+            i=$((i+1))
+            case "$link" in http*) url="$link";; /*) url="https://classic.skagitcountywa.gov$link";; *) url="$BASE$link";; esac
+            curl -sS -L -A "$UA" -o "link$i.html" -w "$i %{http_code} $url\n" "$url" >> links_status.txt 2>&1 || true
+            sleep 1
+          done < links.txt
+          ls -la
+
+      - name: Save results to the probe branch
+        run: |
+          cd out
+          git init -q -b probe
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "probe $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe
