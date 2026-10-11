@@ -4681,7 +4681,7 @@
         "courtReference": "3A0799344",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -7920,7 +7920,7 @@
         "courtReference": "24-1-00280-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -8018,7 +8018,7 @@
         "courtReference": "25-1-00726-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -8030,7 +8030,7 @@
         "courtReference": "25-1-00726-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -8042,7 +8042,7 @@
         "courtReference": "25-1-00726-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -18443,7 +18443,7 @@
         "courtReference": "4A0484934",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
