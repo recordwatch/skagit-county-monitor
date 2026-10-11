@@ -5,7 +5,7 @@
     "name": "ROCHA-ALATORRE, MARIO ALBERTO",
     "bookedAt": "2026-10-11T04:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "SPADY, JARED CHARLES",
     "bookedAt": "2026-10-11T04:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -91,7 +91,7 @@
     "name": "CASTILLO-ESTEVEZ, JOSE GILBERTO",
     "bookedAt": "2026-10-11T02:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
