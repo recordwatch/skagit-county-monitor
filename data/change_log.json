@@ -274,6 +274,68 @@
     "baseline": true
   },
   {
+    "id": "543654-20261010150500",
+    "nameNumber": "543654",
+    "name": "ZIMMER, STEFANIE",
+    "bookedAt": "2026-10-10T15:05:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-10-10T17:11:30",
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-10T14:48:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MUNICIPALITIES CODE VIOLATION",
+        "offenseDate": "2023-08-31T00:00:00",
+        "incident": "23-B06719",
+        "court": "BMC",
+        "courtReference": "3A0653092",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "LITTER 1 CUBIC FT TO 10 CUBIC YARD",
+        "offenseDate": "2022-03-08T00:00:00",
+        "incident": "22-A01474",
+        "court": "AMC",
+        "courtReference": "AC0017493",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "LITTER 1 CUBIC FT TO 10 CUBIC YARD",
+        "offenseDate": "2022-02-18T00:00:00",
+        "incident": "22-A01057",
+        "court": "AMC",
+        "courtReference": "AC0017320",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-10-11T07:11:16",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
+    "baseline": false
+  },
+  {
     "id": "271885-20261010134000",
     "nameNumber": "271885",
     "name": "STRICKLAND, RACHAEL LEE",
@@ -7857,7 +7919,7 @@
         "courtReference": "24-1-00280-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -7922,7 +7984,7 @@
     "nameNumber": "306901",
     "name": "CASTELLANOS, JULIAN JAIME",
     "bookedAt": "2026-09-01T13:30:00",
-    "scheduledRelease": "2026-10-11T13:30:00",
+    "scheduledRelease": "2026-10-11T12:30:00",
     "location": "P103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",

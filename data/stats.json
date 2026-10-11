@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T06:11:14",
+  "generatedAt": "2026-10-11T07:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 232,
-    "bookingsObserved": 29,
-    "releasesObserved": 24,
+    "bookingsTracked": 233,
+    "bookingsObserved": 30,
+    "releasesObserved": 25,
     "inCustody": 208,
     "uniquePeople": 1
   },
@@ -151,8 +151,8 @@
     },
     {
       "date": "2026-10-10",
-      "booked": 4,
-      "released": 0
+      "booked": 5,
+      "released": 1
     },
     {
       "date": "2026-10-11",
@@ -219,7 +219,7 @@
     {
       "name": "ATTEMPT TO ELUDE",
       "count": 22,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 63,
-      "pct": 27.3,
+      "pct": 27.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 54,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 27,
-      "pct": 11.7,
+      "count": 28,
+      "pct": 12.1,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 24,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 17,
-      "pct": 7.4,
+      "pct": 7.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 749,
-      "pct": 66.4,
+      "pct": 66.2,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 81,
-      "pct": 7.2,
+      "count": 82,
+      "pct": 7.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 33,
-      "pct": 2.9,
+      "count": 35,
+      "pct": 3.1,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 74,
-      "pct": 32
+      "pct": 31.9
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 49,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 23,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 20,
-      "pct": 8.7
+      "count": 21,
+      "pct": 9.1
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -455,8 +455,8 @@
   "dispositions": [
     {
       "name": "Serving Commit",
-      "count": 112,
-      "pct": 25.2
+      "count": 111,
+      "pct": 25
     },
     {
       "name": "Declined To Prosecute",
@@ -480,8 +480,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 25,
-      "pct": 5.6
+      "count": 26,
+      "pct": 5.9
     },
     {
       "name": "Amended",
@@ -589,18 +589,18 @@
     }
   ],
   "releaseSources": {
-    "official": 24,
+    "official": 25,
     "observed": 0,
-    "reportOnly": 24
+    "reportOnly": 25
   },
   "stay": {
-    "releasedCount": 24,
+    "releasedCount": 25,
     "medianDays": 1,
-    "meanDays": 6.5,
+    "meanDays": 6.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 11
+        "count": 12
       },
       {
         "label": "1–3 days",
