@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T14:11:13",
+  "generatedAt": "2026-10-12T15:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 247,
-    "bookingsObserved": 44,
-    "releasesObserved": 37,
-    "inCustody": 210,
+    "bookingsTracked": 248,
+    "bookingsObserved": 45,
+    "releasesObserved": 48,
+    "inCustody": 200,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 8,
-      "released": 6
+      "booked": 9,
+      "released": 17
     }
   ],
   "topCharges": [
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 63,
-      "pct": 25.7,
+      "count": 64,
+      "pct": 26,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 31,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -290,19 +290,19 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 23,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 21,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 7,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 75,
-      "pct": 30.6
+      "pct": 30.5
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 50,
-      "pct": 20.4
+      "pct": 20.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,12 +399,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 23,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 19,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -438,8 +438,8 @@
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
-      "count": 1,
-      "pct": 0.4
+      "count": 2,
+      "pct": 0.8
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -513,67 +513,67 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.6
+      "pct": 2.8
     },
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.6
+      "pct": 1.7
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.4
+      "pct": 7.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 6.8
+      "count": 12,
+      "pct": 6.7
     },
     {
       "name": "K",
       "count": 24,
-      "pct": 12.6
+      "pct": 13.3
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 4.7
+      "count": 10,
+      "pct": 5.6
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 3,
-      "pct": 1.6
+      "pct": 1.7
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 9,
-      "pct": 4.7
+      "pct": 5
     },
     {
       "name": "N",
-      "count": 28,
-      "pct": 14.7
+      "count": 20,
+      "pct": 11.1
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 15.8
+      "pct": 16.7
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.3
+      "pct": 16.1
     },
     {
       "name": "R",
-      "count": 22,
-      "pct": 11.6
+      "count": 20,
+      "pct": 11.1
     }
   ],
   "bailTypes": [
@@ -595,21 +595,21 @@
   ],
   "releaseSources": {
     "official": 31,
-    "observed": 6,
+    "observed": 17,
     "reportOnly": 25
   },
   "stay": {
-    "releasedCount": 37,
-    "medianDays": 1.2,
-    "meanDays": 20.7,
+    "releasedCount": 48,
+    "medianDays": 1.3,
+    "meanDays": 16.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 15
+        "count": 19
       },
       {
         "label": "1–3 days",
-        "count": 8
+        "count": 14
       },
       {
         "label": "3–7 days",
@@ -617,7 +617,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 2
+        "count": 3
       },
       {
         "label": "1–3 months",
@@ -628,15 +628,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 49.2,
+    "currentMedianDaysHeld": 54.3,
     "currentLongestDaysHeld": 969.9
   },
   "bond": {
-    "withBond": 134,
-    "noBond": 76,
+    "withBond": 133,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21504600
+    "totalBond": 21484600
   },
   "chargesPerBooking": 4.7
 }

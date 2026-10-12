@@ -1,5 +1,29 @@
 [
   {
+    "id": "736794-20261012145000",
+    "nameNumber": "736794",
+    "name": "ONYSHCHUK, IVAN",
+    "bookedAt": "2026-10-12T14:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-12T14:50:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "576897-20261012130000",
     "nameNumber": "576897",
     "name": "LOPEZ-LUCERO, BRENTON",
@@ -454,10 +478,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T04:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -503,10 +527,10 @@
         "agency": "WHATCOM COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T02:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -540,10 +564,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T23:21:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -577,10 +601,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -822,10 +846,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T06:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -925,10 +949,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T04:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1011,10 +1035,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T03:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1294,10 +1318,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -1396,10 +1420,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -1469,10 +1493,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -2954,7 +2978,7 @@
     "name": "MARTINEZ, CHRISTOPHER GABRIEL",
     "bookedAt": "2026-10-06T20:50:00",
     "scheduledRelease": null,
-    "location": "J101",
+    "location": "M102",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -3736,10 +3760,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
