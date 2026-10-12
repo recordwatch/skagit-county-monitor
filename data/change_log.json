@@ -1,5 +1,29 @@
 [
   {
+    "id": "398351-20261012085000",
+    "nameNumber": "398351",
+    "name": "FREDAY, ROBERT RAE",
+    "bookedAt": "2026-10-12T08:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "722937-20261012043500",
     "nameNumber": "722937",
     "name": "MOSS, MEGAN MARIA",
@@ -4112,7 +4136,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 250000,
     "charges": [
       {
         "description": "ASSAULT 1ST GREAT BODILY HARM",
@@ -4120,8 +4144,8 @@
         "incident": "26-A06102",
         "court": "SC",
         "courtReference": "26-1-00548-29",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 250000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -4133,7 +4157,7 @@
         "court": "SC",
         "courtReference": "26-1-00548-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -4145,7 +4169,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
