@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:11:13",
+  "generatedAt": "2026-10-12T01:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 239,
@@ -557,23 +557,23 @@
     },
     {
       "name": "N",
-      "count": 28,
-      "pct": 14.7
+      "count": 29,
+      "pct": 15.1
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "R",
       "count": 21,
-      "pct": 11
+      "pct": 10.9
     }
   ],
   "bailTypes": [
@@ -628,7 +628,7 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 49.7,
+    "currentMedianDaysHeld": 49.8,
     "currentLongestDaysHeld": 969.3
   },
   "bond": {
