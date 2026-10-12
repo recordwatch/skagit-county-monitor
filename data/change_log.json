@@ -5,7 +5,7 @@
     "name": "SCHMITT, VIRGINIA ANNE",
     "bookedAt": "2026-10-11T13:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -4448,7 +4448,7 @@
         "courtReference": "CR2024-382A",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "OTHER AGNCY BIL"
       }
