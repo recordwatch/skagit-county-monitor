@@ -193,7 +193,7 @@
         "description": "NEG DRIVING 1ST (CRIMINAL)",
         "offenseDate": "2025-05-02T00:00:00",
         "incident": null,
-        "court": "BMC",
+        "court": "DC",
         "courtReference": "PA0009143",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
@@ -4799,8 +4799,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T18:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T17:20:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -5105,8 +5105,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T18:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T17:30:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -7888,8 +7888,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T19:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T18:34:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -8368,8 +8368,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T19:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T18:15:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -8466,8 +8466,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T13:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T12:34:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -18915,8 +18915,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-11T13:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-11T11:55:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
