@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T21:11:15",
+  "generatedAt": "2026-10-11T22:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 235,
-    "bookingsObserved": 32,
+    "bookingsTracked": 238,
+    "bookingsObserved": 35,
     "releasesObserved": 31,
-    "inCustody": 204,
+    "inCustody": 207,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 7,
+      "booked": 10,
       "released": 6
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 52,
+      "count": 53,
       "pct": 4.6
     },
     {
@@ -242,14 +242,14 @@
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
+      "name": "IDENTITY THEFT 2ND",
       "count": 17,
       "pct": 1.5
     },
     {
-      "name": "IDENTITY THEFT 2ND",
-      "count": 16,
-      "pct": 1.4
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 17,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,49 +266,49 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 63,
-      "pct": 26.8,
+      "pct": 26.5,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 55,
-      "pct": 23.4,
+      "pct": 23.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 28,
-      "pct": 11.9,
+      "count": 31,
+      "pct": 13,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 25,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 22,
-      "pct": 9.4,
+      "pct": 9.2,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 17,
-      "pct": 7.2,
+      "pct": 7.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 6,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
       "name": "SKAGIT COUNTY JAIL",
       "count": 6,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -320,14 +320,14 @@
     {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 2,
-      "pct": 0.9,
+      "pct": 0.8,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
   "courts": [
     {
       "name": "SC",
-      "count": 749,
+      "count": 751,
       "pct": 65.8,
       "label": "Skagit County Superior Court"
     },
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 88,
-      "pct": 7.7,
+      "count": 89,
+      "pct": 7.8,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 82,
-      "pct": 7.2,
+      "count": 83,
+      "pct": 7.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,27 +384,27 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 74,
-      "pct": 31.5
+      "pct": 31.1
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 49,
-      "pct": 20.9
+      "count": 50,
+      "pct": 21
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 24,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 21,
-      "pct": 8.9
+      "count": 23,
+      "pct": 9.7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 19,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 12,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "DUI CITATION ARREST",
       "count": 7,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -579,13 +579,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 628,
+      "count": 632,
       "pct": 96
     },
     {
       "name": "SCRAM With Bail",
       "count": 22,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "Cash Only",
@@ -628,15 +628,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 52.1,
+    "currentMedianDaysHeld": 50.8,
     "currentLongestDaysHeld": 969.2
   },
   "bond": {
-    "withBond": 138,
+    "withBond": 141,
     "noBond": 66,
-    "medianBond": 50000,
+    "medianBond": 40000,
     "maxBond": 1350000,
-    "totalBond": 21245600
+    "totalBond": 21256600
   },
   "chargesPerBooking": 4.8
 }

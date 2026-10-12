@@ -1,5 +1,128 @@
 [
   {
+    "id": "293733-20261011203000",
+    "nameNumber": "293733",
+    "name": "COLLETTE, KADEN THEODORE M",
+    "bookedAt": "2026-10-11T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T12:13:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "NEG DRIVING 1ST (CRIMINAL)",
+        "offenseDate": "2025-05-02T00:00:00",
+        "incident": null,
+        "court": "BMC",
+        "courtReference": "PA0009143",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "497823-20261011203000",
+    "nameNumber": "497823",
+    "name": "HARVEY, DELIA MARIE",
+    "bookedAt": "2026-10-11T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T12:13:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-06-12T00:00:00",
+        "incident": "25-M09352",
+        "court": "MVMC",
+        "courtReference": "5A0583407",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "504242-20261011203000",
+    "nameNumber": "504242",
+    "name": "VEGA, ANDREW",
+    "bookedAt": "2026-10-11T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T12:13:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSS STOLEN PROP 2ND ACCESS DEVICE/CREDIT CARD",
+        "offenseDate": "2026-06-27T00:00:00",
+        "incident": "26-B04785",
+        "court": "SC",
+        "courtReference": "26-1-00496-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2026-06-27T00:00:00",
+        "incident": "26-B04785",
+        "court": "SC",
+        "courtReference": "26-1-00496-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "454131-20261011165500",
     "nameNumber": "454131",
     "name": "ASKVIG, LANE MICHAEL",
