@@ -6,17 +6,42 @@
     "bookedAt": "2026-10-12T01:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WHATCOM COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-12T00:55:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "WHATCOM COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-03-02T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "6A0043745",
+        "bailAmount": 10000,
+        "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "WHATCOM COUNTY SHERIFF"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-04-08T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "6A0125636",
+        "bailAmount": 10000,
+        "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "WHATCOM COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T02:11:18",
     "releasedAt": null,
