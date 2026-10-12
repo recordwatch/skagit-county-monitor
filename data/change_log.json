@@ -76,7 +76,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -91,13 +91,193 @@
         "agency": "WA STATE PATROL"
       },
       {
-        "description": "ATTEMPT TO ELUDE",
+        "description": "DWLS/R 3RD DEGREE",
         "offenseDate": "2026-10-12T00:00:00",
         "incident": null,
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "offenseDate": "2026-10-12T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS STOLEN VEHICLE",
+        "offenseDate": "2024-10-09T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS STOLEN PROP 2ND >750",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS STOLEN VEHICLE",
+        "offenseDate": "2024-10-19T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEGREE PENALTY",
+        "offenseDate": "2024-10-10T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "THEFT OF FIREARM",
+        "offenseDate": "2024-10-10T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS STOLEN VEHICLE",
+        "offenseDate": "2024-10-12T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS STOLEN VEHICLE",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEGREE PENALTY",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "THEFT 2ND PUBLIC RECORDS",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": "24-13115",
+        "court": "SC",
+        "courtReference": "24-1-00861-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-09-28T00:00:00",
+        "incident": "25-W03724",
+        "court": "SWMC",
+        "courtReference": "5A0543902",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-09-28T00:00:00",
+        "incident": "25-W03724",
+        "court": "SWMC",
+        "courtReference": "5A0543901",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -270,7 +450,7 @@
         "courtReference": "T00884950",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -297,7 +477,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "NEG DRIVING 1ST (CRIMINAL)",
@@ -305,9 +485,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009143",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -349,10 +529,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T13:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -520,10 +700,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T13:50:05",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T13:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -552,7 +732,7 @@
         "courtReference": "6A0426532",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -633,7 +813,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -643,7 +823,7 @@
         "courtReference": "T00572204",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -653,9 +833,9 @@
         "incident": "26-SP1601",
         "court": "DC",
         "courtReference": "6A0360245",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -719,7 +899,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -727,9 +907,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009382",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -740,8 +920,8 @@
         "court": "DC",
         "courtReference": "PA0009382",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -768,7 +948,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -776,8 +956,8 @@
         "incident": "26-M15153",
         "court": "MVMC",
         "courtReference": "6A0426445",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -789,7 +969,7 @@
         "court": "MVMC",
         "courtReference": "6A0426445",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -906,10 +1086,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T13:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -992,10 +1172,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T13:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -1024,7 +1204,7 @@
         "courtReference": "T00795655",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1056,7 +1236,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -1064,9 +1244,9 @@
         "incident": "26-B07433",
         "court": "BMC",
         "courtReference": "6A0425845",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1078,7 +1258,7 @@
         "courtReference": "6A0402597",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1088,9 +1268,9 @@
         "incident": "26-B07433",
         "court": "BMC",
         "courtReference": "6A0402595",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1100,9 +1280,9 @@
         "incident": "26-07754",
         "court": "DC",
         "courtReference": "C00069676",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1114,7 +1294,7 @@
         "courtReference": "6A0409622",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1126,7 +1306,7 @@
         "courtReference": "6A0409622",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -1153,7 +1333,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HIT AND RUN",
@@ -1161,9 +1341,9 @@
         "incident": "21-B09071",
         "court": "BMC",
         "courtReference": "1A0121451",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1174,8 +1354,8 @@
         "court": "BMC",
         "courtReference": "1A0121451",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1186,8 +1366,8 @@
         "court": "BMC",
         "courtReference": "1A0121451",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1197,9 +1377,9 @@
         "incident": "22-08766",
         "court": "DC",
         "courtReference": "2A0025590",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -12930,10 +13110,10 @@
         "offenseDate": "2026-07-04T14:27:00",
         "incident": "26-W03113",
         "court": "SC",
-        "courtReference": "26-1-00372-29",
+        "courtReference": "INV",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": "Amended",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
