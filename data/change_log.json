@@ -17,10 +17,10 @@
     ],
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T15:48:07",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -128,17 +128,30 @@
     "bookedAt": "2026-10-12T09:40:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-12T09:20:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-12T09:40:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "HOLD",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T11:11:16",
     "releasedAt": null,
@@ -719,7 +732,7 @@
         "courtReference": "6A0426822",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -731,7 +744,7 @@
         "courtReference": "2A0358071",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
