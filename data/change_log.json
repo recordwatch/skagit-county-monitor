@@ -4453,10 +4453,10 @@
         "agency": "OTHER AGNCY BIL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-11T18:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -4759,10 +4759,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-11T18:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -7937,7 +7937,7 @@
     "name": "NIBARGER, TONI MICHELLE",
     "bookedAt": "2026-09-02T03:15:00",
     "scheduledRelease": "2026-10-11T18:15:00",
-    "location": "R111",
+    "location": null,
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
