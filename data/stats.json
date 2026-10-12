@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:48:07",
+  "generatedAt": "2026-10-12T16:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 248,
@@ -456,17 +456,17 @@
     {
       "name": "Own Recognizance Release",
       "count": 124,
-      "pct": 26.1
+      "pct": 26
     },
     {
       "name": "Declined To Prosecute",
-      "count": 109,
-      "pct": 22.9
+      "count": 110,
+      "pct": 23.1
     },
     {
       "name": "Serving Commit",
       "count": 98,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "Dismissed",

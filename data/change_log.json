@@ -994,7 +994,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
