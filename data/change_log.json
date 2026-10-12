@@ -1,5 +1,54 @@
 [
   {
+    "id": "672633-20261012031000",
+    "nameNumber": "672633",
+    "name": "SAMPSON, CAMEO NICHOEL",
+    "bookedAt": "2026-10-12T03:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-11T23:49:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-11T23:38:00",
+        "incident": "26-A06352",
+        "court": "AMC",
+        "courtReference": "6A02878802",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-11T23:38:00",
+        "incident": "26-A06352",
+        "court": "AMC",
+        "courtReference": "6A02878802",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T04:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "417436-20261012013500",
     "nameNumber": "417436",
     "name": "BREHM, LINDSEY DANIELLE",
@@ -22,7 +71,7 @@
         "offenseDate": "2026-03-02T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "6A0043745",
+        "courtReference": "WHATCOM 6A0043745",
         "bailAmount": 10000,
         "bailType": "Cash Only",
         "disposition": null,
@@ -34,7 +83,7 @@
         "offenseDate": "2026-04-08T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "6A0125636",
+        "courtReference": "WHATCOM 6A0125636",
         "bailAmount": 10000,
         "bailType": "Cash Only",
         "disposition": null,
@@ -17918,7 +17967,7 @@
         "courtReference": "1A0090817",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -17930,7 +17979,7 @@
         "courtReference": "1A0090817",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -17942,7 +17991,7 @@
         "courtReference": "1A0090817",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -17954,7 +18003,7 @@
         "courtReference": "4A0210883",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -17966,7 +18015,7 @@
         "courtReference": "4A0210883",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -17978,7 +18027,7 @@
         "courtReference": "4A0210883",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
