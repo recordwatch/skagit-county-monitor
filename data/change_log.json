@@ -1,5 +1,29 @@
 [
   {
+    "id": "417436-20261012013500",
+    "nameNumber": "417436",
+    "name": "BREHM, LINDSEY DANIELLE",
+    "bookedAt": "2026-10-12T01:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T02:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742338-20261011220500",
     "nameNumber": "742338",
     "name": "LEDEZMA, GONZALO RAFAEL",
