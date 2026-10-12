@@ -1,5 +1,42 @@
 [
   {
+    "id": "722937-20261012043500",
+    "nameNumber": "722937",
+    "name": "MOSS, MEGAN MARIA",
+    "bookedAt": "2026-10-12T04:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-12T02:06:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-12T01:30:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00747883",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T06:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "672633-20261012031000",
     "nameNumber": "672633",
     "name": "SAMPSON, CAMEO NICHOEL",
