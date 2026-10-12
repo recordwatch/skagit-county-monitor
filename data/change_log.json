@@ -42,7 +42,7 @@
     "name": "COLLETTE, KADEN THEODORE M",
     "bookedAt": "2026-10-11T20:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -116,7 +116,7 @@
     "name": "VEGA, ANDREW",
     "bookedAt": "2026-10-11T20:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
