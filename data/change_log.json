@@ -1143,7 +1143,7 @@
     "nameNumber": "274576",
     "name": "BUSHIE, IAN LEE",
     "bookedAt": "2026-10-09T09:44:00",
-    "scheduledRelease": "2026-10-12T09:44:00",
+    "scheduledRelease": "2026-10-12T07:25:52",
     "location": "N204",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -1164,7 +1164,7 @@
         "courtReference": "C68327",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -3356,7 +3356,7 @@
         "courtReference": "BUC015085",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
