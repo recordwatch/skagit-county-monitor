@@ -1,5 +1,66 @@
 [
   {
+    "id": "576897-20261012130000",
+    "nameNumber": "576897",
+    "name": "LOPEZ-LUCERO, BRENTON",
+    "bookedAt": "2026-10-12T13:00:00",
+    "scheduledRelease": "2027-04-09T13:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-12T13:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 1ST DEGREE",
+        "offenseDate": "2025-12-28T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T146752",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T14:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "719405-20261012101500",
+    "nameNumber": "719405",
+    "name": "CARRUTHERS, CURTIS RAY",
+    "bookedAt": "2026-10-12T10:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T14:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "386023-20261012100000",
     "nameNumber": "386023",
     "name": "GUTIERREZ, LUIS GOMEZ",
@@ -76,7 +137,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 7000,
+    "bondTotal": 9000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -276,6 +337,30 @@
         "incident": "25-W03724",
         "court": "SWMC",
         "courtReference": "5A0543901",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2025-08-28T00:00:00",
+        "incident": "25-M13946",
+        "court": "MVMC",
+        "courtReference": "5A0752022",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-05-09T00:00:00",
+        "incident": "26-SP0653",
+        "court": "DC",
+        "courtReference": "6A0291601",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -4453,7 +4538,7 @@
     "name": "HEDINGTON, JADYN MICHAEL",
     "bookedAt": "2026-09-30T15:10:00",
     "scheduledRelease": "2026-10-06T19:59:44",
-    "location": "J204",
+    "location": "K105",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -11627,7 +11712,7 @@
     "name": "BUNK, EDWARD SCOTT",
     "bookedAt": "2026-07-24T10:53:00",
     "scheduledRelease": "2026-07-31T20:55:24",
-    "location": "J211",
+    "location": "K107",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
