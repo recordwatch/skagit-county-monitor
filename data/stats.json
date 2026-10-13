@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T18:11:18",
+  "generatedAt": "2026-10-12T19:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 248,
-    "bookingsObserved": 45,
+    "bookingsTracked": 251,
+    "bookingsObserved": 48,
     "releasesObserved": 52,
-    "inCustody": 196,
+    "inCustody": 199,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 9,
+      "booked": 12,
       "released": 21
     }
   ],
@@ -253,8 +253,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 14,
-      "pct": 1.2
+      "count": 15,
+      "pct": 1.3
     },
     {
       "name": "ASSAULT-2 STRNGULTN/SUFFOCATN-DV",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 64,
-      "pct": 25.9,
+      "count": 65,
+      "pct": 26.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 55,
-      "pct": 22.3,
+      "pct": 22.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 31,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SC",
       "count": 766,
-      "pct": 65.5,
+      "pct": 65.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 120,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 90,
-      "pct": 7.7,
+      "count": 91,
+      "pct": 7.8,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 75,
-      "pct": 30.4
+      "pct": 30.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 25,
-      "pct": 10.1
+      "count": 26,
+      "pct": 10.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -409,12 +409,12 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 15,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 12,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "DUI CITATION ARREST",
@@ -455,13 +455,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 124,
-      "pct": 26
+      "count": 125,
+      "pct": 26.2
     },
     {
       "name": "Declined To Prosecute",
       "count": 110,
-      "pct": 23.1
+      "pct": 23
     },
     {
       "name": "Serving Commit",
@@ -481,7 +481,7 @@
     {
       "name": "Pending Transport",
       "count": 27,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "Amended",
@@ -579,13 +579,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 630,
-      "pct": 95.7
+      "count": 631,
+      "pct": 95.9
     },
     {
       "name": "SCRAM With Bail",
-      "count": 22,
-      "pct": 3.3
+      "count": 21,
+      "pct": 3.2
     },
     {
       "name": "Cash Only",
@@ -628,15 +628,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 56.9,
+    "currentMedianDaysHeld": 55.7,
     "currentLongestDaysHeld": 970.1
   },
   "bond": {
     "withBond": 132,
-    "noBond": 64,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21479600
+    "totalBond": 20980600
   },
   "chargesPerBooking": 4.7
 }
