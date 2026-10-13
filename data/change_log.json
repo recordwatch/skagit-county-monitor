@@ -41,7 +41,7 @@
     "nameNumber": "66092",
     "name": "HENDERSON, STEVEN MILTON",
     "bookedAt": "2026-10-12T22:30:00",
-    "scheduledRelease": "2026-11-07T07:30:00",
+    "scheduledRelease": "2026-11-06T18:30:00",
     "location": "N108",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -74,7 +74,7 @@
         "courtReference": "5A0738140",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
