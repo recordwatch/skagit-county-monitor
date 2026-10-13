@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T12:11:16",
+  "generatedAt": "2026-10-13T13:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 257,
     "bookingsObserved": 54,
-    "releasesObserved": 60,
-    "inCustody": 197,
+    "releasesObserved": 61,
+    "inCustody": 196,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-13",
       "booked": 3,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
@@ -523,7 +523,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -533,7 +533,7 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "K",
@@ -553,22 +553,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 8,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "N",
-      "count": 22,
-      "pct": 12.3
+      "count": 23,
+      "pct": 12.8
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "R",
@@ -595,17 +595,17 @@
   ],
   "releaseSources": {
     "official": 52,
-    "observed": 8,
+    "observed": 9,
     "reportOnly": 25
   },
   "stay": {
-    "releasedCount": 60,
-    "medianDays": 1.5,
-    "meanDays": 29.8,
+    "releasedCount": 61,
+    "medianDays": 1.4,
+    "meanDays": 29.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 21
+        "count": 22
       },
       {
         "label": "1–3 days",
@@ -628,12 +628,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 53.6,
+    "currentMedianDaysHeld": 53.8,
     "currentLongestDaysHeld": 970.8
   },
   "bond": {
     "withBond": 132,
-    "noBond": 65,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 20999600

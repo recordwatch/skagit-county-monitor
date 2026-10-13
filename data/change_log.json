@@ -5,7 +5,7 @@
     "name": "SCHUDAR, ZANE THERON",
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -115,7 +115,7 @@
     "name": "MUSTAIN, NICHOLAS ALEXANDER",
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -372,10 +372,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T19:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T13:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
