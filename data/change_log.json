@@ -6607,6 +6607,11 @@
         "arrestDate": "2026-09-18T20:16:47",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "arrestDate": "2026-10-12T09:30:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": 5000,
