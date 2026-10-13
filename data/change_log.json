@@ -1,5 +1,29 @@
 [
   {
+    "id": "567448-20261013072000",
+    "nameNumber": "567448",
+    "name": "SCHUDAR, ZANE THERON",
+    "bookedAt": "2026-10-13T07:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T08:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "20064-20261012224500",
     "nameNumber": "20064",
     "name": "SHOW, DAWNYA RAE",
@@ -104,7 +128,7 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "CRIMINAL IMPERSONATION 1ST",
+        "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
         "offenseDate": "2026-10-12T20:18:00",
         "incident": "26-M15235",
         "court": "SC",
@@ -442,7 +466,7 @@
         "courtReference": "DOC 20-1-01708-31",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Shuttle Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -1399,7 +1423,7 @@
         "courtReference": "DOC 21-100438-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Shuttle Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -4251,10 +4275,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T08:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -11867,10 +11891,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T08:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -15563,10 +15587,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T08:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -18817,10 +18841,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T08:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -19547,10 +19571,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T08:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
