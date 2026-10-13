@@ -700,10 +700,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T17:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -711,8 +711,8 @@
     "nameNumber": "454131",
     "name": "ASKVIG, LANE MICHAEL",
     "bookedAt": "2026-10-11T16:55:00",
-    "scheduledRelease": "2026-10-12T16:55:00",
-    "location": "N107",
+    "scheduledRelease": "2026-10-12T16:50:15",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -999,10 +999,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T04:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-12T17:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
