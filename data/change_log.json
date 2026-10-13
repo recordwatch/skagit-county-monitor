@@ -409,10 +409,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T19:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T16:01:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4765,7 +4765,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 5100,
+    "bondTotal": 100,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -4857,9 +4857,9 @@
         "incident": "21-B07544",
         "court": "BMC",
         "courtReference": "1A0667532",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -4870,8 +4870,8 @@
         "court": "BMC",
         "courtReference": "1A0667532",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -4882,8 +4882,8 @@
         "court": "BMC",
         "courtReference": "1A0667532",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -5198,7 +5198,7 @@
         "courtReference": "5A0032033",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -8551,7 +8551,7 @@
     "nameNumber": "346446",
     "name": "DELAFUENTE, GRACIE MARIE",
     "bookedAt": "2026-09-04T09:00:00",
-    "scheduledRelease": "2026-10-16T02:00:00",
+    "scheduledRelease": "2026-10-15T08:00:00",
     "location": "ELECTRONIC HOME MONITORING",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
