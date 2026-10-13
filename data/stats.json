@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T21:11:16",
+  "generatedAt": "2026-10-12T22:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 251,
-    "bookingsObserved": 48,
+    "bookingsTracked": 252,
+    "bookingsObserved": 49,
     "releasesObserved": 52,
-    "inCustody": 199,
+    "inCustody": 200,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 12,
+      "booked": 13,
       "released": 21
     }
   ],
@@ -188,8 +188,8 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 33,
-      "pct": 2.8
+      "count": 34,
+      "pct": 2.9
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 65,
-      "pct": 26.1,
+      "count": 66,
+      "pct": 26.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 55,
-      "pct": 22.1,
+      "pct": 22,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SC",
-      "count": 768,
-      "pct": 65.5,
+      "count": 769,
+      "pct": 65.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 120,
-      "pct": 10.2,
+      "count": 121,
+      "pct": 10.3,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 91,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 75,
-      "pct": 30.1
+      "count": 76,
+      "pct": 30.4
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 50,
-      "pct": 20.1
+      "pct": 20
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -455,28 +455,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 127,
-      "pct": 26.5
+      "count": 129,
+      "pct": 26.8
     },
     {
       "name": "Declined To Prosecute",
       "count": 110,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "Serving Commit",
       "count": 97,
-      "pct": 20.2
+      "pct": 20.1
     },
     {
       "name": "Dismissed",
       "count": 44,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "Sentence Complete Release",
       "count": 43,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Pending Transport",
@@ -486,7 +486,7 @@
     {
       "name": "Amended",
       "count": 20,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "Sanction Release",
@@ -579,7 +579,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 630,
+      "count": 629,
       "pct": 95.9
     },
     {
@@ -628,15 +628,15 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 55.8,
+    "currentMedianDaysHeld": 54.6,
     "currentLongestDaysHeld": 970.2
   },
   "bond": {
-    "withBond": 131,
+    "withBond": 132,
     "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20979600
+    "totalBond": 20984100
   },
   "chargesPerBooking": 4.7
 }
