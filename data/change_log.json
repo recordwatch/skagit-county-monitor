@@ -40,6 +40,18 @@
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2024-10-13T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009215",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -83,9 +95,9 @@
     "arrestType": null,
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-12T15:00:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
     "bondTotal": null,

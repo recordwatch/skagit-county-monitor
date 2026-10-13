@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:11:15",
+  "generatedAt": "2026-10-12T23:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 252,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 60,
-      "pct": 5.1
+      "count": 61,
+      "pct": 5.2
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -333,8 +333,8 @@
     },
     {
       "name": "DC",
-      "count": 121,
-      "pct": 10.3,
+      "count": 122,
+      "pct": 10.4,
       "label": "Skagit County District Court"
     },
     {
@@ -629,7 +629,7 @@
       }
     ],
     "currentMedianDaysHeld": 54.6,
-    "currentLongestDaysHeld": 970.2
+    "currentLongestDaysHeld": 970.3
   },
   "bond": {
     "withBond": 132,
