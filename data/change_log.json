@@ -3283,9 +3283,14 @@
         "arrestDate": "2026-10-06T22:59:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "arrestDate": "2026-10-13T14:30:29",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -3369,6 +3374,30 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2026-07-16T00:00:00",
+        "incident": "26-08866",
+        "court": "SC",
+        "courtReference": "26-1-00569-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "TRAFFIC STOLEN PROP 1ST",
+        "offenseDate": "2026-07-16T00:00:00",
+        "incident": "26-08866",
+        "court": "SC",
+        "courtReference": "26-1-00569-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -5063,7 +5092,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 4500,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -5133,7 +5162,7 @@
         "courtReference": "4A0774277",
         "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
-        "disposition": "Sentence Complete Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -5143,9 +5172,9 @@
         "incident": "25-B07256",
         "court": "BMC",
         "courtReference": "5A0727273",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -5155,9 +5184,9 @@
         "incident": "25-B07209",
         "court": "BMC",
         "courtReference": "5A0725305",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -5167,9 +5196,9 @@
         "incident": "25-B07355",
         "court": "BMC",
         "courtReference": "5A0032033",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -5282,7 +5311,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "MAL MISCH 2 >750",
@@ -5302,9 +5331,9 @@
         "incident": "17-A02018",
         "court": "AMC",
         "courtReference": "7Z0386937",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5314,9 +5343,9 @@
         "incident": "17-A01981",
         "court": "AMC",
         "courtReference": "7Z0529322",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5327,8 +5356,8 @@
         "court": "AMC",
         "courtReference": "7Z0529322",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
