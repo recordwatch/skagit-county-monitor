@@ -1,5 +1,42 @@
 [
   {
+    "id": "20064-20261012224500",
+    "nameNumber": "20064",
+    "name": "SHOW, DAWNYA RAE",
+    "bookedAt": "2026-10-12T22:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-12T22:21:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY DVPA",
+        "offenseDate": "2026-10-12T22:08:00",
+        "incident": "26-12526",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T01:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "66092-20261012223000",
     "nameNumber": "66092",
     "name": "HENDERSON, STEVEN MILTON",
@@ -54,7 +91,7 @@
     "name": "BLANCAS-ESQUIVEL, GUILLERMO",
     "bookedAt": "2026-10-12T20:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -64,7 +101,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATION 1ST",
@@ -96,8 +133,8 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009215",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -115,7 +152,7 @@
     "name": "FISHER, JACOB JOHN",
     "bookedAt": "2026-10-12T17:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -164,14 +201,14 @@
     "name": "FRIZZELL, WILLIAM ANTHONY JR",
     "bookedAt": "2026-10-12T15:00:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "location": "N203",
+    "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-12T15:00:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": 1000,
@@ -186,7 +223,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
@@ -225,7 +262,7 @@
     "name": "NIETO-SORIANO, STEVEN DANIEL",
     "bookedAt": "2026-10-12T13:50:00",
     "scheduledRelease": "2027-04-07T05:50:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -4185,7 +4222,7 @@
         "courtReference": "25-1-00776-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -11748,7 +11785,7 @@
         "courtReference": "26-1-00420-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -11760,7 +11797,7 @@
         "courtReference": "26-1-00420-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -11796,7 +11833,7 @@
         "courtReference": "26-1-00420-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -11808,7 +11845,7 @@
         "courtReference": "26-1-00420-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -15456,7 +15493,7 @@
         "courtReference": "26-1-00136-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15468,7 +15505,7 @@
         "courtReference": "26-1-00136-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15480,7 +15517,7 @@
         "courtReference": "26-1-00136-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15492,7 +15529,7 @@
         "courtReference": "26-1-00136-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15504,7 +15541,7 @@
         "courtReference": "26-1-00136-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -18626,7 +18663,7 @@
         "courtReference": "25-1-00750-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -18758,7 +18795,7 @@
         "courtReference": "25-1-00750-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }

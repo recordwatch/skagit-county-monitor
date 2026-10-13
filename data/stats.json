@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T00:11:15",
+  "generatedAt": "2026-10-13T01:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 253,
-    "bookingsObserved": 50,
+    "bookingsTracked": 254,
+    "bookingsObserved": 51,
     "releasesObserved": 52,
-    "inCustody": 201,
+    "inCustody": 202,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 14,
+      "booked": 15,
       "released": 21
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 66,
-      "pct": 26.1,
+      "pct": 26,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 56,
-      "pct": 22.1,
+      "count": 57,
+      "pct": 22.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,32 +284,32 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 25,
-      "pct": 9.9,
+      "pct": 9.8,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 24,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 21,
-      "pct": 8.3,
+      "count": 22,
+      "pct": 8.7,
       "label": "WA STATE PATROL"
-    },
-    {
-      "name": "SKAGIT COUNTY JAIL",
-      "count": 7,
-      "pct": 2.8,
-      "label": "SKAGIT COUNTY JAIL"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 7,
       "pct": 2.8,
       "label": "SWINOMISH POLICE DEPARTMENT"
+    },
+    {
+      "name": "SKAGIT COUNTY JAIL",
+      "count": 6,
+      "pct": 2.4,
+      "label": "SKAGIT COUNTY JAIL"
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 769,
+      "count": 770,
       "pct": 65.1,
       "label": "Skagit County Superior Court"
     },
@@ -383,23 +383,23 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 76,
-      "pct": 30
+      "count": 77,
+      "pct": 30.3
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 50,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 27,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 24,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 9,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -479,24 +479,24 @@
       "pct": 8.9
     },
     {
-      "name": "Pending Transport",
-      "count": 27,
-      "pct": 5.6
-    },
-    {
       "name": "Amended",
       "count": 20,
       "pct": 4.1
     },
     {
-      "name": "Sanction Release",
-      "count": 8,
-      "pct": 1.7
+      "name": "Pending Transport",
+      "count": 15,
+      "pct": 3.1
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 2,
-      "pct": 0.4
+      "count": 14,
+      "pct": 2.9
+    },
+    {
+      "name": "Sanction Release",
+      "count": 8,
+      "pct": 1.7
     },
     {
       "name": "Shuttle Release",
@@ -513,73 +513,73 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.8
+      "pct": 7.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
       "name": "J",
       "count": 12,
-      "pct": 6.7
+      "pct": 6.5
     },
     {
       "name": "K",
       "count": 24,
-      "pct": 13.3
+      "pct": 13
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 5.6
+      "pct": 5.4
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 9,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 11.1
+      "count": 24,
+      "pct": 13
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 16.7
+      "pct": 16.3
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.1
+      "pct": 15.8
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 11.1
+      "pct": 10.9
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 630,
+      "count": 631,
       "pct": 95.9
     },
     {
@@ -633,10 +633,10 @@
   },
   "bond": {
     "withBond": 133,
-    "noBond": 68,
+    "noBond": 69,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20985100
+    "totalBond": 20990100
   },
   "chargesPerBooking": 4.7
 }
