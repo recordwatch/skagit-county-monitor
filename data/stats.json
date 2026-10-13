@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T11:11:14",
+  "generatedAt": "2026-10-13T12:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 257,
@@ -532,18 +532,18 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 6.7
+      "count": 13,
+      "pct": 7.3
     },
     {
       "name": "K",
       "count": 23,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -558,22 +558,22 @@
     {
       "name": "N",
       "count": 22,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "R",
       "count": 21,
-      "pct": 11.8
+      "pct": 11.7
     }
   ],
   "bailTypes": [

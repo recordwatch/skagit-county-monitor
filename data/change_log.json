@@ -66,7 +66,7 @@
     "name": "DUNAWAY, LARS RAY",
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J211",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2906,7 +2906,7 @@
     "nameNumber": "582433",
     "name": "VERA-MENDOZA, VICTOR",
     "bookedAt": "2026-10-07T12:36:00",
-    "scheduledRelease": "2026-10-13T17:36:00",
+    "scheduledRelease": "2026-10-13T15:36:00",
     "location": "P208",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
