@@ -91,17 +91,54 @@
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-13T05:35:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2024-01-31T00:00:00",
+        "incident": "24-B00763",
+        "court": "BMC",
+        "courtReference": "4A0210770",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-08-15T00:00:00",
+        "incident": "24-B05879",
+        "court": "BMC",
+        "courtReference": "4A0581578",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-13T07:20:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 25-1-00411-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T09:11:14",
     "releasedAt": null,
@@ -293,7 +330,7 @@
         "courtReference": "6A0427265",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -305,7 +342,7 @@
         "courtReference": "6A0427265",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -332,7 +369,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -340,9 +377,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "4A0286987",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -2346,10 +2383,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T10:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
