@@ -556,10 +556,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T14:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T14:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3214,7 +3214,7 @@
     "name": "CASAS-ORONA, JOSE RAUL",
     "bookedAt": "2026-10-07T06:05:00",
     "scheduledRelease": null,
-    "location": "P206",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -5053,7 +5053,7 @@
     "name": "HEDINGTON, JADYN MICHAEL",
     "bookedAt": "2026-09-30T15:10:00",
     "scheduledRelease": "2026-10-06T19:59:44",
-    "location": "K105",
+    "location": "K106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -10027,7 +10027,7 @@
     "name": "CORTES-ROMERO, KENVER LENNY",
     "bookedAt": "2026-08-24T09:15:00",
     "scheduledRelease": null,
-    "location": "P206",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -10282,7 +10282,7 @@
     "name": "FARIAS-LUNA, FRANCISCO",
     "bookedAt": "2026-08-20T17:18:00",
     "scheduledRelease": null,
-    "location": "M207",
+    "location": "N207",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -15049,10 +15049,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T14:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
