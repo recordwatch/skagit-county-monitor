@@ -6,6 +6,67 @@
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
     "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-13T03:27:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ROBBERY 2ND DEGREE",
+        "offenseDate": "2026-10-13T02:10:00",
+        "incident": "26-SP1614",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-13T02:10:00",
+        "incident": "26-SP1614",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-10-13T02:10:00",
+        "incident": "26-SP1614",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T08:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "457379-20261013072000",
+    "nameNumber": "457379",
+    "name": "DUNAWAY, LARS RAY",
+    "bookedAt": "2026-10-13T07:20:00",
+    "scheduledRelease": null,
+    "location": null,
     "arrestingAgency": null,
     "arrestType": null,
     "arrests": [
@@ -18,7 +79,31 @@
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
-    "firstSeen": "2026-10-13T08:11:13",
+    "firstSeen": "2026-10-13T09:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "300138-20261013072000",
+    "nameNumber": "300138",
+    "name": "MUSTAIN, NICHOLAS ALEXANDER",
+    "bookedAt": "2026-10-13T07:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T09:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -29,7 +114,7 @@
     "name": "SHOW, DAWNYA RAE",
     "bookedAt": "2026-10-12T22:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -43,6 +128,18 @@
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY DVPA",
+        "offenseDate": "2026-10-12T22:08:00",
+        "incident": "26-12526",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
         "offenseDate": "2026-10-12T22:08:00",
         "incident": "26-12526",
         "court": "SC",
@@ -520,7 +617,7 @@
         "agency": "WA STATE PATROL"
       },
       {
-        "description": "THEFT 2ND DEGREE",
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
         "offenseDate": "2026-10-12T05:21:00",
         "incident": null,
         "court": "SC",
@@ -6666,7 +6763,7 @@
       },
       {
         "description": "ASSAULT 3RD LAW ENFORCEMENT",
-        "offenseDate": "2026-10-13T15:56:00",
+        "offenseDate": "2026-10-12T09:30:00",
         "incident": "26-12493",
         "court": "SC",
         "courtReference": "INV",
