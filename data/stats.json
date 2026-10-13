@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:24:05",
+  "generatedAt": "2026-10-12T21:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 251,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 767,
-      "pct": 65.4,
+      "count": 768,
+      "pct": 65.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -628,8 +628,8 @@
         "count": 1
       }
     ],
-    "currentMedianDaysHeld": 55.7,
-    "currentLongestDaysHeld": 970.1
+    "currentMedianDaysHeld": 55.8,
+    "currentLongestDaysHeld": 970.2
   },
   "bond": {
     "withBond": 131,
