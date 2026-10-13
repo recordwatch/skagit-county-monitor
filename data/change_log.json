@@ -78,17 +78,30 @@
     "bookedAt": "2026-10-12T13:50:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-12T13:50:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "VEHICLE ASSAULT-UNDR INFLUENCE & CAUSES BODILY HARM",
+        "offenseDate": null,
+        "incident": "25-B06097",
+        "court": "SC",
+        "courtReference": "25-1-00542-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T19:11:14",
     "releasedAt": null,
@@ -138,7 +151,7 @@
     "name": "CARRUTHERS, CURTIS RAY",
     "bookedAt": "2026-10-12T10:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -1165,7 +1178,7 @@
         "courtReference": "6A0426445",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1177,7 +1190,7 @@
         "courtReference": "6A0426445",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1315,7 +1328,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1323,8 +1336,8 @@
         "incident": "23-03667",
         "court": "DC",
         "courtReference": "C00069085",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -10175,7 +10188,7 @@
     "nameNumber": "86745",
     "name": "MOORE, JOSEPH DELRIO",
     "bookedAt": "2026-08-16T11:30:00",
-    "scheduledRelease": "2026-10-12T13:00:00",
+    "scheduledRelease": "2026-10-12T19:23:03",
     "location": "P105",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
@@ -10249,7 +10262,7 @@
         "courtReference": "5A0393641",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
