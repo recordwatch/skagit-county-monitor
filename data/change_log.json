@@ -76,14 +76,14 @@
     "nameNumber": "723736",
     "name": "NIETO-SORIANO, STEVEN DANIEL",
     "bookedAt": "2026-10-12T13:50:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2027-04-09T13:50:00",
     "location": null,
     "arrestingAgency": "SKAGIT COUNTY JAIL",
-    "arrestType": "FELONY WARRANT ARREST",
+    "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-12T13:50:00",
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY JAIL"
       }
     ],
@@ -98,7 +98,7 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY JAIL"
       }
     ],

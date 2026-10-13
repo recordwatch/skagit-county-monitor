@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:11:17",
+  "generatedAt": "2026-10-12T20:24:05",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 251,
@@ -388,8 +388,8 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 51,
-      "pct": 20.5
+      "count": 50,
+      "pct": 20.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 19,
-      "pct": 7.6
+      "count": 20,
+      "pct": 8
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
