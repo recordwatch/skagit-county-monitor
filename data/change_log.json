@@ -1,5 +1,42 @@
 [
   {
+    "id": "26645-20261014104500",
+    "nameNumber": "26645",
+    "name": "BLISS, KEITH KILE",
+    "bookedAt": "2026-10-14T10:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T10:30:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-14T10:45:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00874-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T12:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "24542-20261014100000",
     "nameNumber": "24542",
     "name": "ALMANZA, NOEL HILBERTO M",
@@ -190,10 +227,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T23:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-14T12:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -239,10 +276,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-14T12:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -7341,7 +7378,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -7361,9 +7398,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "UPP-CRI 02/26-002",
-        "bailAmount": 1000,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Cash Bail Release",
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
