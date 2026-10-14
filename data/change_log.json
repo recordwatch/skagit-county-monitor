@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-13T22:25:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-13T20:36:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DVPA",
+        "offenseDate": "2026-10-13T20:36:00",
+        "incident": "26-W04973",
+        "court": "SWMC",
+        "courtReference": "6A0152876",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T23:11:14",
     "releasedAt": null,
@@ -29,7 +42,7 @@
     "name": "DEUTSCH, REESA MARIE",
     "bookedAt": "2026-10-13T20:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R104",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -93,7 +106,7 @@
       {
         "description": "POSS STOLEN PROPERTY 3RD",
         "offenseDate": "2025-07-21T00:00:00",
-        "incident": "26-M11761",
+        "incident": "25-M11761",
         "court": "MVMC",
         "courtReference": "5A0680872",
         "bailAmount": 5000,
@@ -103,7 +116,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2025-11-28T00:00:00",
         "incident": "25-M18943",
         "court": "MVMC",
@@ -128,13 +141,13 @@
     "bookedAt": "2026-10-13T17:45:00",
     "scheduledRelease": null,
     "location": "N203",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
         "arrestDate": "2026-10-13T17:45:00",
         "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
     "bondTotal": 50000,
@@ -149,7 +162,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -3596,7 +3609,7 @@
     "name": "BANDY, CHANEL CIERRA",
     "bookedAt": "2026-10-06T23:05:00",
     "scheduledRelease": null,
-    "location": "R110",
+    "location": "R109",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
