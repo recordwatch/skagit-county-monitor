@@ -186,16 +186,16 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY DVPA",
         "offenseDate": "2026-10-12T22:08:00",
         "incident": "26-12526",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00541-29",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -205,9 +205,33 @@
         "offenseDate": "2026-10-12T22:08:00",
         "incident": "26-12526",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00541-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY DVPA",
+        "offenseDate": "2026-09-24T00:00:00",
+        "incident": "26-11742",
+        "court": "SC",
+        "courtReference": "26-1-00541-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2026-09-24T00:00:00",
+        "incident": "26-11742",
+        "court": "SC",
+        "courtReference": "26-1-00541-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"

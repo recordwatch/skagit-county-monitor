@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:11:18",
+  "generatedAt": "2026-10-13T18:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 257,
@@ -222,6 +222,11 @@
       "pct": 1.9
     },
     {
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 21,
+      "pct": 1.8
+    },
+    {
       "name": "DWLS/R 1ST DEGREE",
       "count": 21,
       "pct": 1.8
@@ -230,11 +235,6 @@
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 21,
       "pct": 1.8
-    },
-    {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 20,
-      "pct": 1.7
     },
     {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 780,
+      "count": 782,
       "pct": 65.3,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 125,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Skagit County District Court"
     },
     {
@@ -579,7 +579,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 626,
+      "count": 630,
       "pct": 95.9
     },
     {
@@ -628,15 +628,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 54.1,
-    "currentLongestDaysHeld": 971
+    "currentMedianDaysHeld": 54.2,
+    "currentLongestDaysHeld": 971.1
   },
   "bond": {
-    "withBond": 131,
-    "noBond": 60,
+    "withBond": 132,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20995500
+    "totalBond": 21020500
   },
-  "chargesPerBooking": 4.6
+  "chargesPerBooking": 4.7
 }
