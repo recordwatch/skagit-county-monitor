@@ -15,8 +15,33 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-08-08T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00570394",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-08-08T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00570395",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T21:11:16",
     "releasedAt": null,
@@ -78,7 +103,7 @@
     "name": "MADDEN, DEMARCUS ROBERT",
     "bookedAt": "2026-10-13T17:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -347,10 +372,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T01:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T22:11:12",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -8807,7 +8832,7 @@
     "nameNumber": "599110",
     "name": "ANDREWS, THOR EINAR JR",
     "bookedAt": "2026-09-04T00:30:00",
-    "scheduledRelease": "2026-10-13T19:30:00",
+    "scheduledRelease": "2026-10-13T21:52:13",
     "location": "Q201",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
