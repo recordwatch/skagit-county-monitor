@@ -1,5 +1,54 @@
 [
   {
+    "id": "641615-20261014152000",
+    "nameNumber": "641615",
+    "name": "LOPEZ, ANJEL DAVI MIRANDA",
+    "bookedAt": "2026-10-14T15:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T15:20:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "offenseDate": "2020-06-26T00:00:00",
+        "incident": "20-SP1037",
+        "court": "DC",
+        "courtReference": "XZ0189585",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-14T15:20:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "20-1-0472-91",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T16:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "26645-20261014104500",
     "nameNumber": "26645",
     "name": "BLISS, KEITH KILE",
