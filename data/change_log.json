@@ -1,5 +1,54 @@
 [
   {
+    "id": "221168-20261013233500",
+    "nameNumber": "221168",
+    "name": "PATTERSON, CHANEL LYNN",
+    "bookedAt": "2026-10-13T23:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-13T23:16:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 11000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-13T23:16:00",
+        "incident": "26-M15295",
+        "court": "MVMC",
+        "courtReference": "6A0420037",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "PHYSICAL CONT VEH UNDR INFLUEN",
+        "offenseDate": "2026-09-03T00:00:00",
+        "incident": null,
+        "court": "BMC",
+        "courtReference": "6A0402706",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T00:55:40",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "579976-20261013222500",
     "nameNumber": "579976",
     "name": "MARTINEZ-REYES, BRYANNA ABIGAIL",
@@ -500,7 +549,7 @@
         "incident": "26-06338",
         "court": "DC",
         "courtReference": "6A0055724",
-        "bailAmount": 1000,
+        "bailAmount": 750,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -512,7 +561,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009215",
-        "bailAmount": 500,
+        "bailAmount": 750,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -10884,7 +10933,7 @@
         "courtReference": "5A0393641",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Dismissed",
+        "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
