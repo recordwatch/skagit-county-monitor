@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:11:26",
+  "generatedAt": "2026-10-14T08:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 264,
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 101,
-      "pct": 19.9
+      "count": 100,
+      "pct": 19.7
     },
     {
       "name": "Dismissed",
@@ -475,13 +475,13 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 44,
-      "pct": 8.7
+      "count": 45,
+      "pct": 8.9
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 21,
-      "pct": 4.1
+      "count": 22,
+      "pct": 4.3
     },
     {
       "name": "Amended",
