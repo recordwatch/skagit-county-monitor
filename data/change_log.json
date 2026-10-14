@@ -1,5 +1,29 @@
 [
   {
+    "id": "143499-20261013202000",
+    "nameNumber": "143499",
+    "name": "DEUTSCH, REESA MARIE",
+    "bookedAt": "2026-10-13T20:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-13T20:20:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "673971-20261013181000",
     "nameNumber": "673971",
     "name": "BECKER, ANGEL LEE",
@@ -272,7 +296,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY DVPA",
@@ -280,9 +304,9 @@
         "incident": "26-12526",
         "court": "SC",
         "courtReference": "26-1-00541-29",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -293,8 +317,8 @@
         "court": "SC",
         "courtReference": "26-1-00541-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -305,8 +329,8 @@
         "court": "SC",
         "courtReference": "26-1-00541-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -317,8 +341,8 @@
         "court": "SC",
         "courtReference": "26-1-00541-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -3778,10 +3802,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-13T21:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
