@@ -62,7 +62,7 @@
         "courtReference": "T00812525",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -89,7 +89,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 11000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -97,9 +97,9 @@
         "incident": "26-M15295",
         "court": "MVMC",
         "courtReference": "6A0420037",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -109,9 +109,9 @@
         "incident": null,
         "court": "BMC",
         "courtReference": "6A0402706",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -148,7 +148,7 @@
         "courtReference": "6A0152876",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -175,7 +175,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -183,9 +183,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00570394",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -195,9 +195,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00570395",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -224,7 +224,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 6000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSS STOLEN PROPERTY 3RD",
@@ -232,9 +232,9 @@
         "incident": "25-M11761",
         "court": "MVMC",
         "courtReference": "5A0680872",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -244,9 +244,9 @@
         "incident": "25-M18943",
         "court": "MVMC",
         "courtReference": "5A0918807",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -420,7 +420,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
@@ -428,9 +428,9 @@
         "incident": "24-B00763",
         "court": "BMC",
         "courtReference": "4A0210770",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -440,9 +440,9 @@
         "incident": "24-B05879",
         "court": "BMC",
         "courtReference": "4A0581578",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -544,7 +544,7 @@
     "name": "HENDERSON, STEVEN MILTON",
     "bookedAt": "2026-10-12T22:30:00",
     "scheduledRelease": "2026-11-06T18:30:00",
-    "location": "N108",
+    "location": "P207",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -593,7 +593,7 @@
     "name": "BLANCAS-ESQUIVEL, GUILLERMO",
     "bookedAt": "2026-10-12T20:50:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": "P201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -764,7 +764,7 @@
     "name": "NIETO-SORIANO, STEVEN DANIEL",
     "bookedAt": "2026-10-12T13:50:00",
     "scheduledRelease": "2027-04-07T05:50:00",
-    "location": "N203",
+    "location": "P201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -2665,7 +2665,7 @@
     "name": "CAMERON, JAMES WADE",
     "bookedAt": "2026-10-08T10:30:00",
     "scheduledRelease": null,
-    "location": "Q104",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -6230,7 +6230,7 @@
     "name": "WAGONER, HUNTER ORION",
     "bookedAt": "2026-09-22T15:40:00",
     "scheduledRelease": "2026-11-01T15:40:00",
-    "location": "Q104",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
