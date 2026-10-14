@@ -1,5 +1,29 @@
 [
   {
+    "id": "587592-20261014010500",
+    "nameNumber": "587592",
+    "name": "KONKLER, TRACY MARIE",
+    "bookedAt": "2026-10-14T01:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T02:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "221168-20261013233500",
     "nameNumber": "221168",
     "name": "PATTERSON, CHANEL LYNN",
