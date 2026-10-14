@@ -89,7 +89,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 150000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -97,9 +97,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "25-1-03527-8-SEA",
-        "bailAmount": 150000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -9123,7 +9123,7 @@
         "courtReference": "DOC 21-1-00050-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Dept Of Corrections Release",
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
