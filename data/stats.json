@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T18:11:17",
+  "generatedAt": "2026-10-13T19:04:59",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 257,
-    "bookingsObserved": 54,
+    "bookingsTracked": 259,
+    "bookingsObserved": 56,
     "releasesObserved": 66,
-    "inCustody": 191,
+    "inCustody": 193,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 3,
+      "booked": 5,
       "released": 14
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 36,
-      "pct": 3
+      "count": 37,
+      "pct": 3.1
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 66,
-      "pct": 25.7,
+      "count": 67,
+      "pct": 25.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 57,
-      "pct": 22.2,
+      "pct": 22,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 33,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 22,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "WA STATE PATROL"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 6,
-      "pct": 2.3,
+      "count": 7,
+      "pct": 2.7,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 782,
-      "pct": 65.3,
+      "pct": 65.2,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 91,
-      "pct": 7.6,
+      "count": 93,
+      "pct": 7.8,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "OTHR",
-      "count": 39,
+      "count": 40,
       "pct": 3.3,
       "label": "Other"
     },
@@ -384,27 +384,27 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 79,
-      "pct": 30.7
+      "pct": 30.5
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 50,
-      "pct": 19.5
+      "pct": 19.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 27,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 25,
-      "pct": 9.7
+      "count": 26,
+      "pct": 10
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 20,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 12,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "DUI CITATION ARREST",
@@ -423,18 +423,18 @@
     },
     {
       "name": "OTHER COUNTY HOLDS",
-      "count": 6,
-      "pct": 2.3
+      "count": 7,
+      "pct": 2.7
     },
     {
       "name": "DUI WARRANT ARREST",
       "count": 4,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "REVOCATION OF PR",
       "count": 4,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -579,7 +579,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 630,
+      "count": 633,
       "pct": 95.9
     },
     {
@@ -628,15 +628,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 54.2,
+    "currentMedianDaysHeld": 54.1,
     "currentLongestDaysHeld": 971.1
   },
   "bond": {
-    "withBond": 132,
+    "withBond": 134,
     "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21020500
+    "totalBond": 21076500
   },
-  "chargesPerBooking": 4.7
+  "chargesPerBooking": 4.6
 }

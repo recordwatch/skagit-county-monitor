@@ -1,5 +1,91 @@
 [
   {
+    "id": "673971-20261013181000",
+    "nameNumber": "673971",
+    "name": "BECKER, ANGEL LEE",
+    "bookedAt": "2026-10-13T18:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-13T17:40:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "POSS STOLEN PROPERTY 3RD",
+        "offenseDate": "2025-07-21T00:00:00",
+        "incident": "26-M11761",
+        "court": "MVMC",
+        "courtReference": "5A0680872",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2025-11-28T00:00:00",
+        "incident": "25-M18943",
+        "court": "MVMC",
+        "courtReference": "5A0918807",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T19:04:59",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "701913-20261013174500",
+    "nameNumber": "701913",
+    "name": "MADDEN, DEMARCUS ROBERT",
+    "bookedAt": "2026-10-13T17:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-13T17:45:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "26-1-05025-28",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T19:04:59",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "567448-20261013072000",
     "nameNumber": "567448",
     "name": "SCHUDAR, ZANE THERON",
