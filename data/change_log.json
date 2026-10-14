@@ -3679,7 +3679,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "TRAFFIC STOLEN PROP 2ND",
@@ -3759,9 +3759,9 @@
         "incident": "26-SP0933",
         "court": "TC",
         "courtReference": "CRCO-2026-0027",
-        "bailAmount": 1000,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -3772,8 +3772,8 @@
         "court": "TC",
         "courtReference": "CRCO-2026-0027",
         "bailAmount": null,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
