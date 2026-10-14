@@ -1,5 +1,29 @@
 [
   {
+    "id": "579976-20261013222500",
+    "nameNumber": "579976",
+    "name": "MARTINEZ-REYES, BRYANNA ABIGAIL",
+    "bookedAt": "2026-10-13T22:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T23:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "143499-20261013202000",
     "nameNumber": "143499",
     "name": "DEUTSCH, REESA MARIE",
@@ -54,7 +78,7 @@
     "name": "BECKER, ANGEL LEE",
     "bookedAt": "2026-10-13T18:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J206",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -9678,7 +9702,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 211000,
+    "bondTotal": 209000,
     "charges": [
       {
         "description": "CONT SUB-HOMICIDE",
@@ -9710,8 +9734,8 @@
         "incident": "26-B01376",
         "court": "BMC",
         "courtReference": "6A0090533",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -9722,8 +9746,8 @@
         "incident": "25-B09819",
         "court": "BMC",
         "courtReference": "6A0146882",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
