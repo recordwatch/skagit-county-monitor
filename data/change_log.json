@@ -54,7 +54,7 @@
     "name": "MARTINEZ-REYES, BRYANNA ABIGAIL",
     "bookedAt": "2026-10-13T22:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R206",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -8566,7 +8566,7 @@
     "nameNumber": "661819",
     "name": "HUFFSTODT, MATTHEW EDWARD",
     "bookedAt": "2026-09-08T14:10:00",
-    "scheduledRelease": "2026-09-25T14:43:03",
+    "scheduledRelease": "2026-10-14T00:54:20",
     "location": "Q203",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "FELONY WARRANT ARREST",
