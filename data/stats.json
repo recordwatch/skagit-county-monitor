@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:11:15",
+  "generatedAt": "2026-10-14T14:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 266,
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "DORM 1 (E101)",
@@ -543,12 +543,12 @@
     {
       "name": "K",
       "count": 22,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -558,22 +558,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "N",
-      "count": 21,
-      "pct": 12
+      "count": 22,
+      "pct": 12.5
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "R",
@@ -634,7 +634,7 @@
       }
     ],
     "currentMedianDaysHeld": 54.8,
-    "currentLongestDaysHeld": 971.8
+    "currentLongestDaysHeld": 971.9
   },
   "bond": {
     "withBond": 128,

@@ -5,7 +5,7 @@
     "name": "BLISS, KEITH KILE",
     "bookedAt": "2026-10-14T10:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -3558,7 +3558,7 @@
     "name": "MARTINES, ANGELO RAY",
     "bookedAt": "2026-10-07T08:47:00",
     "scheduledRelease": null,
-    "location": "P106",
+    "location": "P104",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
