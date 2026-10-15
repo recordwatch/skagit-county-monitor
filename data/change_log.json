@@ -1,5 +1,29 @@
 [
   {
+    "id": "123871-20261014195000",
+    "nameNumber": "123871",
+    "name": "UYENO, LUCAS JOSEPH WILBUR",
+    "bookedAt": "2026-10-14T19:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T21:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "626297-20261014173000",
     "nameNumber": "626297",
     "name": "AIVLES, ADRIANA ARACELI",
@@ -81,6 +105,55 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T16:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "742475-20261014152000",
+    "nameNumber": "742475",
+    "name": "STURDEVANT, GARY ROBERT",
+    "bookedAt": "2026-10-14T15:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T15:20:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 22500,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2015-05-05T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "C15-00062",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2014-05-21T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "C14-00088",
+        "bailAmount": 7500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T21:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -509,10 +582,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T08:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-14T21:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
