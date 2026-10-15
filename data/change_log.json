@@ -1,5 +1,29 @@
 [
   {
+    "id": "691841-20261015013200",
+    "nameNumber": "691841",
+    "name": "LEPTICH, NANCY ANN",
+    "bookedAt": "2026-10-15T01:32:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T06:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "119027-20261015013000",
     "nameNumber": "119027",
     "name": "COMER, JAMES DEE",
@@ -177,7 +201,7 @@
     "name": "STURDEVANT, GARY ROBERT",
     "bookedAt": "2026-10-14T15:20:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": null,
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -187,7 +211,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 22500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -195,9 +219,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "C15-00062",
-        "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       },
@@ -207,9 +231,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "C14-00088",
-        "bailAmount": 7500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       }
@@ -218,6 +242,44 @@
     "firstSeen": "2026-10-14T21:11:14",
     "releasedAt": null,
     "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "220583-20261014113000",
+    "nameNumber": "220583",
+    "name": "BUCKO, MATTHEW ALLEN",
+    "bookedAt": "2026-10-14T11:30:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-10-14T11:30:00",
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T11:30:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "UNLAW POSS FIREARM 2ND DEGREE",
+        "offenseDate": "2025-08-29T00:00:00",
+        "incident": "25-W04208",
+        "court": "SC",
+        "courtReference": "25-1-00631-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-10-15T06:11:14",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
     "baseline": false
   },
   {
@@ -255,6 +317,44 @@
     "firstSeen": "2026-10-14T12:11:19",
     "releasedAt": null,
     "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "403011-20261014102000",
+    "nameNumber": "403011",
+    "name": "LONG, JAMES CAMPBELL",
+    "bookedAt": "2026-10-14T10:20:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-10-14T10:51:36",
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T10:20:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAINTAIN DWELLING FOR CONT SUBS",
+        "offenseDate": "2026-09-01T00:00:00",
+        "incident": "26-A05398",
+        "court": "SC",
+        "courtReference": "26-1-00547-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-10-15T06:11:14",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
     "baseline": false
   },
   {
@@ -327,8 +427,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T03:11:15",
-    "releasedAt": "2026-10-14T18:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T17:18:23",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -364,8 +464,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T02:11:15",
-    "releasedAt": "2026-10-14T11:08:29",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T10:22:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -413,8 +513,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T00:55:40",
-    "releasedAt": "2026-10-14T11:08:29",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T10:23:12",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -450,8 +550,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T23:11:14",
-    "releasedAt": "2026-10-14T12:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T11:33:04",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -499,8 +599,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T21:11:16",
-    "releasedAt": "2026-10-14T12:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T11:03:17",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -548,8 +648,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T19:04:59",
-    "releasedAt": "2026-10-14T11:08:29",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T10:23:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -646,8 +746,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T08:11:13",
-    "releasedAt": "2026-10-14T21:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T20:06:08",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -12571,7 +12671,7 @@
     "name": "CALOSSO, NICHOLAS D",
     "bookedAt": "2026-07-28T18:30:00",
     "scheduledRelease": null,
-    "location": "Q205",
+    "location": null,
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -12581,7 +12681,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -12589,9 +12689,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "26-1-00082-15",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       }
@@ -12991,8 +13091,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-14T17:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-14T16:15:53",
+    "releaseSource": "official",
     "baseline": true
   },
   {
