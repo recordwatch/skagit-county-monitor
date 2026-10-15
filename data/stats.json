@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T18:11:15",
+  "generatedAt": "2026-10-14T19:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 267,
-    "bookingsObserved": 64,
+    "bookingsTracked": 268,
+    "bookingsObserved": 65,
     "releasesObserved": 76,
-    "inCustody": 191,
+    "inCustody": 192,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 40,
-      "pct": 3.3
+      "count": 41,
+      "pct": 3.4
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 68,
-      "pct": 25.5,
+      "pct": 25.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 58,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 33,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 25,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 6,
-      "pct": 2.2,
+      "count": 7,
+      "pct": 2.6,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 782,
-      "pct": 64.6,
+      "pct": 64.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "OTHR",
-      "count": 43,
+      "count": 44,
       "pct": 3.6,
       "label": "Other"
     },
     {
       "name": "AMC",
       "count": 43,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 79,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -394,12 +394,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 28,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 28,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 17,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -432,14 +432,14 @@
       "pct": 1.9
     },
     {
-      "name": "REVOCATION OF PR",
+      "name": "DEPT OF CORRECTIONS HOLD",
       "count": 4,
       "pct": 1.5
     },
     {
-      "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 3,
-      "pct": 1.1
+      "name": "REVOCATION OF PR",
+      "count": 4,
+      "pct": 1.5
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -455,18 +455,18 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 152,
-      "pct": 29
+      "count": 153,
+      "pct": 29.1
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "name": "Serving Commit",
-      "count": 101,
-      "pct": 19.3
+      "count": 100,
+      "pct": 19
     },
     {
       "name": "Dismissed",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 45,
-      "pct": 8.6
+      "count": 46,
+      "pct": 8.8
     },
     {
       "name": "Dept Of Corrections Release",
@@ -633,12 +633,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 54.9,
+    "currentMedianDaysHeld": 54.3,
     "currentLongestDaysHeld": 972.1
   },
   "bond": {
     "withBond": 131,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21034000

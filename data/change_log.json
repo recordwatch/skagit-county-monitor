@@ -1,5 +1,42 @@
 [
   {
+    "id": "626297-20261014173000",
+    "nameNumber": "626297",
+    "name": "AIVLES, ADRIANA ARACELI",
+    "bookedAt": "2026-10-14T17:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T17:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 25-1-00555-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T19:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "641615-20261014152000",
     "nameNumber": "641615",
     "name": "LOPEZ, ANJEL DAVI MIRANDA",
@@ -9115,7 +9152,7 @@
     "nameNumber": "599110",
     "name": "ANDREWS, THOR EINAR JR",
     "bookedAt": "2026-09-04T00:30:00",
-    "scheduledRelease": "2026-10-13T21:52:13",
+    "scheduledRelease": "2026-10-14T18:25:59",
     "location": "Q201",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -9184,7 +9221,7 @@
         "courtReference": "24-1-00918-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -11130,7 +11167,7 @@
         "courtReference": "5A0393641",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
