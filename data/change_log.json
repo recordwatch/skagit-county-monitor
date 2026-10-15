@@ -5,7 +5,7 @@
     "name": "LOPEZ, ANJEL DAVI MIRANDA",
     "bookedAt": "2026-10-14T15:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J206",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -153,10 +153,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-14T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -13864,7 +13864,7 @@
     "name": "MATHENY, MONICA MEGAN",
     "bookedAt": "2026-07-09T19:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -19759,7 +19759,7 @@
     "name": "STEVENS, ARLO OSBORN",
     "bookedAt": "2025-10-26T15:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
