@@ -6586,7 +6586,7 @@
     "name": "WOOD, ASHLEY MARIE",
     "bookedAt": "2026-09-21T15:30:00",
     "scheduledRelease": null,
-    "location": "R204",
+    "location": "R205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -16121,7 +16121,7 @@
     "name": "DOMINGUEZ, LORENA",
     "bookedAt": "2026-05-22T14:50:00",
     "scheduledRelease": "2026-06-18T15:37:39",
-    "location": "R205",
+    "location": "R204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
