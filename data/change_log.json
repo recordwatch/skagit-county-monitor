@@ -115,7 +115,7 @@
     "name": "LARSON, ANDREW TODD",
     "bookedAt": "2026-10-15T11:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -488,10 +488,10 @@
         "offenseDate": "2026-10-14T13:06:00",
         "incident": "26-W04841",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00577-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -545,10 +545,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T21:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T15:35:50",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -14600,7 +14600,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 100000,
+    "bondTotal": 137500,
     "charges": [
       {
         "description": "HARASSMENT/PRIOR CON - FELONY",
@@ -14608,9 +14608,9 @@
         "incident": "26-08061",
         "court": "SC",
         "courtReference": "26-1-00384-29",
-        "bailAmount": 100000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -14621,7 +14621,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -14633,7 +14633,7 @@
         "court": "SC",
         "courtReference": "26-1-00384-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -14645,7 +14645,7 @@
         "court": "SC",
         "courtReference": "26-1-00384-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -14657,8 +14657,56 @@
         "court": "SC",
         "courtReference": "26-1-00384-29",
         "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-15T15:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "25-1-00594-37",
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-15T15:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "25-1-00769-37",
+        "bailAmount": 60000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-15T15:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "26-1-00407-37",
+        "bailAmount": 75000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT ATTEMPT",
+        "offenseDate": "2026-05-18T00:00:00",
+        "incident": "26-08061",
+        "court": "SC",
+        "courtReference": "26-1-00384-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }

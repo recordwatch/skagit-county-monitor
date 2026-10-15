@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T15:11:14",
+  "generatedAt": "2026-10-15T15:35:50",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 286,
     "bookingsObserved": 83,
-    "releasesObserved": 95,
-    "inCustody": 191,
+    "releasesObserved": 96,
+    "inCustody": 190,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-15",
       "booked": 12,
-      "released": 16
+      "released": 17
     }
   ],
   "topCharges": [
@@ -172,14 +172,14 @@
       "pct": 4.7
     },
     {
+      "name": "HOLD FOR OTHER AGNCY",
+      "count": 47,
+      "pct": 3.8
+    },
+    {
       "name": "THEFT 3RD DEG",
       "count": 46,
       "pct": 3.7
-    },
-    {
-      "name": "HOLD FOR OTHER AGNCY",
-      "count": 44,
-      "pct": 3.6
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -194,7 +194,7 @@
     {
       "name": "DWLS/R 3RD DEGREE",
       "count": 34,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 790,
-      "pct": 63.9,
+      "count": 791,
+      "pct": 63.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,19 +340,19 @@
     {
       "name": "MVMC",
       "count": 96,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 86,
-      "pct": 7,
+      "pct": 6.9,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
-      "count": 47,
-      "pct": 3.8,
+      "count": 50,
+      "pct": 4,
       "label": "Other"
     },
     {
@@ -455,28 +455,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 157,
+      "count": 158,
       "pct": 28.9
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 20.4
+      "pct": 20.3
     },
     {
       "name": "Serving Commit",
       "count": 99,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "Sentence Complete Release",
-      "count": 52,
-      "pct": 9.6
+      "count": 55,
+      "pct": 10.1
     },
     {
       "name": "Dismissed",
       "count": 47,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "Dept Of Corrections Release",
@@ -491,7 +491,7 @@
     {
       "name": "Sanction Release",
       "count": 9,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Bail Bond Release",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 627,
+      "count": 625,
       "pct": 96.5
     },
     {
@@ -600,17 +600,17 @@
   ],
   "releaseSources": {
     "official": 79,
-    "observed": 16,
+    "observed": 17,
     "reportOnly": 27
   },
   "stay": {
-    "releasedCount": 94,
+    "releasedCount": 95,
     "medianDays": 1.4,
-    "meanDays": 114.6,
+    "meanDays": 113.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 36
+        "count": 37
       },
       {
         "label": "1–3 days",
@@ -633,15 +633,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52.1,
+    "currentMedianDaysHeld": 52.2,
     "currentLongestDaysHeld": 972.9
   },
   "bond": {
     "withBond": 132,
-    "noBond": 59,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21065000
+    "totalBond": 21102500
   },
   "chargesPerBooking": 4.3
 }
