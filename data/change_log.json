@@ -21557,5 +21557,42 @@
     "releasedAt": null,
     "releaseSource": null,
     "baseline": true
+  },
+  {
+    "id": "455992-20041014231000",
+    "nameNumber": "455992",
+    "name": "WILLIAMS, JOSHUA KARL",
+    "bookedAt": "2004-10-14T23:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T20:55:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FAIL TO REGISTER/SEX OFFENDER",
+        "offenseDate": "2026-10-14T13:06:00",
+        "incident": "26-W04841",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T02:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
   }
 ]
