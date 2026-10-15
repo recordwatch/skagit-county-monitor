@@ -1,5 +1,29 @@
 [
   {
+    "id": "299992-20261015110000",
+    "nameNumber": "299992",
+    "name": "LARSON, ANDREW TODD",
+    "bookedAt": "2026-10-15T11:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T12:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "625646-20261015105500",
     "nameNumber": "625646",
     "name": "WOODRUFF, AMANDA LAUREN",
@@ -17,8 +41,69 @@
     ],
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T11:11:14",
+    "releasedAt": "2026-10-15T12:11:14",
+    "releaseSource": "observed",
+    "baseline": false
+  },
+  {
+    "id": "693357-20261015103700",
+    "nameNumber": "693357",
+    "name": "HERNANDEZ-SOSA, JOSUE",
+    "bookedAt": "2026-10-15T10:37:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T12:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "638834-20261015102500",
+    "nameNumber": "638834",
+    "name": "JOYNER, JUSTIN DANIEL",
+    "bookedAt": "2026-10-15T10:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T09:19:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RAPE CHILD 2ND DEGREE",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T12:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -214,10 +299,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T03:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T12:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -953,7 +1038,7 @@
     "name": "DUNAWAY, LARS RAY",
     "bookedAt": "2026-10-13T07:20:00",
     "scheduledRelease": null,
-    "location": "J211",
+    "location": "Q108",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2260,7 +2345,7 @@
     "name": "SPADY, JARED CHARLES",
     "bookedAt": "2026-10-11T04:00:00",
     "scheduledRelease": null,
-    "location": "N202",
+    "location": "Q103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -2629,7 +2714,7 @@
         "courtReference": "C00069085",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -3019,10 +3104,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T12:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -15446,7 +15531,7 @@
     "name": "DELAFUENTE, LORENZO EZEKIEL",
     "bookedAt": "2026-06-24T19:15:00",
     "scheduledRelease": null,
-    "location": "P106",
+    "location": "M107",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
