@@ -1,11 +1,60 @@
 [
   {
+    "id": "119027-20261015013000",
+    "nameNumber": "119027",
+    "name": "COMER, JAMES DEE",
+    "bookedAt": "2026-10-15T01:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T00:33:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-05-13T00:00:00",
+        "incident": "26-M06789",
+        "court": "MVMC",
+        "courtReference": "6A0288004",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "NVOL WITHOUT ID (CRIMINAL)",
+        "offenseDate": "2026-08-12T00:00:00",
+        "incident": "26-M12133",
+        "court": "MVMC",
+        "courtReference": "6A0342101",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T03:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "123871-20261014195000",
     "nameNumber": "123871",
     "name": "UYENO, LUCAS JOSEPH WILBUR",
     "bookedAt": "2026-10-14T19:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -21574,7 +21623,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "FAIL TO REGISTER/SEX OFFENDER",
@@ -21584,6 +21633,18 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-10-05T00:00:00",
+        "incident": "26-W04820",
+        "court": "SWMC",
+        "courtReference": "6A0083374",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
