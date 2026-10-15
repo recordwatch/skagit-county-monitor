@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-14T19:50:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-14T19:12:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION DISTANCE",
+        "offenseDate": "2026-10-14T19:12:00",
+        "incident": "26-A06422",
+        "court": "AMC",
+        "courtReference": "6A0305993",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T21:11:14",
     "releasedAt": null,
@@ -29,7 +42,7 @@
     "name": "AIVLES, ADRIANA ARACELI",
     "bookedAt": "2026-10-14T17:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
