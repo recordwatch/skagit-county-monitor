@@ -128,7 +128,7 @@
     "name": "STURDEVANT, GARY ROBERT",
     "bookedAt": "2026-10-14T15:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -10073,7 +10073,7 @@
     "nameNumber": "140194",
     "name": "COTA, TAMARA NICOLE",
     "bookedAt": "2026-08-27T18:40:00",
-    "scheduledRelease": "2026-10-14T18:40:00",
+    "scheduledRelease": "2026-10-14T23:37:30",
     "location": "R106",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -10084,7 +10084,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 209000,
+    "bondTotal": 204000,
     "charges": [
       {
         "description": "CONT SUB-HOMICIDE",
@@ -10188,9 +10188,9 @@
         "incident": "16-SP0947",
         "court": "TC",
         "courtReference": "SWI-AW-07/25-2300",
-        "bailAmount": 5000,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
