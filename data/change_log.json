@@ -470,7 +470,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ROBBERY 2ND DEGREE",
@@ -478,9 +478,9 @@
         "incident": "26-SP1614",
         "court": "SC",
         "courtReference": "26-1-00576-29",
-        "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -491,20 +491,20 @@
         "court": "SC",
         "courtReference": "26-1-00576-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
       {
-        "description": "HARASSMENT",
+        "description": "HARASSMENT/PRIOR CON - FELONY",
         "offenseDate": "2026-10-13T02:10:00",
         "incident": "26-SP1614",
         "court": "SC",
         "courtReference": "26-1-00576-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
