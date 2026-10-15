@@ -1,5 +1,29 @@
 [
   {
+    "id": "685982-20261015122103",
+    "nameNumber": "685982",
+    "name": "BENBROOK, SCOTT ALAN",
+    "bookedAt": "2026-10-15T12:21:03",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T13:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "299992-20261015110000",
     "nameNumber": "299992",
     "name": "LARSON, ANDREW TODD",
@@ -151,7 +175,7 @@
     "name": "PETERSON, JARED JAMES",
     "bookedAt": "2026-10-15T08:48:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -2345,7 +2369,7 @@
     "name": "SPADY, JARED CHARLES",
     "bookedAt": "2026-10-11T04:00:00",
     "scheduledRelease": null,
-    "location": "Q103",
+    "location": "Q104",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -2719,10 +2743,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T13:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -16650,10 +16674,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T13:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -17917,10 +17941,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T13:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
