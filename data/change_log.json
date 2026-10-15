@@ -1,5 +1,54 @@
 [
   {
+    "id": "382780-20261015130000",
+    "nameNumber": "382780",
+    "name": "PINEDA, JESUS JR",
+    "bookedAt": "2026-10-15T13:00:00",
+    "scheduledRelease": "2026-11-04T13:00:00",
+    "location": "MALE INMATE WORKER (E103)",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T13:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2024-04-07T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-1-00906-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2024-04-17T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA9490",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T14:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "685982-20261015122103",
     "nameNumber": "685982",
     "name": "BENBROOK, SCOTT ALAN",
@@ -17,8 +66,45 @@
     ],
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T13:11:16",
+    "releasedAt": "2026-10-15T14:11:17",
+    "releaseSource": "observed",
+    "baseline": false
+  },
+  {
+    "id": "685982-20261015115500",
+    "nameNumber": "685982",
+    "name": "BENBROOK, SCOTT ALAN",
+    "bookedAt": "2026-10-15T11:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T11:55:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2025-03-05T00:00:00",
+        "incident": "25-SP0282",
+        "court": "DC",
+        "courtReference": "5A0299910",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T14:11:17",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -34,9 +120,9 @@
     "arrestType": null,
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-15T10:43:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
@@ -78,17 +164,42 @@
     "bookedAt": "2026-10-15T10:37:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-15T10:13:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-06-24T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "5A0533821",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2024-09-08T00:00:00",
+        "incident": "24-11594",
+        "court": "DC",
+        "courtReference": "4A0206169",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T12:11:14",
     "releasedAt": null,
@@ -115,6 +226,18 @@
     "charges": [
       {
         "description": "RAPE CHILD 2ND DEGREE",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CHILD MOLESTATION 2ND DEGREE",
         "offenseDate": "2026-10-15T09:19:00",
         "incident": "26-12500",
         "court": "SC",
@@ -4700,7 +4823,7 @@
     "name": "WICK, ASHLEY ELIZABETH",
     "bookedAt": "2026-10-06T11:00:00",
     "scheduledRelease": "2026-12-15T11:00:00",
-    "location": "J203",
+    "location": "R104",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -8659,6 +8782,18 @@
         "incident": "26-B06750",
         "court": "SC",
         "courtReference": "26-1-00511-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-09-25T15:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DC-17-195 DC-19-237 DC-20-97",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
