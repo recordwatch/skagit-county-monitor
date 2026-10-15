@@ -1,5 +1,29 @@
 [
   {
+    "id": "625646-20261015105500",
+    "nameNumber": "625646",
+    "name": "WOODRUFF, AMANDA LAUREN",
+    "bookedAt": "2026-10-15T10:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T11:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "555122-20261015090000",
     "nameNumber": "555122",
     "name": "CARDOSO-ROJAS, LUIS JAVIER",
@@ -141,10 +165,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T06:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -212,7 +236,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "FAIL TO REGISTER/SEX OFFENDER",
@@ -232,9 +256,9 @@
         "incident": "26-W04820",
         "court": "SWMC",
         "courtReference": "6A0083374",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -261,7 +285,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -269,9 +293,9 @@
         "incident": "26-A06422",
         "court": "AMC",
         "courtReference": "6A0305993",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -486,10 +510,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T12:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1027,10 +1051,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T09:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
