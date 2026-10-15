@@ -1,5 +1,42 @@
 [
   {
+    "id": "484784-20261015080000",
+    "nameNumber": "484784",
+    "name": "MERINO-RAMIREZ, YOLANDA",
+    "bookedAt": "2026-10-15T08:00:00",
+    "scheduledRelease": null,
+    "location": "COMMUNITY SERVICE WORK",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T08:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "TAMPERING W WITNESS - ATTEMPT",
+        "offenseDate": "2025-02-10T00:00:00",
+        "incident": "25-M02096",
+        "court": "SC",
+        "courtReference": "25-1-00184-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T09:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "691841-20261015013200",
     "nameNumber": "691841",
     "name": "LEPTICH, NANCY ANN",
@@ -9311,7 +9348,7 @@
         "courtReference": "PA7278",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -9323,7 +9360,7 @@
         "courtReference": "PA7279",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -9335,7 +9372,7 @@
         "courtReference": "PA7280",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
