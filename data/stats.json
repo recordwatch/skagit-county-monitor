@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:11:17",
+  "generatedAt": "2026-10-15T15:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 286,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 67,
-      "pct": 5.4
+      "count": 68,
+      "pct": 5.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 70,
-      "pct": 24.7,
+      "count": 71,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 35,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 790,
-      "pct": 64,
+      "pct": 63.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "AMC",
-      "count": 44,
+      "count": 45,
       "pct": 3.6,
       "label": "Anacortes Municipal Court"
     },
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 82,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 50,
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 32,
-      "pct": 11.3
+      "count": 33,
+      "pct": 11.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 20,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -538,17 +538,17 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "K",
       "count": 21,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -562,29 +562,29 @@
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 11.5
+      "count": 21,
+      "pct": 12
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "R",
       "count": 17,
-      "pct": 9.8
+      "pct": 9.7
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 626,
+      "count": 627,
       "pct": 96.5
     },
     {
@@ -633,15 +633,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 972.9
   },
   "bond": {
-    "withBond": 131,
-    "noBond": 60,
+    "withBond": 132,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21040000
+    "totalBond": 21065000
   },
   "chargesPerBooking": 4.3
 }

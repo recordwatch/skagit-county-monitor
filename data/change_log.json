@@ -116,8 +116,8 @@
     "bookedAt": "2026-10-15T11:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-15T10:43:00",
@@ -125,8 +125,21 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2024-03-11T00:00:00",
+        "incident": "24-A01448",
+        "court": "AMC",
+        "courtReference": "6A0185326",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T12:11:14",
     "releasedAt": null,
@@ -163,7 +176,7 @@
     "name": "HERNANDEZ-SOSA, JOSUE",
     "bookedAt": "2026-10-15T10:37:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -7516,7 +7529,7 @@
         "offenseDate": "2026-10-07T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "25-1-00547-29",
+        "courtReference": "DOC 25-1-00547-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
