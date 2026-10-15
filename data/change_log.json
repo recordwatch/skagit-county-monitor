@@ -225,7 +225,7 @@
     "name": "JOYNER, JUSTIN DANIEL",
     "bookedAt": "2026-10-15T10:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J211",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -4370,7 +4370,7 @@
     "name": "CASAS-ORONA, JOSE RAUL",
     "bookedAt": "2026-10-07T06:05:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "P206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -14589,7 +14589,7 @@
     "nameNumber": "521193",
     "name": "MATHENY, MONICA MEGAN",
     "bookedAt": "2026-07-09T19:45:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-15T15:35:53",
     "location": "J104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
