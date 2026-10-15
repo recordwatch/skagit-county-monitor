@@ -1,5 +1,79 @@
 [
   {
+    "id": "555122-20261015090000",
+    "nameNumber": "555122",
+    "name": "CARDOSO-ROJAS, LUIS JAVIER",
+    "bookedAt": "2026-10-15T09:00:00",
+    "scheduledRelease": "2026-10-30T09:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T09:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-10-30T00:00:00",
+        "incident": "25-B08245",
+        "court": "BMC",
+        "courtReference": "5A0458208",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "495282-20261015084800",
+    "nameNumber": "495282",
+    "name": "PETERSON, JARED JAMES",
+    "bookedAt": "2026-10-15T08:48:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T08:15:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-06-16T00:00:00",
+        "incident": "26-W02784",
+        "court": "SWMC",
+        "courtReference": "6A0173301",
+        "bailAmount": 3500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "484784-20261015080000",
     "nameNumber": "484784",
     "name": "MERINO-RAMIREZ, YOLANDA",
@@ -89,7 +163,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -97,9 +171,9 @@
         "incident": "26-M06789",
         "court": "MVMC",
         "courtReference": "6A0288004",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -109,15 +183,64 @@
         "incident": "26-M12133",
         "court": "MVMC",
         "courtReference": "6A0342101",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T03:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "455992-20261014231000",
+    "nameNumber": "455992",
+    "name": "WILLIAMS, JOSHUA KARL",
+    "bookedAt": "2026-10-14T23:10:00",
+    "scheduledRelease": null,
+    "location": "N103",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-14T20:55:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "FAIL TO REGISTER/SEX OFFENDER",
+        "offenseDate": "2026-10-14T13:06:00",
+        "incident": "26-W04841",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-10-05T00:00:00",
+        "incident": "26-W04820",
+        "court": "SWMC",
+        "courtReference": "6A0083374",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T10:11:15",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -9389,10 +9512,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T10:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -13200,10 +13323,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T10:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -16413,7 +16536,7 @@
         "courtReference": "25-1-00743-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -21800,10 +21923,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T02:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   }
 ]
