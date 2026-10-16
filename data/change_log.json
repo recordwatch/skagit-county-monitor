@@ -898,7 +898,7 @@
     "name": "JOYNER, JUSTIN DANIEL",
     "bookedAt": "2026-10-15T10:25:00",
     "scheduledRelease": null,
-    "location": "M205",
+    "location": "M204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -7862,7 +7862,7 @@
     "nameNumber": "709263",
     "name": "WOOD, ASHLEY MARIE",
     "bookedAt": "2026-09-21T15:30:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-02T16:00:00",
     "location": "R205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "FELONY WARRANT ARREST",
@@ -15273,7 +15273,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 137500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HARASSMENT/PRIOR CON - FELONY",
@@ -15341,9 +15341,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "25-1-00594-37",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15353,9 +15353,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "25-1-00769-37",
-        "bailAmount": 60000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -15365,9 +15365,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "26-1-00407-37",
-        "bailAmount": 75000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
