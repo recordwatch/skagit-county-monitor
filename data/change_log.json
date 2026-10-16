@@ -1,5 +1,128 @@
 [
   {
+    "id": "664039-20261015160000",
+    "nameNumber": "664039",
+    "name": "FRYE, BRIANNA LEE",
+    "bookedAt": "2026-10-15T16:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T15:22:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY DVPA",
+        "offenseDate": "2026-01-21T00:00:00",
+        "incident": "26-W00321",
+        "court": "SC",
+        "courtReference": "26-1-00039-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 2ND POISON-DV",
+        "offenseDate": "2026-01-21T00:00:00",
+        "incident": "26-W00321",
+        "court": "SC",
+        "courtReference": "26-1-00039-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T17:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "3915-20261015143500",
+    "nameNumber": "3915",
+    "name": "LANPHERE, JULIE ANNA",
+    "bookedAt": "2026-10-15T14:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T13:55:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-04-24T00:00:00",
+        "incident": "26-04574",
+        "court": "DC",
+        "courtReference": "6A0275805",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T17:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "384-20261015143000",
+    "nameNumber": "384",
+    "name": "WATTS, EARNEST ELVEN JR",
+    "bookedAt": "2026-10-15T14:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T14:18:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-15T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "CR40231974",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T17:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "382780-20261015130000",
     "nameNumber": "382780",
     "name": "PINEDA, JESUS JR",
@@ -508,10 +631,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T17:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -607,7 +730,7 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "ASSAULT 4TH DV",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2020-06-26T00:00:00",
         "incident": "20-SP1037",
         "court": "DC",
@@ -623,7 +746,7 @@
         "offenseDate": "2026-10-14T15:20:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "20-1-0472-91",
+        "courtReference": "DOC 20-1-0472-91",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
