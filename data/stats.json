@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T01:11:15",
+  "generatedAt": "2026-10-16T02:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 291,
-    "bookingsObserved": 88,
+    "bookingsTracked": 292,
+    "bookingsObserved": 89,
     "releasesObserved": 98,
-    "inCustody": 193,
+    "inCustody": 194,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 68,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 73,
-      "pct": 25.3,
+      "pct": 25.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 60,
-      "pct": 20.8,
+      "count": 61,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 793,
-      "pct": 63.6,
+      "count": 795,
+      "pct": 63.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 82,
-      "pct": 28.4
+      "pct": 28.3
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 51,
-      "pct": 17.6
+      "count": 52,
+      "pct": 17.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 10,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 8.4
+      "count": 16,
+      "pct": 8.9
     },
     {
       "name": "K",
@@ -573,18 +573,18 @@
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.1
+      "pct": 15
     },
     {
       "name": "R",
       "count": 17,
-      "pct": 9.5
+      "pct": 9.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 629,
+      "count": 631,
       "pct": 96.5
     },
     {
@@ -633,15 +633,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52,
-    "currentLongestDaysHeld": 973.3
+    "currentMedianDaysHeld": 51.8,
+    "currentLongestDaysHeld": 973.4
   },
   "bond": {
-    "withBond": 135,
+    "withBond": 136,
     "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21109500
+    "totalBond": 21114500
   },
   "chargesPerBooking": 4.3
 }

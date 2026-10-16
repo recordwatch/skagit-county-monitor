@@ -1,11 +1,60 @@
 [
   {
+    "id": "345366-20261016003500",
+    "nameNumber": "345366",
+    "name": "CUSHEN, LOGAN MACKENZIE",
+    "bookedAt": "2026-10-16T00:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T23:59:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2018-06-20T00:00:00",
+        "incident": "19-02042",
+        "court": "SC",
+        "courtReference": "19-1-00669-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSS STOLEN PROP 2ND ACCESS DEVICE/CREDIT CARD",
+        "offenseDate": "2018-06-20T00:00:00",
+        "incident": "19-02042",
+        "court": "SC",
+        "courtReference": "19-1-00669-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T02:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "126698-20261015232000",
     "nameNumber": "126698",
     "name": "MARTIN, WENDY JOE",
     "bookedAt": "2026-10-15T23:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
