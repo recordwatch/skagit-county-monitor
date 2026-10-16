@@ -1,5 +1,29 @@
 [
   {
+    "id": "430156-20261016085000",
+    "nameNumber": "430156",
+    "name": "LANDAHL, LINCOLN FREDRICK",
+    "bookedAt": "2026-10-16T08:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T09:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "511593-20261016045000",
     "nameNumber": "511593",
     "name": "CHABOT, PHILLIP LYLE",
@@ -514,7 +538,7 @@
         "courtReference": "CR40231974",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -4786,7 +4810,7 @@
     "name": "CHEVALIER, MISTY LEE",
     "bookedAt": "2026-10-07T10:31:00",
     "scheduledRelease": null,
-    "location": "J209",
+    "location": "R109",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -7593,7 +7617,7 @@
     "name": "WAGONER, HUNTER ORION",
     "bookedAt": "2026-09-22T15:40:00",
     "scheduledRelease": "2026-11-01T15:40:00",
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "J208",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -15116,7 +15140,7 @@
     "name": "MATHENY, MONICA MEGAN",
     "bookedAt": "2026-07-09T19:45:00",
     "scheduledRelease": "2026-10-15T15:35:53",
-    "location": "J104",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [

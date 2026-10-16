@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T08:11:20",
+  "generatedAt": "2026-10-16T09:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 296,
-    "bookingsObserved": 93,
+    "bookingsTracked": 297,
+    "bookingsObserved": 94,
     "releasesObserved": 98,
-    "inCustody": 198,
+    "inCustody": 199,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -471,7 +471,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 55,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Dismissed",
@@ -480,8 +480,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 24,
-      "pct": 4.3
+      "count": 25,
+      "pct": 4.5
     },
     {
       "name": "Amended",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 17,
-      "pct": 9.3
+      "count": 16,
+      "pct": 8.8
     },
     {
       "name": "K",
@@ -557,8 +557,8 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 11,
-      "pct": 6
+      "count": 10,
+      "pct": 5.5
     },
     {
       "name": "N",
@@ -568,7 +568,7 @@
     {
       "name": "P",
       "count": 28,
-      "pct": 15.3
+      "pct": 15.4
     },
     {
       "name": "Q",
@@ -577,8 +577,8 @@
     },
     {
       "name": "R",
-      "count": 17,
-      "pct": 9.3
+      "count": 18,
+      "pct": 9.9
     }
   ],
   "bailTypes": [
@@ -633,12 +633,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 50.7,
-    "currentLongestDaysHeld": 973.6
+    "currentMedianDaysHeld": 49.7,
+    "currentLongestDaysHeld": 973.7
   },
   "bond": {
     "withBond": 136,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21116500
