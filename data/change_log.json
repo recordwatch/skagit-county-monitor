@@ -1,5 +1,29 @@
 [
   {
+    "id": "495516-20261016092000",
+    "nameNumber": "495516",
+    "name": "DAWSON, DAVID ALLEN JR",
+    "bookedAt": "2026-10-16T09:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "430156-20261016085000",
     "nameNumber": "430156",
     "name": "LANDAHL, LINCOLN FREDRICK",
