@@ -1,5 +1,42 @@
 [
   {
+    "id": "228961-20261016132000",
+    "nameNumber": "228961",
+    "name": "HAGG, DYLAN MICHAEL",
+    "bookedAt": "2026-10-16T13:20:00",
+    "scheduledRelease": "2026-10-31T07:20:00",
+    "location": "MALE INMATE WORKER (E103)",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T13:20:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "offenseDate": "2025-02-15T00:00:00",
+        "incident": "25-01764",
+        "court": "SC",
+        "courtReference": "25-1-00101-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T14:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742535-20261016105000",
     "nameNumber": "742535",
     "name": "PARKERSON, COLEMAN DAVID",
@@ -359,10 +396,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T04:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T14:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -789,13 +826,13 @@
     "bookedAt": "2026-10-15T11:00:00",
     "scheduledRelease": null,
     "location": "N205",
-    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-15T10:43:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
     "bondTotal": 25000,
@@ -810,7 +847,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -15384,10 +15421,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T14:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
