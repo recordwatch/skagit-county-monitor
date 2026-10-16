@@ -42,7 +42,7 @@
     "name": "DAWSON, DAVID ALLEN JR",
     "bookedAt": "2026-10-16T09:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -342,7 +342,7 @@
         "courtReference": "T00795664",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -354,7 +354,7 @@
         "courtReference": "T00795664",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }

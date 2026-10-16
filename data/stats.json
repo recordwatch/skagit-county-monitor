@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:39:03",
+  "generatedAt": "2026-10-16T13:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 300,
@@ -455,13 +455,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 158,
-      "pct": 28.3
+      "count": 160,
+      "pct": 28.6
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "Serving Commit",
@@ -562,13 +562,13 @@
     },
     {
       "name": "N",
-      "count": 25,
-      "pct": 13.7
+      "count": 26,
+      "pct": 14.2
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
