@@ -1,5 +1,54 @@
 [
   {
+    "id": "554131-20261015190000",
+    "nameNumber": "554131",
+    "name": "BUCKLES, CARSON BLU",
+    "bookedAt": "2026-10-15T19:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T18:22:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-15T18:22:00",
+        "incident": "26-A06442",
+        "court": "AMC",
+        "courtReference": "6A0428776",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-07-07T00:00:00",
+        "incident": "26-A02400",
+        "court": "AMC",
+        "courtReference": "6A0287017",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T20:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "664039-20261015160000",
     "nameNumber": "664039",
     "name": "FRYE, BRIANNA LEE",
@@ -42,10 +91,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T17:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-15T20:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
