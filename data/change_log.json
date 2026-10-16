@@ -531,10 +531,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T01:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T15:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -666,10 +666,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T17:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T15:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4909,7 +4909,7 @@
     "name": "HARTLEY, JORDAN MATTHEW",
     "bookedAt": "2026-10-07T10:40:00",
     "scheduledRelease": null,
-    "location": "K211",
+    "location": "K202",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
