@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T00:11:14",
+  "generatedAt": "2026-10-16T01:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 290,
-    "bookingsObserved": 87,
+    "bookingsTracked": 291,
+    "bookingsObserved": 88,
     "releasesObserved": 98,
-    "inCustody": 192,
+    "inCustody": 193,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 16,
+      "booked": 17,
       "released": 19
     },
     {
@@ -168,13 +168,13 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 59,
-      "pct": 4.7
+      "count": 60,
+      "pct": 4.8
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 48,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 72,
-      "pct": 25,
+      "count": 73,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,25 +278,25 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 35,
-      "pct": 12.2,
+      "pct": 12.1,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 31,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 27,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 27,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 96,
-      "pct": 7.7,
+      "count": 97,
+      "pct": 7.8,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 82,
-      "pct": 28.5
+      "pct": 28.4
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 51,
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 34,
-      "pct": 11.8
+      "count": 35,
+      "pct": 12.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 31,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 628,
+      "count": 629,
       "pct": 96.5
     },
     {
@@ -633,15 +633,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52.2,
+    "currentMedianDaysHeld": 52,
     "currentLongestDaysHeld": 973.3
   },
   "bond": {
-    "withBond": 134,
+    "withBond": 135,
     "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21107000
+    "totalBond": 21109500
   },
   "chargesPerBooking": 4.3
 }

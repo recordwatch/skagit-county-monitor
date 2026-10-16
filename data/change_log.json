@@ -1,5 +1,42 @@
 [
   {
+    "id": "126698-20261015232000",
+    "nameNumber": "126698",
+    "name": "MARTIN, WENDY JOE",
+    "bookedAt": "2026-10-15T23:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T22:35:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-06-12T00:00:00",
+        "incident": "25-M09348",
+        "court": "MVMC",
+        "courtReference": "5A0344976",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T01:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "554131-20261015190000",
     "nameNumber": "554131",
     "name": "BUCKLES, CARSON BLU",
