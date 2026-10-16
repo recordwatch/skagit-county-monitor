@@ -15,7 +15,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY DVPA",
@@ -23,8 +23,8 @@
         "incident": "26-W00321",
         "court": "SC",
         "courtReference": "26-1-00039-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -36,8 +36,8 @@
         "court": "SC",
         "courtReference": "26-1-00039-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -91,7 +91,7 @@
     "name": "WATTS, EARNEST ELVEN JR",
     "bookedAt": "2026-10-15T14:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [

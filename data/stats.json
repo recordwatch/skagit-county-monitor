@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:11:13",
+  "generatedAt": "2026-10-15T19:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 289,
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 158,
-      "pct": 28.9
+      "pct": 28.8
     },
     {
       "name": "Declined To Prosecute",
@@ -471,7 +471,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 55,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Dismissed",
@@ -486,17 +486,17 @@
     {
       "name": "Amended",
       "count": 20,
-      "pct": 3.7
+      "pct": 3.6
+    },
+    {
+      "name": "Bail Bond Release",
+      "count": 9,
+      "pct": 1.6
     },
     {
       "name": "Sanction Release",
       "count": 9,
       "pct": 1.6
-    },
-    {
-      "name": "Bail Bond Release",
-      "count": 8,
-      "pct": 1.5
     },
     {
       "name": "Pending Transport",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -538,7 +538,7 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "K",
@@ -558,17 +558,17 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "N",
-      "count": 21,
-      "pct": 11.9
+      "count": 22,
+      "pct": 12.4
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
@@ -578,13 +578,13 @@
     {
       "name": "R",
       "count": 17,
-      "pct": 9.7
+      "pct": 9.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 628,
+      "count": 626,
       "pct": 96.5
     },
     {
@@ -637,11 +637,11 @@
     "currentLongestDaysHeld": 973.1
   },
   "bond": {
-    "withBond": 134,
-    "noBond": 58,
+    "withBond": 133,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21113500
+    "totalBond": 21103500
   },
   "chargesPerBooking": 4.3
 }
