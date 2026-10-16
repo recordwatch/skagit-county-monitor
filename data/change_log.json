@@ -1,11 +1,109 @@
 [
   {
+    "id": "742517-20261016020000",
+    "nameNumber": "742517",
+    "name": "LOPEZ-LOPEZ, LEONARDO",
+    "bookedAt": "2026-10-16T02:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T23:00:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T22:26:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795664",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "HIT AND RUN ACCIDENT/INJURY ATTEMPT",
+        "offenseDate": "2026-10-15T22:26:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795664",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T04:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "742516-20261016004500",
+    "nameNumber": "742516",
+    "name": "SAULS, WRAYNE HARLEY",
+    "bookedAt": "2026-10-16T00:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-15T21:10:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+        "offenseDate": "2026-10-15T20:41:00",
+        "incident": "26-W05013",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "CONT SUB-NARC/METH/FLN MINOR",
+        "offenseDate": "2026-10-15T20:41:00",
+        "incident": "26-W05013",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T04:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "345366-20261016003500",
     "nameNumber": "345366",
     "name": "CUSHEN, LOGAN MACKENZIE",
     "bookedAt": "2026-10-16T00:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
