@@ -1,11 +1,144 @@
 [
   {
+    "id": "511593-20261016045000",
+    "nameNumber": "511593",
+    "name": "CHABOT, PHILLIP LYLE",
+    "bookedAt": "2026-10-16T04:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T04:17:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 17000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-10-16T04:17:00",
+        "incident": "26-B07588",
+        "court": "BMC",
+        "courtReference": "6A0397114",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-10-16T04:17:00",
+        "incident": "26-B07588",
+        "court": "BMC",
+        "courtReference": "6A0397114",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND AN ACCESS DEVICE",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION OF ANOTHERS IDENT",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND AN ACCESS DEVICE",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND AN ACCESS DEVICE",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND AN ACCESS DEVICE",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND AN ACCESS DEVICE",
+        "offenseDate": null,
+        "incident": "25-03054",
+        "court": "SC",
+        "courtReference": "26-1-00099-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T07:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742519-20261016022000",
     "nameNumber": "742519",
     "name": "CLEMENS, RYAN C",
     "bookedAt": "2026-10-16T02:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -314,8 +447,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T17:11:19",
-    "releasedAt": "2026-10-15T20:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T19:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -559,8 +692,8 @@
     "charges": [],
     "status": "released",
     "firstSeen": "2026-10-15T11:11:14",
-    "releasedAt": "2026-10-15T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T11:11:39",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -805,8 +938,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T06:11:14",
-    "releasedAt": "2026-10-15T11:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T10:55:39",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -854,8 +987,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T03:11:16",
-    "releasedAt": "2026-10-15T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T11:14:24",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -903,8 +1036,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T10:11:15",
-    "releasedAt": "2026-10-15T17:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T16:21:31",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -940,8 +1073,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T21:11:14",
-    "releasedAt": "2026-10-15T15:35:50",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T15:12:16",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -977,8 +1110,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T19:11:14",
-    "releasedAt": "2026-10-15T08:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T07:43:33",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1075,8 +1208,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T21:11:14",
-    "releasedAt": "2026-10-15T07:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T06:10:18",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1150,8 +1283,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-14T12:11:19",
-    "releasedAt": "2026-10-15T11:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T10:08:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1691,8 +1824,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T09:11:14",
-    "releasedAt": "2026-10-15T11:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T10:08:56",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3274,8 +3407,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T13:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T12:40:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -3659,8 +3792,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T11:55:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -10188,8 +10321,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T09:03:15",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -13545,8 +13678,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T07:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T06:10:06",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -13999,8 +14132,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T09:17:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -17265,8 +17398,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T13:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T12:17:40",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -18532,8 +18665,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-15T13:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-15T12:51:57",
+    "releaseSource": "official",
     "baseline": true
   },
   {

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T06:11:15",
+  "generatedAt": "2026-10-16T07:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 295,
-    "bookingsObserved": 92,
+    "bookingsTracked": 296,
+    "bookingsObserved": 93,
     "releasesObserved": 98,
-    "inCustody": 197,
+    "inCustody": 198,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 70,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -178,7 +178,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 46,
+      "count": 47,
       "pct": 3.7
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 37,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -224,7 +224,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 22,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DWLS/R 1ST DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 73,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 61,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 35,
-      "pct": 11.9,
+      "count": 36,
+      "pct": 12.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 11,
-      "pct": 3.8,
+      "pct": 3.7,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 797,
-      "pct": 63.6,
+      "count": 804,
+      "pct": 63.7,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 139,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Skagit County District Court"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "BMC",
-      "count": 86,
-      "pct": 6.9,
+      "count": 88,
+      "pct": 7,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 51,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Other"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 83,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 32,
-      "pct": 10.9
+      "count": 33,
+      "pct": 11.2
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 11,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -562,13 +562,13 @@
     },
     {
       "name": "N",
-      "count": 24,
-      "pct": 13.2
+      "count": 25,
+      "pct": 13.7
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "Q",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 626,
+      "count": 635,
       "pct": 96.5
     },
     {
@@ -599,8 +599,8 @@
     }
   ],
   "releaseSources": {
-    "official": 79,
-    "observed": 19,
+    "official": 96,
+    "observed": 2,
     "reportOnly": 27
   },
   "stay": {
@@ -610,11 +610,11 @@
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 39
+        "count": 40
       },
       {
         "label": "1–3 days",
-        "count": 23
+        "count": 22
       },
       {
         "label": "3–7 days",
@@ -633,15 +633,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 51.5,
+    "currentMedianDaysHeld": 50.6,
     "currentLongestDaysHeld": 973.6
   },
   "bond": {
-    "withBond": 135,
+    "withBond": 136,
     "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21099500
+    "totalBond": 21116500
   },
   "chargesPerBooking": 4.3
 }
