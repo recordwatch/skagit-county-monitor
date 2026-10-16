@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T10:11:15",
+  "generatedAt": "2026-10-16T11:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 298,
-    "bookingsObserved": 95,
+    "bookingsTracked": 299,
+    "bookingsObserved": 96,
     "releasesObserved": 99,
-    "inCustody": 199,
+    "inCustody": 200,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 7,
+      "booked": 8,
       "released": 1
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 60,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,37 +266,37 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 73,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 61,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 36,
-      "pct": 12.2,
+      "count": 37,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 32,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 29,
-      "pct": 9.9,
+      "pct": 9.8,
       "label": "WA STATE PATROL"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 27,
-      "pct": 9.2,
+      "pct": 9.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -306,16 +306,16 @@
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
+      "name": "SKAGIT COUNTY JAIL",
+      "count": 7,
+      "pct": 2.4,
+      "label": "SKAGIT COUNTY JAIL"
+    },
+    {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 7,
       "pct": 2.4,
       "label": "DEPARTMENT OF CORRECTIONS"
-    },
-    {
-      "name": "SKAGIT COUNTY JAIL",
-      "count": 6,
-      "pct": 2,
-      "label": "SKAGIT COUNTY JAIL"
     },
     {
       "name": "ISLAND COUNTY SHERIFF",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 804,
+      "count": 807,
       "pct": 63.7,
       "label": "Skagit County Superior Court"
     },
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 83,
-      "pct": 28.2
+      "pct": 28
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 52,
-      "pct": 17.7
+      "count": 54,
+      "pct": 18.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 35,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 33,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 19,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 9,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 16,
-      "pct": 8.8
+      "count": 15,
+      "pct": 8.2
     },
     {
       "name": "K",
@@ -562,13 +562,13 @@
     },
     {
       "name": "N",
-      "count": 25,
-      "pct": 13.7
+      "count": 24,
+      "pct": 13.2
     },
     {
       "name": "P",
-      "count": 28,
-      "pct": 15.4
+      "count": 29,
+      "pct": 15.9
     },
     {
       "name": "Q",
@@ -577,14 +577,14 @@
     },
     {
       "name": "R",
-      "count": 18,
-      "pct": 9.9
+      "count": 19,
+      "pct": 10.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 635,
+      "count": 638,
       "pct": 96.5
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 49.8,
-    "currentLongestDaysHeld": 973.7
+    "currentLongestDaysHeld": 973.8
   },
   "bond": {
-    "withBond": 136,
-    "noBond": 63,
+    "withBond": 138,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21116500
+    "totalBond": 21126500
   },
   "chargesPerBooking": 4.2
 }

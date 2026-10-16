@@ -6,19 +6,81 @@
     "bookedAt": "2026-10-16T09:20:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T09:20:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "TRAFFIC STOLEN PROP 1ST",
+        "offenseDate": "2019-03-16T00:00:00",
+        "incident": "19-M09099",
+        "court": "SC",
+        "courtReference": "19-1-00657",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "POSS STOLEN PROP 2ND",
+        "offenseDate": "2019-03-16T00:00:00",
+        "incident": "19-M09099",
+        "court": "SC",
+        "courtReference": "19-1-00657",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "697043-20261016092000",
+    "nameNumber": "697043",
+    "name": "PERKINS, NATASHA MARIE",
+    "bookedAt": "2026-10-16T09:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T09:20:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "RETAIL THEFT/EXTENUATING CIRC 3RD",
+        "offenseDate": "2023-11-24T00:00:00",
+        "incident": "23-B09109",
+        "court": "SC",
+        "courtReference": "24-1-00222-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T11:11:15",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -1674,7 +1736,7 @@
     "name": "MADDEN, DEMARCUS ROBERT",
     "bookedAt": "2026-10-13T17:45:00",
     "scheduledRelease": null,
-    "location": "N203",
+    "location": "P106",
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -12519,7 +12581,7 @@
     "name": "BAGLIEN, JENNIFER LINDA JEAN",
     "bookedAt": "2026-08-16T11:20:00",
     "scheduledRelease": null,
-    "location": "J101",
+    "location": "R110",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
