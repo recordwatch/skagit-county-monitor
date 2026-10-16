@@ -933,7 +933,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
@@ -941,9 +941,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "5A0533821",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -953,9 +953,9 @@
         "incident": "24-11594",
         "court": "DC",
         "courtReference": "4A0206169",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -14448,10 +14448,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T16:11:18",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
