@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:11:14",
+  "generatedAt": "2026-10-15T22:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 290,
@@ -543,7 +543,7 @@
     {
       "name": "K",
       "count": 21,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "M",
@@ -553,7 +553,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 4,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -562,18 +562,18 @@
     },
     {
       "name": "N",
-      "count": 22,
-      "pct": 12.4
+      "count": 23,
+      "pct": 12.9
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 15.8
+      "pct": 15.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "R",
@@ -633,7 +633,7 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52.1,
+    "currentMedianDaysHeld": 52.2,
     "currentLongestDaysHeld": 973.2
   },
   "bond": {
