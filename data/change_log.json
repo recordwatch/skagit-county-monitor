@@ -1,5 +1,29 @@
 [
   {
+    "id": "302415-20261016144500",
+    "nameNumber": "302415",
+    "name": "MORGAN, BENJAMIN JERRELL",
+    "bookedAt": "2026-10-16T14:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T17:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "569945-20261016133000",
     "nameNumber": "569945",
     "name": "BAILEY, JENNY ALREDA",
@@ -69,6 +93,43 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T14:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "63297-20261016123500",
+    "nameNumber": "63297",
+    "name": "MERAZ-CAMACHO, AMBER ILENE",
+    "bookedAt": "2026-10-16T12:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T10:31:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-16T10:05:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00742527",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T17:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -384,10 +445,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T04:47:26",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -590,7 +651,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -598,9 +659,9 @@
         "incident": "26-A06442",
         "court": "AMC",
         "courtReference": "6A0428776",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -610,9 +671,9 @@
         "incident": "26-A02400",
         "court": "AMC",
         "courtReference": "6A0287017",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -835,7 +896,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -843,9 +904,9 @@
         "incident": "25-SP0282",
         "court": "DC",
         "courtReference": "5A0299910",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -872,7 +933,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -880,9 +941,9 @@
         "incident": "24-A01448",
         "court": "AMC",
         "courtReference": "6A0185326",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -1083,10 +1144,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
