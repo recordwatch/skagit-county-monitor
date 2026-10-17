@@ -1,5 +1,29 @@
 [
   {
+    "id": "298060-20261016201500",
+    "nameNumber": "298060",
+    "name": "SOLANO-CRUZ, SILVERIO JR JR",
+    "bookedAt": "2026-10-16T20:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "384055-20261016174500",
     "nameNumber": "384055",
     "name": "GOLLIVER, ROXANNE SKYE",
@@ -53,7 +77,7 @@
     "name": "MORGAN, BENJAMIN JERRELL",
     "bookedAt": "2026-10-16T14:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -187,19 +211,32 @@
     "nameNumber": "695358",
     "name": "CASTILLO-SILVA, VIDAL",
     "bookedAt": "2026-10-16T12:45:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-17T12:45:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T12:45:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": null,
+        "incident": "25-W02150",
+        "court": "SWMC",
+        "courtReference": "5A0044363",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:11:16",
     "releasedAt": null,
@@ -10888,30 +10925,6 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Pending Transport",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
-      },
-      {
-        "description": "COMMUNITY CUSTODY VIOLATOR",
-        "offenseDate": "2024-07-11T00:00:00",
-        "incident": null,
-        "court": "SC",
-        "courtReference": "24-1-00918-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Sentence Complete Release",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
-      },
-      {
-        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-        "offenseDate": "2024-09-05T00:00:00",
-        "incident": null,
-        "court": "SC",
-        "courtReference": "24-1-00918-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Amended",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
