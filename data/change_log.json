@@ -1,11 +1,72 @@
 [
   {
+    "id": "494335-20261017024500",
+    "nameNumber": "494335",
+    "name": "EVANS, JAELENN JAMOKI",
+    "bookedAt": "2026-10-17T02:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T04:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "742557-20261017014000",
+    "nameNumber": "742557",
+    "name": "PETERSON, PENPET JACK",
+    "bookedAt": "2026-10-17T01:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-17T00:44:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DVPA",
+        "offenseDate": "2026-10-17T00:44:00",
+        "incident": "26-B07618",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T04:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "339416-20261017004000",
     "nameNumber": "339416",
     "name": "ACEVEDO-SANJUAN, ISRAEL J JR",
     "bookedAt": "2026-10-17T00:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -15,7 +76,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -23,8 +84,8 @@
         "incident": "26-W05039",
         "court": "SWMC",
         "courtReference": "6A0098607",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -42,7 +103,7 @@
     "name": "FLORES, LORALEE ALEXIS",
     "bookedAt": "2026-10-16T23:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [

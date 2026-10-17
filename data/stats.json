@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T03:31:52",
+  "generatedAt": "2026-10-17T04:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 311,
-    "bookingsObserved": 108,
+    "bookingsTracked": 313,
+    "bookingsObserved": 110,
     "releasesObserved": 113,
-    "inCustody": 198,
+    "inCustody": 200,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 1,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 76,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 40,
-      "pct": 13,
+      "count": 41,
+      "pct": 13.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 814,
-      "pct": 63.2,
+      "count": 815,
+      "pct": 63.3,
       "label": "Skagit County Superior Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 83,
-      "pct": 26.9
+      "count": 84,
+      "pct": 27.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,13 +537,13 @@
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 7.1
+      "count": 15,
+      "pct": 8.2
     },
     {
       "name": "K",
       "count": 21,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "M",
@@ -558,33 +558,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "N",
       "count": 25,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.4
+      "pct": 10.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 605,
+      "count": 606,
       "pct": 96.3
     },
     {
@@ -633,15 +633,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 49.4,
-    "currentLongestDaysHeld": 974.4
+    "currentMedianDaysHeld": 46.9,
+    "currentLongestDaysHeld": 974.5
   },
   "bond": {
-    "withBond": 132,
-    "noBond": 66,
+    "withBond": 133,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21117000
+    "totalBond": 21118000
   },
   "chargesPerBooking": 4.1
 }
