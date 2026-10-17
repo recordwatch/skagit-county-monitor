@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:58:00",
+  "generatedAt": "2026-10-16T23:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 308,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 74,
-      "pct": 24.4,
+      "count": 75,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 63,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 32,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 812,
-      "pct": 63.5,
+      "pct": 63.4,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 97,
-      "pct": 7.6,
+      "count": 98,
+      "pct": 7.7,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 83,
-      "pct": 27.4
+      "pct": 27.3
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,13 +393,13 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 36,
-      "pct": 11.9
+      "count": 37,
+      "pct": 12.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 35,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 12,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -434,7 +434,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 5,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
