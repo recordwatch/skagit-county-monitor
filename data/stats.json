@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T04:11:16",
+  "generatedAt": "2026-10-17T05:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 313,
-    "bookingsObserved": 110,
+    "bookingsTracked": 314,
+    "bookingsObserved": 111,
     "releasesObserved": 113,
-    "inCustody": 200,
+    "inCustody": 201,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 72,
+      "count": 73,
       "pct": 5.6
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 38,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -222,6 +222,11 @@
       "pct": 1.8
     },
     {
+      "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+      "count": 22,
+      "pct": 1.7
+    },
+    {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 22,
       "pct": 1.7
@@ -232,9 +237,9 @@
       "pct": 1.6
     },
     {
-      "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 21,
-      "pct": 1.6
+      "name": "RESISTING ARREST",
+      "count": 19,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -255,54 +260,49 @@
       "name": "IDENTITY THEFT 2ND",
       "count": 18,
       "pct": 1.4
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 18,
-      "pct": 1.4
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 76,
-      "pct": 24.6,
+      "count": 77,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 62,
-      "pct": 20.1,
+      "pct": 19.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 41,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 34,
-      "pct": 11,
+      "pct": 10.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 30,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "WA STATE PATROL"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 29,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 12,
-      "pct": 3.9,
+      "count": 13,
+      "pct": 4.2,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 815,
-      "pct": 63.3,
+      "pct": 63,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 99,
-      "pct": 7.7,
+      "count": 104,
+      "pct": 8,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,32 +384,32 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 84,
-      "pct": 27.2
+      "pct": 27
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 17.5
+      "pct": 17.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 38,
-      "pct": 12.3
+      "count": 40,
+      "pct": 12.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 37,
-      "pct": 12
+      "count": 38,
+      "pct": 12.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 22,
-      "pct": 7.1
+      "count": 21,
+      "pct": 6.8
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 20,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -584,8 +584,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 606,
-      "pct": 96.3
+      "count": 608,
+      "pct": 96.4
     },
     {
       "name": "SCRAM With Bail",
@@ -633,15 +633,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 46.9,
+    "currentMedianDaysHeld": 45.5,
     "currentLongestDaysHeld": 974.5
   },
   "bond": {
-    "withBond": 133,
+    "withBond": 134,
     "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21118000
+    "totalBond": 21119500
   },
   "chargesPerBooking": 4.1
 }

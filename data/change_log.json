@@ -1,22 +1,108 @@
 [
   {
+    "id": "225169-20261017035500",
+    "nameNumber": "225169",
+    "name": "BROWN, RILEY DOUGLAS",
+    "bookedAt": "2026-10-17T03:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-17T01:09:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-17T01:09:00",
+        "incident": "26-M15481",
+        "court": "MVMC",
+        "courtReference": "6A0420041",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HIT RUN UNATTENDED",
+        "offenseDate": "2026-10-17T01:09:00",
+        "incident": "26-M15481",
+        "court": "MVMC",
+        "courtReference": "6A0420041",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-10-17T01:09:00",
+        "incident": "26-M15481",
+        "court": "MVMC",
+        "courtReference": "6A0429525",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-17T01:09:00",
+        "incident": "26-M15481",
+        "court": "MVMC",
+        "courtReference": "6A0429525",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T05:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "494335-20261017024500",
     "nameNumber": "494335",
     "name": "EVANS, JAELENN JAMOKI",
     "bookedAt": "2026-10-17T02:45:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-20T02:45:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-17T02:08:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION RESTRAIN-DV",
+        "offenseDate": "2024-11-16T00:00:00",
+        "incident": "24-M20879",
+        "court": "MVMC",
+        "courtReference": "4A0660554",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-17T04:11:16",
     "releasedAt": null,
@@ -105,11 +191,11 @@
     "scheduledRelease": null,
     "location": "J204",
     "arrestingAgency": "ANACORTES POLICE DEPT",
-    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-16T20:42:00",
-        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
@@ -124,7 +210,7 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
