@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T14:11:15",
+  "generatedAt": "2026-10-17T15:00:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 318,
-    "bookingsObserved": 115,
+    "bookingsTracked": 319,
+    "bookingsObserved": 116,
     "releasesObserved": 116,
-    "inCustody": 202,
+    "inCustody": 203,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 6,
+      "booked": 7,
       "released": 1
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 62,
-      "pct": 4.8
+      "count": 64,
+      "pct": 4.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 50,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 78,
-      "pct": 24.8,
+      "count": 79,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 63,
-      "pct": 20,
+      "pct": 19.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 32,
-      "pct": 10.2,
+      "pct": 10.1,
       "label": "WA STATE PATROL"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 3,
-      "pct": 1,
+      "pct": 0.9,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 815,
-      "pct": 62.8,
+      "pct": 62.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 104,
-      "pct": 8,
+      "count": 106,
+      "pct": 8.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 84,
-      "pct": 26.7
+      "pct": 26.6
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 39,
-      "pct": 12.4
+      "count": 40,
+      "pct": 12.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 9,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 608,
+      "count": 610,
       "pct": 96.4
     },
     {
@@ -633,15 +633,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.4,
+    "currentMedianDaysHeld": 45.1,
     "currentLongestDaysHeld": 974.9
   },
   "bond": {
-    "withBond": 134,
+    "withBond": 135,
     "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21115500
+    "totalBond": 21117500
   },
   "chargesPerBooking": 4.1
 }
