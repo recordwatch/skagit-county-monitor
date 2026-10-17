@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T10:27:12",
+  "generatedAt": "2026-10-17T11:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 317,
-    "bookingsObserved": 114,
+    "bookingsTracked": 318,
+    "bookingsObserved": 115,
     "releasesObserved": 115,
-    "inCustody": 202,
+    "inCustody": 203,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 5,
+      "booked": 6,
       "released": 0
     }
   ],
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 63,
-      "pct": 20.1,
+      "pct": 20,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 41,
-      "pct": 13.1,
+      "pct": 13,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 34,
-      "pct": 10.8,
+      "count": 35,
+      "pct": 11.1,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 815,
-      "pct": 62.9,
+      "pct": 62.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 92,
-      "pct": 7.1,
+      "count": 93,
+      "pct": 7.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 84,
-      "pct": 26.8
+      "pct": 26.7
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 42,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 38,
-      "pct": 12.1
+      "count": 39,
+      "pct": 12.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 20,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 608,
+      "count": 609,
       "pct": 96.4
     },
     {
@@ -633,15 +633,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.3,
-    "currentLongestDaysHeld": 974.7
+    "currentMedianDaysHeld": 44.9,
+    "currentLongestDaysHeld": 974.8
   },
   "bond": {
-    "withBond": 134,
+    "withBond": 135,
     "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21119500
+    "totalBond": 21120500
   },
   "chargesPerBooking": 4.1
 }
