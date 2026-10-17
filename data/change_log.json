@@ -4,7 +4,7 @@
     "nameNumber": "298060",
     "name": "SOLANO-CRUZ, SILVERIO JR JR",
     "bookedAt": "2026-10-16T20:15:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-01T20:15:00",
     "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -28,6 +28,18 @@
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2021-05-30T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0008182",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -43,17 +55,30 @@
     "bookedAt": "2026-10-16T17:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T16:53:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "TRESPASS",
+        "offenseDate": "2026-10-16T16:53:00",
+        "incident": "26-SP1630",
+        "court": "TC",
+        "courtReference": "6A0425287",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:11:16",
     "releasedAt": null,
@@ -66,7 +91,7 @@
     "name": "GOOD, JOSHUA SCOTT",
     "bookedAt": "2026-10-16T16:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -239,28 +264,28 @@
     "bookedAt": "2026-10-16T12:45:00",
     "scheduledRelease": "2026-10-17T12:45:00",
     "location": "N203",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-16T12:45:00",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
-        "offenseDate": null,
+        "offenseDate": "2025-05-09T00:00:00",
         "incident": "25-W02150",
         "court": "SWMC",
         "courtReference": "5A0044363",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "status": "in_custody",
