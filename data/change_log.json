@@ -5,7 +5,7 @@
     "name": "SOLANO-CRUZ, SILVERIO JR JR",
     "bookedAt": "2026-10-16T20:15:00",
     "scheduledRelease": "2026-11-01T20:15:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -67,7 +67,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "TRESPASS",
+        "description": "TRIBAL CODE VIOLATION",
         "offenseDate": "2026-10-16T16:53:00",
         "incident": "26-SP1630",
         "court": "TC",
@@ -16125,7 +16125,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 17000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "VEHICLE PROWLING 2ND DEGREE",
@@ -16229,8 +16229,8 @@
         "incident": "26-B04965",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16242,8 +16242,8 @@
         "court": "SC",
         "courtReference": "26-1-00371-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16254,7 +16254,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16278,8 +16278,8 @@
         "court": "SC",
         "courtReference": "26-1-00371-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16289,8 +16289,32 @@
         "incident": "26-B02789",
         "court": "SC",
         "courtReference": "26-1-00296-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2026-04-17T00:00:00",
+        "incident": "26-B02789",
+        "court": "SC",
+        "courtReference": "26-1-00296-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2026-04-17T00:00:00",
+        "incident": "26-B02789",
+        "court": "SC",
+        "courtReference": "26-1-00296-29",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16302,7 +16326,7 @@
         "court": "SC",
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16314,31 +16338,7 @@
         "court": "SC",
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "REVOCATION OF PR",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
-      {
-        "description": "IDENTITY THEFT 2ND",
-        "offenseDate": "2026-04-17T00:00:00",
-        "incident": "26-B02789",
-        "court": "SC",
-        "courtReference": "26-1-00296-29",
-        "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "REVOCATION OF PR",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
-      {
-        "description": "IDENTITY THEFT 2ND",
-        "offenseDate": "2026-04-17T00:00:00",
-        "incident": "26-B02789",
-        "court": "SC",
-        "courtReference": "26-1-00296-29",
-        "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16350,7 +16350,7 @@
         "court": "SC",
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16362,7 +16362,7 @@
         "court": "SC",
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16373,8 +16373,8 @@
         "incident": "26-B04833",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16386,7 +16386,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16398,8 +16398,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16410,8 +16410,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16422,8 +16422,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16434,7 +16434,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16446,7 +16446,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16458,8 +16458,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16470,8 +16470,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16482,8 +16482,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16494,7 +16494,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16506,7 +16506,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -16518,8 +16518,8 @@
         "court": "SC",
         "courtReference": "26-1-00392-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       }
