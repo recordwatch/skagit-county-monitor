@@ -115,7 +115,7 @@
     "name": "PETERSON, PENPET JACK",
     "bookedAt": "2026-10-17T01:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
