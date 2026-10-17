@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:00:15",
+  "generatedAt": "2026-10-17T15:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 319,
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 18,
-      "pct": 9.6
+      "count": 19,
+      "pct": 10.1
     },
     {
       "name": "K",
@@ -553,7 +553,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -563,17 +563,17 @@
     {
       "name": "N",
       "count": 27,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "R",
