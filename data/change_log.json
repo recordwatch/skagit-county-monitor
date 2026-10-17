@@ -54,17 +54,54 @@
     "bookedAt": "2026-10-16T14:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T14:14:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-11-19T00:00:00",
+        "incident": "25-B08848",
+        "court": "BMC",
+        "courtReference": "5A0937122",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-06-11T00:00:00",
+        "incident": "26-B04260",
+        "court": "BMC",
+        "courtReference": "6A0235751",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00230-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T17:11:14",
     "releasedAt": null,
@@ -74,10 +111,10 @@
   {
     "id": "569945-20261016133000",
     "nameNumber": "569945",
-    "name": "BAILEY, JENNY ALREDA",
+    "name": "BAILEY, JENNY ALFREDA",
     "bookedAt": "2026-10-16T13:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R202",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -175,7 +212,7 @@
     "name": "MERAZ-CAMACHO, AMBER ILENE",
     "bookedAt": "2026-10-16T12:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -588,16 +625,16 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
         "offenseDate": "2026-10-15T20:41:00",
         "incident": "26-W05013",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00580-29",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -609,7 +646,31 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+        "offenseDate": "2026-10-15T20:41:00",
+        "incident": "26-W05013",
+        "court": "SC",
+        "courtReference": "26-1-00580-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2026-10-15T20:41:00",
+        "incident": "26-W05013",
+        "court": "SC",
+        "courtReference": "26-1-00580-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -1532,7 +1593,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -1540,7 +1601,7 @@
         "incident": "20-SP1037",
         "court": "DC",
         "courtReference": "XZ0189585",
-        "bailAmount": 10000,
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -5137,7 +5198,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 250000,
+    "bondTotal": 350000,
     "charges": [
       {
         "description": "MANSLAUGHTER 1 RECKLESS",
@@ -5145,7 +5206,7 @@
         "incident": "26-M14003",
         "court": "SC",
         "courtReference": "26-1-00552-29",
-        "bailAmount": 250000,
+        "bailAmount": 350000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -5198,7 +5259,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 50000,
+    "bondTotal": 150000,
     "charges": [
       {
         "description": "MANSLAUGHTER 1 RECKLESS",
@@ -5206,7 +5267,7 @@
         "incident": "26-M14003",
         "court": "SC",
         "courtReference": "26-1-00551-29",
-        "bailAmount": 50000,
+        "bailAmount": 150000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
