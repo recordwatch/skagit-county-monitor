@@ -54,17 +54,30 @@
     "bookedAt": "2026-10-16T16:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T16:23:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2012-10-11T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "2Z0764547",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T20:11:16",
     "releasedAt": null,
@@ -115,10 +128,10 @@
       },
       {
         "description": "HOLD FOR OTHER AGNCY",
-        "offenseDate": null,
+        "offenseDate": "2026-10-16T14:45:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "23-1-00230-29",
+        "courtReference": "DOC 23-1-00230-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -212,7 +225,7 @@
     "name": "CASTILLO-SILVA, VIDAL",
     "bookedAt": "2026-10-16T12:45:00",
     "scheduledRelease": "2026-10-17T12:45:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [

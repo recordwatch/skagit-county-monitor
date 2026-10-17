@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:11:15",
+  "generatedAt": "2026-10-16T22:58:00",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 308,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 71,
+      "count": 72,
       "pct": 5.6
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 62,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 73,
-      "pct": 24.2,
+      "count": 74,
+      "pct": 24.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 63,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 28,
-      "pct": 9.3,
+      "pct": 9.2,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 140,
+      "count": 141,
       "pct": 11,
       "label": "Skagit County District Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 83,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 17.9
+      "pct": 17.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 21,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -427,12 +427,12 @@
       "pct": 3
     },
     {
-      "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 5,
-      "pct": 1.7
+      "name": "DUI WARRANT ARREST",
+      "count": 6,
+      "pct": 2
     },
     {
-      "name": "DUI WARRANT ARREST",
+      "name": "DEPT OF CORRECTIONS HOLD",
       "count": 5,
       "pct": 1.7
     },
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "K",
       "count": 21,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -562,29 +562,29 @@
     },
     {
       "name": "N",
-      "count": 21,
-      "pct": 11.8
+      "count": 22,
+      "pct": 12.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.7
+      "pct": 10.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 628,
+      "count": 629,
       "pct": 96.5
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 50.3,
-    "currentLongestDaysHeld": 974.2
+    "currentLongestDaysHeld": 974.3
   },
   "bond": {
-    "withBond": 131,
-    "noBond": 64,
+    "withBond": 132,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21122000
+    "totalBond": 21132000
   },
-  "chargesPerBooking": 4.1
+  "chargesPerBooking": 4.2
 }
