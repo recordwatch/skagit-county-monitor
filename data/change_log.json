@@ -1,5 +1,116 @@
 [
   {
+    "id": "339416-20261017004000",
+    "nameNumber": "339416",
+    "name": "ACEVEDO-SANJUAN, ISRAEL J JR",
+    "bookedAt": "2026-10-17T00:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-17T00:23:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-17T00:23:00",
+        "incident": "26-W05039",
+        "court": "SWMC",
+        "courtReference": "6A",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T02:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "641238-20261016233500",
+    "nameNumber": "641238",
+    "name": "FLORES, LORALEE ALEXIS",
+    "bookedAt": "2026-10-16T23:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T20:42:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-10-16T20:42:00",
+        "incident": "26-A06469",
+        "court": "AMC",
+        "courtReference": "6A0200995",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T02:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "690367-20261016225500",
+    "nameNumber": "690367",
+    "name": "CASTELO-ACUNA, ROSENDO ALBINO",
+    "bookedAt": "2026-10-16T22:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-16T22:10:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-10-16T22:10:00",
+        "incident": "26-M15475",
+        "court": "MVMC",
+        "courtReference": "6A0395875",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T02:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "298060-20261016201500",
     "nameNumber": "298060",
     "name": "SOLANO-CRUZ, SILVERIO JR JR",
@@ -16315,7 +16426,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16327,7 +16438,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16339,7 +16450,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16351,7 +16462,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16363,7 +16474,31 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSS STOLEN PROP 2ND ACCESS DEVICE/CREDIT CARD",
+        "offenseDate": "2026-06-30T00:00:00",
+        "incident": "26-B04833",
+        "court": "SC",
+        "courtReference": "26-1-00296-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-06-30T00:00:00",
+        "incident": "26-B04833",
+        "court": "SC",
+        "courtReference": "26-1-00296-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },

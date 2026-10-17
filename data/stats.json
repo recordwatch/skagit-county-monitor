@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T01:11:14",
+  "generatedAt": "2026-10-17T02:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 308,
-    "bookingsObserved": 105,
+    "bookingsTracked": 311,
+    "bookingsObserved": 108,
     "releasesObserved": 113,
-    "inCustody": 195,
+    "inCustody": 198,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,12 +151,12 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 17,
+      "booked": 19,
       "released": 15
     },
     {
       "date": "2026-10-17",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 41,
-      "pct": 3.2
+      "count": 43,
+      "pct": 3.3
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -194,7 +194,7 @@
     {
       "name": "DWLS/R 3RD DEGREE",
       "count": 34,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -237,17 +237,17 @@
       "pct": 1.6
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 19,
+      "pct": 1.5
+    },
+    {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
       "count": 19,
       "pct": 1.5
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 18,
-      "pct": 1.4
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
       "count": 18,
       "pct": 1.4
     },
@@ -265,38 +265,38 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 75,
-      "pct": 24.6,
+      "count": 76,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 62,
-      "pct": 20.3,
+      "pct": 20.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 40,
-      "pct": 13.1,
+      "pct": 13,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 33,
-      "pct": 10.8,
+      "count": 34,
+      "pct": 11,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 30,
-      "pct": 9.8,
+      "pct": 9.7,
       "label": "WA STATE PATROL"
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 28,
-      "pct": 9.2,
+      "count": 29,
+      "pct": 9.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SKAGIT COUNTY JAIL",
       "count": 6,
-      "pct": 2,
+      "pct": 1.9,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,44 +327,44 @@
   "courts": [
     {
       "name": "SC",
-      "count": 812,
-      "pct": 63.3,
+      "count": 814,
+      "pct": 63.2,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 142,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 98,
-      "pct": 7.6,
+      "count": 99,
+      "pct": 7.7,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 92,
-      "pct": 7.2,
+      "pct": 7.1,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 52,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Other"
     },
     {
       "name": "AMC",
-      "count": 47,
+      "count": 48,
       "pct": 3.7,
       "label": "Anacortes Municipal Court"
     },
     {
       "name": "SWMC",
-      "count": 31,
-      "pct": 2.4,
+      "count": 32,
+      "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,37 +384,37 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 83,
-      "pct": 27.2
+      "pct": 26.9
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 17.7
+      "pct": 17.5
+    },
+    {
+      "name": "MISDEMEANOR CITATION ARREST",
+      "count": 38,
+      "pct": 12.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 37,
-      "pct": 12.1
-    },
-    {
-      "name": "MISDEMEANOR CITATION ARREST",
-      "count": 36,
-      "pct": 11.8
+      "pct": 12
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 21,
-      "pct": 6.9
+      "count": 22,
+      "pct": 7.1
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 20,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 13,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DUI CITATION ARREST",
@@ -424,12 +424,12 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 9,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "DUI WARRANT ARREST",
       "count": 6,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -456,27 +456,27 @@
     {
       "name": "Own Recognizance Release",
       "count": 174,
-      "pct": 29.4
+      "pct": 29
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 18.9
+      "pct": 18.7
     },
     {
       "name": "Serving Commit",
       "count": 97,
-      "pct": 16.4
+      "pct": 16.2
     },
     {
       "name": "Sentence Complete Release",
       "count": 60,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Dismissed",
       "count": 58,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "Dept Of Corrections Release",
@@ -485,18 +485,18 @@
     },
     {
       "name": "Amended",
-      "count": 21,
-      "pct": 3.5
+      "count": 25,
+      "pct": 4.2
     },
     {
       "name": "Bail Bond Release",
       "count": 14,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "Pending Transport",
-      "count": 11,
-      "pct": 1.9
+      "count": 14,
+      "pct": 2.3
     },
     {
       "name": "Sanction Release",
@@ -633,15 +633,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 974.3
+    "currentMedianDaysHeld": 49.3,
+    "currentLongestDaysHeld": 974.4
   },
   "bond": {
     "withBond": 132,
-    "noBond": 63,
+    "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21117000
   },
-  "chargesPerBooking": 4.2
+  "chargesPerBooking": 4.1
 }
