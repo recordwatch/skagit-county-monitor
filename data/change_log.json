@@ -678,10 +678,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T18:10:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -911,10 +911,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T14:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T18:10:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -948,10 +948,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T12:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T18:10:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1021,10 +1021,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T12:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T18:10:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
