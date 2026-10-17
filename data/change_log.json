@@ -42,7 +42,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2026-10-16T12:43:00",
         "incident": "26-B07597",
         "court": "BMC",
@@ -140,7 +140,7 @@
     "name": "PARKERSON, COLEMAN DAVID",
     "bookedAt": "2026-10-16T10:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -178,13 +178,13 @@
     "bookedAt": "2026-10-16T09:20:00",
     "scheduledRelease": null,
     "location": "N204",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-16T09:20:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 5000,
@@ -194,24 +194,24 @@
         "offenseDate": "2019-03-16T00:00:00",
         "incident": "19-M09099",
         "court": "SC",
-        "courtReference": "19-1-00657",
+        "courtReference": "19-1-00657-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "POSS STOLEN PROP 2ND",
+        "description": "POSS STOLEN PROP 2ND >750",
         "offenseDate": "2019-03-16T00:00:00",
         "incident": "19-M09099",
         "court": "SC",
-        "courtReference": "19-1-00657",
+        "courtReference": "19-1-00657-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -226,7 +226,7 @@
     "name": "PERKINS, NATASHA MARIE",
     "bookedAt": "2026-10-16T09:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -300,7 +300,7 @@
     "bondTotal": 17000,
     "charges": [
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-10-16T04:17:00",
         "incident": "26-B07588",
         "court": "BMC",
@@ -312,7 +312,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-10-16T04:17:00",
         "incident": "26-B07588",
         "court": "BMC",
@@ -592,10 +592,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T02:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-16T19:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1053,7 +1053,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1062,10 +1062,58 @@
         "offenseDate": "2026-10-15T09:19:00",
         "incident": "26-12500",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00581-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Bail Bond Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "RAPE 2 INCAPABLE VIC",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "RAPE CHILD 3RD DEGREE",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "INCEST 1ST DEGREE",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "INCEST 2ND DEGREE",
+        "offenseDate": "2026-10-15T09:19:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       }
