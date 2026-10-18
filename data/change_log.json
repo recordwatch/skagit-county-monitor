@@ -5916,7 +5916,7 @@
     "name": "MARTINES, ANGELO RAY",
     "bookedAt": "2026-10-07T08:47:00",
     "scheduledRelease": null,
-    "location": "P104",
+    "location": "P106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -12636,10 +12636,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-17T21:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
