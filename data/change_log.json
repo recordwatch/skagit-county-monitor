@@ -1,5 +1,115 @@
 [
   {
+    "id": "536523-20261018122500",
+    "nameNumber": "536523",
+    "name": "JACKSON, MAURICE JR",
+    "bookedAt": "2026-10-18T12:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-18T12:11:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-18T11:59:00",
+        "incident": "26-M15538",
+        "court": "MVMC",
+        "courtReference": "6A0426447",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-06-10T00:00:00",
+        "incident": "26-M08410",
+        "court": "MVMC",
+        "courtReference": "6A0426447",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T14:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "257604-20261018115700",
+    "nameNumber": "257604",
+    "name": "ARENDSE, CAITLIN ANN",
+    "bookedAt": "2026-10-18T11:57:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T14:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "387662-20261018113500",
+    "nameNumber": "387662",
+    "name": "SPEED, MIKALAH LEE",
+    "bookedAt": "2026-10-18T11:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-18T10:40:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEADLY WEAPON",
+        "offenseDate": "2026-10-18T09:35:00",
+        "incident": "26-12724",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T14:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "12407-20261018030500",
     "nameNumber": "12407",
     "name": "CROSSMAN, KEVIN DAVID",
