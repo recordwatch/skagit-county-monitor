@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-18T00:25:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-17T23:44:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "INHALING TOXIC FUMES (GLUE)",
+        "offenseDate": "2026-10-17T23:36:00",
+        "incident": "26-M15517",
+        "court": "MVMC",
+        "courtReference": "6A0129528",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-18T01:11:14",
     "releasedAt": null,

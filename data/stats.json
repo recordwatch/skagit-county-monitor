@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:11:14",
+  "generatedAt": "2026-10-18T02:11:12",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 321,
@@ -209,12 +209,12 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 28,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 28,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 80,
-      "pct": 25.2,
+      "count": 81,
+      "pct": 25.5,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 63,
-      "pct": 19.9,
+      "pct": 19.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 815,
-      "pct": 62.6,
+      "pct": 62.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 108,
-      "pct": 8.3,
+      "count": 109,
+      "pct": 8.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 84,
-      "pct": 26.5
+      "pct": 26.4
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 42,
-      "pct": 13.2
+      "count": 43,
+      "pct": 13.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 611,
+      "count": 612,
       "pct": 96.4
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 45.5,
-    "currentLongestDaysHeld": 975.3
+    "currentLongestDaysHeld": 975.4
   },
   "bond": {
-    "withBond": 135,
-    "noBond": 66,
+    "withBond": 136,
+    "noBond": 65,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21118500
+    "totalBond": 21119000
   },
   "chargesPerBooking": 4.1
 }
