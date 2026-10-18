@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:11:15",
+  "generatedAt": "2026-10-18T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 326,
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 6,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "DORM 1 (E101)",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 19,
-      "pct": 10
+      "count": 20,
+      "pct": 10.5
     },
     {
       "name": "K",
@@ -558,27 +558,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "N",
       "count": 29,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10
+      "pct": 9.9
     }
   ],
   "bailTypes": [
@@ -634,7 +634,7 @@
       }
     ],
     "currentMedianDaysHeld": 45.1,
-    "currentLongestDaysHeld": 975.9
+    "currentLongestDaysHeld": 976
   },
   "bond": {
     "withBond": 138,

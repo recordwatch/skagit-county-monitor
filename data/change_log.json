@@ -151,7 +151,7 @@
     "name": "SPEED, MIKALAH LEE",
     "bookedAt": "2026-10-18T11:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J201",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -961,7 +961,7 @@
     "name": "BAILEY, JENNY ALFREDA",
     "bookedAt": "2026-10-16T13:30:00",
     "scheduledRelease": null,
-    "location": "R202",
+    "location": "R103",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
