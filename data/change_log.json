@@ -103,7 +103,7 @@
     "name": "AVALOS-ALFARO, JOSE CRUZ",
     "bookedAt": "2026-10-17T08:40:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -718,10 +718,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T17:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-17T19:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
