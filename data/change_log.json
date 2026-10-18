@@ -1,5 +1,54 @@
 [
   {
+    "id": "640115-20261017183000",
+    "nameNumber": "640115",
+    "name": "JUAREZ-LOPEZ, SERGIO",
+    "bookedAt": "2026-10-17T18:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-17T17:59:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2025-09-20T00:00:00",
+        "incident": "25-M15312",
+        "court": "MVMC",
+        "courtReference": "5A0835696",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2025-09-20T00:00:00",
+        "incident": "25-M15312",
+        "court": "MVMC",
+        "courtReference": "5A0835696",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T20:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "337752-20261017133000",
     "nameNumber": "337752",
     "name": "MAYFIELD, JORDAN DALENE",
@@ -64,7 +113,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HIT AND RUN",
@@ -72,9 +121,9 @@
         "incident": "25-B05208",
         "court": "BMC",
         "courtReference": "5A0836036",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -86,7 +135,7 @@
         "courtReference": "9Z1118122",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -128,10 +177,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T10:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-17T20:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -12549,7 +12598,7 @@
     "nameNumber": "559214",
     "name": "QUEVEDO, CHRISTIAN",
     "bookedAt": "2026-08-25T16:10:00",
-    "scheduledRelease": "2026-10-18T05:10:00",
+    "scheduledRelease": "2026-10-17T20:10:00",
     "location": "Q107",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
