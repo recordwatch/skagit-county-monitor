@@ -123,7 +123,7 @@
         "courtReference": "T00781775",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -713,7 +713,7 @@
         "courtReference": "T00742527",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
