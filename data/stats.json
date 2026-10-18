@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:11:15",
+  "generatedAt": "2026-10-17T21:57:57",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 320,
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 17,
-      "pct": 9.2
+      "count": 18,
+      "pct": 9.7
     },
     {
       "name": "K",
@@ -548,7 +548,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,22 +563,22 @@
     {
       "name": "N",
       "count": 26,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.3
+      "pct": 10.2
     }
   ],
   "bailTypes": [
@@ -633,7 +633,7 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.7,
+    "currentMedianDaysHeld": 45.8,
     "currentLongestDaysHeld": 975.2
   },
   "bond": {
