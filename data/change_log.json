@@ -4,7 +4,7 @@
     "nameNumber": "12407",
     "name": "CROSSMAN, KEVIN DAVID",
     "bookedAt": "2026-10-18T03:05:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-25T03:05:00",
     "location": null,
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -38,6 +38,30 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2024-05-25T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0170547",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-01-06T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "5A0027144",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
