@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:11:14",
+  "generatedAt": "2026-10-18T06:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 323,
@@ -537,18 +537,18 @@
     },
     {
       "name": "J",
-      "count": 18,
-      "pct": 9.5
+      "count": 19,
+      "pct": 10
     },
     {
       "name": "K",
       "count": 20,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -573,12 +573,12 @@
     {
       "name": "Q",
       "count": 26,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.1
+      "pct": 10
     }
   ],
   "bailTypes": [
@@ -599,8 +599,8 @@
     }
   ],
   "releaseSources": {
-    "official": 113,
-    "observed": 7,
+    "official": 118,
+    "observed": 2,
     "reportOnly": 29
   },
   "stay": {
@@ -634,7 +634,7 @@
       }
     ],
     "currentMedianDaysHeld": 45.6,
-    "currentLongestDaysHeld": 975.5
+    "currentLongestDaysHeld": 975.6
   },
   "bond": {
     "withBond": 137,

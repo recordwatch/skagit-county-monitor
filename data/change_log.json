@@ -5,7 +5,7 @@
     "name": "CROSSMAN, KEVIN DAVID",
     "bookedAt": "2026-10-18T03:05:00",
     "scheduledRelease": "2026-10-25T03:05:00",
-    "location": null,
+    "location": "J104",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -326,8 +326,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T10:11:13",
-    "releasedAt": "2026-10-17T20:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-17T18:50:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -879,8 +879,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T20:11:16",
-    "releasedAt": "2026-10-17T13:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-17T12:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -916,8 +916,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T17:11:14",
-    "releasedAt": "2026-10-17T19:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-17T18:37:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1077,8 +1077,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T11:11:15",
-    "releasedAt": "2026-10-17T17:10:49",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-17T15:50:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -12785,8 +12785,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-17T21:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-17T20:25:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
