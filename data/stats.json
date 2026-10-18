@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T03:11:14",
+  "generatedAt": "2026-10-18T04:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 322,
-    "bookingsObserved": 119,
+    "bookingsTracked": 323,
+    "bookingsObserved": 120,
     "releasesObserved": 120,
-    "inCustody": 202,
+    "inCustody": 203,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -184,7 +184,7 @@
     {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 45,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 81,
-      "pct": 25.4,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 41,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 35,
-      "pct": 11,
+      "pct": 10.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 29,
-      "pct": 9.1,
+      "count": 30,
+      "pct": 9.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 815,
-      "pct": 62.5,
+      "pct": 62.4,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 109,
+      "count": 110,
       "pct": 8.4,
       "label": "Mount Vernon Municipal Court"
     },
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 48,
-      "pct": 3.7,
+      "count": 49,
+      "pct": 3.8,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -394,12 +394,12 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 43,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 41,
-      "pct": 12.9
+      "count": 42,
+      "pct": 13.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -538,7 +538,7 @@
     {
       "name": "J",
       "count": 18,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "K",
@@ -553,7 +553,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -562,13 +562,13 @@
     },
     {
       "name": "N",
-      "count": 28,
-      "pct": 14.9
+      "count": 29,
+      "pct": 15.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "Q",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 612,
+      "count": 613,
       "pct": 96.4
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 45.5,
-    "currentLongestDaysHeld": 975.4
+    "currentLongestDaysHeld": 975.5
   },
   "bond": {
-    "withBond": 136,
+    "withBond": 137,
     "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21119000
+    "totalBond": 21120000
   },
   "chargesPerBooking": 4
 }

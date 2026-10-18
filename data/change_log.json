@@ -1,11 +1,60 @@
 [
   {
+    "id": "12407-20261018030500",
+    "nameNumber": "12407",
+    "name": "CROSSMAN, KEVIN DAVID",
+    "bookedAt": "2026-10-18T03:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-18T03:05:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONT SUBS NO PRESCRIPTION-ATTEMPT",
+        "offenseDate": "2026-08-26T00:00:00",
+        "incident": "26-A05269",
+        "court": "AMC",
+        "courtReference": "6A0270658",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "MUNICIPALITIES CODE VIOLATION",
+        "offenseDate": "2025-07-23T00:00:00",
+        "incident": "25-M11732",
+        "court": "MVMC",
+        "courtReference": "5A0575483",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T04:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "643287-20261018021500",
     "nameNumber": "643287",
     "name": "WIETZKE, ERIC NICHOLAS",
     "bookedAt": "2026-10-18T02:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
