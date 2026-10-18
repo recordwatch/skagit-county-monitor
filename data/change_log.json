@@ -1,5 +1,29 @@
 [
   {
+    "id": "598168-20261018002500",
+    "nameNumber": "598168",
+    "name": "ZEPEDA, GUILLERMO DIEGO",
+    "bookedAt": "2026-10-18T00:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T01:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "640115-20261017183000",
     "nameNumber": "640115",
     "name": "JUAREZ-LOPEZ, SERGIO",
