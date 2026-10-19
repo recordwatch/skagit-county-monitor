@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T22:11:13",
+  "generatedAt": "2026-10-18T23:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 329,
-    "bookingsObserved": 126,
+    "bookingsTracked": 330,
+    "bookingsObserved": 127,
     "releasesObserved": 120,
-    "inCustody": 209,
+    "inCustody": 210,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 9,
+      "booked": 10,
       "released": 0
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 51,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,7 +184,7 @@
     {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 47,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -193,17 +193,17 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 36,
-      "pct": 2.7
+      "count": 37,
+      "pct": 2.8
     },
     {
-      "name": "CRIM TRESPASS 2ND",
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 31,
       "pct": 2.3
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 30,
+      "name": "CRIM TRESPASS 2ND",
+      "count": 31,
       "pct": 2.3
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 84,
-      "pct": 25.8,
+      "pct": 25.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 41,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 33,
-      "pct": 10.1,
+      "count": 34,
+      "pct": 10.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 816,
-      "pct": 61.7,
+      "count": 819,
+      "pct": 61.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 120,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 85,
-      "pct": 26.1
+      "count": 86,
+      "pct": 26.3
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 42,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -633,12 +633,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 44.9,
-    "currentLongestDaysHeld": 976.2
+    "currentMedianDaysHeld": 44.8,
+    "currentLongestDaysHeld": 976.3
   },
   "bond": {
     "withBond": 139,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21126500

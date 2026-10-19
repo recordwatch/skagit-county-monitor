@@ -1,5 +1,66 @@
 [
   {
+    "id": "82960-20261018211500",
+    "nameNumber": "82960",
+    "name": "EKSTRAN, KEITH GARNER",
+    "bookedAt": "2026-10-18T21:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-18T19:17:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI FELONY",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T23:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "434904-20261018170500",
     "nameNumber": "434904",
     "name": "CARRILLO, RIGOBERTO ALVERADO",
