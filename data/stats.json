@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T06:11:16",
+  "generatedAt": "2026-10-19T07:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 330,
-    "bookingsObserved": 127,
+    "bookingsTracked": 331,
+    "bookingsObserved": 128,
     "releasesObserved": 121,
-    "inCustody": 209,
+    "inCustody": 210,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 84,
-      "pct": 25.7,
+      "pct": 25.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 65,
-      "pct": 19.9,
+      "count": 66,
+      "pct": 20.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 30,
-      "pct": 9.2,
+      "pct": 9.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SC",
       "count": 819,
-      "pct": 61.7,
+      "pct": 61.6,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 151,
+      "count": 152,
       "pct": 11.4,
       "label": "Skagit County District Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 86,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 47,
-      "pct": 14.4
+      "count": 48,
+      "pct": 14.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 10,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 625,
+      "count": 626,
       "pct": 96.5
     },
     {
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 118,
-    "observed": 3,
+    "official": 119,
+    "observed": 2,
     "reportOnly": 29
   },
   "stay": {
@@ -638,15 +638,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.2,
+    "currentMedianDaysHeld": 45.1,
     "currentLongestDaysHeld": 976.6
   },
   "bond": {
-    "withBond": 139,
+    "withBond": 140,
     "noBond": 70,
-    "medianBond": 50000,
+    "medianBond": 45000,
     "maxBond": 1350000,
-    "totalBond": 21129000
+    "totalBond": 21130000
   },
   "chargesPerBooking": 4
 }

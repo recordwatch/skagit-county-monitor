@@ -1,5 +1,42 @@
 [
   {
+    "id": "493128-20261019045000",
+    "nameNumber": "493128",
+    "name": "MARTINES, CRYSTAL ROSA",
+    "bookedAt": "2026-10-19T04:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T04:10:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-10-19T04:10:00",
+        "incident": "26-12764",
+        "court": "DC",
+        "courtReference": "6A0326685",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T07:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "82960-20261018211500",
     "nameNumber": "82960",
     "name": "EKSTRAN, KEITH GARNER",
@@ -863,7 +900,7 @@
   {
     "id": "742557-20261017014000",
     "nameNumber": "742557",
-    "name": "PETERSON, PENPET JACK",
+    "name": "PETERSEN, PENPET JACK",
     "bookedAt": "2026-10-17T01:40:00",
     "scheduledRelease": null,
     "location": "J206",
@@ -10332,8 +10369,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-19T06:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T05:25:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
