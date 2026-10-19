@@ -404,9 +404,14 @@
         "arrestDate": "2026-10-18T03:05:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "arrestDate": "2026-10-19T03:16:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -426,8 +431,8 @@
         "incident": "25-M11732",
         "court": "MVMC",
         "courtReference": "5A0575483",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -454,6 +459,30 @@
         "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-18T01:37:00",
+        "incident": "26-A05486",
+        "court": "AMC",
+        "courtReference": "6A0401046",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-10-18T01:37:00",
+        "incident": "26-A06486",
+        "court": "AMC",
+        "courtReference": "6A0401045",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
     ],

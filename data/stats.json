@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:11:14",
+  "generatedAt": "2026-10-19T04:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 330,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 68,
-      "pct": 5.1
+      "count": 69,
+      "pct": 5.2
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 819,
-      "pct": 61.8,
+      "pct": 61.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 49,
-      "pct": 3.7,
+      "count": 51,
+      "pct": 3.8,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -584,13 +584,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 622,
-      "pct": 96.4
+      "count": 625,
+      "pct": 96.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 21,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "Cash Only",
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 45,
-    "currentLongestDaysHeld": 976.4
+    "currentLongestDaysHeld": 976.5
   },
   "bond": {
     "withBond": 139,
     "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21126500
+    "totalBond": 21129000
   },
   "chargesPerBooking": 4
 }
