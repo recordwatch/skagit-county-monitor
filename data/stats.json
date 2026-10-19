@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T08:11:15",
+  "generatedAt": "2026-10-19T09:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 331,
-    "bookingsObserved": 128,
+    "bookingsTracked": 332,
+    "bookingsObserved": 129,
     "releasesObserved": 121,
-    "inCustody": 210,
+    "inCustody": 211,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 1,
+      "booked": 2,
       "released": 1
     }
   ],
@@ -247,6 +247,11 @@
       "pct": 1.5
     },
     {
+      "name": "IDENTITY THEFT 2ND",
+      "count": 19,
+      "pct": 1.4
+    },
+    {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
       "count": 19,
       "pct": 1.4
@@ -255,18 +260,13 @@
       "name": "RECKLESS DRIVING",
       "count": 18,
       "pct": 1.4
-    },
-    {
-      "name": "IDENTITY THEFT 2ND",
-      "count": 18,
-      "pct": 1.4
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 84,
-      "pct": 25.6,
+      "pct": 25.5,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,20 +277,20 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 41,
-      "pct": 12.5,
+      "count": 42,
+      "pct": 12.8,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 35,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 34,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 12,
-      "pct": 3.7,
+      "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 819,
-      "pct": 61.6,
+      "count": 820,
+      "pct": 61.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 86,
-      "pct": 26.2
+      "pct": 26.1
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 20,
-      "pct": 6.1
+      "count": 21,
+      "pct": 6.4
     },
     {
       "name": "DUI CITATION ARREST",
@@ -461,12 +461,12 @@
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 18.4
+      "pct": 18.3
     },
     {
       "name": "Serving Commit",
-      "count": 99,
-      "pct": 16.2
+      "count": 100,
+      "pct": 16.4
     },
     {
       "name": "Sentence Complete Release",
@@ -517,8 +517,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 6,
-      "pct": 3.1
+      "count": 7,
+      "pct": 3.6
     },
     {
       "name": "DORM 1 (E101)",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -538,12 +538,12 @@
     {
       "name": "J",
       "count": 21,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "K",
       "count": 20,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -563,12 +563,12 @@
     {
       "name": "N",
       "count": 30,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "Q",
@@ -638,12 +638,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.2,
-    "currentLongestDaysHeld": 976.6
+    "currentMedianDaysHeld": 45,
+    "currentLongestDaysHeld": 976.7
   },
   "bond": {
     "withBond": 140,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 45000,
     "maxBond": 1350000,
     "totalBond": 21130000
