@@ -1,5 +1,91 @@
 [
   {
+    "id": "646700-20261019104500",
+    "nameNumber": "646700",
+    "name": "FLETCHER, JACQUELINE MARIE",
+    "bookedAt": "2026-10-19T10:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T10:45:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2024-12-06T00:00:00",
+        "incident": "24-B08967",
+        "court": "SC",
+        "courtReference": "25-1-00119-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Superior Court Summon Release",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T11:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "725678-20261019095000",
+    "nameNumber": "725678",
+    "name": "VAZQUEZ-PABLO, FELICIANO PABLO",
+    "bookedAt": "2026-10-19T09:50:00",
+    "scheduledRelease": "2026-11-03T09:50:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T09:50:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-05-23T00:00:00",
+        "incident": "26-W02348",
+        "court": "SWMC",
+        "courtReference": "6A0075471",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "IGNITION INTERLOCK DR LIC VIOL",
+        "offenseDate": "2026-05-23T00:00:00",
+        "incident": "26-W02348",
+        "court": "SWMC",
+        "courtReference": "6A0075470",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T11:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "257760-20261019082000",
     "nameNumber": "257760",
     "name": "LUEDERITZ, MICHAEL WILLIAM",
@@ -11397,7 +11483,7 @@
         "courtReference": "DOC 19-1-00699-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -17204,7 +17290,7 @@
     "name": "BRENON, KIRK ALLEN",
     "bookedAt": "2026-07-04T19:40:00",
     "scheduledRelease": null,
-    "location": "K111",
+    "location": "K110",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -18416,7 +18502,7 @@
     "name": "BARRON, FRANCISCO JR",
     "bookedAt": "2026-06-16T20:51:00",
     "scheduledRelease": null,
-    "location": "K110",
+    "location": "K106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

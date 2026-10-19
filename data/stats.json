@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T10:11:16",
+  "generatedAt": "2026-10-19T11:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 333,
-    "bookingsObserved": 130,
+    "bookingsTracked": 335,
+    "bookingsObserved": 132,
     "releasesObserved": 122,
-    "inCustody": 211,
+    "inCustody": 213,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 3,
+      "booked": 5,
       "released": 2
     }
   ],
@@ -189,7 +189,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 38,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -209,7 +209,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
       "count": 30,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -224,12 +224,12 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 22,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 22,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "DWLS/R 1ST DEGREE",
@@ -259,44 +259,44 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 18,
-      "pct": 1.4
+      "pct": 1.3
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 84,
-      "pct": 25.5,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 66,
-      "pct": 20,
+      "pct": 19.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 42,
-      "pct": 12.7,
+      "count": 43,
+      "pct": 13,
       "label": "BURLINGTON POLICE DEPT"
+    },
+    {
+      "name": "SEDRO-WOOLLEY POLICE DEPT",
+      "count": 36,
+      "pct": 10.8,
+      "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 35,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "WA STATE PATROL"
-    },
-    {
-      "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 35,
-      "pct": 10.6,
-      "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 30,
-      "pct": 9.1,
+      "pct": 9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 820,
-      "pct": 61.6,
+      "count": 821,
+      "pct": 61.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 54,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Other"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 32,
-      "pct": 2.4,
+      "count": 34,
+      "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 86,
-      "pct": 26.1
+      "pct": 25.9
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 54,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -403,13 +403,13 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 22,
-      "pct": 6.7
+      "count": 23,
+      "pct": 6.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 21,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "DUI CITATION ARREST",
@@ -432,14 +432,14 @@
       "pct": 1.8
     },
     {
-      "name": "DEPT OF CORRECTIONS HOLD",
+      "name": "SUPERIOR COURT SUMMONS",
       "count": 5,
       "pct": 1.5
     },
     {
-      "name": "SUPERIOR COURT SUMMONS",
-      "count": 4,
-      "pct": 1.2
+      "name": "DEPT OF CORRECTIONS HOLD",
+      "count": 5,
+      "pct": 1.5
     },
     {
       "name": "REVOCATION OF PR",
@@ -456,32 +456,32 @@
     {
       "name": "Own Recognizance Release",
       "count": 177,
-      "pct": 29
+      "pct": 28.8
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "Serving Commit",
-      "count": 100,
-      "pct": 16.4
+      "count": 102,
+      "pct": 16.6
     },
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "Dismissed",
       "count": 58,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 25,
-      "pct": 4.1
+      "count": 26,
+      "pct": 4.2
     },
     {
       "name": "Amended",
@@ -496,7 +496,7 @@
     {
       "name": "Bail Bond Release",
       "count": 15,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "Sanction Release",
@@ -509,7 +509,7 @@
       "pct": 1.5
     },
     {
-      "name": "Cash Bail Release",
+      "name": "Superior Court Summon Release",
       "count": 1,
       "pct": 0.2
     }
@@ -527,8 +527,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 14,
-      "pct": 7.2
+      "count": 15,
+      "pct": 7.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "K",
       "count": 19,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -558,7 +558,7 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "N",
@@ -573,12 +573,12 @@
     {
       "name": "Q",
       "count": 27,
-      "pct": 13.9
+      "pct": 13.8
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "SAN JUAN COUNTY",
@@ -638,12 +638,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 45.1,
-    "currentLongestDaysHeld": 976.7
+    "currentMedianDaysHeld": 44.4,
+    "currentLongestDaysHeld": 976.8
   },
   "bond": {
     "withBond": 140,
-    "noBond": 71,
+    "noBond": 73,
     "medianBond": 45000,
     "maxBond": 1350000,
     "totalBond": 21130000
