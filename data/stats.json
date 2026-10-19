@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T15:11:14",
+  "generatedAt": "2026-10-19T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 336,
-    "bookingsObserved": 133,
-    "releasesObserved": 133,
+    "bookingsTracked": 337,
+    "bookingsObserved": 134,
+    "releasesObserved": 134,
     "inCustody": 203,
     "uniquePeople": 1
   },
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 6,
-      "released": 13
+      "booked": 7,
+      "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
       "count": 77,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 69,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 84,
-      "pct": 25.2,
+      "count": 85,
+      "pct": 25.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 821,
-      "pct": 61.3,
+      "count": 826,
+      "pct": 61.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 124,
-      "pct": 9.3,
+      "pct": 9.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 86,
-      "pct": 25.8
+      "pct": 25.7
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 54,
-      "pct": 16.2
+      "count": 55,
+      "pct": 16.5
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -455,33 +455,33 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 199,
-      "pct": 31.2
+      "count": 208,
+      "pct": 32.1
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 17.6
+      "pct": 17.3
     },
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 16.1
+      "pct": 15.9
     },
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 9.9
+      "pct": 9.7
     },
     {
       "name": "Dismissed",
       "count": 58,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 26,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "Amended",
@@ -496,7 +496,7 @@
     {
       "name": "Bail Bond Release",
       "count": 15,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "Sanction Release",
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 7,
-      "pct": 3.7
+      "pct": 3.8
     },
     {
       "name": "DORM 1 (E101)",
@@ -548,7 +548,7 @@
     {
       "name": "M",
       "count": 10,
-      "pct": 5.3
+      "pct": 5.4
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,22 +563,22 @@
     {
       "name": "N",
       "count": 20,
-      "pct": 10.7
+      "pct": 10.8
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 16
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 14.4
+      "pct": 14.5
     },
     {
       "name": "R",
-      "count": 20,
-      "pct": 10.7
+      "count": 19,
+      "pct": 10.2
     },
     {
       "name": "SAN JUAN COUNTY",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 617,
+      "count": 613,
       "pct": 96.4
     },
     {
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 119,
-    "observed": 14,
+    "observed": 15,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 132,
+    "releasedCount": 133,
     "medianDays": 1.3,
-    "meanDays": 84,
+    "meanDays": 83.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -623,7 +623,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 9
+        "count": 10
       },
       {
         "label": "1–4 weeks",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 47,
-    "currentLongestDaysHeld": 976.9
+    "currentLongestDaysHeld": 977
   },
   "bond": {
-    "withBond": 132,
-    "noBond": 71,
+    "withBond": 131,
+    "noBond": 72,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21111500
+    "totalBond": 21115000
   },
   "chargesPerBooking": 4
 }

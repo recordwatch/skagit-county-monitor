@@ -1,5 +1,90 @@
 [
   {
+    "id": "732335-20261019144800",
+    "nameNumber": "732335",
+    "name": "BRIONES-BARCENAS, SERGIO",
+    "bookedAt": "2026-10-19T14:48:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T14:48:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2026-10-19T00:00:00",
+        "incident": "26-M03493",
+        "court": "SC",
+        "courtReference": "26-1-00147-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-10-19T00:00:00",
+        "incident": "26-M03493",
+        "court": "SC",
+        "courtReference": "26-1-00147-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2026-07-27T00:00:00",
+        "incident": "26-B01871",
+        "court": "SC",
+        "courtReference": "26-1-00342-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2026-07-27T00:00:00",
+        "incident": "26-B01871",
+        "court": "SC",
+        "courtReference": "26-1-00342-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2026-07-27T00:00:00",
+        "incident": "26-B01871",
+        "court": "SC",
+        "courtReference": "26-1-00342-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T16:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "157340-20261019130000",
     "nameNumber": "157340",
     "name": "JOHNSON, CATHERINE MARY",
@@ -457,7 +542,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 4500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -465,9 +550,9 @@
         "incident": "26-M15538",
         "court": "MVMC",
         "courtReference": "6A0426447",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -477,9 +562,9 @@
         "incident": "26-M08410",
         "court": "MVMC",
         "courtReference": "6A0051955",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -489,9 +574,9 @@
         "incident": "26-M08336",
         "court": "MVMC",
         "courtReference": "6A0328956",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -501,9 +586,9 @@
         "incident": "26-M11029",
         "court": "MVMC",
         "courtReference": "6A0239731",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -513,9 +598,9 @@
         "incident": "26-M12671",
         "court": "MVMC",
         "courtReference": "6A0129340",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -526,8 +611,8 @@
         "court": "MVMC",
         "courtReference": "6A0129340",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -538,7 +623,7 @@
         "court": "MVMC",
         "courtReference": "6A0129340",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -576,7 +661,7 @@
         "courtReference": "6A0395220",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -865,7 +950,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -873,9 +958,9 @@
         "incident": "25-M17892",
         "court": "MVMC",
         "courtReference": "5A0906883",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -885,9 +970,9 @@
         "incident": "26-M11228",
         "court": "MVMC",
         "courtReference": "6A0328972",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1457,10 +1542,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T15:40:08",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
