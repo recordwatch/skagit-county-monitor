@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T04:11:13",
+  "generatedAt": "2026-10-19T05:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 330,
@@ -465,13 +465,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 100,
-      "pct": 16.4
+      "count": 99,
+      "pct": 16.2
     },
     {
       "name": "Sentence Complete Release",
-      "count": 62,
-      "pct": 10.2
+      "count": 63,
+      "pct": 10.3
     },
     {
       "name": "Dismissed",
