@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T17:11:15",
+  "generatedAt": "2026-10-18T18:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 326,
-    "bookingsObserved": 123,
+    "bookingsTracked": 327,
+    "bookingsObserved": 124,
     "releasesObserved": 120,
-    "inCustody": 206,
+    "inCustody": 207,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 6,
+      "booked": 7,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 50,
-      "pct": 3.8
+      "count": 51,
+      "pct": 3.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 83,
-      "pct": 25.7,
+      "pct": 25.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
       "name": "ISLAND COUNTY SHERIFF",
-      "count": 3,
-      "pct": 0.9,
+      "count": 4,
+      "pct": 1.2,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 816,
-      "pct": 62,
+      "pct": 61.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 53,
-      "pct": 4,
+      "count": 54,
+      "pct": 4.1,
       "label": "Other"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 85,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -423,8 +423,8 @@
     },
     {
       "name": "OTHER COUNTY HOLDS",
-      "count": 9,
-      "pct": 2.8
+      "count": 10,
+      "pct": 3.1
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 177,
-      "pct": 29.1
+      "pct": 29
     },
     {
       "name": "Declined To Prosecute",
@@ -490,8 +490,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 15,
-      "pct": 2.5
+      "count": 16,
+      "pct": 2.6
     },
     {
       "name": "Bail Bond Release",
@@ -537,13 +537,13 @@
     },
     {
       "name": "J",
-      "count": 20,
-      "pct": 10.5
+      "count": 21,
+      "pct": 10.9
     },
     {
       "name": "K",
       "count": 20,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "M",
@@ -563,17 +563,17 @@
     {
       "name": "N",
       "count": 29,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 13.6
+      "pct": 13.5
     },
     {
       "name": "R",
@@ -634,11 +634,11 @@
       }
     ],
     "currentMedianDaysHeld": 45.2,
-    "currentLongestDaysHeld": 976
+    "currentLongestDaysHeld": 976.1
   },
   "bond": {
     "withBond": 138,
-    "noBond": 68,
+    "noBond": 69,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21124500

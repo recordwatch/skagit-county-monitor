@@ -1,5 +1,42 @@
 [
   {
+    "id": "434904-20261018170500",
+    "nameNumber": "434904",
+    "name": "CARRILLO, RIGOBERTO ALVERADO",
+    "bookedAt": "2026-10-18T17:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-18T17:05:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "ISLAND 26-1-00055-15",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T18:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "536523-20261018122500",
     "nameNumber": "536523",
     "name": "JACKSON, MAURICE JR",
@@ -114,7 +151,7 @@
     "name": "ARENDSE, CAITLIN ANN",
     "bookedAt": "2026-10-18T11:57:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
