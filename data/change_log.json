@@ -37,6 +37,30 @@
     "baseline": false
   },
   {
+    "id": "721860-20261018160200",
+    "nameNumber": "721860",
+    "name": "CONSTANT, GABRIEL QUINN",
+    "bookedAt": "2026-10-18T16:02:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T19:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "536523-20261018122500",
     "nameNumber": "536523",
     "name": "JACKSON, MAURICE JR",
