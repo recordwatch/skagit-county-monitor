@@ -337,10 +337,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T20:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T13:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -779,7 +779,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -787,9 +787,9 @@
         "incident": "25-M15312",
         "court": "MVMC",
         "courtReference": "5A0835696",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -800,8 +800,8 @@
         "court": "MVMC",
         "courtReference": "5A0835696",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1194,7 +1194,7 @@
         "courtReference": "6A0395875",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1211,7 +1211,7 @@
     "name": "SOLANO-CRUZ, SILVERIO JR JR",
     "bookedAt": "2026-10-16T20:15:00",
     "scheduledRelease": "2026-11-01T20:15:00",
-    "location": "N203",
+    "location": "P106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1563,7 +1563,7 @@
         "courtReference": "6A0429158",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -1947,7 +1947,7 @@
     "name": "SAULS, WRAYNE HARLEY",
     "bookedAt": "2026-10-16T00:45:00",
     "scheduledRelease": null,
-    "location": "J211",
+    "location": "R108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -8645,7 +8645,7 @@
     "name": "HEDINGTON, JADYN MICHAEL",
     "bookedAt": "2026-09-30T15:10:00",
     "scheduledRelease": "2026-10-06T19:59:44",
-    "location": "J102",
+    "location": "J101",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
