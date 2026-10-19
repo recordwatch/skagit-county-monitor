@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T14:40:40",
+  "generatedAt": "2026-10-19T15:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 336,
     "bookingsObserved": 133,
-    "releasesObserved": 131,
-    "inCustody": 205,
+    "releasesObserved": 133,
+    "inCustody": 203,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-19",
       "booked": 6,
-      "released": 11
+      "released": 13
     }
   ],
   "topCharges": [
@@ -455,8 +455,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 198,
-      "pct": 31.1
+      "count": 199,
+      "pct": 31.2
     },
     {
       "name": "Declined To Prosecute",
@@ -466,7 +466,7 @@
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Sentence Complete Release",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.5
+      "pct": 8.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,13 +537,13 @@
     },
     {
       "name": "J",
-      "count": 19,
-      "pct": 10.1
+      "count": 17,
+      "pct": 9.1
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -553,32 +553,32 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.6
+      "pct": 2.7
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 5.8
+      "pct": 5.9
     },
     {
       "name": "N",
       "count": 20,
-      "pct": 10.6
+      "pct": 10.7
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 15.9
+      "pct": 16
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 14.3
+      "pct": 14.4
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 10.6
+      "pct": 10.7
     },
     {
       "name": "SAN JUAN COUNTY",
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 119,
-    "observed": 12,
+    "observed": 14,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 130,
-    "medianDays": 1.2,
-    "meanDays": 85.2,
+    "releasedCount": 132,
+    "medianDays": 1.3,
+    "meanDays": 84,
     "buckets": [
       {
         "label": "< 1 day",
@@ -619,7 +619,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 37
+        "count": 39
       },
       {
         "label": "3–7 days",
@@ -638,12 +638,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 46.1,
+    "currentMedianDaysHeld": 47,
     "currentLongestDaysHeld": 976.9
   },
   "bond": {
     "withBond": 132,
-    "noBond": 73,
+    "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21111500

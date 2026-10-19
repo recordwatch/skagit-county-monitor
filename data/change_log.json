@@ -593,7 +593,7 @@
     "name": "SPEED, MIKALAH LEE",
     "bookedAt": "2026-10-18T11:35:00",
     "scheduledRelease": null,
-    "location": "J201",
+    "location": "J102",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1051,10 +1051,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T05:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T15:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1162,10 +1162,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T02:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T15:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1194,7 +1194,7 @@
         "courtReference": "6A0200995",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
