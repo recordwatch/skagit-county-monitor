@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:11:16",
+  "generatedAt": "2026-10-19T00:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 330,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-19",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-09-20",
       "booked": 1,
@@ -157,6 +152,11 @@
     {
       "date": "2026-10-18",
       "booked": 10,
+      "released": 0
+    },
+    {
+      "date": "2026-10-19",
+      "booked": 0,
       "released": 0
     }
   ],
@@ -558,12 +558,12 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "N",
       "count": 31,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "P",
@@ -572,13 +572,13 @@
     },
     {
       "name": "Q",
-      "count": 26,
-      "pct": 13.4
+      "count": 27,
+      "pct": 13.8
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 9.8
+      "pct": 9.7
     }
   ],
   "bailTypes": [

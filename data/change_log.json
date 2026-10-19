@@ -66,7 +66,7 @@
     "name": "CARRILLO, RIGOBERTO ALVERADO",
     "bookedAt": "2026-10-18T17:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "Q101",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -14539,7 +14539,7 @@
     "name": "FLEURANTIN, DEJA RENE",
     "bookedAt": "2026-08-07T04:15:00",
     "scheduledRelease": null,
-    "location": "R209",
+    "location": "R206",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
