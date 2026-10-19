@@ -3262,7 +3262,7 @@
     "name": "MADDEN, DEMARCUS ROBERT",
     "bookedAt": "2026-10-13T17:45:00",
     "scheduledRelease": null,
-    "location": "P106",
+    "location": "SAN JUAN COUNTY",
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -10330,10 +10330,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T06:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
