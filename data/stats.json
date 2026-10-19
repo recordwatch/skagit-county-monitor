@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:26:49",
+  "generatedAt": "2026-10-18T22:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 329,
@@ -523,12 +523,12 @@
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -538,17 +538,17 @@
     {
       "name": "J",
       "count": 21,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "K",
       "count": 20,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -562,18 +562,18 @@
     },
     {
       "name": "N",
-      "count": 30,
-      "pct": 15.5
+      "count": 31,
+      "pct": 16
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15
+      "pct": 14.9
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "R",
