@@ -84,7 +84,7 @@
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": "2026-10-20T12:55:00",
+        "arrestDate": "2026-10-20T12:40:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -322,7 +322,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
@@ -330,7 +330,7 @@
         "incident": "26-M03493",
         "court": "SC",
         "courtReference": "26-1-00147-29",
-        "bailAmount": 5000,
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -354,7 +354,7 @@
         "incident": "26-B01871",
         "court": "SC",
         "courtReference": "26-1-00342-29",
-        "bailAmount": 5000,
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
