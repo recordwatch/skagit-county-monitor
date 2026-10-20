@@ -287,7 +287,7 @@
     "name": "RAZMENDA, ZAIDULLAH",
     "bookedAt": "2026-10-19T07:11:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J211",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -324,7 +324,7 @@
     "name": "MARTINES, CRYSTAL ROSA",
     "bookedAt": "2026-10-19T04:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -1210,10 +1210,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T04:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T19:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
