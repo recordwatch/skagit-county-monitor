@@ -30,10 +30,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T06:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T11:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -99,7 +99,7 @@
         "courtReference": "6A0398929",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -381,7 +381,7 @@
         "courtReference": "T00917534",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -490,7 +490,7 @@
         "court": "DC",
         "courtReference": "PA0009535",
         "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -502,7 +502,7 @@
         "court": "DC",
         "courtReference": "PA0009535",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -514,7 +514,7 @@
         "court": "DC",
         "courtReference": "PA0009535",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
