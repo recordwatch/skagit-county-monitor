@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T09:11:13",
+  "generatedAt": "2026-10-20T10:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 340,
     "bookingsObserved": 137,
-    "releasesObserved": 146,
-    "inCustody": 194,
+    "releasesObserved": 147,
+    "inCustody": 193,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-20",
       "booked": 1,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -455,28 +455,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 220,
-      "pct": 33
+      "count": 227,
+      "pct": 33.7
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 17.5
+      "pct": 17.4
     },
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "Dismissed",
       "count": 58,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "Dept Of Corrections Release",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.9
+      "pct": 9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,12 +548,12 @@
     {
       "name": "K",
       "count": 19,
-      "pct": 10.6
+      "pct": 10.7
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5
+      "pct": 5.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 19,
-      "pct": 10.6
+      "count": 17,
+      "pct": 9.6
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 17.3
+      "pct": 17.4
     },
     {
       "name": "Q",
-      "count": 25,
-      "pct": 14
+      "count": 26,
+      "pct": 14.6
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 613,
+      "count": 607,
       "pct": 96.2
     },
     {
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 142,
-    "observed": 4,
+    "observed": 5,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 144,
+    "releasedCount": 145,
     "medianDays": 1.4,
-    "meanDays": 79.5,
+    "meanDays": 79.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -631,22 +631,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 16
+        "count": 17
       },
       {
         "label": "3+ months",
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 50.1,
+    "currentMedianDaysHeld": 48.7,
     "currentLongestDaysHeld": 977.7
   },
   "bond": {
-    "withBond": 133,
-    "noBond": 61,
+    "withBond": 130,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21145000
+    "totalBond": 21139000
   },
   "chargesPerBooking": 4
 }

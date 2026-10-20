@@ -25,7 +25,7 @@
         "courtReference": "T00901552",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -52,7 +52,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -60,9 +60,9 @@
         "incident": "25-A06312",
         "court": "AMC",
         "courtReference": "5A0851125",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -408,7 +408,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
@@ -416,9 +416,9 @@
         "incident": "26-12764",
         "court": "DC",
         "courtReference": "6A0326685",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -4426,7 +4426,7 @@
     "name": "FREDAY, ROBERT RAE",
     "bookedAt": "2026-10-12T08:50:00",
     "scheduledRelease": null,
-    "location": "N206",
+    "location": "Q202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -7207,7 +7207,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 23000,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -7275,9 +7275,9 @@
         "incident": "26-M13736",
         "court": "MVMC",
         "courtReference": "6A0409177",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -7287,9 +7287,9 @@
         "incident": "26-M09465",
         "court": "MVMC",
         "courtReference": "6A0350389",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -7299,9 +7299,9 @@
         "incident": "26-M05699",
         "court": "MVMC",
         "courtReference": "6A0288014",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -7312,8 +7312,8 @@
         "court": "MVMC",
         "courtReference": "6A0288014",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -13766,10 +13766,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T10:11:18",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
