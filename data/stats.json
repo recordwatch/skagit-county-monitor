@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:11:19",
+  "generatedAt": "2026-10-20T08:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 340,
@@ -461,17 +461,17 @@
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Dismissed",
@@ -481,37 +481,37 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Amended",
       "count": 25,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "Bail Bond Release",
       "count": 17,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "Pending Transport",
       "count": 13,
-      "pct": 2
+      "pct": 1.9
+    },
+    {
+      "name": "Shuttle Release",
+      "count": 10,
+      "pct": 1.5
     },
     {
       "name": "Sanction Release",
       "count": 9,
-      "pct": 1.4
-    },
-    {
-      "name": "Shuttle Release",
-      "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "Superior Court Summon Release",
       "count": 1,
-      "pct": 0.2
+      "pct": 0.1
     }
   ],
   "housingUnits": [
@@ -638,7 +638,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 50,
+    "currentMedianDaysHeld": 50.1,
     "currentLongestDaysHeld": 977.6
   },
   "bond": {
