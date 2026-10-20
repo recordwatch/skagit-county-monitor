@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:11:17",
+  "generatedAt": "2026-10-19T22:50:49",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 339,
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 612,
+      "count": 613,
       "pct": 96.4
     },
     {
@@ -641,7 +641,7 @@
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21144000
+    "totalBond": 21146000
   },
   "chargesPerBooking": 4
 }

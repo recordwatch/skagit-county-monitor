@@ -7987,7 +7987,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -8031,8 +8031,8 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "WHATCOM XZ0378206",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
