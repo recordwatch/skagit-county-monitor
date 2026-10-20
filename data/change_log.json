@@ -265,8 +265,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-19T11:11:15",
-    "releasedAt": "2026-10-19T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T10:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -608,8 +608,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T20:11:13",
-    "releasedAt": "2026-10-19T13:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T12:16:11",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -669,8 +669,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T19:11:14",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -778,8 +778,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T14:11:15",
-    "releasedAt": "2026-10-19T17:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T16:54:42",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -815,8 +815,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T14:11:15",
-    "releasedAt": "2026-10-19T17:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T16:40:48",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -991,8 +991,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T03:11:14",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:43:55",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1028,8 +1028,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T01:11:14",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:42:42",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1077,8 +1077,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T20:11:15",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:41:19",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1126,8 +1126,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T15:00:15",
-    "releasedAt": "2026-10-19T17:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T16:42:03",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1175,8 +1175,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T11:11:15",
-    "releasedAt": "2026-10-19T10:05:50",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T09:05:58",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T05:11:15",
-    "releasedAt": "2026-10-19T15:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T14:33:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1322,8 +1322,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T04:11:16",
-    "releasedAt": "2026-10-19T19:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T18:46:46",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1359,8 +1359,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T04:11:16",
-    "releasedAt": "2026-10-19T17:56:56",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T17:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1396,8 +1396,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T02:11:14",
-    "releasedAt": "2026-10-19T15:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T14:38:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1433,8 +1433,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T02:11:14",
-    "releasedAt": "2026-10-19T17:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T16:42:38",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1470,8 +1470,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T02:11:14",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:42:05",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1539,7 +1539,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "TRIBAL CODE VIOLATION",
@@ -1547,8 +1547,8 @@
         "incident": "26-SP1630",
         "court": "TC",
         "courtReference": "6A0425287",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 500,
+        "bailType": "Cash Only",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -1593,8 +1593,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T20:11:16",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1691,8 +1691,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T15:40:08",
-    "releasedAt": "2026-10-19T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T15:57:19",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1839,8 +1839,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T12:11:13",
-    "releasedAt": "2026-10-19T14:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T13:40:50",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1926,8 +1926,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T10:11:15",
-    "releasedAt": "2026-10-19T21:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T19:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2120,8 +2120,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T07:11:14",
-    "releasedAt": "2026-10-19T21:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T19:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5172,8 +5172,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-11T05:11:14",
-    "releasedAt": "2026-10-20T00:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T23:24:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -6130,7 +6130,7 @@
     "name": "CAMERON, JAMES WADE",
     "bookedAt": "2026-10-08T10:30:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "ISLAND COUNTY JAIL",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -12574,7 +12574,7 @@
         "courtReference": "DOC 21-1-00050-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -13749,7 +13749,7 @@
         "courtReference": "6A0396840",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -13761,7 +13761,7 @@
         "courtReference": "6A0396840",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -18754,7 +18754,7 @@
         "courtReference": "26-1-00348-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -18766,7 +18766,7 @@
         "courtReference": "26-1-00348-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -20427,8 +20427,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-19T17:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-19T16:15:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
