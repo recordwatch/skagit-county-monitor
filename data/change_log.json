@@ -1787,7 +1787,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "TRAFFIC STOLEN PROP 1ST",
@@ -1795,9 +1795,9 @@
         "incident": "19-M09099",
         "court": "SC",
         "courtReference": "19-1-00657-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1808,8 +1808,8 @@
         "court": "SC",
         "courtReference": "19-1-00657-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
