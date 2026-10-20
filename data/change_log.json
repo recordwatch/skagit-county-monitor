@@ -1,11 +1,48 @@
 [
   {
+    "id": "618679-20261019194500",
+    "nameNumber": "618679",
+    "name": "BEYER, DEAN MICHAEL",
+    "bookedAt": "2026-10-19T19:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T19:35:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2025-09-27T00:00:00",
+        "incident": "25-A06312",
+        "court": "AMC",
+        "courtReference": "5A0851125",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T21:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "26320-20261019152400",
     "nameNumber": "26320",
     "name": "ISAACS, TYSON ROBERT",
     "bookedAt": "2026-10-19T15:24:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -42,7 +79,7 @@
     "name": "BRIONES-BARCENAS, SERGIO",
     "bookedAt": "2026-10-19T14:48:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -1814,10 +1851,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T21:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2008,10 +2045,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T07:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T21:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4326,7 +4363,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 6000,
+    "bondTotal": 24000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -4334,8 +4371,8 @@
         "incident": null,
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -4347,8 +4384,8 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
       },
@@ -4359,8 +4396,8 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
       },
@@ -4370,7 +4407,7 @@
         "incident": "24-13115",
         "court": "SC",
         "courtReference": "24-1-00861-29",
-        "bailAmount": 5000,
+        "bailAmount": 3000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -7489,7 +7526,7 @@
     "name": "PAZOS-VALENCIA, MIGUEL ENRIQUE",
     "bookedAt": "2026-10-05T11:30:00",
     "scheduledRelease": "2027-02-21T19:30:00",
-    "location": "Q108",
+    "location": "Q107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
