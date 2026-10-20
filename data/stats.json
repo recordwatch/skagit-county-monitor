@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T11:11:15",
+  "generatedAt": "2026-10-20T12:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 340,
-    "bookingsObserved": 137,
-    "releasesObserved": 148,
-    "inCustody": 192,
+    "bookingsTracked": 341,
+    "bookingsObserved": 138,
+    "releasesObserved": 150,
+    "inCustody": 191,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 1,
-      "released": 4
+      "booked": 2,
+      "released": 6
     }
   ],
   "topCharges": [
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 87,
-      "pct": 25.8,
+      "pct": 25.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 67,
-      "pct": 19.9,
+      "count": 68,
+      "pct": 20.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 43,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 86,
-      "pct": 25.5
+      "pct": 25.4
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 55,
-      "pct": 16.3
+      "count": 56,
+      "pct": 16.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 43,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 15,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 13,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 7,
-      "pct": 3.9
+      "pct": 4
     },
     {
       "name": "DORM 1 (E101)",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9
+      "pct": 9.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -536,24 +536,19 @@
       "pct": 0.6
     },
     {
-      "name": "ISLAND COUNTY JAIL",
-      "count": 1,
-      "pct": 0.6
-    },
-    {
       "name": "J",
-      "count": 15,
-      "pct": 8.4
+      "count": 13,
+      "pct": 7.4
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.7
+      "pct": 10.8
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 5.1
+      "count": 8,
+      "pct": 4.5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -562,28 +557,28 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 10,
-      "pct": 5.6
+      "count": 11,
+      "pct": 6.3
     },
     {
       "name": "N",
       "count": 17,
-      "pct": 9.6
+      "pct": 9.7
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 17.4
+      "pct": 17.6
     },
     {
       "name": "Q",
-      "count": 26,
-      "pct": 14.6
+      "count": 27,
+      "pct": 15.3
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.1
+      "pct": 10.2
     }
   ],
   "bailTypes": [
@@ -605,13 +600,13 @@
   ],
   "releaseSources": {
     "official": 142,
-    "observed": 6,
+    "observed": 8,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 146,
-    "medianDays": 1.4,
-    "meanDays": 78.8,
+    "releasedCount": 148,
+    "medianDays": 1.3,
+    "meanDays": 77.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -619,7 +614,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 45
+        "count": 47
       },
       {
         "label": "3–7 days",
@@ -638,12 +633,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 50.2,
+    "currentMedianDaysHeld": 51.8,
     "currentLongestDaysHeld": 977.8
   },
   "bond": {
     "withBond": 130,
-    "noBond": 62,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21139000

@@ -1,5 +1,29 @@
 [
   {
+    "id": "638834-20261020112600",
+    "nameNumber": "638834",
+    "name": "JOYNER, JUSTIN DANIEL",
+    "bookedAt": "2026-10-20T11:26:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T11:02:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T12:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742693-20261020044000",
     "nameNumber": "742693",
     "name": "ZAMORANO, IRVING LUGO",
@@ -386,10 +410,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T10:05:50",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T12:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -423,10 +447,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T07:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T12:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -435,7 +459,7 @@
     "name": "EKSTRAN, KEITH GARNER",
     "bookedAt": "2026-10-18T21:15:00",
     "scheduledRelease": null,
-    "location": "M106",
+    "location": "Q104",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -6130,7 +6154,7 @@
     "name": "CAMERON, JAMES WADE",
     "bookedAt": "2026-10-08T10:30:00",
     "scheduledRelease": null,
-    "location": "ISLAND COUNTY JAIL",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
