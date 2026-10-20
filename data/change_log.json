@@ -5106,7 +5106,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -5114,9 +5114,9 @@
         "incident": "25-M12310",
         "court": "SC",
         "courtReference": "25-1-00650-29",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -5127,8 +5127,8 @@
         "court": "SC",
         "courtReference": "25-1-00650-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -17338,7 +17338,7 @@
     "name": "BLUMANTHAL, EMILY ROSE",
     "bookedAt": "2026-07-09T08:15:00",
     "scheduledRelease": "2026-11-06T22:30:00",
-    "location": "R208",
+    "location": "R202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
