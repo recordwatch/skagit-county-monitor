@@ -5,7 +5,7 @@
     "name": "BEYER, DEAN MICHAEL",
     "bookedAt": "2026-10-19T19:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -44,11 +44,11 @@
     "scheduledRelease": null,
     "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
-    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-19T13:08:00",
-        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "arrestType": "DUI CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
@@ -63,7 +63,7 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "arrestType": "DUI CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
@@ -408,7 +408,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "DUI FELONY",
@@ -418,7 +418,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
       },
@@ -430,7 +430,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
       },
@@ -442,6 +442,42 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
+        "disposition": "Declined To Prosecute",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009535",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "OPERATE VEHICLE W/O IGNITION INTERLOCK",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009535",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-18T19:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009535",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -4370,7 +4406,7 @@
         "offenseDate": "2026-10-12T05:21:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-015808",
         "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
