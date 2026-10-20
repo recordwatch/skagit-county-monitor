@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:56:56",
+  "generatedAt": "2026-10-19T18:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 338,
@@ -567,8 +567,8 @@
     },
     {
       "name": "P",
-      "count": 30,
-      "pct": 16.7
+      "count": 31,
+      "pct": 17.2
     },
     {
       "name": "Q",
@@ -579,11 +579,6 @@
       "name": "R",
       "count": 18,
       "pct": 10
-    },
-    {
-      "name": "SAN JUAN COUNTY",
-      "count": 1,
-      "pct": 0.6
     }
   ],
   "bailTypes": [
@@ -639,7 +634,7 @@
       }
     ],
     "currentMedianDaysHeld": 47.6,
-    "currentLongestDaysHeld": 977
+    "currentLongestDaysHeld": 977.1
   },
   "bond": {
     "withBond": 131,
