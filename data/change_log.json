@@ -15,8 +15,69 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 250000,
+    "charges": [
+      {
+        "description": "RAPE 2 INCAPABLE VIC",
+        "offenseDate": "2019-04-13T00:00:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": 250000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RAPE CHILD 3RD DEGREE",
+        "offenseDate": "2019-04-13T00:00:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "INCEST 1ST DEGREE",
+        "offenseDate": "2019-04-13T00:00:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "CHILD MOLESTATION 2ND DEGREE",
+        "offenseDate": "2019-01-01T00:00:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "INCEST 2ND DEGREE",
+        "offenseDate": "2019-01-01T00:00:00",
+        "incident": "26-12500",
+        "court": "SC",
+        "courtReference": "26-1-00581-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-20T12:11:13",
     "releasedAt": null,
@@ -91,10 +152,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T21:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T12:53:41",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
