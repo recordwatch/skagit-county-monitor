@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:11:13",
+  "generatedAt": "2026-10-20T15:59:48",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 344,
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 125,
-      "pct": 9.2,
+      "count": 126,
+      "pct": 9.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 93,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Burlington Municipal Court"
     },
     {
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 610,
+      "count": 611,
       "pct": 95.8
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 51.9,
-    "currentLongestDaysHeld": 977.9
+    "currentLongestDaysHeld": 978
   },
   "bond": {
-    "withBond": 132,
-    "noBond": 59,
+    "withBond": 133,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21390000
+    "totalBond": 21391000
   },
   "chargesPerBooking": 3.9
 }
