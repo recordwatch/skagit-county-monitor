@@ -13739,7 +13739,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "MAL MISCH 3RD DEG",
@@ -13747,8 +13747,8 @@
         "incident": "26-A05220",
         "court": "AMC",
         "courtReference": "6A0396840",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -13760,7 +13760,7 @@
         "court": "AMC",
         "courtReference": "6A0396840",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
