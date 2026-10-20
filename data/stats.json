@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T16:11:16",
+  "generatedAt": "2026-10-19T17:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 337,
-    "bookingsObserved": 134,
-    "releasesObserved": 134,
-    "inCustody": 203,
+    "bookingsTracked": 338,
+    "bookingsObserved": 135,
+    "releasesObserved": 139,
+    "inCustody": 199,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 7,
-      "released": 14
+      "booked": 8,
+      "released": 19
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 77,
-      "pct": 5.7
+      "count": 78,
+      "pct": 5.8
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 52,
+      "count": 53,
       "pct": 3.9
     },
     {
@@ -265,32 +265,32 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 85,
-      "pct": 25.4,
+      "count": 86,
+      "pct": 25.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 67,
-      "pct": 20.1,
+      "pct": 20,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 43,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 36,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 35,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SC",
       "count": 826,
-      "pct": 61.5,
+      "pct": 61.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 154,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 124,
-      "pct": 9.2,
+      "count": 125,
+      "pct": 9.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -389,17 +389,17 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 55,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 49,
-      "pct": 14.7
+      "count": 50,
+      "pct": 14.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 42,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -455,8 +455,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 208,
-      "pct": 32.1
+      "count": 209,
+      "pct": 32.3
     },
     {
       "name": "Declined To Prosecute",
@@ -518,72 +518,72 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 7,
-      "pct": 3.8
+      "pct": 3.9
     },
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.6
+      "pct": 1.7
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.6
+      "pct": 8.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
-      "count": 17,
-      "pct": 9.1
+      "count": 14,
+      "pct": 7.7
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.2
+      "pct": 10.5
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 5.4
+      "pct": 5.5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.8
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 5.9
+      "pct": 6.1
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 10.8
+      "count": 19,
+      "pct": 10.5
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 16.1
+      "pct": 16.6
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 14.5
+      "pct": 14.9
     },
     {
       "name": "R",
-      "count": 19,
-      "pct": 10.2
+      "count": 18,
+      "pct": 9.9
     },
     {
       "name": "SAN JUAN COUNTY",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     }
   ],
   "bailTypes": [
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 119,
-    "observed": 15,
+    "observed": 20,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 133,
+    "releasedCount": 138,
     "medianDays": 1.3,
-    "meanDays": 83.4,
+    "meanDays": 81.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -619,7 +619,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 39
+        "count": 43
       },
       {
         "label": "3–7 days",
@@ -635,15 +635,15 @@
       },
       {
         "label": "3+ months",
-        "count": 10
+        "count": 11
       }
     ],
-    "currentMedianDaysHeld": 47,
+    "currentMedianDaysHeld": 47.2,
     "currentLongestDaysHeld": 977
   },
   "bond": {
     "withBond": 131,
-    "noBond": 72,
+    "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21115000

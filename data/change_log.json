@@ -1,5 +1,42 @@
 [
   {
+    "id": "26320-20261019152400",
+    "nameNumber": "26320",
+    "name": "ISAACS, TYSON ROBERT",
+    "bookedAt": "2026-10-19T15:24:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-19T13:08:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-19T13:08:00",
+        "incident": "26-M15581",
+        "court": "MVMC",
+        "courtReference": "6A0398929",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T17:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "732335-20261019144800",
     "nameNumber": "732335",
     "name": "BRIONES-BARCENAS, SERGIO",
@@ -54,7 +91,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "description": "THEFT 3RD DEG",
         "offenseDate": "2026-07-27T00:00:00",
         "incident": "26-B01871",
         "court": "SC",
@@ -66,7 +103,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "description": "FORGERY KNOWINGLY USE/POSSES/DISPOSE FORGED DOC",
         "offenseDate": "2026-07-27T00:00:00",
         "incident": "26-B01871",
         "court": "SC",
@@ -629,10 +666,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T14:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T17:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -666,10 +703,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T14:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T17:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -977,10 +1014,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T15:00:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T17:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1202,10 +1239,10 @@
         "offenseDate": "2026-10-17T00:44:00",
         "incident": "26-B07618",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00583-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -1284,10 +1321,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T02:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T17:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -14784,7 +14821,7 @@
     "name": "DEROUIN, CALEB MARTIN",
     "bookedAt": "2026-08-09T08:00:00",
     "scheduledRelease": null,
-    "location": "J103",
+    "location": "J105",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -20278,10 +20315,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-19T17:11:13",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
