@@ -4528,7 +4528,7 @@
         "offenseDate": "2026-10-12T05:21:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "26-015808",
+        "courtReference": "26-1-00572-29",
         "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -9316,10 +9316,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-20T14:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -12336,7 +12336,7 @@
     "name": "PFEIFER, NICHOLAS DANIEL",
     "bookedAt": "2026-09-05T00:25:00",
     "scheduledRelease": null,
-    "location": "Q206",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
