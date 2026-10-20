@@ -1,11 +1,109 @@
 [
   {
+    "id": "325331-20261020134100",
+    "nameNumber": "325331",
+    "name": "GUTIERREZ, JONATHAN MICHAEL",
+    "bookedAt": "2026-10-20T13:41:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T12:51:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-08-01T00:00:00",
+        "incident": "26-SP1169",
+        "court": "DC",
+        "courtReference": "6A0360243",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "611042-20261020133000",
+    "nameNumber": "611042",
+    "name": "GRIMM, KEVIN RAMON",
+    "bookedAt": "2026-10-20T13:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T13:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-20T13:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 23-1-00725-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "184416-20261020125500",
+    "nameNumber": "184416",
+    "name": "GARCIA, ISRAEL",
+    "bookedAt": "2026-10-20T12:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T12:55:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "638834-20261020112600",
     "nameNumber": "638834",
     "name": "JOYNER, JUSTIN DANIEL",
     "bookedAt": "2026-10-20T11:26:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -8999,7 +9097,7 @@
     "name": "HEDINGTON, JADYN MICHAEL",
     "bookedAt": "2026-09-30T15:10:00",
     "scheduledRelease": "2026-10-06T19:59:44",
-    "location": "J101",
+    "location": "J201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
