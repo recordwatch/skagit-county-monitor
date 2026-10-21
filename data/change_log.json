@@ -42,7 +42,7 @@
     "name": "LEONARD, CURTIS SCOT",
     "bookedAt": "2026-10-20T15:18:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "M103",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -11271,7 +11271,7 @@
         "courtReference": "6A0408826",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }

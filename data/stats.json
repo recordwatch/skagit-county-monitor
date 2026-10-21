@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:30:12",
+  "generatedAt": "2026-10-21T00:11:12",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 348,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-21",
-      "booked": 4,
-      "released": 0
-    },
     {
       "date": "2026-09-22",
       "booked": 4,
@@ -158,6 +153,11 @@
       "date": "2026-10-20",
       "booked": 9,
       "released": 9
+    },
+    {
+      "date": "2026-10-21",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 105,
-      "pct": 15
+      "count": 106,
+      "pct": 15.1
     },
     {
       "name": "Dismissed",
@@ -518,7 +518,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -538,7 +538,7 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "K",
@@ -547,8 +547,8 @@
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 4.5
+      "count": 9,
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -568,17 +568,17 @@
     {
       "name": "P",
       "count": 31,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.5
+      "pct": 14.4
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.1
+      "pct": 10
     }
   ],
   "bailTypes": [
