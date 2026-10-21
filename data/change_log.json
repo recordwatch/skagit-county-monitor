@@ -1,5 +1,53 @@
 [
   {
+    "id": "491860-20261020172800",
+    "nameNumber": "491860",
+    "name": "MELENDREZ, MAXIMINA URIAS",
+    "bookedAt": "2026-10-20T17:28:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T19:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "553855-20261020151800",
+    "nameNumber": "553855",
+    "name": "LEONARD, CURTIS SCOT",
+    "bookedAt": "2026-10-20T15:18:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T15:18:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T19:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "97644-20261020144500",
     "nameNumber": "97644",
     "name": "BOGART, ROGER DARREL",
@@ -9559,7 +9607,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DISORDERLY CONDUCT",
@@ -9567,9 +9615,9 @@
         "incident": "26-M14528",
         "court": "MVMC",
         "courtReference": "6A0403371",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9580,8 +9628,8 @@
         "court": "MVMC",
         "courtReference": "6A0403371",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9592,8 +9640,8 @@
         "court": "MVMC",
         "courtReference": "6A0403371",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9604,8 +9652,8 @@
         "court": "MVMC",
         "courtReference": "6A0403371",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9615,9 +9663,9 @@
         "incident": "24-M20824",
         "court": "MVMC",
         "courtReference": "4A0872746",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },

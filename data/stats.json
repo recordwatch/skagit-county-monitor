@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T18:28:31",
+  "generatedAt": "2026-10-20T19:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 346,
-    "bookingsObserved": 143,
+    "bookingsTracked": 348,
+    "bookingsObserved": 145,
     "releasesObserved": 153,
-    "inCustody": 193,
+    "inCustody": 195,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 7,
+      "booked": 9,
       "released": 9
     }
   ],
@@ -319,8 +319,8 @@
     },
     {
       "name": "ISLAND COUNTY SHERIFF",
-      "count": 4,
-      "pct": 1.2,
+      "count": 5,
+      "pct": 1.5,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 87,
-      "pct": 25.4
+      "pct": 25.3
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 56,
-      "pct": 16.3
+      "count": 57,
+      "pct": 16.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 49,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -455,18 +455,18 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 229,
-      "pct": 33.9
+      "count": 234,
+      "pct": 34.4
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "Sentence Complete Release",
@@ -476,7 +476,7 @@
     {
       "name": "Dismissed",
       "count": 58,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "Dept Of Corrections Release",
@@ -584,8 +584,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 613,
-      "pct": 95.8
+      "count": 608,
+      "pct": 95.7
     },
     {
       "name": "SCRAM With Bail",
@@ -633,15 +633,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 49,
+    "currentMedianDaysHeld": 48.2,
     "currentLongestDaysHeld": 978.1
   },
   "bond": {
     "withBond": 134,
-    "noBond": 59,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21388000
+    "totalBond": 21386500
   },
   "chargesPerBooking": 3.9
 }
