@@ -14755,7 +14755,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 300000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CONT SUB-HOMICIDE",
@@ -14763,9 +14763,9 @@
         "incident": "26-02607",
         "court": "SC",
         "courtReference": "26-1-00476-29",
-        "bailAmount": 300000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -14776,8 +14776,8 @@
         "court": "SC",
         "courtReference": "26-1-00476-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }

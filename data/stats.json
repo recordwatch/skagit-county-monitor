@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:11:14",
+  "generatedAt": "2026-10-20T23:11:12",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 348,
@@ -456,22 +456,22 @@
     {
       "name": "Own Recognizance Release",
       "count": 238,
-      "pct": 34.1
+      "pct": 34
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "Serving Commit",
       "count": 105,
-      "pct": 15.1
+      "pct": 15
     },
     {
       "name": "Dismissed",
       "count": 68,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "Sentence Complete Release",
@@ -481,12 +481,12 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "Amended",
-      "count": 25,
-      "pct": 3.6
+      "count": 26,
+      "pct": 3.7
     },
     {
       "name": "Bail Bond Release",
@@ -495,8 +495,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 13,
-      "pct": 1.9
+      "count": 14,
+      "pct": 2
     },
     {
       "name": "Shuttle Release",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 600,
+      "count": 598,
       "pct": 95.7
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 48.4,
-    "currentLongestDaysHeld": 978.2
+    "currentLongestDaysHeld": 978.3
   },
   "bond": {
-    "withBond": 134,
-    "noBond": 61,
+    "withBond": 133,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21396500
+    "totalBond": 21096500
   },
   "chargesPerBooking": 3.9
 }
