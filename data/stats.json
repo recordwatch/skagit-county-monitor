@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T11:11:13",
+  "generatedAt": "2026-10-21T12:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 354,
-    "bookingsObserved": 151,
+    "bookingsTracked": 356,
+    "bookingsObserved": 153,
     "releasesObserved": 160,
-    "inCustody": 194,
+    "inCustody": 196,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 6,
+      "booked": 8,
       "released": 7
     }
   ],
@@ -217,6 +217,11 @@
       "pct": 2
     },
     {
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 23,
+      "pct": 1.7
+    },
+    {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 23,
       "pct": 1.7
@@ -225,11 +230,6 @@
       "name": "ATTEMPT TO ELUDE",
       "count": 23,
       "pct": 1.7
-    },
-    {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 22,
-      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -282,16 +282,16 @@
       "label": "BURLINGTON POLICE DEPT"
     },
     {
-      "name": "WA STATE PATROL",
-      "count": 36,
-      "pct": 10.3,
-      "label": "WA STATE PATROL"
+      "name": "SEDRO-WOOLLEY POLICE DEPT",
+      "count": 37,
+      "pct": 10.5,
+      "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
-      "name": "SEDRO-WOOLLEY POLICE DEPT",
+      "name": "WA STATE PATROL",
       "count": 36,
-      "pct": 10.3,
-      "label": "SEDRO-WOOLLEY POLICE DEPT"
+      "pct": 10.2,
+      "label": "WA STATE PATROL"
     },
     {
       "name": "ANACORTES POLICE DEPT",
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 34,
-      "pct": 2.4,
+      "count": 35,
+      "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 88,
-      "pct": 25.1
+      "pct": 25
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,13 +393,13 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 49,
-      "pct": 14
+      "count": 50,
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 48,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -633,12 +633,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 49.3,
+    "currentMedianDaysHeld": 48.9,
     "currentLongestDaysHeld": 978.8
   },
   "bond": {
     "withBond": 132,
-    "noBond": 62,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21102000
