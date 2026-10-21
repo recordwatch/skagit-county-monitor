@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T13:11:14",
+  "generatedAt": "2026-10-21T14:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 356,
-    "bookingsObserved": 153,
+    "bookingsTracked": 357,
+    "bookingsObserved": 154,
     "releasesObserved": 160,
-    "inCustody": 196,
+    "inCustody": 197,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 8,
+      "booked": 9,
       "released": 7
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 54,
+      "count": 55,
       "pct": 3.9
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 90,
-      "pct": 25.5,
+      "count": 91,
+      "pct": 25.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 72,
-      "pct": 20.4,
+      "pct": 20.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 842,
+      "count": 843,
       "pct": 60.5,
       "label": "Skagit County Superior Court"
     },
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 57,
-      "pct": 4.1,
+      "count": 58,
+      "pct": 4.2,
       "label": "Other"
     },
     {
@@ -394,22 +394,22 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 50,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 49,
-      "pct": 13.9
+      "count": 48,
+      "pct": 13.6
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 24,
-      "pct": 6.8
+      "count": 25,
+      "pct": 7.1
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 22,
-      "pct": 6.2
+      "count": 23,
+      "pct": 6.5
     },
     {
       "name": "DUI CITATION ARREST",
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 246,
-      "pct": 34.4
+      "pct": 34.3
     },
     {
       "name": "Declined To Prosecute",
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 14.9
+      "count": 108,
+      "pct": 15.1
     },
     {
       "name": "Dismissed",
@@ -481,7 +481,7 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "Amended",
@@ -543,7 +543,7 @@
     {
       "name": "K",
       "count": 19,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "M",
@@ -552,13 +552,13 @@
     },
     {
       "name": "MALE INMATE WORKER (E103)",
-      "count": 6,
-      "pct": 3.3
+      "count": 7,
+      "pct": 3.9
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "N",
@@ -568,23 +568,23 @@
     {
       "name": "P",
       "count": 31,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10
+      "pct": 9.9
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 602,
+      "count": 603,
       "pct": 95.7
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 49,
-    "currentLongestDaysHeld": 978.8
+    "currentLongestDaysHeld": 978.9
   },
   "bond": {
-    "withBond": 132,
+    "withBond": 133,
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21102000
+    "totalBond": 21104500
   },
   "chargesPerBooking": 3.9
 }

@@ -1,5 +1,42 @@
 [
   {
+    "id": "81571-20261021130000",
+    "nameNumber": "81571",
+    "name": "SCHMIDT, KENNETH FREDRICK",
+    "bookedAt": "2026-10-21T13:00:00",
+    "scheduledRelease": "2026-12-17T08:00:00",
+    "location": "MALE INMATE WORKER (E103)",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T13:00:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-04-10T00:00:00",
+        "incident": "26-M04874",
+        "court": "SC",
+        "courtReference": "26-1-00193-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T14:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "260002-20261021112500",
     "nameNumber": "260002",
     "name": "COON, JOSHUA JAMES",
@@ -15,7 +52,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -25,6 +62,18 @@
         "courtReference": "6A0308842",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2023-04-14T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "3A0016074",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -44,11 +93,11 @@
     "scheduledRelease": "2026-10-22T10:25:00",
     "location": null,
     "arrestingAgency": "WA STATE PATROL",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-21T10:25:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -63,7 +112,7 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Serving Commit",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -567,7 +616,7 @@
     "name": "BOGART, ROGER DARREL",
     "bookedAt": "2026-10-20T14:45:00",
     "scheduledRelease": "2026-12-19T14:45:00",
-    "location": "Q104",
+    "location": "Q108",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -935,7 +984,7 @@
     "name": "ISAACS, TYSON ROBERT",
     "bookedAt": "2026-10-19T15:24:00",
     "scheduledRelease": null,
-    "location": "Q108",
+    "location": "Q104",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
