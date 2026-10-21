@@ -6,19 +6,93 @@
     "bookedAt": "2026-10-21T04:15:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-21T04:15:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-04-02T00:00:00",
+        "incident": "26-M04430",
+        "court": "MVMC",
+        "courtReference": "6A0227141",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-10-05T00:00:00",
+        "incident": "25-M16172",
+        "court": "MVMC",
+        "courtReference": "5A0479141",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T05:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "42041-20261021041500",
+    "nameNumber": "42041",
+    "name": "PARKER, JOEL BRITON",
+    "bookedAt": "2026-10-21T04:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T04:15:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-03-25T00:00:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "6A0031766",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-03-25T00:00:00",
+        "incident": null,
+        "court": "AMC",
+        "courtReference": "6A0031767",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T05:17:16",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -78,7 +152,7 @@
     "name": "DELACRUZ-ARON, ALEX",
     "bookedAt": "2026-10-21T01:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T05:11:14",
+  "generatedAt": "2026-10-21T05:17:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 351,
-    "bookingsObserved": 148,
+    "bookingsTracked": 352,
+    "bookingsObserved": 149,
     "releasesObserved": 153,
-    "inCustody": 198,
+    "inCustody": 199,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -164,16 +164,16 @@
     {
       "name": "DUI",
       "count": 81,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 74,
-      "pct": 5.4
+      "count": 76,
+      "pct": 5.5
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 55,
+      "count": 56,
       "pct": 4
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 38,
-      "pct": 2.7
+      "count": 39,
+      "pct": 2.8
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -266,31 +266,31 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 90,
-      "pct": 25.9,
+      "pct": 25.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 70,
-      "pct": 20.2,
+      "count": 72,
+      "pct": 20.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 44,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 36,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 36,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 842,
-      "pct": 60.9,
+      "pct": 60.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 129,
-      "pct": 9.3,
+      "count": 131,
+      "pct": 9.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -350,16 +350,16 @@
       "label": "Burlington Municipal Court"
     },
     {
+      "name": "AMC",
+      "count": 56,
+      "pct": 4,
+      "label": "Anacortes Municipal Court"
+    },
+    {
       "name": "OTHR",
       "count": 56,
       "pct": 4,
       "label": "Other"
-    },
-    {
-      "name": "AMC",
-      "count": 54,
-      "pct": 3.9,
-      "label": "Anacortes Municipal Court"
     },
     {
       "name": "SWMC",
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 88,
-      "pct": 25.4
+      "pct": 25.2
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 57,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 49,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 46,
-      "pct": 13.3
+      "count": 48,
+      "pct": 13.8
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -444,7 +444,7 @@
     {
       "name": "REVOCATION OF PR",
       "count": 4,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "BOND SURR/REVOC ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
@@ -533,27 +533,27 @@
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 8.3
+      "count": 16,
+      "pct": 8.8
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -568,12 +568,12 @@
     {
       "name": "P",
       "count": 31,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "R",
@@ -584,8 +584,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 606,
-      "pct": 95.7
+      "count": 609,
+      "pct": 95.8
     },
     {
       "name": "SCRAM With Bail",
@@ -633,15 +633,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 48.1,
+    "currentMedianDaysHeld": 47.7,
     "currentLongestDaysHeld": 978.5
   },
   "bond": {
-    "withBond": 134,
-    "noBond": 64,
+    "withBond": 136,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21110000
+    "totalBond": 21112500
   },
   "chargesPerBooking": 3.9
 }
