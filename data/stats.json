@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:11:12",
+  "generatedAt": "2026-10-20T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 348,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 80,
-      "pct": 5.8
+      "count": 81,
+      "pct": 5.9
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 838,
-      "pct": 61.1,
+      "pct": 61,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 128,
-      "pct": 9.3,
+      "count": 129,
+      "pct": 9.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 94,
-      "pct": 6.9,
+      "pct": 6.8,
       "label": "Burlington Municipal Court"
     },
     {
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 238,
-      "pct": 34.2
+      "pct": 34.1
     },
     {
       "name": "Declined To Prosecute",
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 104,
-      "pct": 14.9
+      "count": 105,
+      "pct": 15.1
     },
     {
       "name": "Dismissed",
@@ -476,7 +476,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "Dept Of Corrections Release",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,13 +537,13 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 7.9
+      "count": 15,
+      "pct": 8.4
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "M",
@@ -563,17 +563,17 @@
     {
       "name": "N",
       "count": 19,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "R",
@@ -633,7 +633,7 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 48.3,
+    "currentMedianDaysHeld": 48.4,
     "currentLongestDaysHeld": 978.2
   },
   "bond": {

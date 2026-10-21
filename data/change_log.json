@@ -5,7 +5,7 @@
     "name": "MELENDREZ, MAXIMINA URIAS",
     "bookedAt": "2026-10-20T17:28:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -19,7 +19,7 @@
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
-        "offenseDate": null,
+        "offenseDate": "2020-05-10T00:00:00",
         "incident": null,
         "court": "OTHR",
         "courtReference": "SKAGIT-2010016929",
@@ -10194,7 +10194,7 @@
     "nameNumber": "666912",
     "name": "WAGONER, HUNTER ORION",
     "bookedAt": "2026-09-22T15:40:00",
-    "scheduledRelease": "2026-11-01T15:40:00",
+    "scheduledRelease": "2026-11-02T15:00:00",
     "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -10213,6 +10213,18 @@
         "incident": "24-16103",
         "court": "DC",
         "courtReference": "4A0887281",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2025-05-11T00:00:00",
+        "incident": "25-M07517",
+        "court": "MVMC",
+        "courtReference": "5A0492146",
         "bailAmount": null,
         "bailType": null,
         "disposition": "Serving Commit",
