@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:11:22",
+  "generatedAt": "2026-10-21T07:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 352,
@@ -456,12 +456,12 @@
     {
       "name": "Own Recognizance Release",
       "count": 238,
-      "pct": 34
+      "pct": 33.8
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "Serving Commit",
@@ -476,7 +476,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 63,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Dept Of Corrections Release",
@@ -494,14 +494,14 @@
       "pct": 2.4
     },
     {
-      "name": "Pending Transport",
+      "name": "Shuttle Release",
       "count": 14,
       "pct": 2
     },
     {
-      "name": "Shuttle Release",
-      "count": 10,
-      "pct": 1.4
+      "name": "Pending Transport",
+      "count": 14,
+      "pct": 2
     },
     {
       "name": "Sanction Release",
@@ -633,7 +633,7 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 47.7,
+    "currentMedianDaysHeld": 47.8,
     "currentLongestDaysHeld": 978.6
   },
   "bond": {
