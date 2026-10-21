@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T18:11:12",
+  "generatedAt": "2026-10-20T18:28:31",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 345,
-    "bookingsObserved": 142,
+    "bookingsTracked": 346,
+    "bookingsObserved": 143,
     "releasesObserved": 153,
-    "inCustody": 192,
+    "inCustody": 193,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 6,
+      "booked": 7,
       "released": 9
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 89,
-      "pct": 26,
+      "pct": 25.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 68,
-      "pct": 19.9,
+      "pct": 19.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 43,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 30,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 6,
-      "pct": 1.8,
+      "count": 7,
+      "pct": 2,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 832,
+      "count": 833,
       "pct": 61.1,
       "label": "Skagit County Superior Court"
     },
@@ -389,7 +389,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 56,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 45,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 21,
-      "pct": 6.1
+      "count": 22,
+      "pct": 6.4
     },
     {
       "name": "DUI CITATION ARREST",
@@ -429,12 +429,12 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 6,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DUI WARRANT ARREST",
       "count": 6,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -633,12 +633,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 50.5,
+    "currentMedianDaysHeld": 49,
     "currentLongestDaysHeld": 978.1
   },
   "bond": {
     "withBond": 134,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 21388000
