@@ -1,5 +1,42 @@
 [
   {
+    "id": "410495-20261021090000",
+    "nameNumber": "410495",
+    "name": "CHAVEZ-OCHOA, JOSE LUIS",
+    "bookedAt": "2026-10-21T09:00:00",
+    "scheduledRelease": "2026-11-13T09:00:00",
+    "location": "MALE INMATE WORKER (E103)",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T09:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-11-27T00:00:00",
+        "incident": "25-B09091",
+        "court": "BMC",
+        "courtReference": "5A0802661",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T10:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "361747-20261021041500",
     "nameNumber": "361747",
     "name": "DULL, JEROD DANIEL",
@@ -15,7 +52,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -25,7 +62,7 @@
         "courtReference": "6A0227141",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -35,9 +72,9 @@
         "incident": "25-M16172",
         "court": "MVMC",
         "courtReference": "5A0479141",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -64,7 +101,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -72,9 +109,9 @@
         "incident": null,
         "court": "AMC",
         "courtReference": "6A0031766",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -84,9 +121,9 @@
         "incident": null,
         "court": "AMC",
         "courtReference": "6A0031767",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -320,7 +357,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "POSS CONT SUBS BY COUNTY/LOCAL PRISONER",
@@ -388,9 +425,9 @@
         "incident": "24-A05322",
         "court": "AMC",
         "courtReference": "4A0563913",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
       },
@@ -401,8 +438,8 @@
         "court": "AMC",
         "courtReference": "4A0563913",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
       }
@@ -466,7 +503,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATION 1ST",
@@ -486,9 +523,9 @@
         "incident": "26-M08149",
         "court": "MVMC",
         "courtReference": "6A0288026",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -499,8 +536,8 @@
         "court": "MVMC",
         "courtReference": "6A0288026",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -542,10 +579,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T15:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T10:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -787,7 +824,7 @@
     "name": "ISAACS, TYSON ROBERT",
     "bookedAt": "2026-10-19T15:24:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": "Q108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -824,7 +861,7 @@
     "name": "BRIONES-BARCENAS, SERGIO",
     "bookedAt": "2026-10-19T14:48:00",
     "scheduledRelease": null,
-    "location": "N202",
+    "location": "P206",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
