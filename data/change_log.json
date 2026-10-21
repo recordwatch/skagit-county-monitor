@@ -1,5 +1,53 @@
 [
   {
+    "id": "733981-20261021140000",
+    "nameNumber": "733981",
+    "name": "HUGHES, ALEXIS JASMINE",
+    "bookedAt": "2026-10-21T14:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "230273-20261021140000",
+    "nameNumber": "230273",
+    "name": "TAYLOR, TANARHEA SHULER",
+    "bookedAt": "2026-10-21T14:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "81571-20261021130000",
     "nameNumber": "81571",
     "name": "SCHMIDT, KENNETH FREDRICK",
@@ -42,7 +90,7 @@
     "name": "COON, JOSHUA JAMES",
     "bookedAt": "2026-10-21T11:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -91,7 +139,7 @@
     "name": "VANARSDALE, ERIC KAY",
     "bookedAt": "2026-10-21T10:25:00",
     "scheduledRelease": "2026-10-22T10:25:00",
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -337,10 +385,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T03:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T15:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -7919,7 +7967,7 @@
     "nameNumber": "399935",
     "name": "CASAS-ORONA, JOSE RAUL",
     "bookedAt": "2026-10-07T06:05:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-27T06:05:00",
     "location": "P206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -7930,7 +7978,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -7938,9 +7986,9 @@
         "incident": "24-W05503",
         "court": "SWMC",
         "courtReference": "4A0680478",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -7951,8 +7999,8 @@
         "court": "SWMC",
         "courtReference": "4A0680478",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -7962,9 +8010,9 @@
         "incident": "24-W00139",
         "court": "SWMC",
         "courtReference": "4A0145398",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -7996,7 +8044,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -8064,9 +8112,9 @@
         "incident": "23-W00941",
         "court": "SWMC",
         "courtReference": "3A0081893",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -8076,9 +8124,9 @@
         "incident": "25-W05727",
         "court": "SWMC",
         "courtReference": "5A0755834",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },

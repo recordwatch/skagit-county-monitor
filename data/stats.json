@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T14:23:53",
+  "generatedAt": "2026-10-21T15:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 357,
-    "bookingsObserved": 154,
-    "releasesObserved": 160,
-    "inCustody": 197,
+    "bookingsTracked": 359,
+    "bookingsObserved": 156,
+    "releasesObserved": 161,
+    "inCustody": 198,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 9,
-      "released": 7
+      "booked": 11,
+      "released": 8
     }
   ],
   "topCharges": [
@@ -455,23 +455,23 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 246,
+      "count": 248,
       "pct": 34.3
     },
     {
       "name": "Declined To Prosecute",
       "count": 119,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "Serving Commit",
-      "count": 108,
-      "pct": 15.1
+      "count": 111,
+      "pct": 15.4
     },
     {
       "name": "Dismissed",
       "count": 68,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Sentence Complete Release",
@@ -496,17 +496,17 @@
     {
       "name": "Shuttle Release",
       "count": 14,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Pending Transport",
       "count": 14,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Sanction Release",
       "count": 9,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "Superior Court Summon Release",
@@ -523,37 +523,37 @@
     {
       "name": "DORM 1 (E101)",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 15,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
       "name": "J",
       "count": 15,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 7,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -562,18 +562,18 @@
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 9.4
+      "count": 18,
+      "pct": 9.9
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "R",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 603,
+      "count": 598,
       "pct": 95.7
     },
     {
@@ -600,17 +600,17 @@
   ],
   "releaseSources": {
     "official": 151,
-    "observed": 9,
+    "observed": 10,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 158,
+    "releasedCount": 159,
     "medianDays": 1.3,
-    "meanDays": 73.3,
+    "meanDays": 72.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 59
+        "count": 60
       },
       {
         "label": "1–3 days",
@@ -633,15 +633,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 49,
+    "currentMedianDaysHeld": 48.6,
     "currentLongestDaysHeld": 978.9
   },
   "bond": {
-    "withBond": 133,
-    "noBond": 64,
+    "withBond": 131,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21104500
+    "totalBond": 21092500
   },
   "chargesPerBooking": 3.9
 }
