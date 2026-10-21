@@ -1,5 +1,29 @@
 [
   {
+    "id": "361747-20261021041500",
+    "nameNumber": "361747",
+    "name": "DULL, JEROD DANIEL",
+    "bookedAt": "2026-10-21T04:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T05:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "354854-20261021014000",
     "nameNumber": "354854",
     "name": "ZACHMAN, ANTHONY JACOB",
