@@ -1,5 +1,29 @@
 [
   {
+    "id": "337127-20261021100500",
+    "nameNumber": "337127",
+    "name": "GARCIA, ALFREDO",
+    "bookedAt": "2026-10-21T10:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T10:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T10:34:10",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "410495-20261021090000",
     "nameNumber": "410495",
     "name": "CHAVEZ-OCHOA, JOSE LUIS",
@@ -79,10 +103,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T05:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T10:34:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -128,10 +152,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T05:17:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T10:34:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -456,7 +480,7 @@
     "name": "BOGART, ROGER DARREL",
     "bookedAt": "2026-10-20T14:45:00",
     "scheduledRelease": "2026-12-19T14:45:00",
-    "location": "N107",
+    "location": "Q104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -5134,10 +5158,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T11:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T10:34:10",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
