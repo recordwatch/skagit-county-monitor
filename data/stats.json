@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:11:15",
+  "generatedAt": "2026-10-20T20:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 348,
@@ -164,17 +164,17 @@
     {
       "name": "DUI",
       "count": 80,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 69,
-      "pct": 5.1
+      "count": 72,
+      "pct": 5.3
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 53,
-      "pct": 3.9
+      "count": 55,
+      "pct": 4
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -214,7 +214,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 28,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "SC",
-      "count": 833,
+      "count": 838,
       "pct": 61.1,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 159,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 128,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 93,
-      "pct": 6.8,
+      "count": 94,
+      "pct": 6.9,
       "label": "Burlington Municipal Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 52,
-      "pct": 3.8,
+      "count": 54,
+      "pct": 3.9,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -456,37 +456,37 @@
     {
       "name": "Own Recognizance Release",
       "count": 234,
-      "pct": 34.4
+      "pct": 33.9
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 17.2
+      "pct": 17
     },
     {
       "name": "Serving Commit",
       "count": 103,
-      "pct": 15.1
+      "pct": 14.9
     },
     {
       "name": "Sentence Complete Release",
-      "count": 63,
-      "pct": 9.3
+      "count": 65,
+      "pct": 9.4
     },
     {
       "name": "Dismissed",
-      "count": 58,
-      "pct": 8.5
+      "count": 65,
+      "pct": 9.4
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "Amended",
       "count": 25,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Bail Bond Release",
@@ -501,7 +501,7 @@
     {
       "name": "Shuttle Release",
       "count": 10,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Sanction Release",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,13 +537,13 @@
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 7.4
+      "count": 14,
+      "pct": 7.9
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "M",
@@ -558,33 +558,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.2
+      "count": 19,
+      "pct": 10.7
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 17.6
+      "pct": 17.4
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.8
+      "pct": 14.6
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.2
+      "pct": 10.1
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 608,
+      "count": 601,
       "pct": 95.7
     },
     {
@@ -633,7 +633,7 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 48.2,
+    "currentMedianDaysHeld": 48.3,
     "currentLongestDaysHeld": 978.1
   },
   "bond": {
@@ -641,7 +641,7 @@
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21386500
+    "totalBond": 21389375
   },
   "chargesPerBooking": 3.9
 }
