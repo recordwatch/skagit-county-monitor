@@ -5,7 +5,7 @@
     "name": "ZACHMAN, ANTHONY JACOB",
     "bookedAt": "2026-10-21T01:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -64,7 +64,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 13500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -72,8 +72,92 @@
         "incident": "26-B07698",
         "court": "BMC",
         "courtReference": "6A0419656",
+        "bailAmount": 3500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-10-21T00:43:00",
+        "incident": "26-B07698",
+        "court": "BMC",
+        "courtReference": "6A0419656",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-21T00:43:00",
+        "incident": "26-B07698",
+        "court": "BMC",
+        "courtReference": "6A0419656",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-21T00:43:00",
+        "incident": "26-B07698",
+        "court": "BMC",
+        "courtReference": "6A0419656",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "offenseDate": "2022-07-12T00:00:00",
+        "incident": "22-B07308",
+        "court": "SC",
+        "courtReference": "22-1-00905-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "FORGERY",
+        "offenseDate": "2022-07-12T00:00:00",
+        "incident": "22-B07308",
+        "court": "SC",
+        "courtReference": "22-1-00905-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "NO CONTACT/PROTECT ORDR VIOL -ATTEMPT DV",
+        "offenseDate": "2022-01-31T00:00:00",
+        "incident": "22-01418",
+        "court": "DC",
+        "courtReference": "C00066362",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2022-01-29T00:00:00",
+        "incident": "22-01319",
+        "court": "DC",
+        "courtReference": "2A0171008",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
