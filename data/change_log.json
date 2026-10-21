@@ -1,5 +1,66 @@
 [
   {
+    "id": "373650-20261020143700",
+    "nameNumber": "373650",
+    "name": "LAWS, BRADY J RYAN",
+    "bookedAt": "2026-10-20T14:37:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-20T10:30:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CRIMINAL IMPERSONATION 1ST",
+        "offenseDate": "2026-10-20T10:30:00",
+        "incident": "26-M15616",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-06-07T00:00:00",
+        "incident": "26-M08149",
+        "court": "MVMC",
+        "courtReference": "6A0288026",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-06-07T00:00:00",
+        "incident": "26-M08149",
+        "court": "MVMC",
+        "courtReference": "6A0288026",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T17:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "325331-20261020134100",
     "nameNumber": "325331",
     "name": "GUTIERREZ, JONATHAN MICHAEL",
@@ -42,7 +103,7 @@
     "name": "GRIMM, KEVIN RAMON",
     "bookedAt": "2026-10-20T13:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -79,7 +140,7 @@
     "name": "GARCIA, ISRAEL",
     "bookedAt": "2026-10-20T12:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1745,6 +1806,18 @@
         "courtReference": "6A0425287",
         "bailAmount": 500,
         "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "TRIBAL CODE VIOLATION",
+        "offenseDate": "2026-06-26T00:00:00",
+        "incident": "26-SP0933",
+        "court": "TC",
+        "courtReference": "6A0272632",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -14793,7 +14866,7 @@
     "name": "BAGLIEN, JENNIFER LINDA JEAN",
     "bookedAt": "2026-08-16T11:20:00",
     "scheduledRelease": null,
-    "location": "R110",
+    "location": "R107",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
