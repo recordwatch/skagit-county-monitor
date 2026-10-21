@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:11:15",
+  "generatedAt": "2026-10-20T21:11:12",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 348,
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 72,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 52,
-      "pct": 3.8
+      "count": 53,
+      "pct": 3.9
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 89,
-      "pct": 25.9,
+      "count": 90,
+      "pct": 26.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 68,
-      "pct": 19.8,
+      "count": 69,
+      "pct": 20,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 36,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 36,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -313,14 +313,14 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 7,
-      "pct": 2,
+      "count": 6,
+      "pct": 1.7,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 5,
-      "pct": 1.5,
+      "pct": 1.4,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 55,
-      "pct": 4,
+      "count": 56,
+      "pct": 4.1,
       "label": "Other"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 87,
-      "pct": 25.3
+      "pct": 25.2
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 57,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 45,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 15,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -428,8 +428,8 @@
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 6,
-      "pct": 1.7
+      "count": 7,
+      "pct": 2
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -439,7 +439,7 @@
     {
       "name": "SUPERIOR COURT SUMMONS",
       "count": 5,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "REVOCATION OF PR",
@@ -455,28 +455,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 234,
-      "pct": 33.9
+      "count": 238,
+      "pct": 34.2
     },
     {
       "name": "Declined To Prosecute",
       "count": 117,
-      "pct": 17
+      "pct": 16.8
     },
     {
       "name": "Serving Commit",
-      "count": 103,
+      "count": 104,
       "pct": 14.9
     },
     {
-      "name": "Sentence Complete Release",
-      "count": 65,
-      "pct": 9.4
+      "name": "Dismissed",
+      "count": 68,
+      "pct": 9.8
     },
     {
-      "name": "Dismissed",
-      "count": 65,
-      "pct": 9.4
+      "name": "Sentence Complete Release",
+      "count": 63,
+      "pct": 9.1
     },
     {
       "name": "Dept Of Corrections Release",
@@ -491,7 +491,7 @@
     {
       "name": "Bail Bond Release",
       "count": 17,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "Pending Transport",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 601,
+      "count": 600,
       "pct": 95.7
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 48.3,
-    "currentLongestDaysHeld": 978.1
+    "currentLongestDaysHeld": 978.2
   },
   "bond": {
     "withBond": 134,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 21389375
+    "totalBond": 21396500
   },
   "chargesPerBooking": 3.9
 }

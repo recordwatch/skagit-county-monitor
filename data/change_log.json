@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-20T17:28:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-20T17:14:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "SKAGIT-2010016929",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-20T19:11:15",
     "releasedAt": null,
@@ -39,7 +52,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "POSS CONT SUBS BY COUNTY/LOCAL PRISONER",
@@ -47,8 +60,8 @@
         "incident": "25-B06270",
         "court": "SC",
         "courtReference": "25-1-00623-29",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
@@ -60,7 +73,7 @@
         "court": "SC",
         "courtReference": "25-1-00623-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
@@ -72,7 +85,7 @@
         "court": "SC",
         "courtReference": "25-1-00623-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
@@ -84,7 +97,7 @@
         "court": "SC",
         "courtReference": "25-1-00623-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
@@ -96,7 +109,7 @@
         "court": "SC",
         "courtReference": "25-1-00623-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ISLAND COUNTY SHERIFF"
@@ -139,13 +152,13 @@
     "bookedAt": "2026-10-20T14:45:00",
     "scheduledRelease": "2026-12-19T14:45:00",
     "location": "N107",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-20T14:45:00",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
@@ -158,9 +171,9 @@
         "courtReference": "24-1-00790-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -9352,7 +9365,7 @@
     "nameNumber": "664024",
     "name": "HEDINGTON, JADYN MICHAEL",
     "bookedAt": "2026-09-30T15:10:00",
-    "scheduledRelease": "2026-10-20T19:57:29",
+    "scheduledRelease": "2026-10-20T20:42:37",
     "location": "J201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -9363,7 +9376,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2875,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -9373,7 +9386,7 @@
         "courtReference": "5A0796011",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9385,7 +9398,7 @@
         "courtReference": "5A0796011",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9395,9 +9408,9 @@
         "incident": "25-M14012",
         "court": "MVMC",
         "courtReference": "5A0479134",
-        "bailAmount": 125,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9407,9 +9420,9 @@
         "incident": "25-M13680",
         "court": "MVMC",
         "courtReference": "5A0701394",
-        "bailAmount": 125,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9419,9 +9432,9 @@
         "incident": "25-M13633",
         "court": "MVMC",
         "courtReference": "5A0717761",
-        "bailAmount": 125,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -9431,8 +9444,8 @@
         "incident": "24-A06707",
         "court": "AMC",
         "courtReference": "4A0774277",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -17187,7 +17200,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 201000,
+    "bondTotal": 200000,
     "charges": [
       {
         "description": "DUI FELONY",
@@ -17243,9 +17256,9 @@
         "incident": "25-B02517",
         "court": "BMC",
         "courtReference": "5A0439251",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17256,8 +17269,8 @@
         "court": "BMC",
         "courtReference": "5A0439251",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       }
