@@ -522,8 +522,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T05:11:14",
-    "releasedAt": "2026-10-21T10:34:10",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T10:20:37",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -571,8 +571,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T05:17:16",
-    "releasedAt": "2026-10-21T10:34:10",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T10:05:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -620,8 +620,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T03:11:13",
-    "releasedAt": "2026-10-21T15:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T14:39:37",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -778,8 +778,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-20T19:11:15",
-    "releasedAt": "2026-10-21T11:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T10:40:59",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -985,8 +985,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-20T17:11:15",
-    "releasedAt": "2026-10-21T17:07:48",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T16:37:07",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1022,8 +1022,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-20T15:11:13",
-    "releasedAt": "2026-10-21T10:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T09:40:20",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1059,8 +1059,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-20T15:11:13",
-    "releasedAt": "2026-10-21T11:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T10:40:37",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1181,8 +1181,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-20T12:11:13",
-    "releasedAt": "2026-10-21T17:07:48",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T16:37:29",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5577,8 +5577,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-12T11:11:16",
-    "releasedAt": "2026-10-21T10:34:10",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T10:03:52",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8390,8 +8390,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-21T16:11:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T15:12:35",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -11479,8 +11479,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-21T21:11:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T20:31:03",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -12724,8 +12724,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-21T09:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-21T08:52:05",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -15009,7 +15009,7 @@
     "nameNumber": "735271",
     "name": "MOCTEZUMA-RAMOS, ISMAEL",
     "bookedAt": "2026-08-24T13:00:00",
-    "scheduledRelease": "2026-10-22T19:00:00",
+    "scheduledRelease": "2026-10-22T05:37:20",
     "location": "MALE INMATE WORKER (E103)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -15030,7 +15030,7 @@
         "courtReference": "26-1-00262-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -15042,7 +15042,7 @@
         "courtReference": "26-1-00262-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -15054,7 +15054,7 @@
         "courtReference": "26-1-00262-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }

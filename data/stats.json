@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:11:13",
+  "generatedAt": "2026-10-22T06:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 362,
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 112,
-      "pct": 15.3
+      "count": 109,
+      "pct": 14.9
     },
     {
       "name": "Dismissed",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 64,
-      "pct": 8.7
+      "count": 67,
+      "pct": 9.1
     },
     {
       "name": "Dept Of Corrections Release",
@@ -599,8 +599,8 @@
     }
   ],
   "releaseSources": {
-    "official": 151,
-    "observed": 14,
+    "official": 163,
+    "observed": 2,
     "reportOnly": 29
   },
   "stay": {
@@ -634,7 +634,7 @@
       }
     ],
     "currentMedianDaysHeld": 49.6,
-    "currentLongestDaysHeld": 979.5
+    "currentLongestDaysHeld": 979.6
   },
   "bond": {
     "withBond": 133,
