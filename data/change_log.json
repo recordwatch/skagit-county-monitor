@@ -69,7 +69,7 @@
       {
         "description": "DUI",
         "offenseDate": "2026-01-05T00:00:00",
-        "incident": "26-00366",
+        "incident": null,
         "court": "DC",
         "courtReference": "PA0009317",
         "bailAmount": 20000,
@@ -352,7 +352,7 @@
         "offenseDate": "2023-04-14T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "3A0016074",
+        "courtReference": "CLARK 3A0016074",
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
