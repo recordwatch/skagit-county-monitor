@@ -163,7 +163,7 @@
     "name": "JORGENSON, JACOB KNEELAND",
     "bookedAt": "2026-10-21T13:30:00",
     "scheduledRelease": "2026-10-23T13:30:00",
-    "location": null,
+    "location": "M106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -183,7 +183,7 @@
         "courtReference": "5A0606169",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:11:15",
+  "generatedAt": "2026-10-21T19:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 360,
@@ -465,8 +465,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 111,
-      "pct": 15.4
+      "count": 112,
+      "pct": 15.5
     },
     {
       "name": "Dismissed",
@@ -538,17 +538,17 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "K",
       "count": 19,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 5
+      "count": 10,
+      "pct": 5.5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -558,7 +558,7 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "N",
@@ -568,17 +568,17 @@
     {
       "name": "P",
       "count": 30,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10
+      "pct": 9.9
     }
   ],
   "bailTypes": [
