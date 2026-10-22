@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:11:14",
+  "generatedAt": "2026-10-22T08:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 362,
@@ -465,13 +465,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 14.6
+      "count": 106,
+      "pct": 14.5
     },
     {
       "name": "Sentence Complete Release",
-      "count": 69,
-      "pct": 9.4
+      "count": 70,
+      "pct": 9.5
     },
     {
       "name": "Dismissed",
@@ -522,18 +522,18 @@
     },
     {
       "name": "DORM 1 (E101)",
-      "count": 3,
-      "pct": 1.6
+      "count": 2,
+      "pct": 1.1
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 15,
-      "pct": 8.2
+      "pct": 8.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
@@ -543,7 +543,7 @@
     {
       "name": "K",
       "count": 19,
-      "pct": 10.4
+      "pct": 10.5
     },
     {
       "name": "M",
@@ -558,27 +558,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6
+      "pct": 6.1
     },
     {
       "name": "N",
       "count": 17,
-      "pct": 9.3
+      "pct": 9.4
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 16.5
+      "pct": 16.6
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.9
+      "pct": 16
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.4
+      "pct": 10.5
     }
   ],
   "bailTypes": [
@@ -633,7 +633,7 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 49.2,
+    "currentMedianDaysHeld": 49.3,
     "currentLongestDaysHeld": 979.6
   },
   "bond": {

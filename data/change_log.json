@@ -12235,7 +12235,7 @@
         "courtReference": "5A0604226",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -12892,7 +12892,7 @@
     "name": "GALLARDO, RUEBEN LOPEZ",
     "bookedAt": "2026-09-10T14:25:00",
     "scheduledRelease": null,
-    "location": "DORM 1 (E101)",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
