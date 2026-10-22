@@ -78,7 +78,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
         "offenseDate": "2026-09-17T00:00:00",
         "incident": "26-04313",
         "court": "SC",
@@ -90,7 +90,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
         "offenseDate": "2026-09-17T00:00:00",
         "incident": "26-04313",
         "court": "SC",
@@ -102,7 +102,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
         "offenseDate": "2026-09-17T00:00:00",
         "incident": "26-04313",
         "court": "SC",
@@ -162,19 +162,32 @@
     "nameNumber": "696060",
     "name": "JORGENSON, JACOB KNEELAND",
     "bookedAt": "2026-10-21T13:30:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-23T13:30:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-21T13:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-08-04T00:00:00",
+        "incident": "25-M12573",
+        "court": "MVMC",
+        "courtReference": "5A0606169",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T16:11:12",
     "releasedAt": null,
