@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T11:11:17",
+  "generatedAt": "2026-10-22T12:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 362,
     "bookingsObserved": 159,
-    "releasesObserved": 169,
-    "inCustody": 193,
+    "releasesObserved": 170,
+    "inCustody": 192,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 0,
-      "released": 4
+      "released": 5
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 78,
-      "pct": 5.5
+      "count": 79,
+      "pct": 5.6
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -455,7 +455,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 255,
+      "count": 256,
       "pct": 34.5
     },
     {
@@ -471,7 +471,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 70,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Dismissed",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 15,
-      "pct": 8.4
+      "pct": 8.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,7 +543,7 @@
     {
       "name": "K",
       "count": 18,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -562,8 +562,8 @@
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 7.9
+      "count": 13,
+      "pct": 7.3
     },
     {
       "name": "P",
@@ -578,13 +578,13 @@
     {
       "name": "R",
       "count": 18,
-      "pct": 10.1
+      "pct": 10.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 592,
+      "count": 591,
       "pct": 95.6
     },
     {
@@ -600,13 +600,13 @@
   ],
   "releaseSources": {
     "official": 163,
-    "observed": 6,
+    "observed": 7,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 167,
+    "releasedCount": 168,
     "medianDays": 1.3,
-    "meanDays": 70.3,
+    "meanDays": 69.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -618,7 +618,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 13
+        "count": 14
       },
       {
         "label": "1–4 weeks",
@@ -633,15 +633,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 49.9,
+    "currentMedianDaysHeld": 50.4,
     "currentLongestDaysHeld": 979.8
   },
   "bond": {
-    "withBond": 129,
+    "withBond": 128,
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20681500
+    "totalBond": 20680500
   },
   "chargesPerBooking": 3.9
 }

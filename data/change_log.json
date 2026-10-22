@@ -1069,7 +1069,7 @@
     "name": "GARCIA, ISRAEL",
     "bookedAt": "2026-10-20T12:55:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1079,17 +1079,17 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
-        "description": "POSSESSION CONTROLLED SUB",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2025-12-09T00:00:00",
         "incident": "25-M19492",
         "court": "MVMC",
         "courtReference": "5A0950735",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -3475,10 +3475,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T04:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T12:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
