@@ -6,17 +6,54 @@
     "bookedAt": "2026-10-22T12:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-22T11:22:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-22T11:22:00",
+        "incident": "26-12883",
+        "court": "DC",
+        "courtReference": "6A0251798",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PETS-TAKE/CONCEAL/KILL",
+        "offenseDate": "2026-10-22T11:22:00",
+        "incident": "26-12883",
+        "court": "DC",
+        "courtReference": "6A0251798",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-22T11:22:00",
+        "incident": "26-12883",
+        "court": "DC",
+        "courtReference": "6A0251798",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T15:11:14",
     "releasedAt": null,
@@ -140,10 +177,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T20:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T16:02:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1373,7 +1410,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
@@ -1381,9 +1418,9 @@
         "incident": "26-M03493",
         "court": "SC",
         "courtReference": "26-1-00147-29",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1394,8 +1431,8 @@
         "court": "SC",
         "courtReference": "26-1-00147-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1405,9 +1442,9 @@
         "incident": "26-B01871",
         "court": "SC",
         "courtReference": "26-1-00342-29",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1418,8 +1455,8 @@
         "court": "SC",
         "courtReference": "26-1-00342-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1430,8 +1467,8 @@
         "court": "SC",
         "courtReference": "26-1-00342-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -14876,7 +14913,7 @@
     "name": "EMMIL, JASON DON KENNETH",
     "bookedAt": "2026-08-25T17:20:00",
     "scheduledRelease": null,
-    "location": "J111",
+    "location": "Q206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
