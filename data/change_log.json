@@ -1,11 +1,48 @@
 [
   {
+    "id": "19531-20261021184500",
+    "nameNumber": "19531",
+    "name": "BALLARD, JASON ROY",
+    "bookedAt": "2026-10-21T18:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T18:03:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-01-05T00:00:00",
+        "incident": "26-00366",
+        "court": "DC",
+        "courtReference": "PA0009317",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "733981-20261021140000",
     "nameNumber": "733981",
     "name": "HUGHES, ALEXIS JASMINE",
     "bookedAt": "2026-10-21T14:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R110",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -126,7 +163,7 @@
     "name": "TAYLOR, TANARHEA SHULER",
     "bookedAt": "2026-10-21T14:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J211",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -12816,7 +12853,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 200000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -12824,9 +12861,9 @@
         "incident": "25-M03407",
         "court": "SC",
         "courtReference": "25-1-00146-29",
-        "bailAmount": 200000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12837,8 +12874,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12849,8 +12886,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12861,8 +12898,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12873,8 +12910,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12885,8 +12922,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12897,8 +12934,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12909,8 +12946,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12921,8 +12958,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12933,8 +12970,8 @@
         "court": "SC",
         "courtReference": "25-1-00146-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
