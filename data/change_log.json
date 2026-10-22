@@ -397,10 +397,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T12:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T10:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -434,10 +434,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T10:34:10",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T10:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -22606,7 +22606,7 @@
     "name": "KRUMINS, KURIS ARNOLDS",
     "bookedAt": "2026-01-30T12:00:00",
     "scheduledRelease": null,
-    "location": "K101",
+    "location": "J208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
