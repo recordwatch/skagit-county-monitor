@@ -8473,7 +8473,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "THEFT 3RD DEG",
+        "description": "THEFT 3RD DEG - NOT TO EXCEED $750 VALUE",
         "offenseDate": "2026-09-11T00:00:00",
         "incident": "26-M13736",
         "court": "MVMC",
@@ -8497,7 +8497,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-04-25T00:00:00",
         "incident": "26-M05699",
         "court": "MVMC",
