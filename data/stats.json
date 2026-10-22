@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T21:11:12",
+  "generatedAt": "2026-10-21T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 361,
-    "bookingsObserved": 158,
+    "bookingsTracked": 362,
+    "bookingsObserved": 159,
     "releasesObserved": 165,
-    "inCustody": 196,
+    "inCustody": 197,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 13,
+      "booked": 14,
       "released": 12
     }
   ],
@@ -232,6 +232,11 @@
       "pct": 1.6
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 21,
+      "pct": 1.5
+    },
+    {
       "name": "ASSAULT 4TH DEGREE",
       "count": 21,
       "pct": 1.5
@@ -243,11 +248,6 @@
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 20,
-      "pct": 1.4
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 20,
       "pct": 1.4
     },
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 92,
-      "pct": 25.7,
+      "pct": 25.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 75,
-      "pct": 20.9,
+      "count": 76,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 45,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 852,
-      "pct": 60.7,
+      "pct": 60.6,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 163,
-      "pct": 11.6,
+      "count": 165,
+      "pct": 11.7,
       "label": "Skagit County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 99,
-      "pct": 7.1,
+      "pct": 7,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,27 +384,27 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 88,
-      "pct": 24.6
+      "pct": 24.5
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 59,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 50,
-      "pct": 14
+      "count": 51,
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 49,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 26,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -537,8 +537,8 @@
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 8.2
+      "count": 16,
+      "pct": 8.7
     },
     {
       "name": "K",
@@ -568,12 +568,12 @@
     {
       "name": "P",
       "count": 30,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "R",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 598,
+      "count": 600,
       "pct": 95.7
     },
     {
@@ -637,11 +637,11 @@
     "currentLongestDaysHeld": 979.2
   },
   "bond": {
-    "withBond": 132,
+    "withBond": 133,
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20717500
+    "totalBond": 20718500
   },
   "chargesPerBooking": 3.9
 }

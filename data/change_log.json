@@ -1,11 +1,60 @@
 [
   {
+    "id": "161903-20261021200500",
+    "nameNumber": "161903",
+    "name": "ERIKSEN, JOHN DAVID",
+    "bookedAt": "2026-10-21T20:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-21T19:22:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-21T19:22:00",
+        "incident": "26-12867",
+        "court": "DC",
+        "courtReference": "6A0431831",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-21T19:22:00",
+        "incident": "26-12867",
+        "court": "DC",
+        "courtReference": "6A0431831",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T22:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "19531-20261021184500",
     "nameNumber": "19531",
     "name": "BALLARD, JASON ROY",
     "bookedAt": "2026-10-21T18:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J101",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
