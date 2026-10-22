@@ -6,8 +6,8 @@
     "bookedAt": "2026-10-21T14:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-21T14:00:00",
@@ -15,8 +15,105 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-04313",
+        "court": "SC",
+        "courtReference": "26-1-00526-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:11:13",
     "releasedAt": null,
@@ -30,8 +127,8 @@
     "bookedAt": "2026-10-21T14:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-21T14:00:00",
@@ -39,8 +136,21 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "POSS STOLEN VEHICLE",
+        "offenseDate": "2023-08-29T00:00:00",
+        "incident": "23-11818",
+        "court": "SC",
+        "courtReference": "23-1-00792-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:11:13",
     "releasedAt": null,
@@ -774,10 +884,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T17:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T17:07:48",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -970,10 +1080,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T12:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-21T17:07:48",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
