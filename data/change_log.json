@@ -1,5 +1,42 @@
 [
   {
+    "id": "143779-20261022120000",
+    "nameNumber": "143779",
+    "name": "DOUGHERTY, PATRICK HUGH",
+    "bookedAt": "2026-10-22T12:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-22T11:09:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2021-01-09T00:00:00",
+        "incident": "21-A00176",
+        "court": "AMC",
+        "courtReference": "1A0050594",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T12:48:55",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "161903-20261021200500",
     "nameNumber": "161903",
     "name": "ERIKSEN, JOHN DAVID",
@@ -42,10 +79,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T22:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T12:48:55",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1094,10 +1131,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T15:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T12:48:55",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -9326,8 +9363,8 @@
     "nameNumber": "438039",
     "name": "CIENFUEGOS, RAYMOND NOEL JR",
     "bookedAt": "2026-10-02T12:45:00",
-    "scheduledRelease": "2026-10-22T12:45:00",
-    "location": "N207",
+    "scheduledRelease": "2026-10-22T12:36:06",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
