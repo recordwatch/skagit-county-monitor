@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:11:14",
+  "generatedAt": "2026-10-22T11:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 362,
@@ -455,18 +455,18 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 248,
-      "pct": 33.8
+      "count": 255,
+      "pct": 34.5
     },
     {
       "name": "Declined To Prosecute",
       "count": 119,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Serving Commit",
       "count": 106,
-      "pct": 14.5
+      "pct": 14.3
     },
     {
       "name": "Sentence Complete Release",
@@ -476,17 +476,17 @@
     {
       "name": "Dismissed",
       "count": 68,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "Bail Bond Release",
       "count": 27,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Amended",
@@ -538,7 +538,7 @@
     {
       "name": "J",
       "count": 17,
-      "pct": 9.5
+      "pct": 9.6
     },
     {
       "name": "K",
@@ -558,39 +558,39 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6.1
+      "pct": 6.2
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 8.4
+      "count": 14,
+      "pct": 7.9
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 16.8
+      "pct": 16.9
     },
     {
       "name": "Q",
-      "count": 29,
-      "pct": 16.2
+      "count": 30,
+      "pct": 16.9
     },
     {
       "name": "R",
-      "count": 19,
-      "pct": 10.6
+      "count": 18,
+      "pct": 10.1
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 600,
-      "pct": 95.7
+      "count": 592,
+      "pct": 95.6
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.8
+      "pct": 3.9
     },
     {
       "name": "Cash Only",
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 49.9,
-    "currentLongestDaysHeld": 979.7
+    "currentLongestDaysHeld": 979.8
   },
   "bond": {
-    "withBond": 133,
-    "noBond": 60,
+    "withBond": 129,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20718500
+    "totalBond": 20681500
   },
   "chargesPerBooking": 3.9
 }
