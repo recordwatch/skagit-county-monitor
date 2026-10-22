@@ -371,7 +371,7 @@
     "nameNumber": "732408",
     "name": "VANARSDALE, ERIC KAY",
     "bookedAt": "2026-10-21T10:25:00",
-    "scheduledRelease": "2026-10-22T10:25:00",
+    "scheduledRelease": "2026-10-22T09:25:00",
     "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -392,7 +392,7 @@
         "courtReference": "5A0792497",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -9347,7 +9347,7 @@
         "courtReference": "C68393",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY JAIL"
       }
@@ -15059,10 +15059,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T07:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
