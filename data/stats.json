@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:11:13",
+  "generatedAt": "2026-10-23T09:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 370,
@@ -271,14 +271,14 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 79,
-      "pct": 21.5,
+      "count": 78,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 45,
-      "pct": 12.3,
+      "count": 46,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 570,
+      "count": 568,
       "pct": 95.5
     },
     {
@@ -634,14 +634,14 @@
       }
     ],
     "currentMedianDaysHeld": 56.6,
-    "currentLongestDaysHeld": 980.6
+    "currentLongestDaysHeld": 980.7
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 60,
+    "withBond": 124,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20312000
+    "totalBond": 20302000
   },
   "chargesPerBooking": 3.9
 }
