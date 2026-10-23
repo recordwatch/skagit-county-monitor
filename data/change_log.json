@@ -25632,7 +25632,7 @@
     "nameNumber": "133925",
     "name": "SANCHEZ-ARCE, JONATHAN ADAN",
     "bookedAt": "2024-11-24T22:10:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-22T18:22:34",
     "location": "M108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -25653,7 +25653,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 175500,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "RAPE CHILD 2ND DEGREE",
@@ -25661,9 +25661,9 @@
         "incident": "01-M15264",
         "court": "SC",
         "courtReference": "06-1-00696-7",
-        "bailAmount": 150000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25674,8 +25674,8 @@
         "court": "SC",
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25685,9 +25685,9 @@
         "incident": "17-M18667",
         "court": "SC",
         "courtReference": "17-1-01110-9",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25698,7 +25698,55 @@
         "court": "SC",
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD-CRIM NEG/SUB PAIN",
+        "offenseDate": "2001-09-20T00:00:00",
+        "incident": "01-M15264",
+        "court": "SC",
+        "courtReference": "06-1-00696-7",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD-CRIM NEG/SUB PAIN",
+        "offenseDate": "2001-09-20T00:00:00",
+        "incident": "01-M15264",
+        "court": "SC",
+        "courtReference": "06-1-00696-7",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEG SEXUAL MOTIVATIN SA",
+        "offenseDate": "2001-09-20T00:00:00",
+        "incident": "01-M15264",
+        "court": "SC",
+        "courtReference": "06-1-00696-7",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEG SEXUAL MOTIVATIN SA",
+        "offenseDate": "2001-09-20T00:00:00",
+        "incident": "01-M15264",
+        "court": "SC",
+        "courtReference": "06-1-00696-7",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"

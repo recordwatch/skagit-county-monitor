@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:11:15",
+  "generatedAt": "2026-10-22T18:46:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 364,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 852,
-      "pct": 60.3,
+      "count": 856,
+      "pct": 60.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 271,
-      "pct": 35.8
+      "pct": 35.7
     },
     {
       "name": "Declined To Prosecute",
@@ -466,20 +466,25 @@
     {
       "name": "Serving Commit",
       "count": 106,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "Sentence Complete Release",
       "count": 70,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "Dismissed",
-      "count": 68,
-      "pct": 9
+      "count": 69,
+      "pct": 9.1
     },
     {
       "name": "Dept Of Corrections Release",
+      "count": 29,
+      "pct": 3.8
+    },
+    {
+      "name": "Amended",
       "count": 29,
       "pct": 3.8
     },
@@ -489,19 +494,14 @@
       "pct": 3.6
     },
     {
-      "name": "Amended",
-      "count": 26,
-      "pct": 3.4
-    },
-    {
       "name": "Shuttle Release",
       "count": 14,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "Pending Transport",
       "count": 14,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "Sanction Release",
@@ -584,13 +584,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 582,
-      "pct": 95.6
+      "count": 578,
+      "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 4
     },
     {
       "name": "Cash Only",
@@ -633,7 +633,7 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 58,
+    "currentMedianDaysHeld": 58.1,
     "currentLongestDaysHeld": 980.1
   },
   "bond": {
@@ -641,7 +641,7 @@
     "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20614500
+    "totalBond": 20439500
   },
   "chargesPerBooking": 3.9
 }
