@@ -8654,7 +8654,7 @@
     "nameNumber": "492868",
     "name": "MARTINES, ANGELO RAY",
     "bookedAt": "2026-10-07T08:47:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-12-06T08:47:00",
     "location": "P106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -8665,7 +8665,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -8673,9 +8673,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "C00864364",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -8685,9 +8685,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "C00864365",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -23917,7 +23917,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -24069,9 +24069,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "5A0819626",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -24096,6 +24096,18 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-10-10T13:33:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "5A0819626",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }

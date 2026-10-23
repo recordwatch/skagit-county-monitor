@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:11:15",
+  "generatedAt": "2026-10-23T12:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 372,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 84,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -214,7 +214,12 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 28,
-      "pct": 2
+      "pct": 1.9
+    },
+    {
+      "name": "RECKLESS DRIVING",
+      "count": 23,
+      "pct": 1.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
@@ -230,11 +235,6 @@
       "name": "ATTEMPT TO ELUDE",
       "count": 23,
       "pct": 1.6
-    },
-    {
-      "name": "RECKLESS DRIVING",
-      "count": 22,
-      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -333,8 +333,8 @@
     },
     {
       "name": "DC",
-      "count": 170,
-      "pct": 11.8,
+      "count": 171,
+      "pct": 11.9,
       "label": "Skagit County District Court"
     },
     {
@@ -455,33 +455,33 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 279,
-      "pct": 35.8
+      "count": 281,
+      "pct": 35.9
     },
     {
       "name": "Declined To Prosecute",
       "count": 119,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Serving Commit",
-      "count": 105,
+      "count": 106,
       "pct": 13.5
     },
     {
       "name": "Sentence Complete Release",
       "count": 76,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "Dismissed",
       "count": 69,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "Amended",
-      "count": 31,
-      "pct": 4
+      "count": 32,
+      "pct": 4.1
     },
     {
       "name": "Dept Of Corrections Release",
@@ -506,7 +506,7 @@
     {
       "name": "Sanction Release",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "Superior Court Summon Release",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 570,
+      "count": 567,
       "pct": 95.5
     },
     {
@@ -633,15 +633,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 56.8,
+    "currentMedianDaysHeld": 56.9,
     "currentLongestDaysHeld": 980.8
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 60,
+    "withBond": 121,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20302500
+    "totalBond": 20281500
   },
   "chargesPerBooking": 3.9
 }
