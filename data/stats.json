@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T07:11:16",
+  "generatedAt": "2026-10-23T08:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 369,
-    "bookingsObserved": 166,
+    "bookingsTracked": 370,
+    "bookingsObserved": 167,
     "releasesObserved": 185,
-    "inCustody": 184,
+    "inCustody": 185,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 57,
-      "pct": 4
+      "count": 59,
+      "pct": 4.1
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 79,
-      "pct": 21.6,
+      "pct": 21.5,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 31,
-      "pct": 8.5,
+      "pct": 8.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 13,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 866,
-      "pct": 60.5,
+      "pct": 60.4,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "BMC",
-      "count": 101,
-      "pct": 7.1,
+      "count": 103,
+      "pct": 7.2,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 58,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Other"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 52,
-      "pct": 14.2
+      "count": 53,
+      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -465,13 +465,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 106,
-      "pct": 13.6
+      "count": 105,
+      "pct": 13.5
     },
     {
       "name": "Sentence Complete Release",
-      "count": 75,
-      "pct": 9.6
+      "count": 76,
+      "pct": 9.8
     },
     {
       "name": "Dismissed",
@@ -584,7 +584,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 568,
+      "count": 570,
       "pct": 95.5
     },
     {
@@ -637,11 +637,11 @@
     "currentLongestDaysHeld": 980.6
   },
   "bond": {
-    "withBond": 124,
+    "withBond": 125,
     "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20302000
+    "totalBond": 20312000
   },
   "chargesPerBooking": 3.9
 }
