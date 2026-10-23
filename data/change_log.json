@@ -1,5 +1,54 @@
 [
   {
+    "id": "618719-20261023015500",
+    "nameNumber": "618719",
+    "name": "KURO, NOAH JOEL",
+    "bookedAt": "2026-10-23T01:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-22T23:56:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-04-02T00:00:00",
+        "incident": "26-W01419",
+        "court": "SWMC",
+        "courtReference": "6A0248314",
+        "bailAmount": 1500,
+        "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-04-02T00:00:00",
+        "incident": "26-W01419",
+        "court": "SWMC",
+        "courtReference": "6A0248313",
+        "bailAmount": 1500,
+        "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T03:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "640329-20261022231000",
     "nameNumber": "640329",
     "name": "HAVENS, MARK ALLEN",
