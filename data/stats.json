@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T15:11:16",
+  "generatedAt": "2026-10-23T16:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 375,
     "bookingsObserved": 172,
-    "releasesObserved": 191,
-    "inCustody": 184,
+    "releasesObserved": 193,
+    "inCustody": 182,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-23",
       "booked": 7,
-      "released": 6
+      "released": 8
     }
   ],
   "topCharges": [
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 93,
-      "pct": 25.1,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 79,
-      "pct": 21.3,
+      "count": 80,
+      "pct": 21.5,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 31,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 859,
+      "count": 860,
       "pct": 60.1,
       "label": "Skagit County Superior Court"
     },
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 89,
-      "pct": 24
+      "pct": 23.9
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 60,
-      "pct": 16.2
+      "count": 61,
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 54,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -455,28 +455,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 293,
-      "pct": 37.1
+      "count": 281,
+      "pct": 36.2
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 14.2
+      "pct": 14.4
     },
     {
       "name": "Serving Commit",
       "count": 104,
-      "pct": 13.2
+      "pct": 13.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 79,
-      "pct": 10
+      "pct": 10.2
     },
     {
       "name": "Dismissed",
       "count": 69,
-      "pct": 8.7
+      "pct": 8.9
     },
     {
       "name": "Amended",
@@ -491,7 +491,7 @@
     {
       "name": "Bail Bond Release",
       "count": 28,
-      "pct": 3.5
+      "pct": 3.6
     },
     {
       "name": "Pending Transport",
@@ -506,7 +506,7 @@
     {
       "name": "Sanction Release",
       "count": 9,
-      "pct": 1.1
+      "pct": 1.2
     },
     {
       "name": "Superior Court Summon Release",
@@ -528,7 +528,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.5
+      "pct": 9.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,7 +543,7 @@
     {
       "name": "K",
       "count": 17,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -563,34 +563,34 @@
     {
       "name": "N",
       "count": 15,
-      "pct": 8.9
+      "pct": 9
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 17.9
+      "pct": 18
     },
     {
       "name": "Q",
-      "count": 31,
-      "pct": 18.5
+      "count": 30,
+      "pct": 18
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.7
+      "pct": 10.8
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 557,
-      "pct": 95.4
+      "count": 570,
+      "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "Cash Only",
@@ -600,13 +600,13 @@
   ],
   "releaseSources": {
     "official": 183,
-    "observed": 8,
+    "observed": 10,
     "reportOnly": 30
   },
   "stay": {
-    "releasedCount": 189,
+    "releasedCount": 191,
     "medianDays": 1.4,
-    "meanDays": 66.9,
+    "meanDays": 66.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -618,11 +618,11 @@
       },
       {
         "label": "3–7 days",
-        "count": 16
+        "count": 17
       },
       {
         "label": "1–4 weeks",
-        "count": 13
+        "count": 14
       },
       {
         "label": "1–3 months",
@@ -633,15 +633,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 56.9,
-    "currentLongestDaysHeld": 980.9
+    "currentMedianDaysHeld": 58,
+    "currentLongestDaysHeld": 981
   },
   "bond": {
     "withBond": 120,
-    "noBond": 64,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20273500
+    "totalBond": 20264000
   },
   "chargesPerBooking": 3.8
 }
