@@ -199,7 +199,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 50000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 1ST PROPERTY/SERVICES",
@@ -207,9 +207,9 @@
         "incident": "26-04313",
         "court": "SC",
         "courtReference": "26-1-00526-29",
-        "bailAmount": 50000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -220,8 +220,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -232,8 +232,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -244,8 +244,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -256,8 +256,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -268,8 +268,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -280,8 +280,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -292,8 +292,8 @@
         "court": "SC",
         "courtReference": "26-1-00526-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -310,7 +310,7 @@
     "name": "TAYLOR, TANARHEA SHULER",
     "bookedAt": "2026-10-21T14:00:00",
     "scheduledRelease": null,
-    "location": "J211",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -320,7 +320,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSS STOLEN VEHICLE",
@@ -328,9 +328,9 @@
         "incident": "23-11818",
         "court": "SC",
         "courtReference": "23-1-00792-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -2109,7 +2109,7 @@
     "name": "SPEED, MIKALAH LEE",
     "bookedAt": "2026-10-18T11:35:00",
     "scheduledRelease": null,
-    "location": "J102",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2119,7 +2119,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 2ND DEADLY WEAPON",
@@ -2127,9 +2127,9 @@
         "incident": "26-12724",
         "court": "SC",
         "courtReference": "26-1-00582-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -7915,7 +7915,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 6500,
     "charges": [
       {
         "description": "FORGERY",
@@ -7939,6 +7939,30 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2024-05-29T00:00:00",
+        "incident": null,
+        "court": "MVMC",
+        "courtReference": "4A0499189",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-05-27T00:00:00",
+        "incident": null,
+        "court": "MVMC",
+        "courtReference": "6A0288013",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T16:11:15",
+  "generatedAt": "2026-10-22T17:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 364,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 84,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -198,8 +198,8 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 33,
-      "pct": 2.3
+      "count": 34,
+      "pct": 2.4
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 852,
-      "pct": 60.4,
+      "pct": 60.3,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 132,
-      "pct": 9.4,
+      "count": 134,
+      "pct": 9.5,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -455,33 +455,33 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 261,
-      "pct": 35
+      "count": 271,
+      "pct": 35.8
     },
     {
       "name": "Declined To Prosecute",
       "count": 119,
-      "pct": 16
+      "pct": 15.7
     },
     {
       "name": "Serving Commit",
       "count": 106,
-      "pct": 14.2
+      "pct": 14
     },
     {
       "name": "Sentence Complete Release",
       "count": 70,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "Dismissed",
       "count": 68,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Bail Bond Release",
@@ -491,7 +491,7 @@
     {
       "name": "Amended",
       "count": 26,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "Shuttle Release",
@@ -518,17 +518,17 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.5
     },
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.1
+      "pct": 1.2
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -537,54 +537,54 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 8
+      "count": 12,
+      "pct": 7
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 9.8
+      "pct": 9.9
     },
     {
       "name": "M",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.5
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6.3
+      "pct": 6.4
     },
     {
       "name": "N",
       "count": 13,
-      "pct": 7.5
+      "pct": 7.6
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 17.2
+      "pct": 17.4
     },
     {
       "name": "Q",
       "count": 31,
-      "pct": 17.8
+      "pct": 18
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.3
+      "pct": 10.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 590,
+      "count": 582,
       "pct": 95.6
     },
     {
@@ -637,11 +637,11 @@
     "currentLongestDaysHeld": 980
   },
   "bond": {
-    "withBond": 129,
-    "noBond": 59,
+    "withBond": 126,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20683000
+    "totalBond": 20619500
   },
   "chargesPerBooking": 3.9
 }
