@@ -298,10 +298,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T15:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -335,10 +335,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T15:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -983,10 +983,10 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T19:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1473,10 +1473,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T16:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2134,10 +2134,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T14:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
