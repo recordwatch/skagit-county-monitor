@@ -1,5 +1,79 @@
 [
   {
+    "id": "682741-20261023131500",
+    "nameNumber": "682741",
+    "name": "MATTURRO, CHAD E",
+    "bookedAt": "2026-10-23T13:15:00",
+    "scheduledRelease": "2026-11-20T13:15:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-23T13:15:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2023-09-02T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0636175",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T14:08:37",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "617801-20261023100000",
+    "nameNumber": "617801",
+    "name": "CISNEROS, GABRIEL JOSE",
+    "bookedAt": "2026-10-23T10:00:00",
+    "scheduledRelease": "2026-10-24T10:00:00",
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-23T10:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MIP",
+        "offenseDate": "2025-11-11T00:00:00",
+        "incident": "25-M18080",
+        "court": "MVMC",
+        "courtReference": "5A0899618",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T14:08:37",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "741594-20261023095500",
     "nameNumber": "741594",
     "name": "MENDEZ, ALEX EMILIO",
@@ -753,10 +827,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T16:11:12",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-23T14:08:37",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1109,7 +1183,7 @@
     "name": "DELACRUZ-ARON, ALEX",
     "bookedAt": "2026-10-21T01:30:00",
     "scheduledRelease": null,
-    "location": "J205",
+    "location": "P201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -12655,7 +12729,7 @@
         "courtReference": "4A0451161",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12667,7 +12741,7 @@
         "courtReference": "4A0451161",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -12679,7 +12753,7 @@
         "courtReference": "4A0451161",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -13850,6 +13924,30 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Sanction Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "COMMUNITY CUSTODY VIOLATOR",
+        "offenseDate": "2025-02-21T00:00:00",
+        "incident": "25-B04109",
+        "court": "SC",
+        "courtReference": "25-1-00391-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "COMMUNITY CUSTODY VIOLATOR",
+        "offenseDate": "2025-07-01T00:00:00",
+        "incident": "25-B04109",
+        "court": "SC",
+        "courtReference": "25-1-00391-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY JAIL"
       }
