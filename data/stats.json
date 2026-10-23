@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:11:14",
+  "generatedAt": "2026-10-22T23:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 366,
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 79,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -187,13 +187,13 @@
       "pct": 3.4
     },
     {
-      "name": "DWLS/R 3RD DEGREE",
-      "count": 39,
-      "pct": 2.7
+      "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+      "count": 41,
+      "pct": 2.9
     },
     {
-      "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
-      "count": 38,
+      "name": "DWLS/R 3RD DEGREE",
+      "count": 39,
       "pct": 2.7
     },
     {
@@ -232,12 +232,12 @@
       "pct": 1.6
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 21,
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 22,
       "pct": 1.5
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
+      "name": "RESISTING ARREST",
       "count": 21,
       "pct": 1.5
     },
@@ -313,8 +313,8 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 7,
-      "pct": 1.9,
+      "count": 6,
+      "pct": 1.7,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 862,
-      "pct": 60.6,
+      "count": 866,
+      "pct": 60.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 99,
-      "pct": 7,
+      "pct": 6.9,
       "label": "Burlington Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 60,
-      "pct": 16.5
+      "count": 59,
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -423,8 +423,8 @@
     },
     {
       "name": "OTHER COUNTY HOLDS",
-      "count": 10,
-      "pct": 2.8
+      "count": 11,
+      "pct": 3
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -456,7 +456,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 279,
-      "pct": 36
+      "pct": 35.8
     },
     {
       "name": "Declined To Prosecute",
@@ -466,7 +466,7 @@
     {
       "name": "Serving Commit",
       "count": 107,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "Sentence Complete Release",
@@ -494,12 +494,12 @@
       "pct": 3.6
     },
     {
-      "name": "Shuttle Release",
-      "count": 14,
-      "pct": 1.8
+      "name": "Pending Transport",
+      "count": 17,
+      "pct": 2.2
     },
     {
-      "name": "Pending Transport",
+      "name": "Shuttle Release",
       "count": 14,
       "pct": 1.8
     },
@@ -562,18 +562,18 @@
     },
     {
       "name": "N",
-      "count": 12,
-      "pct": 7.2
+      "count": 13,
+      "pct": 7.8
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.5
+      "pct": 17.4
     },
     {
       "name": "Q",
       "count": 31,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "name": "R",
@@ -584,13 +584,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 568,
-      "pct": 95.5
+      "count": 564,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -633,15 +633,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 57.2,
-    "currentLongestDaysHeld": 980.2
+    "currentMedianDaysHeld": 57.3,
+    "currentLongestDaysHeld": 980.3
   },
   "bond": {
     "withBond": 122,
     "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20397500
+    "totalBond": 20296500
   },
   "chargesPerBooking": 3.9
 }
