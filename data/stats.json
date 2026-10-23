@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T06:11:15",
+  "generatedAt": "2026-10-23T07:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 368,
-    "bookingsObserved": 165,
-    "releasesObserved": 184,
+    "bookingsTracked": 369,
+    "bookingsObserved": 166,
+    "releasesObserved": 185,
     "inCustody": 184,
     "uniquePeople": 1
   },
@@ -151,8 +151,8 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 5,
-      "released": 19
+      "booked": 6,
+      "released": 20
     },
     {
       "date": "2026-10-23",
@@ -237,6 +237,11 @@
       "pct": 1.5
     },
     {
+      "name": "RECKLESS DRIVING",
+      "count": 21,
+      "pct": 1.5
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 21,
       "pct": 1.5
@@ -245,11 +250,6 @@
       "name": "DWLS/R 1ST DEGREE",
       "count": 21,
       "pct": 1.5
-    },
-    {
-      "name": "RECKLESS DRIVING",
-      "count": 20,
-      "pct": 1.4
     },
     {
       "name": "IDENTITY THEFT 2ND",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 92,
-      "pct": 25.2,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 37,
-      "pct": 10.1,
+      "count": 38,
+      "pct": 10.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 866,
-      "pct": 60.6,
+      "pct": 60.5,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 168,
-      "pct": 11.7,
+      "count": 169,
+      "pct": 11.8,
       "label": "Skagit County District Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 89,
-      "pct": 24.4
+      "pct": 24.3
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 59,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 26,
-      "pct": 7.1
+      "count": 27,
+      "pct": 7.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -599,22 +599,22 @@
     }
   ],
   "releaseSources": {
-    "official": 163,
-    "observed": 21,
-    "reportOnly": 29
+    "official": 183,
+    "observed": 2,
+    "reportOnly": 30
   },
   "stay": {
-    "releasedCount": 182,
+    "releasedCount": 183,
     "medianDays": 1.4,
-    "meanDays": 69.3,
+    "meanDays": 68.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 63
+        "count": 65
       },
       {
         "label": "1–3 days",
-        "count": 54
+        "count": 53
       },
       {
         "label": "3–7 days",
@@ -633,7 +633,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 56.5,
+    "currentMedianDaysHeld": 56.6,
     "currentLongestDaysHeld": 980.6
   },
   "bond": {
