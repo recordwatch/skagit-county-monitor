@@ -25632,7 +25632,7 @@
     "nameNumber": "133925",
     "name": "SANCHEZ-ARCE, JONATHAN ADAN",
     "bookedAt": "2024-11-24T22:10:00",
-    "scheduledRelease": "2026-10-22T18:22:34",
+    "scheduledRelease": "2026-10-22T18:30:59",
     "location": "M108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -25653,7 +25653,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RAPE CHILD 2ND DEGREE",
@@ -25711,7 +25711,7 @@
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25723,7 +25723,7 @@
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25735,7 +25735,7 @@
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25747,7 +25747,7 @@
         "courtReference": "06-1-00696-7",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25769,9 +25769,9 @@
         "incident": "25-06876",
         "court": "DC",
         "courtReference": "C00069626",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
