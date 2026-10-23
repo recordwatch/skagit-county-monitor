@@ -5,7 +5,7 @@
     "name": "CUTSFORTH, BRIAN EDWARD",
     "bookedAt": "2026-10-23T14:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -2309,13 +2309,13 @@
     "bookedAt": "2026-10-18T17:05:00",
     "scheduledRelease": null,
     "location": "Q101",
-    "arrestingAgency": "ISLAND COUNTY SHERIFF",
-    "arrestType": "OTHER COUNTY HOLDS",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "ORDER OF TRANSPORT",
     "arrests": [
       {
         "arrestDate": "2026-10-18T17:05:00",
-        "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "ISLAND COUNTY SHERIFF"
+        "arrestType": "ORDER OF TRANSPORT",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
@@ -2325,12 +2325,36 @@
         "offenseDate": "2026-10-18T17:05:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "26-1-00055-15",
+        "courtReference": "ISLAND 26-1-00055-15",
         "bailAmount": null,
         "bailType": null,
         "disposition": "Pending Transport",
-        "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "ISLAND COUNTY SHERIFF"
+        "arrestType": "ORDER OF TRANSPORT",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
+        "offenseDate": "2024-08-24T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-1-00653-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "ORDER OF TRANSPORT",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2024-08-24T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-1-00653-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "ORDER OF TRANSPORT",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
