@@ -1,5 +1,29 @@
 [
   {
+    "id": "491347-20261022203000",
+    "nameNumber": "491347",
+    "name": "STONER, BRADLEY KENNETH",
+    "bookedAt": "2026-10-22T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T21:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "696785-20261022123500",
     "nameNumber": "696785",
     "name": "BJORKLUND, SAMUEL NELS",
@@ -10446,10 +10470,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T21:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -16235,7 +16259,7 @@
     "nameNumber": "124400",
     "name": "SEDANO, ESTEBAN",
     "bookedAt": "2026-08-10T14:35:00",
-    "scheduledRelease": "2027-02-06T14:35:00",
+    "scheduledRelease": "2026-12-08T14:35:00",
     "location": "P205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
