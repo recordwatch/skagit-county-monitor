@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:11:17",
+  "generatedAt": "2026-10-23T13:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 372,
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 84,
-      "pct": 5.8
+      "pct": 5.9
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 81,
-      "pct": 5.6
+      "pct": 5.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -207,14 +207,9 @@
       "pct": 2.2
     },
     {
-      "name": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-      "count": 30,
-      "pct": 2.1
-    },
-    {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 28,
-      "pct": 1.9
+      "pct": 2
     },
     {
       "name": "RECKLESS DRIVING",
@@ -250,6 +245,11 @@
       "name": "DWLS/R 1ST DEGREE",
       "count": 21,
       "pct": 1.5
+    },
+    {
+      "name": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
+      "count": 20,
+      "pct": 1.4
     },
     {
       "name": "IDENTITY THEFT 2ND",
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SC",
-      "count": 867,
-      "pct": 60.4,
+      "count": 857,
+      "pct": 60.1,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 171,
-      "pct": 11.9,
+      "pct": 12,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 134,
-      "pct": 9.3,
+      "pct": 9.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 58,
-      "pct": 4,
+      "pct": 4.1,
       "label": "Other"
     },
     {
@@ -455,13 +455,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 281,
-      "pct": 35.9
+      "count": 293,
+      "pct": 37.2
     },
     {
       "name": "Declined To Prosecute",
-      "count": 119,
-      "pct": 15.2
+      "count": 112,
+      "pct": 14.2
     },
     {
       "name": "Serving Commit",
@@ -471,7 +471,7 @@
     {
       "name": "Sentence Complete Release",
       "count": 76,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "Dismissed",
@@ -584,13 +584,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 567,
-      "pct": 95.5
+      "count": 555,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -637,11 +637,11 @@
     "currentLongestDaysHeld": 980.8
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 62,
+    "withBond": 120,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20281500
+    "totalBond": 20273500
   },
-  "chargesPerBooking": 3.9
+  "chargesPerBooking": 3.8
 }

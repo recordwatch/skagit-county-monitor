@@ -10023,7 +10023,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 8000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS ENDANGERMENT",
@@ -10031,9 +10031,9 @@
         "incident": "24-M20810",
         "court": "MVMC",
         "courtReference": "4A0784672",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10043,9 +10043,9 @@
         "incident": "24-M20810",
         "court": "MVMC",
         "courtReference": "4A0784671",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10055,9 +10055,9 @@
         "incident": "24-B00849",
         "court": "BMC",
         "courtReference": "4A0218871",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10067,9 +10067,9 @@
         "incident": "24-B07120",
         "court": "BMC",
         "courtReference": "4A0770792",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10080,8 +10080,8 @@
         "court": "BMC",
         "courtReference": "4A0770792",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10091,9 +10091,9 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10103,9 +10103,9 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10114,10 +10114,10 @@
         "offenseDate": "2026-08-14T00:00:00",
         "incident": "26-B06089",
         "court": "BMC",
-        "courtReference": "6A0326734",
+        "courtReference": "6A0328734",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10127,9 +10127,9 @@
         "incident": "26-B07223",
         "court": "BMC",
         "courtReference": "6A0328736",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10140,8 +10140,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10152,8 +10152,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -10164,8 +10164,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -11639,8 +11639,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11651,8 +11651,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11663,8 +11663,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11675,8 +11675,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11687,8 +11687,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11699,8 +11699,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11711,8 +11711,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11723,8 +11723,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11735,8 +11735,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Declined To Prosecute",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -11747,8 +11747,8 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -11759,8 +11759,8 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -11771,8 +11771,8 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -11783,8 +11783,8 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -11794,126 +11794,6 @@
         "courtReference": "26-1-00486-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "DEPARTMENT OF CORRECTIONS"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-26T21:50:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "26-1-00486-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-26T22:08:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-27T13:22:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "26-1-00486-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-27T13:37:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-27T21:32:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-27T21:47:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-28T13:18:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-28T13:32:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-28T14:48:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Declined To Prosecute",
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SKAGIT COUNTY SHERIFF"
-      },
-      {
-        "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2026-09-30T13:57:00",
-        "incident": "26-11987",
-        "court": "SC",
-        "courtReference": "26-1-00486-29",
-        "bailAmount": null,
-        "bailType": null,
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
