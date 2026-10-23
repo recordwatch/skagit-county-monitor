@@ -1,5 +1,29 @@
 [
   {
+    "id": "725973-20261023142000",
+    "nameNumber": "725973",
+    "name": "CUTSFORTH, BRIAN EDWARD",
+    "bookedAt": "2026-10-23T14:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "682741-20261023131500",
     "nameNumber": "682741",
     "name": "MATTURRO, CHAD E",
@@ -42,7 +66,7 @@
     "name": "CISNEROS, GABRIEL JOSE",
     "bookedAt": "2026-10-23T10:00:00",
     "scheduledRelease": "2026-10-24T10:00:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -79,7 +103,7 @@
     "name": "MENDEZ, ALEX EMILIO",
     "bookedAt": "2026-10-23T09:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -7881,7 +7905,7 @@
     "name": "CAMERON, JAMES WADE",
     "bookedAt": "2026-10-08T10:30:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": null,
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -12758,10 +12782,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-23T15:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
