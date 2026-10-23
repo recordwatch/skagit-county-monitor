@@ -13508,10 +13508,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T20:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -16235,7 +16235,7 @@
     "nameNumber": "124400",
     "name": "SEDANO, ESTEBAN",
     "bookedAt": "2026-08-10T14:35:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2027-02-06T14:35:00",
     "location": "P205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -16256,12 +16256,24 @@
         "courtReference": "26-1-00446-29",
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-08-10T13:59:00",
+        "incident": "26-09601",
+        "court": "SC",
+        "courtReference": "26-1-00446-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Amended",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RECKLESS BURN 1 DEG",
         "offenseDate": "2026-08-10T13:59:00",
         "incident": "26-09601",
         "court": "SC",
@@ -25776,10 +25788,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-22T20:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
