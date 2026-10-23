@@ -6,19 +6,105 @@
     "bookedAt": "2026-10-22T20:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-22T20:30:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-22T20:30:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "25-1-05002-28",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T21:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "316580-20261022203000",
+    "nameNumber": "316580",
+    "name": "BRANNFORS, HANS ERIC",
+    "bookedAt": "2026-10-22T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-22T18:03:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "offenseDate": "2026-10-22T18:03:00",
+        "incident": "26-12898",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "offenseDate": "2026-10-22T18:03:00",
+        "incident": "26-12898",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "offenseDate": "2026-10-22T18:03:00",
+        "incident": "26-12898",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "offenseDate": "2026-10-22T18:03:00",
+        "incident": "26-12898",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T22:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -455,7 +541,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": 12500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -463,8 +549,8 @@
         "incident": "26-W05112",
         "court": "SWMC",
         "courtReference": "6A0308842",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -762,7 +848,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 13500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -770,9 +856,9 @@
         "incident": "26-B07698",
         "court": "BMC",
         "courtReference": "6A0419656",
-        "bailAmount": 3500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -783,8 +869,8 @@
         "court": "BMC",
         "courtReference": "6A0419656",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -795,8 +881,8 @@
         "court": "BMC",
         "courtReference": "6A0419656",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -807,8 +893,8 @@
         "court": "BMC",
         "courtReference": "6A0419656",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -818,9 +904,9 @@
         "incident": "22-B07308",
         "court": "SC",
         "courtReference": "22-1-00905-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -831,8 +917,8 @@
         "court": "SC",
         "courtReference": "22-1-00905-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -842,7 +928,7 @@
         "incident": "22-01418",
         "court": "DC",
         "courtReference": "C00066362",
-        "bailAmount": 2500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -854,7 +940,7 @@
         "incident": "22-01319",
         "court": "DC",
         "courtReference": "2A0171008",
-        "bailAmount": 2500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -7939,7 +8025,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 6500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "FORGERY",
@@ -7971,9 +8057,9 @@
         "incident": null,
         "court": "MVMC",
         "courtReference": "4A0499189",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -7983,9 +8069,9 @@
         "incident": null,
         "court": "MVMC",
         "courtReference": "6A0288013",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -8689,7 +8775,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "ROBBERY 2ND DEGREE",
@@ -8697,7 +8783,7 @@
         "incident": "26-M14946",
         "court": "SC",
         "courtReference": "26-1-00562-29",
-        "bailAmount": 10000,
+        "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -16270,7 +16356,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ARSON 2ND DEGREE",
@@ -16278,8 +16364,8 @@
         "incident": "26-09601",
         "court": "SC",
         "courtReference": "26-1-00446-29",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -16291,7 +16377,7 @@
         "court": "SC",
         "courtReference": "26-1-00446-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -16303,8 +16389,8 @@
         "court": "SC",
         "courtReference": "26-1-00446-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -18106,7 +18192,7 @@
     "name": "FORNSBY, EDWARD JOSEPH",
     "bookedAt": "2026-07-15T14:40:00",
     "scheduledRelease": null,
-    "location": "J106",
+    "location": "J110",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
