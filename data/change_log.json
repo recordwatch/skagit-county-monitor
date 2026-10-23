@@ -5,14 +5,14 @@
     "name": "KURO, NOAH JOEL",
     "bookedAt": "2026-10-23T01:55:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "location": "N203",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-22T23:56:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": 3000,
@@ -24,22 +24,22 @@
         "court": "SWMC",
         "courtReference": "6A0248314",
         "bailAmount": 1500,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-04-02T00:00:00",
         "incident": "26-W01419",
         "court": "SWMC",
         "courtReference": "6A0248313",
         "bailAmount": 1500,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "status": "in_custody",
