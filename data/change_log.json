@@ -1230,7 +1230,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -1310,9 +1310,9 @@
         "incident": "22-01418",
         "court": "DC",
         "courtReference": "C00066362",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -1322,9 +1322,9 @@
         "incident": "22-01319",
         "court": "DC",
         "courtReference": "2A0171008",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -2662,7 +2662,7 @@
     "name": "CROSSMAN, KEVIN DAVID",
     "bookedAt": "2026-10-18T03:05:00",
     "scheduledRelease": "2026-10-25T03:05:00",
-    "location": "J104",
+    "location": "J111",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
