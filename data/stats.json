@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T21:11:14",
+  "generatedAt": "2026-10-23T22:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 376,
-    "bookingsObserved": 173,
+    "bookingsTracked": 377,
+    "bookingsObserved": 174,
     "releasesObserved": 196,
-    "inCustody": 180,
+    "inCustody": 181,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 8,
+      "booked": 9,
       "released": 11
     }
   ],
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 281,
-      "pct": 35.7
+      "pct": 35.5
     },
     {
       "name": "Declined To Prosecute",
@@ -471,7 +471,7 @@
     {
       "name": "Serving Commit",
       "count": 104,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "Sentence Complete Release",
@@ -480,13 +480,13 @@
     },
     {
       "name": "Dismissed",
-      "count": 72,
-      "pct": 9.1
+      "count": 74,
+      "pct": 9.4
     },
     {
       "name": "Amended",
       "count": 32,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "Bail Bond Release",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 23,
-      "pct": 2.9
+      "count": 24,
+      "pct": 3
     },
     {
       "name": "Shuttle Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 10,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.1
+      "count": 16,
+      "pct": 9.6
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.9
+      "pct": 10.8
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 59.8,
+    "currentMedianDaysHeld": 59.2,
     "currentLongestDaysHeld": 981.2
   },
   "bond": {
     "withBond": 119,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 20278000

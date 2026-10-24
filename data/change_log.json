@@ -1,11 +1,35 @@
 [
   {
+    "id": "26152-20261023205500",
+    "nameNumber": "26152",
+    "name": "TIJERINA-KING, MICHAEL EDWARD",
+    "bookedAt": "2026-10-23T20:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "723137-20261023181000",
     "nameNumber": "723137",
     "name": "VAZQUEZ-LOPEZ, FILADELFO M",
     "bookedAt": "2026-10-23T18:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -24147,7 +24171,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -24171,7 +24195,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -24183,7 +24207,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
