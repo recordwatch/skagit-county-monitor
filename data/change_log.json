@@ -478,7 +478,7 @@
         "courtReference": "5A0899618",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
