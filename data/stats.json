@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:11:17",
+  "generatedAt": "2026-10-24T03:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 378,
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 568,
-      "pct": 95.5
+      "count": 565,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 981.4
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 64,
+    "withBond": 116,
+    "noBond": 65,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19923000
+    "totalBond": 19918000
   },
   "chargesPerBooking": 3.8
 }

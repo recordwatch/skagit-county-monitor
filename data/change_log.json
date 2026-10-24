@@ -23982,7 +23982,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
@@ -23990,8 +23990,8 @@
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -24003,7 +24003,7 @@
         "court": "SC",
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -24039,7 +24039,7 @@
         "court": "SC",
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
