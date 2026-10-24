@@ -1,22 +1,108 @@
 [
   {
+    "id": "727326-20261024043500",
+    "nameNumber": "727326",
+    "name": "RODRIGUEZ-GUTIERREZ, KEVIN EDUARDO",
+    "bookedAt": "2026-10-24T04:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-24T04:13:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
+        "offenseDate": "2025-11-11T00:00:00",
+        "incident": "25-14077",
+        "court": "SC",
+        "courtReference": "26-1-00122-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T06:10:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "596226-20261024040500",
     "nameNumber": "596226",
     "name": "FELIPE-RAMIREZ, FRANCISCO",
     "bookedAt": "2026-10-24T04:05:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-24T01:57:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-24T01:57:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00572208",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-24T01:57:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00572208",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-10-24T01:57:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00572208",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-10-24T01:57:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00572209",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T05:11:14",
     "releasedAt": null,
@@ -79,7 +165,7 @@
     "bondTotal": 4500,
     "charges": [
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2025-05-17T00:00:00",
         "incident": "26-05639",
         "court": "DC",
@@ -436,8 +522,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T11:11:15",
-    "releasedAt": "2026-10-23T20:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T19:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -522,8 +608,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T08:11:13",
-    "releasedAt": "2026-10-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T09:52:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -571,8 +657,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T03:11:15",
-    "releasedAt": "2026-10-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T09:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -620,8 +706,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T01:11:13",
-    "releasedAt": "2026-10-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T09:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -878,8 +964,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-22T12:48:55",
-    "releasedAt": "2026-10-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T09:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1159,8 +1245,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T16:11:12",
-    "releasedAt": "2026-10-23T14:08:37",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T13:52:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1624,8 +1710,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T03:11:13",
-    "releasedAt": "2026-10-23T20:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T19:00:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2591,8 +2677,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T23:11:16",
-    "releasedAt": "2026-10-23T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T15:29:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5970,8 +6056,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-13T09:11:14",
-    "releasedAt": "2026-10-24T00:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T23:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8262,8 +8348,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-23T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T15:05:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -11330,8 +11416,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-23T18:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T17:34:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -13114,8 +13200,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-23T15:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-23T14:22:10",
+    "releaseSource": "official",
     "baseline": true
   },
   {
