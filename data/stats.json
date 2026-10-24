@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T22:11:15",
+  "generatedAt": "2026-10-23T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 377,
-    "bookingsObserved": 174,
+    "bookingsTracked": 378,
+    "bookingsObserved": 175,
     "releasesObserved": 196,
-    "inCustody": 181,
+    "inCustody": 182,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 9,
+      "booked": 10,
       "released": 11
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 93,
-      "pct": 24.9,
+      "count": 94,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 82,
-      "pct": 22,
+      "count": 83,
+      "pct": 22.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 39,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 39,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 862,
+      "count": 864,
       "pct": 60.1,
       "label": "Skagit County Superior Court"
     },
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 89,
-      "pct": 23.9
+      "count": 91,
+      "pct": 24.3
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 61,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 23,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -461,12 +461,12 @@
     {
       "name": "Own Recognizance Release",
       "count": 281,
-      "pct": 35.5
+      "pct": 35.4
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "Serving Commit",
@@ -481,17 +481,17 @@
     {
       "name": "Dismissed",
       "count": 74,
-      "pct": 9.4
+      "pct": 9.3
+    },
+    {
+      "name": "Bail Bond Release",
+      "count": 32,
+      "pct": 4
     },
     {
       "name": "Amended",
       "count": 32,
       "pct": 4
-    },
-    {
-      "name": "Bail Bond Release",
-      "count": 30,
-      "pct": 3.8
     },
     {
       "name": "Dept Of Corrections Release",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 575,
+      "count": 573,
       "pct": 95.5
     },
     {
@@ -638,15 +638,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 59.2,
-    "currentLongestDaysHeld": 981.2
+    "currentMedianDaysHeld": 58.3,
+    "currentLongestDaysHeld": 981.3
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 62,
+    "withBond": 118,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 20278000
+    "totalBond": 20273000
   },
   "chargesPerBooking": 3.8
 }

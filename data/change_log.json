@@ -1,22 +1,71 @@
 [
   {
+    "id": "733149-20261023213000",
+    "nameNumber": "733149",
+    "name": "HANCOCK, MATTHEW GREGORY",
+    "bookedAt": "2026-10-23T21:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-23T19:25:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T23:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "26152-20261023205500",
     "nameNumber": "26152",
     "name": "TIJERINA-KING, MICHAEL EDWARD",
     "bookedAt": "2026-10-23T20:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-23T19:09:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 2ND BODILY HARM",
+        "offenseDate": "2026-10-23T19:09:00",
+        "incident": "25-M05100",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HARASSMENT/PRIOR CON - FELONY",
+        "offenseDate": "2026-10-23T19:09:00",
+        "incident": "25-M05100",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T22:11:15",
     "releasedAt": null,
@@ -5721,7 +5770,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ROBBERY 2ND DEGREE",
@@ -5729,9 +5778,9 @@
         "incident": "26-SP1614",
         "court": "SC",
         "courtReference": "26-1-00575-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -5742,8 +5791,8 @@
         "court": "SC",
         "courtReference": "26-1-00575-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
