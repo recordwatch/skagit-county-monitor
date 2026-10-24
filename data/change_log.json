@@ -826,10 +826,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T22:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-24T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
