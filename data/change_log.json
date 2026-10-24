@@ -8839,7 +8839,7 @@
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2024-05-29T00:00:00",
-        "incident": null,
+        "incident": "24-M09343",
         "court": "MVMC",
         "courtReference": "4A0499189",
         "bailAmount": null,
@@ -8851,7 +8851,7 @@
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2026-05-27T00:00:00",
-        "incident": null,
+        "incident": "26-M07510",
         "court": "MVMC",
         "courtReference": "6A0288013",
         "bailAmount": null,
