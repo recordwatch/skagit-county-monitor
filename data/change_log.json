@@ -1,5 +1,29 @@
 [
   {
+    "id": "207129-20261025114500",
+    "nameNumber": "207129",
+    "name": "WOLLAS, TIFFANY NICHOLE",
+    "bookedAt": "2026-10-25T11:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-25T11:16:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "720010-20261025022000",
     "nameNumber": "720010",
     "name": "GARABEDIAN, EDWARD DEMITRY",
