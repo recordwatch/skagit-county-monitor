@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:11:16",
+  "generatedAt": "2026-10-25T13:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 389,
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 89,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 182,
+      "count": 183,
       "pct": 12.4,
       "label": "Skagit County District Court"
     },
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 581,
+      "count": 582,
       "pct": 95.6
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 982.8
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 68,
+    "withBond": 121,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19893000
+    "totalBond": 19895000
   },
   "chargesPerBooking": 3.8
 }

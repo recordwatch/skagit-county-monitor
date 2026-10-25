@@ -15,8 +15,21 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "offenseDate": "2026-01-31T00:00:00",
+        "incident": "26-01206",
+        "court": "DC",
+        "courtReference": "6A0166049",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-25T12:11:16",
     "releasedAt": null,
