@@ -226,8 +226,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T00:11:14",
-    "releasedAt": "2026-10-25T02:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-25T01:05:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -863,8 +863,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T14:08:37",
-    "releasedAt": "2026-10-24T09:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-24T09:00:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1206,8 +1206,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-22T22:11:14",
-    "releasedAt": "2026-10-24T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-24T15:54:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3511,8 +3511,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T04:11:14",
-    "releasedAt": "2026-10-24T22:06:53",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-24T21:00:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -20203,7 +20203,7 @@
     "name": "BRENON, KIRK ALLEN",
     "bookedAt": "2026-07-04T19:40:00",
     "scheduledRelease": null,
-    "location": "K110",
+    "location": "K109",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -25190,7 +25190,7 @@
     "name": "WHITTON, PHILLIP MICHAEL",
     "bookedAt": "2025-12-05T08:30:00",
     "scheduledRelease": null,
-    "location": "K109",
+    "location": "K110",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
