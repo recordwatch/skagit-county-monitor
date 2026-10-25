@@ -3138,8 +3138,8 @@
     "nameNumber": "12407",
     "name": "CROSSMAN, KEVIN DAVID",
     "bookedAt": "2026-10-18T03:05:00",
-    "scheduledRelease": "2026-10-25T03:05:00",
-    "location": "J111",
+    "scheduledRelease": "2026-10-24T20:35:10",
+    "location": null,
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
