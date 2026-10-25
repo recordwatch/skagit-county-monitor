@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T03:11:13",
+  "generatedAt": "2026-10-25T04:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 387,
-    "bookingsObserved": 184,
+    "bookingsTracked": 388,
+    "bookingsObserved": 185,
     "releasesObserved": 201,
-    "inCustody": 186,
+    "inCustody": 187,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 88,
-      "pct": 6
+      "count": 89,
+      "pct": 6.1
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 96,
-      "pct": 25,
+      "count": 97,
+      "pct": 25.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 86,
-      "pct": 22.4,
+      "pct": 22.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 41,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 39,
-      "pct": 10.2,
+      "pct": 10.1,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 874,
-      "pct": 59.5,
+      "count": 877,
+      "pct": 59.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -352,13 +352,13 @@
     {
       "name": "AMC",
       "count": 58,
-      "pct": 4,
+      "pct": 3.9,
       "label": "Anacortes Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 58,
-      "pct": 4,
+      "pct": 3.9,
       "label": "Other"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 92,
-      "pct": 24
+      "count": 93,
+      "pct": 24.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 54,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 57.4,
-    "currentLongestDaysHeld": 982.4
+    "currentMedianDaysHeld": 56.4,
+    "currentLongestDaysHeld": 982.5
   },
   "bond": {
     "withBond": 120,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19893000
