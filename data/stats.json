@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T19:11:15",
+  "generatedAt": "2026-10-24T20:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 383,
-    "bookingsObserved": 180,
+    "bookingsTracked": 384,
+    "bookingsObserved": 181,
     "releasesObserved": 199,
-    "inCustody": 184,
+    "inCustody": 185,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 88,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -173,13 +173,13 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 60,
-      "pct": 4.1
+      "count": 62,
+      "pct": 4.3
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 56,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -277,8 +277,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 46,
-      "pct": 12.1,
+      "count": 47,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 39,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 31,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -320,15 +320,15 @@
     {
       "name": "SAN JUAN COUNTY SHERIFF",
       "count": 4,
-      "pct": 1.1,
+      "pct": 1,
       "label": "SAN JUAN COUNTY SHERIFF"
     }
   ],
   "courts": [
     {
       "name": "SC",
-      "count": 869,
-      "pct": 59.8,
+      "count": 872,
+      "pct": 59.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "TC",
       "count": 8,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "TC"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 91,
-      "pct": 23.9
+      "count": 92,
+      "pct": 24.1
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -404,12 +404,12 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 28,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 23,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "DUI CITATION ARREST",
@@ -444,7 +444,7 @@
     {
       "name": "REVOCATION OF PR",
       "count": 4,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ORDER OF TRANSPORT",
@@ -643,7 +643,7 @@
   },
   "bond": {
     "withBond": 118,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19879000
