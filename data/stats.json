@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:11:13",
+  "generatedAt": "2026-10-24T19:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 383,
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.1
+      "count": 13,
+      "pct": 7.6
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "N",
       "count": 19,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.6
+      "pct": 10.5
     }
   ],
   "bailTypes": [
@@ -638,7 +638,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 58,
+    "currentMedianDaysHeld": 58.1,
     "currentLongestDaysHeld": 982.1
   },
   "bond": {
