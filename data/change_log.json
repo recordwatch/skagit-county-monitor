@@ -5,7 +5,7 @@
     "name": "DENUNZIO, NOLAN MANNY",
     "bookedAt": "2026-10-24T23:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -15,7 +15,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 12000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -100,6 +100,30 @@
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-10-24T17:27:00",
+        "incident": "26-M15821",
+        "court": "MVMC",
+        "courtReference": "6A0415772",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-10-24T17:27:00",
+        "incident": "26-M15821",
+        "court": "MVMC",
+        "courtReference": "6A0415772",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -139,10 +163,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T00:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-25T02:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
