@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:11:14",
+  "generatedAt": "2026-10-25T10:48:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 388,
@@ -552,8 +552,8 @@
     },
     {
       "name": "M",
-      "count": 7,
-      "pct": 4
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 21,
-      "pct": 12.1
+      "count": 22,
+      "pct": 12.7
     },
     {
       "name": "P",
