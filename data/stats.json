@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T16:11:16",
+  "generatedAt": "2026-10-24T17:04:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 382,
-    "bookingsObserved": 179,
+    "bookingsTracked": 383,
+    "bookingsObserved": 180,
     "releasesObserved": 199,
-    "inCustody": 183,
+    "inCustody": 184,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 4,
+      "booked": 5,
       "released": 2
     }
   ],
@@ -198,8 +198,8 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 34,
-      "pct": 2.3
+      "count": 35,
+      "pct": 2.4
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 94,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 85,
-      "pct": 22.4,
+      "count": 86,
+      "pct": 22.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 181,
+      "count": 182,
       "pct": 12.5,
       "label": "Skagit County District Court"
     },
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 91,
-      "pct": 24
+      "pct": 23.9
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 62,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 56,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 52,
-      "pct": 13.7
+      "count": 53,
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 15,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 17,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "M",
@@ -558,7 +558,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -567,29 +567,29 @@
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.7
+      "count": 19,
+      "pct": 11.2
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.7
+      "pct": 10.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 569,
+      "count": 570,
       "pct": 95.5
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 982
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19878500
+    "totalBond": 19879000
   },
   "chargesPerBooking": 3.8
 }

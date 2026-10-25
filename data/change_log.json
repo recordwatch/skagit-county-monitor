@@ -1,5 +1,42 @@
 [
   {
+    "id": "3915-20261024153000",
+    "nameNumber": "3915",
+    "name": "LANPHERE, JULIE ANNA",
+    "bookedAt": "2026-10-24T15:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-24T14:37:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-24T13:49:00",
+        "incident": "26-12962",
+        "court": "DC",
+        "courtReference": "6A0421801",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T17:04:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "727326-20261024043500",
     "nameNumber": "727326",
     "name": "RODRIGUEZ-GUTIERREZ, KEVIN EDUARDO",
@@ -42,7 +79,7 @@
     "name": "FELIPE-RAMIREZ, FRANCISCO",
     "bookedAt": "2026-10-24T04:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
