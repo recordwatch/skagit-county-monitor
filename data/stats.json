@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T14:11:14",
+  "generatedAt": "2026-10-25T15:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 389,
-    "bookingsObserved": 186,
+    "bookingsTracked": 390,
+    "bookingsObserved": 187,
     "releasesObserved": 201,
-    "inCustody": 188,
+    "inCustody": 189,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 2,
+      "booked": 3,
       "released": 1
     }
   ],
@@ -168,13 +168,13 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 85,
+      "count": 86,
       "pct": 5.8
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 65,
-      "pct": 4.4
+      "count": 67,
+      "pct": 4.5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 97,
-      "pct": 25.1,
+      "count": 98,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 877,
-      "pct": 59.6,
+      "count": 881,
+      "pct": 59.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 104,
-      "pct": 7.1,
+      "pct": 7,
       "label": "Burlington Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 93,
-      "pct": 24.1
+      "count": 94,
+      "pct": 24.3
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -404,12 +404,12 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 28,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 23,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "DUI CITATION ARREST",
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 55.3,
+    "currentMedianDaysHeld": 53.9,
     "currentLongestDaysHeld": 982.9
   },
   "bond": {
     "withBond": 121,
-    "noBond": 67,
+    "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19895000
