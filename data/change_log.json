@@ -1,5 +1,42 @@
 [
   {
+    "id": "484152-20261024211000",
+    "nameNumber": "484152",
+    "name": "DAMM, TAYLOR JAY",
+    "bookedAt": "2026-10-24T21:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-24T20:55:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-10-24T20:44:00",
+        "incident": "26-M15830",
+        "court": "MVMC",
+        "courtReference": "6A0432955",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T23:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "634544-20261024181500",
     "nameNumber": "634544",
     "name": "GARZA, MONIQUE MARIE",

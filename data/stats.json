@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T22:11:14",
+  "generatedAt": "2026-10-24T23:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 384,
-    "bookingsObserved": 181,
+    "bookingsTracked": 385,
+    "bookingsObserved": 182,
     "releasesObserved": 200,
-    "inCustody": 184,
+    "inCustody": 185,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 94,
-      "pct": 24.7,
+      "count": 95,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 86,
-      "pct": 22.6,
+      "pct": 22.5,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 41,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 872,
-      "pct": 59.9,
+      "pct": 59.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 137,
-      "pct": 9.4,
+      "count": 138,
+      "pct": 9.5,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 62,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 53,
-      "pct": 13.9
+      "count": 54,
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 570,
+      "count": 571,
       "pct": 95.5
     },
     {
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 58.2,
-    "currentLongestDaysHeld": 982.2
+    "currentLongestDaysHeld": 982.3
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 119,
     "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19879000
+    "totalBond": 19881000
   },
   "chargesPerBooking": 3.8
 }
