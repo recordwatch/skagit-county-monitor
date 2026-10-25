@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-24T23:11:14",
+  "generatedAt": "2026-10-25T00:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 385,
-    "bookingsObserved": 182,
+    "bookingsTracked": 386,
+    "bookingsObserved": 183,
     "releasesObserved": 200,
-    "inCustody": 185,
+    "inCustody": 186,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-25",
-      "booked": 2,
-      "released": 0
-    },
     {
       "date": "2026-09-26",
       "booked": 0,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 7,
+      "booked": 8,
       "released": 3
+    },
+    {
+      "date": "2026-10-25",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 83,
-      "pct": 5.7
+      "count": 84,
+      "pct": 5.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 95,
-      "pct": 24.9,
+      "count": 96,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 9,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 138,
+      "count": 139,
       "pct": 9.5,
       "label": "Mount Vernon Municipal Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 92,
-      "pct": 24.1
+      "pct": 24
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 56,
-      "pct": 14.7
+      "count": 57,
+      "pct": 14.9
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 17,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.1
+      "count": 13,
+      "pct": 7.6
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "M",
@@ -563,33 +563,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "N",
       "count": 19,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 10.6
+      "pct": 10.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 571,
+      "count": 572,
       "pct": 95.5
     },
     {
@@ -638,15 +638,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 58.2,
+    "currentMedianDaysHeld": 57.2,
     "currentLongestDaysHeld": 982.3
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19881000
+    "totalBond": 19883500
   },
   "chargesPerBooking": 3.8
 }

@@ -1,11 +1,48 @@
 [
   {
+    "id": "281873-20261024222500",
+    "nameNumber": "281873",
+    "name": "VENN, KYLE ELLIS LEE",
+    "bookedAt": "2026-10-24T22:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-24T21:58:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-11-28T00:00:00",
+        "incident": "25-M18948",
+        "court": "MVMC",
+        "courtReference": "5A0918809",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T00:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "484152-20261024211000",
     "nameNumber": "484152",
     "name": "DAMM, TAYLOR JAY",
     "bookedAt": "2026-10-24T21:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
