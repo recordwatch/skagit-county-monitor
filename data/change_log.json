@@ -1,5 +1,114 @@
 [
   {
+    "id": "38964-20261024231500",
+    "nameNumber": "38964",
+    "name": "DENUNZIO, NOLAN MANNY",
+    "bookedAt": "2026-10-24T23:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-24T17:33:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-24T17:27:00",
+        "incident": "26-M15821",
+        "court": "MVMC",
+        "courtReference": "6A0415771",
+        "bailAmount": 3000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-24T17:27:00",
+        "incident": "26-M15821",
+        "court": "MVMC",
+        "courtReference": "6A0415771",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-10-24T17:27:00",
+        "incident": "26-M15821",
+        "court": "MVMC",
+        "courtReference": "6A0415771",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "RETAIL THEFT/EXTENUATING CIRC 3RD",
+        "offenseDate": "2024-05-11T00:00:00",
+        "incident": "24-B03177",
+        "court": "SC",
+        "courtReference": "24-1-00453-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-04-23T00:00:00",
+        "incident": "24-B03184",
+        "court": "SC",
+        "courtReference": "24-1-00453-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-02-07T00:00:00",
+        "incident": "26-M01820",
+        "court": "MVMC",
+        "courtReference": "6A0151605",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-12-16T00:00:00",
+        "incident": "23-B09666",
+        "court": "BMC",
+        "courtReference": "3A0675749",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T01:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "281873-20261024222500",
     "nameNumber": "281873",
     "name": "VENN, KYLE ELLIS LEE",
@@ -15,7 +124,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -23,9 +132,9 @@
         "incident": "25-M18948",
         "court": "MVMC",
         "courtReference": "5A0918809",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -61,6 +170,18 @@
         "court": "MVMC",
         "courtReference": "6A0432955",
         "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-10-24T20:44:00",
+        "incident": "26-M15830",
+        "court": "MVMC",
+        "courtReference": "6A0432955",
+        "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
