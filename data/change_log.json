@@ -15,7 +15,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5500,
+    "bondTotal": 10500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -23,8 +23,8 @@
         "incident": "25-M1683",
         "court": "MVMC",
         "courtReference": "5A0871002",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -35,8 +35,8 @@
         "incident": "25-M16362",
         "court": "MVMC",
         "courtReference": "5A0870998",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -25083,7 +25083,7 @@
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-        "offenseDate": "2025-12-24T00:00:00",
+        "offenseDate": "2025-12-17T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
@@ -25095,7 +25095,7 @@
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-        "offenseDate": "2025-12-24T00:00:00",
+        "offenseDate": "2025-12-16T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
@@ -25107,7 +25107,7 @@
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-        "offenseDate": "2025-12-24T00:00:00",
+        "offenseDate": "2025-12-14T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
@@ -25119,7 +25119,7 @@
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-        "offenseDate": "2025-12-24T00:00:00",
+        "offenseDate": "2025-12-12T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
