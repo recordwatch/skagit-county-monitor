@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T08:11:18",
+  "generatedAt": "2026-10-26T09:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 396,
-    "bookingsObserved": 193,
+    "bookingsTracked": 397,
+    "bookingsObserved": 194,
     "releasesObserved": 202,
-    "inCustody": 194,
+    "inCustody": 195,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 67,
-      "pct": 4.5
+      "count": 65,
+      "pct": 4.3
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 98,
-      "pct": 24.9,
+      "count": 99,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 49,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 890,
+      "count": 891,
       "pct": 59.3,
       "label": "Skagit County Superior Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 95,
-      "pct": 24.2
+      "pct": 24.1
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 60,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 23,
-      "pct": 5.9
+      "count": 24,
+      "pct": 6.1
     },
     {
       "name": "DUI CITATION ARREST",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 281,
-      "pct": 34.7
+      "pct": 34.6
     },
     {
       "name": "Declined To Prosecute",
@@ -470,8 +470,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 105,
-      "pct": 13
+      "count": 106,
+      "pct": 13.1
     },
     {
       "name": "Sentence Complete Release",
@@ -548,17 +548,17 @@
     {
       "name": "K",
       "count": 17,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "M",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "MALE INMATE WORKER (E103)",
-      "count": 6,
-      "pct": 3.4
+      "count": 7,
+      "pct": 3.9
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -568,12 +568,12 @@
     {
       "name": "N",
       "count": 24,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.3,
-    "currentLongestDaysHeld": 983.6
+    "currentMedianDaysHeld": 52.9,
+    "currentLongestDaysHeld": 983.7
   },
   "bond": {
     "withBond": 124,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19909000
