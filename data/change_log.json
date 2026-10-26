@@ -297,10 +297,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T01:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -370,10 +370,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T00:32:01",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -407,10 +407,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -444,10 +444,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T21:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -615,10 +615,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -895,10 +895,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T23:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -993,10 +993,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T17:04:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1103,10 +1103,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T05:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1140,10 +1140,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T05:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1225,10 +1225,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T04:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1372,10 +1372,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1925,10 +1925,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T15:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
