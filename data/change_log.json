@@ -1,5 +1,42 @@
 [
   {
+    "id": "393505-20261025194500",
+    "nameNumber": "393505",
+    "name": "GROSSO, PETER A",
+    "bookedAt": "2026-10-25T19:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-25T19:26:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-10-25T19:26:00",
+        "incident": "26-12996",
+        "court": "DC",
+        "courtReference": "6A0433236",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T22:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742910-20261025193000",
     "nameNumber": "742910",
     "name": "HANSEN, NICOLE WEBER",
@@ -91,10 +128,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T20:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-25T22:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
