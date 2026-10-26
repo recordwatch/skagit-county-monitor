@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:11:21",
+  "generatedAt": "2026-10-25T17:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 390,
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 8
+      "count": 15,
+      "pct": 8.6
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "M",
@@ -573,12 +573,12 @@
     {
       "name": "P",
       "count": 29,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "R",
@@ -638,7 +638,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.9,
+    "currentMedianDaysHeld": 54,
     "currentLongestDaysHeld": 983
   },
   "bond": {
