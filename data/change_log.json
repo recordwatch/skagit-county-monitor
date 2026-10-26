@@ -1,5 +1,66 @@
 [
   {
+    "id": "733799-20261025183000",
+    "nameNumber": "733799",
+    "name": "REYES-DELGADO, OSCAR",
+    "bookedAt": "2026-10-25T18:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-25T17:01:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-10-25T16:30:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954246",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-25T16:30:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954246",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-04-24T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00355823",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T20:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742908-20261025132000",
     "nameNumber": "742908",
     "name": "RAMOS-MATUTE, JOSE",
