@@ -15,7 +15,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSS STOLEN VEHICLE",
@@ -66,7 +66,7 @@
         "agency": "ANACORTES POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS-ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
@@ -78,13 +78,13 @@
         "agency": "ANACORTES POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS-ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-10-25T20:48:00",
-        "incident": "26-A06199",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "incident": "26-A06646",
+        "court": "AMC",
+        "courtReference": "6A0276780",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -102,7 +102,7 @@
     "name": "WILLIS, KYLE WAYNE",
     "bookedAt": "2026-10-26T00:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [

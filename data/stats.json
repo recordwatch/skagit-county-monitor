@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:11:17",
+  "generatedAt": "2026-10-26T05:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 396,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 91,
-      "pct": 6.1
+      "count": 93,
+      "pct": 6.2
     },
     {
       "name": "DUI",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 891,
-      "pct": 59.4,
+      "count": 890,
+      "pct": 59.3,
       "label": "Skagit County Superior Court"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "AMC",
-      "count": 61,
+      "count": 62,
       "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "K",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 23,
-      "pct": 13
+      "count": 24,
+      "pct": 13.5
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.8
+      "pct": 15.7
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 595,
+      "count": 596,
       "pct": 95.7
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 983.5
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 71,
+    "withBond": 124,
+    "noBond": 70,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19908000
+    "totalBond": 19909000
   },
   "chargesPerBooking": 3.8
 }
