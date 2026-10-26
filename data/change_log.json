@@ -1,5 +1,78 @@
 [
   {
+    "id": "595987-20261025231000",
+    "nameNumber": "595987",
+    "name": "TOM, VANESSA ANN",
+    "bookedAt": "2026-10-25T23:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-25T22:26:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-26T22:26:00",
+        "incident": "26-13003",
+        "court": "DC",
+        "courtReference": "6A0433237",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-03-24T00:00:00",
+        "incident": "26-W01274",
+        "court": "SWMC",
+        "courtReference": "6A0232770",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-10-02T00:00:00",
+        "incident": "24-A06476",
+        "court": "AMC",
+        "courtReference": "4A0790185",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DANGEROUS WEAPONS",
+        "offenseDate": "2024-10-02T00:00:00",
+        "incident": "24-A06476",
+        "court": "AMC",
+        "courtReference": "4A0790185",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T00:32:01",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "393505-20261025194500",
     "nameNumber": "393505",
     "name": "GROSSO, PETER A",
