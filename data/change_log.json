@@ -1,5 +1,103 @@
 [
   {
+    "id": "232-20261026140000",
+    "nameNumber": "232",
+    "name": "SEPULVEDA, DARRIN PASCAL",
+    "bookedAt": "2026-10-26T14:00:00",
+    "scheduledRelease": "2026-11-25T14:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T14:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2022-11-23T00:00:00",
+        "incident": null,
+        "court": "BMC",
+        "courtReference": "2A065013",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T15:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "733292-20261026134500",
+    "nameNumber": "733292",
+    "name": "RALPH, STEVEN DOUGLAS",
+    "bookedAt": "2026-10-26T13:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T13:45:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-04-06T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00153794",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T15:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "321596-20261026133500",
+    "nameNumber": "321596",
+    "name": "STOUPA, ASHLEY JUNE",
+    "bookedAt": "2026-10-26T13:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T15:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "161985-20261026090000",
     "nameNumber": "161985",
     "name": "LAWRENCE, CHASITY ANN",
@@ -11244,7 +11342,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 7000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -11252,9 +11350,9 @@
         "incident": "26-12149",
         "court": "SC",
         "courtReference": "26-1-00558-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -11265,8 +11363,8 @@
         "court": "SC",
         "courtReference": "26-1-00558-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -11277,8 +11375,8 @@
         "court": "SC",
         "courtReference": "26-1-00558-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -11288,9 +11386,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "WHATCOM XZ0378206",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -12267,10 +12365,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T15:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
