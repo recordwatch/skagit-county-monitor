@@ -1,5 +1,42 @@
 [
   {
+    "id": "742910-20261025193000",
+    "nameNumber": "742910",
+    "name": "HANSEN, NICOLE WEBER",
+    "bookedAt": "2026-10-25T19:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-25T15:54:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-25T15:54:00",
+        "incident": "26-A06640",
+        "court": "AMC",
+        "courtReference": "6A0276779",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T21:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "733799-20261025183000",
     "nameNumber": "733799",
     "name": "REYES-DELGADO, OSCAR",
