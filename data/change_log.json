@@ -5,7 +5,7 @@
     "name": "VAGEN, SAMANTHA ROSE",
     "bookedAt": "2026-10-26T02:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J111",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -397,8 +397,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T20:11:15",
-    "releasedAt": "2026-10-25T22:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-25T21:34:12",
+    "releaseSource": "official",
     "baseline": false
   },
   {
