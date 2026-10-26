@@ -15,7 +15,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -47,20 +47,44 @@
         "incident": "25-M15151",
         "court": "MVMC",
         "courtReference": "5A0796024",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-        "offenseDate": "2025-09-18T00:00:00",
-        "incident": "25-M15151",
-        "court": "MVMC",
-        "courtReference": "5A0796024",
+        "offenseDate": "2025-11-27T00:00:00",
+        "incident": "25-B09092",
+        "court": "BMC",
+        "courtReference": "5A0848087",
+        "bailAmount": 3000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-11-27T00:00:00",
+        "incident": "25-B09092",
+        "court": "BMC",
+        "courtReference": "5A0848087",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-11-27T00:00:00",
+        "incident": "25-B09092",
+        "court": "BMC",
+        "courtReference": "5A0848087",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -78,7 +102,7 @@
     "name": "TOM, VANESSA ANN",
     "bookedAt": "2026-10-25T23:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -92,7 +116,7 @@
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
-        "offenseDate": "2026-10-26T22:26:00",
+        "offenseDate": "2026-10-25T22:26:00",
         "incident": "26-13003",
         "court": "DC",
         "courtReference": "6A0433237",
@@ -17918,7 +17942,7 @@
     "name": "DEROUIN, CALEB MARTIN",
     "bookedAt": "2026-08-09T08:00:00",
     "scheduledRelease": null,
-    "location": "J105",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -25005,19 +25029,19 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION DV-FELONY",
-        "offenseDate": "2025-12-27T12:46:00",
+        "offenseDate": "2025-12-25T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -25047,13 +25071,61 @@
       },
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-        "offenseDate": "2025-12-27T12:46:00",
+        "offenseDate": "2025-12-24T00:00:00",
         "incident": "25-A08220",
         "court": "SC",
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Pending Transport",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
+        "offenseDate": "2025-12-24T00:00:00",
+        "incident": "25-A08220",
+        "court": "SC",
+        "courtReference": "25-1-00812-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
+        "offenseDate": "2025-12-24T00:00:00",
+        "incident": "25-A08220",
+        "court": "SC",
+        "courtReference": "25-1-00812-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
+        "offenseDate": "2025-12-24T00:00:00",
+        "incident": "25-A08220",
+        "court": "SC",
+        "courtReference": "25-1-00812-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
+        "offenseDate": "2025-12-24T00:00:00",
+        "incident": "25-A08220",
+        "court": "SC",
+        "courtReference": "25-1-00812-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },

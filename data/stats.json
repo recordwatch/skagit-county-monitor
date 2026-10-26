@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:11:16",
+  "generatedAt": "2026-10-26T02:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 395,
@@ -162,13 +162,13 @@
   ],
   "topCharges": [
     {
-      "name": "DUI",
-      "count": 90,
-      "pct": 6
+      "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+      "count": 91,
+      "pct": 6.1
     },
     {
-      "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 89,
+      "name": "DUI",
+      "count": 90,
       "pct": 6
     },
     {
@@ -179,12 +179,12 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 56,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 50,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -194,7 +194,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -208,8 +208,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
-      "count": 29,
-      "pct": 1.9
+      "count": 33,
+      "pct": 2.2
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 881,
+      "count": 885,
       "pct": 59.2,
       "label": "Skagit County Superior Court"
     },
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 150,
-      "pct": 10.1,
+      "count": 149,
+      "pct": 10,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 104,
-      "pct": 7,
+      "count": 107,
+      "pct": 7.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -364,7 +364,7 @@
     {
       "name": "SWMC",
       "count": 38,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -461,32 +461,37 @@
     {
       "name": "Own Recognizance Release",
       "count": 281,
-      "pct": 35
+      "pct": 34.7
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "Serving Commit",
       "count": 105,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "Sentence Complete Release",
       "count": 80,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Dismissed",
       "count": 74,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "Amended",
       "count": 36,
-      "pct": 4.5
+      "pct": 4.4
+    },
+    {
+      "name": "Pending Transport",
+      "count": 35,
+      "pct": 4.3
     },
     {
       "name": "Bail Bond Release",
@@ -497,11 +502,6 @@
       "name": "Dept Of Corrections Release",
       "count": 29,
       "pct": 3.6
-    },
-    {
-      "name": "Pending Transport",
-      "count": 28,
-      "pct": 3.5
     },
     {
       "name": "Shuttle Release",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 589,
+      "count": 593,
       "pct": 95.6
     },
     {
@@ -638,15 +638,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.4,
-    "currentLongestDaysHeld": 983.3
+    "currentMedianDaysHeld": 53.5,
+    "currentLongestDaysHeld": 983.4
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 71,
+    "withBond": 123,
+    "noBond": 70,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19897500
+    "totalBond": 19903000
   },
   "chargesPerBooking": 3.8
 }
