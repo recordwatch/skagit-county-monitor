@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T03:11:16",
+  "generatedAt": "2026-10-26T04:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 395,
-    "bookingsObserved": 192,
+    "bookingsTracked": 396,
+    "bookingsObserved": 193,
     "releasesObserved": 202,
-    "inCustody": 193,
+    "inCustody": 194,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 98,
-      "pct": 25,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 89,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 32,
-      "pct": 8.2,
+      "count": 33,
+      "pct": 8.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,26 +327,26 @@
   "courts": [
     {
       "name": "SC",
-      "count": 885,
-      "pct": 59.2,
+      "count": 891,
+      "pct": 59.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 188,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 149,
-      "pct": 10,
+      "pct": 9.9,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 107,
-      "pct": 7.2,
+      "pct": 7.1,
       "label": "Burlington Municipal Court"
     },
     {
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 94,
-      "pct": 24
+      "count": 95,
+      "pct": 24.2
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 63,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 56,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 10,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.5,
-    "currentLongestDaysHeld": 983.4
+    "currentMedianDaysHeld": 53.1,
+    "currentLongestDaysHeld": 983.5
   },
   "bond": {
     "withBond": 123,
-    "noBond": 70,
+    "noBond": 71,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19908000
