@@ -5,7 +5,7 @@
     "name": "GROSSO, PETER A",
     "bookedAt": "2026-10-25T19:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "HANSEN, NICOLE WEBER",
     "bookedAt": "2026-10-25T19:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R103",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [

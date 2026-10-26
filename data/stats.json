@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:11:14",
+  "generatedAt": "2026-10-26T00:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 393,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-26",
-      "booked": 0,
-      "released": 0
-    },
     {
       "date": "2026-09-27",
       "booked": 2,
@@ -158,6 +153,11 @@
       "date": "2026-10-25",
       "booked": 6,
       "released": 2
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "N",
-      "count": 22,
-      "pct": 12.6
+      "count": 23,
+      "pct": 13
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.6
+      "pct": 16.4
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16
+      "pct": 15.8
     },
     {
       "name": "R",
-      "count": 18,
-      "pct": 10.3
+      "count": 19,
+      "pct": 10.7
     }
   ],
   "bailTypes": [
