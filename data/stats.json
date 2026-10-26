@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:11:17",
+  "generatedAt": "2026-10-26T12:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 398,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 99,
-      "pct": 25.1,
+      "count": 100,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 89,
-      "pct": 22.5,
+      "count": 88,
+      "pct": 22.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -460,53 +460,53 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 300,
-      "pct": 36.1
+      "count": 320,
+      "pct": 37.6
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 13.4
+      "pct": 13.1
     },
     {
       "name": "Serving Commit",
       "count": 106,
-      "pct": 12.8
+      "pct": 12.5
     },
     {
       "name": "Sentence Complete Release",
       "count": 80,
-      "pct": 9.6
+      "pct": 9.4
     },
     {
       "name": "Dismissed",
       "count": 74,
-      "pct": 8.9
+      "pct": 8.7
     },
     {
       "name": "Amended",
       "count": 36,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "Pending Transport",
       "count": 35,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "Bail Bond Release",
       "count": 33,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 29,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "Shuttle Release",
       "count": 14,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "Sanction Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 15,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 16,
-      "pct": 8.9
+      "count": 17,
+      "pct": 9.4
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "M",
       "count": 6,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -568,12 +568,12 @@
     {
       "name": "N",
       "count": 24,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 585,
-      "pct": 95.6
+      "count": 565,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 52.9,
+    "currentMedianDaysHeld": 53,
     "currentLongestDaysHeld": 983.8
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 76,
+    "withBond": 115,
+    "noBond": 80,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19922500
+    "totalBond": 19898500
   },
   "chargesPerBooking": 3.8
 }

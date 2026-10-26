@@ -5,7 +5,7 @@
     "name": "LAWRENCE, CHASITY ANN",
     "bookedAt": "2026-10-26T09:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -222,7 +222,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 10500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -230,9 +230,9 @@
         "incident": "25-M1683",
         "court": "MVMC",
         "courtReference": "5A0871002",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -242,9 +242,9 @@
         "incident": "25-M16362",
         "court": "MVMC",
         "courtReference": "5A0870998",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -254,9 +254,9 @@
         "incident": "25-M15151",
         "court": "MVMC",
         "courtReference": "5A0796024",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -266,9 +266,9 @@
         "incident": "25-B09092",
         "court": "BMC",
         "courtReference": "5A0848087",
-        "bailAmount": 3000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -279,8 +279,8 @@
         "court": "BMC",
         "courtReference": "5A0848087",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -291,8 +291,8 @@
         "court": "BMC",
         "courtReference": "5A0848087",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -698,7 +698,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 12000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -706,9 +706,9 @@
         "incident": "26-M15821",
         "court": "MVMC",
         "courtReference": "6A0415771",
-        "bailAmount": 3000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -719,8 +719,8 @@
         "court": "MVMC",
         "courtReference": "6A0415771",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -731,8 +731,8 @@
         "court": "MVMC",
         "courtReference": "6A0415771",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -766,9 +766,9 @@
         "incident": "26-M01820",
         "court": "MVMC",
         "courtReference": "6A0151605",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -778,9 +778,9 @@
         "incident": "23-B09666",
         "court": "BMC",
         "courtReference": "3A0675749",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -790,9 +790,9 @@
         "incident": "26-M15821",
         "court": "MVMC",
         "courtReference": "6A0415772",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -803,8 +803,8 @@
         "court": "MVMC",
         "courtReference": "6A0415772",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -868,7 +868,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HARASSMENT",
@@ -876,9 +876,9 @@
         "incident": "26-M15830",
         "court": "MVMC",
         "courtReference": "6A0432955",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -889,8 +889,8 @@
         "court": "MVMC",
         "courtReference": "6A0432955",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1345,7 +1345,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1353,9 +1353,9 @@
         "incident": "25-09793",
         "court": "DC",
         "courtReference": "5A0623320",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1365,9 +1365,9 @@
         "incident": "26-12928",
         "court": "DC",
         "courtReference": "6A0000623",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1886,7 +1886,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -1894,9 +1894,9 @@
         "incident": "26-12883",
         "court": "DC",
         "courtReference": "6A0251798",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1906,9 +1906,9 @@
         "incident": "26-12883",
         "court": "DC",
         "courtReference": "6A0251798",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1918,9 +1918,9 @@
         "incident": "26-12883",
         "court": "DC",
         "courtReference": "6A0251798",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -13013,13 +13013,13 @@
     "bookedAt": "2026-09-22T12:55:00",
     "scheduledRelease": "2027-01-05T19:55:00",
     "location": "P102",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-09-22T12:55:00",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
@@ -13034,7 +13034,7 @@
         "bailType": null,
         "disposition": null,
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "UNLAW POSS FIREARM 2ND DEGREE",
@@ -13046,7 +13046,7 @@
         "bailType": null,
         "disposition": null,
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
