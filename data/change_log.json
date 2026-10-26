@@ -80,17 +80,90 @@
     "bookedAt": "2026-10-26T13:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-26T13:35:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2023-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0008896",
+        "bailAmount": 4000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2023-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0008895",
+        "bailAmount": 4000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RENDER CRIMINAL ASSIST-3RD",
+        "offenseDate": "2023-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0008895",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HIT AND RUN-DAMAGE ONLY",
+        "offenseDate": "2023-10-27T00:00:00",
+        "incident": "23-B08341",
+        "court": "BMC",
+        "courtReference": "3A0731964",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2023-10-27T00:00:00",
+        "incident": "23-B08341",
+        "court": "BMC",
+        "courtReference": "3A0731964",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2024-10-27T00:00:00",
+        "incident": "24-W05581",
+        "court": "SWMC",
+        "courtReference": "4A0721307",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T15:11:14",
     "releasedAt": null,
@@ -230,10 +303,10 @@
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00592-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -242,10 +315,10 @@
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00592-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -254,10 +327,10 @@
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00592-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -266,10 +339,10 @@
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00592-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -278,10 +351,10 @@
         "offenseDate": "2026-10-25T20:48:00",
         "incident": "26-A06199",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00592-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -635,7 +708,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -656,10 +729,10 @@
         "offenseDate": "2026-10-25T12:32:00",
         "incident": "26-M15848",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00591-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -672,6 +745,18 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "TRAFFIC STOLEN PROP 2ND",
+        "offenseDate": "2026-10-25T12:32:00",
+        "incident": "26-M15848",
+        "court": "SC",
+        "courtReference": "26-1-00591-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1404,7 +1489,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1416,7 +1501,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
