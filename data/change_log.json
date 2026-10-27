@@ -1,5 +1,54 @@
 [
   {
+    "id": "723024-20261027090000",
+    "nameNumber": "723024",
+    "name": "VAZQUEZ-MARTINEZ, LORENZO",
+    "bookedAt": "2026-10-27T09:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T08:00:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-27T08:00:00",
+        "incident": "26-A06665",
+        "court": "AMC",
+        "courtReference": "6A0126184",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2025-08-03T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "5A0688545",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T10:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "550197-20261027050500",
     "nameNumber": "550197",
     "name": "JUAREZ-ESCOBEDO, EDUARDO",
@@ -64,7 +113,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -72,9 +121,9 @@
         "incident": "25-A04646",
         "court": "AMC",
         "courtReference": "5A0543293",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -84,9 +133,9 @@
         "incident": "25-A04646",
         "court": "AMC",
         "courtReference": "5A0543292",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -186,7 +235,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -196,7 +245,7 @@
         "courtReference": "6A0393825",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -218,9 +267,9 @@
         "incident": "25-M10586",
         "court": "MVMC",
         "courtReference": "5A0546024",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -284,7 +333,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -292,9 +341,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00153794",
-        "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -321,7 +370,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 1600,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -329,7 +378,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0008896",
-        "bailAmount": 4000,
+        "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -341,7 +390,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0008895",
-        "bailAmount": 4000,
+        "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -365,7 +414,7 @@
         "incident": "23-B08341",
         "court": "BMC",
         "courtReference": "3A0731964",
-        "bailAmount": 1500,
+        "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -389,7 +438,7 @@
         "incident": "24-W05581",
         "court": "SWMC",
         "courtReference": "4A0721307",
-        "bailAmount": 500,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -456,7 +505,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -500,9 +549,21 @@
         "incident": "24-B02757",
         "court": "BMC",
         "courtReference": "4A0210870",
-        "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-07-19T00:00:00",
+        "incident": "24-B05127",
+        "court": "BMC",
+        "courtReference": "4A0626545",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -1714,7 +1775,7 @@
     "name": "HANCOCK, MATTHEW GREGORY",
     "bookedAt": "2026-10-23T21:30:00",
     "scheduledRelease": null,
-    "location": "N206",
+    "location": "Q208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2193,7 +2254,7 @@
     "name": "STONER, BRADLEY KENNETH",
     "bookedAt": "2026-10-22T20:30:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": "Q208",
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -2769,7 +2830,7 @@
     "name": "COON, JOSHUA JAMES",
     "bookedAt": "2026-10-21T11:25:00",
     "scheduledRelease": null,
-    "location": "Q208",
+    "location": "Q108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -15937,7 +15998,7 @@
         "courtReference": "17-3-00272-7",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -25069,7 +25130,7 @@
     "name": "KRUMINS, KURIS ARNOLDS",
     "bookedAt": "2026-01-30T12:00:00",
     "scheduledRelease": null,
-    "location": "J208",
+    "location": "K101",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -26976,7 +27037,7 @@
     "name": "STEVENS, ARLO OSBORN",
     "bookedAt": "2025-10-26T15:00:00",
     "scheduledRelease": null,
-    "location": "J210",
+    "location": "M106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
