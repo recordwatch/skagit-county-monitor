@@ -5,7 +5,7 @@
     "name": "ALVES, MICHAEL STEVEN",
     "bookedAt": "2026-10-26T21:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -54,7 +54,7 @@
     "name": "HARPER, GRANT ALEXANDER V",
     "bookedAt": "2026-10-26T20:50:00",
     "scheduledRelease": "2026-11-25T17:50:00",
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
