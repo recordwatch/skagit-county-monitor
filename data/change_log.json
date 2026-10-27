@@ -4097,7 +4097,7 @@
         "courtReference": "ISLAND 26-1-00055-15",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "ORDER OF TRANSPORT",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -4109,7 +4109,7 @@
         "courtReference": "24-1-00653-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "ORDER OF TRANSPORT",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -10657,10 +10657,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-27T06:11:14",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
