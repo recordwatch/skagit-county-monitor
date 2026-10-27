@@ -745,8 +745,8 @@
         "incident": "23-B03378",
         "court": "SC",
         "courtReference": "23-1-00493-29",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -758,7 +758,7 @@
         "court": "SC",
         "courtReference": "23-1-00493-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -769,7 +769,7 @@
         "incident": "23-B03378",
         "court": "SC",
         "courtReference": "23-1-00493-29",
-        "bailAmount": 10000,
+        "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -16184,7 +16184,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 13500,
+    "bondTotal": 12000,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -16276,9 +16276,9 @@
         "incident": "26-A03937",
         "court": "AMC",
         "courtReference": "6A0298519",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -16289,8 +16289,8 @@
         "court": "AMC",
         "courtReference": "6A0298519",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },

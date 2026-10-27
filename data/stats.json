@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:11:16",
+  "generatedAt": "2026-10-27T16:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 411,
@@ -480,8 +480,8 @@
     },
     {
       "name": "Dismissed",
-      "count": 76,
-      "pct": 8.5
+      "count": 78,
+      "pct": 8.7
     },
     {
       "name": "Dept Of Corrections Release",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 60.9,
-    "currentLongestDaysHeld": 984.9
+    "currentLongestDaysHeld": 985
   },
   "bond": {
     "withBond": 116,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19637600
+    "totalBond": 19636100
   },
   "chargesPerBooking": 3.8
 }
