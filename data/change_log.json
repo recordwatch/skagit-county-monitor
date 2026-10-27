@@ -1,5 +1,54 @@
 [
   {
+    "id": "550197-20261027050500",
+    "nameNumber": "550197",
+    "name": "JUAREZ-ESCOBEDO, EDUARDO",
+    "bookedAt": "2026-10-27T05:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T02:30:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-27T02:30:00",
+        "incident": "26-M15908",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ESCAPE 2ND DEGREE",
+        "offenseDate": "2026-10-27T02:30:00",
+        "incident": "26-M15908",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T07:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "481742-20261026215500",
     "nameNumber": "481742",
     "name": "ALVES, MICHAEL STEVEN",
@@ -354,6 +403,44 @@
     "baseline": false
   },
   {
+    "id": "18275-20261026100000",
+    "nameNumber": "18275",
+    "name": "RIVERA-SAUCEDA, MARIA MONICA",
+    "bookedAt": "2026-10-26T10:00:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-10-26T10:21:21",
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T10:00:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ORGANIZED RETAIL THEFT 2ND DEGREE",
+        "offenseDate": "2026-08-08T00:00:00",
+        "incident": "26-B05920",
+        "court": "SC",
+        "courtReference": "26-1-00566-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-10-27T07:11:17",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
+    "baseline": false
+  },
+  {
     "id": "161985-20261026090000",
     "nameNumber": "161985",
     "name": "LAWRENCE, CHASITY ANN",
@@ -556,8 +643,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T04:11:17",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:23:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -653,8 +740,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T01:11:16",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:19:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -726,8 +813,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T00:32:01",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:18:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -763,8 +850,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T22:11:16",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:17:16",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -800,8 +887,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T21:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:17:35",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -946,8 +1033,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T15:11:15",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:24:01",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -983,8 +1070,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T12:11:16",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:19:42",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1068,8 +1155,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T04:11:15",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:22:35",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1287,8 +1374,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T23:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T12:10:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1348,8 +1435,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T20:11:14",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:21:49",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1385,8 +1472,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T17:04:18",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:18:05",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1422,8 +1509,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T06:10:17",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:22:15",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1495,8 +1582,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T05:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:16:55",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1532,8 +1619,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T05:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:18:24",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1617,8 +1704,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-24T04:11:16",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:17:50",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1715,8 +1802,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T22:11:15",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:23:16",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1764,8 +1851,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T20:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:19:01",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1801,8 +1888,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T15:11:16",
-    "releasedAt": "2026-10-26T18:11:13",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T17:22:56",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2317,8 +2404,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-22T15:11:14",
-    "releasedAt": "2026-10-26T14:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T13:16:19",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -10659,8 +10746,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T06:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T05:45:52",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -11687,8 +11774,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-26T17:00:00",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T16:40:23",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -12150,8 +12237,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-26T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T10:39:41",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -12659,8 +12746,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-26T15:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-26T14:08:44",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -17844,7 +17931,7 @@
         "courtReference": "26-1-00476-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -17868,7 +17955,7 @@
         "courtReference": "26-1-00465-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "DRUG TASK FORCE"
       },
@@ -17880,7 +17967,7 @@
         "courtReference": "26-1-00465-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "DRUG TASK FORCE"
       },
@@ -17892,7 +17979,7 @@
         "courtReference": "26-1-00465-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "DRUG TASK FORCE"
       }
@@ -21498,7 +21585,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -21558,7 +21645,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -21582,7 +21669,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -21594,7 +21681,7 @@
         "courtReference": "26-1-00296-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -25807,7 +25894,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -25819,7 +25906,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -25855,7 +25942,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -25867,7 +25954,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -25927,7 +26014,7 @@
         "courtReference": "25-1-00304-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26752,7 +26839,7 @@
         "courtReference": "25-1-00709-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -26800,7 +26887,7 @@
         "courtReference": "25-1-00709-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -26812,7 +26899,7 @@
         "courtReference": "25-1-00709-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -26860,7 +26947,7 @@
         "courtReference": "25-1-00709-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },

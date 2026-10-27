@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T06:11:14",
+  "generatedAt": "2026-10-27T07:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 404,
-    "bookingsObserved": 201,
-    "releasesObserved": 225,
-    "inCustody": 179,
+    "bookingsTracked": 406,
+    "bookingsObserved": 203,
+    "releasesObserved": 226,
+    "inCustody": 180,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,19 +151,19 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 10,
-      "released": 22
+      "booked": 11,
+      "released": 23
     },
     {
       "date": "2026-10-27",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 93,
+      "count": 94,
       "pct": 6.1
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 68,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 101,
-      "pct": 25.2,
+      "count": 102,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 89,
-      "pct": 22.2,
+      "pct": 22.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 51,
-      "pct": 12.7,
+      "count": 52,
+      "pct": 12.9,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 897,
-      "pct": 58.8,
+      "count": 900,
+      "pct": 58.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -383,28 +383,28 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 95,
-      "pct": 23.7
+      "count": 96,
+      "pct": 23.8
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 64,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 63,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 57,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 28,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -432,14 +432,14 @@
       "pct": 2
     },
     {
-      "name": "DUI WARRANT ARREST",
+      "name": "SUPERIOR COURT SUMMONS",
       "count": 6,
       "pct": 1.5
     },
     {
-      "name": "SUPERIOR COURT SUMMONS",
-      "count": 5,
-      "pct": 1.2
+      "name": "DUI WARRANT ARREST",
+      "count": 6,
+      "pct": 1.5
     },
     {
       "name": "REVOCATION OF PR",
@@ -484,6 +484,11 @@
       "pct": 8.6
     },
     {
+      "name": "Dept Of Corrections Release",
+      "count": 48,
+      "pct": 5.4
+    },
+    {
       "name": "Amended",
       "count": 39,
       "pct": 4.4
@@ -495,13 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 34,
-      "pct": 3.9
-    },
-    {
-      "name": "Dept Of Corrections Release",
-      "count": 31,
-      "pct": 3.5
+      "count": 17,
+      "pct": 1.9
     },
     {
       "name": "Shuttle Release",
@@ -604,18 +604,18 @@
     }
   ],
   "releaseSources": {
-    "official": 200,
-    "observed": 25,
-    "reportOnly": 30
+    "official": 224,
+    "observed": 2,
+    "reportOnly": 31
   },
   "stay": {
-    "releasedCount": 223,
-    "medianDays": 1.6,
-    "meanDays": 57.6,
+    "releasedCount": 224,
+    "medianDays": 1.5,
+    "meanDays": 57.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 78
+        "count": 79
       },
       {
         "label": "1–3 days",
@@ -638,12 +638,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 63.8,
+    "currentMedianDaysHeld": 63.2,
     "currentLongestDaysHeld": 984.6
   },
   "bond": {
     "withBond": 116,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19903500
