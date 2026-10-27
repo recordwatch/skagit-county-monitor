@@ -1,5 +1,91 @@
 [
   {
+    "id": "743002-20261027143000",
+    "nameNumber": "743002",
+    "name": "LARUE, SEAN M",
+    "bookedAt": "2026-10-27T14:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T14:20:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-27T14:30:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "24-1-01796-06",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "578899-20261027135000",
+    "nameNumber": "578899",
+    "name": "DORSEY, STEVEN BERT",
+    "bookedAt": "2026-10-27T13:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T13:50:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "FORGERY",
+        "offenseDate": "2023-08-28T00:00:00",
+        "incident": "23-M15738",
+        "court": "SC",
+        "courtReference": "23-1-00726-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2023-08-28T00:00:00",
+        "incident": "23-M15738",
+        "court": "SC",
+        "courtReference": "23-1-00726-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "308707-20261027114500",
     "nameNumber": "308707",
     "name": "PATTERSON, FRANKIE LEE",
@@ -12647,7 +12733,7 @@
     "nameNumber": "175270",
     "name": "ROBINSON, JOSHUA MICHAEL",
     "bookedAt": "2026-10-01T00:30:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-27T14:51:02",
     "location": "Q105",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -12668,7 +12754,7 @@
         "courtReference": "6A0002846",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -12680,7 +12766,7 @@
         "courtReference": "6A0002846",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -19045,7 +19131,7 @@
     "name": "AMES, KODY WADE",
     "bookedAt": "2026-08-07T01:40:00",
     "scheduledRelease": null,
-    "location": "P205",
+    "location": "P203",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
