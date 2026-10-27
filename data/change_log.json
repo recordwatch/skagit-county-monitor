@@ -1,5 +1,66 @@
 [
   {
+    "id": "276048-20261026185500",
+    "nameNumber": "276048",
+    "name": "BARRON, THOMAS RAFAEL",
+    "bookedAt": "2026-10-26T18:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T16:35:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-26T16:35:00",
+        "incident": "26-13035",
+        "court": "DC",
+        "courtReference": "6A0393825",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-26T16:35:00",
+        "incident": "26-13035",
+        "court": "DC",
+        "courtReference": "6A0393825",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "LEGEND DRUG-POSSESS NO PRESCRIPTION",
+        "offenseDate": "2025-07-03T00:00:00",
+        "incident": "25-M10586",
+        "court": "MVMC",
+        "courtReference": "5A0546024",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T21:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "232-20261026140000",
     "nameNumber": "232",
     "name": "SEPULVEDA, DARRIN PASCAL",
@@ -43,13 +104,13 @@
     "bookedAt": "2026-10-26T13:45:00",
     "scheduledRelease": null,
     "location": "N107",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-26T13:45:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": 15000,
@@ -64,7 +125,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
