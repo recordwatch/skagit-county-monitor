@@ -1,11 +1,60 @@
 [
   {
+    "id": "308707-20261027114500",
+    "nameNumber": "308707",
+    "name": "PATTERSON, FRANKIE LEE",
+    "bookedAt": "2026-10-27T11:45:00",
+    "scheduledRelease": null,
+    "location": "N108",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T11:22:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "COUNTERFT SUBSTANCE KNOW USE PUBLIC",
+        "offenseDate": "2025-05-11T00:00:00",
+        "incident": "25-B03143",
+        "court": "BMC",
+        "courtReference": "5A0504210",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-11-10T00:00:00",
+        "incident": "23-B08737",
+        "court": "BMC",
+        "courtReference": "3A0743636",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T13:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "417521-20261027104500",
     "nameNumber": "417521",
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -102,7 +151,7 @@
     "name": "VAZQUEZ-MARTINEZ, LORENZO",
     "bookedAt": "2026-10-27T09:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -151,7 +200,7 @@
     "name": "JUAREZ-ESCOBEDO, EDUARDO",
     "bookedAt": "2026-10-27T05:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -7872,7 +7921,7 @@
     "name": "BLANCAS-ESQUIVEL, GUILLERMO",
     "bookedAt": "2026-10-12T20:50:00",
     "scheduledRelease": null,
-    "location": "P206",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -8240,7 +8289,7 @@
     "name": "FREDAY, ROBERT RAE",
     "bookedAt": "2026-10-12T08:50:00",
     "scheduledRelease": null,
-    "location": "Q202",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -20472,7 +20521,7 @@
     "name": "RUCKER, GEORGE EDWARD II",
     "bookedAt": "2026-07-21T13:40:00",
     "scheduledRelease": null,
-    "location": "Q103",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
