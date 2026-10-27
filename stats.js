@@ -114,7 +114,7 @@ export function buildStats(log, now) {
       bookingsObserved: observed.length,
       releasesObserved: released.length,
       inCustody: inCustody.length,
-      uniquePeople: new Set(log.map(e => e.inmateNumber)).size
+      uniquePeople: new Set(log.map(e => e.nameNumber)).size
     },
     bookingsByDay,
     topCharges: topN(countBy(allCharges, c => c.description), 20),
