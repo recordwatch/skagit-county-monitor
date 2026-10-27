@@ -1,5 +1,54 @@
 [
   {
+    "id": "481742-20261026215500",
+    "nameNumber": "481742",
+    "name": "ALVES, MICHAEL STEVEN",
+    "bookedAt": "2026-10-26T21:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T21:34:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2025-07-24T00:00:00",
+        "incident": "25-A04646",
+        "court": "AMC",
+        "courtReference": "5A0543293",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "PHYSICAL CONT VEH UNDR INFLUEN",
+        "offenseDate": "2025-07-24T00:00:00",
+        "incident": "25-A04646",
+        "court": "AMC",
+        "courtReference": "5A0543292",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T00:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "717461-20261026205000",
     "nameNumber": "717461",
     "name": "HARPER, GRANT ALEXANDER V",
