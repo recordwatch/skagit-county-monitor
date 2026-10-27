@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T21:11:15",
+  "generatedAt": "2026-10-26T21:51:30",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 402,
@@ -480,8 +480,8 @@
     },
     {
       "name": "Dismissed",
-      "count": 75,
-      "pct": 8.5
+      "count": 76,
+      "pct": 8.6
     },
     {
       "name": "Amended",
@@ -495,8 +495,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 37,
-      "pct": 4.2
+      "count": 36,
+      "pct": 4.1
     },
     {
       "name": "Dept Of Corrections Release",
