@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:11:14",
+  "generatedAt": "2026-10-26T20:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 401,
@@ -461,12 +461,12 @@
     {
       "name": "Own Recognizance Release",
       "count": 339,
-      "pct": 38.7
+      "pct": 38.5
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 12.7
+      "pct": 12.6
     },
     {
       "name": "Serving Commit",
@@ -480,8 +480,8 @@
     },
     {
       "name": "Dismissed",
-      "count": 74,
-      "pct": 8.4
+      "count": 75,
+      "pct": 8.5
     },
     {
       "name": "Amended",
@@ -495,8 +495,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 35,
-      "pct": 4
+      "count": 37,
+      "pct": 4.2
     },
     {
       "name": "Dept Of Corrections Release",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DORM 1 (E101)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 8.6
+      "count": 15,
+      "pct": 9.1
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "R",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 568,
-      "pct": 95.5
+      "count": 565,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -638,7 +638,7 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 63.4,
+    "currentMedianDaysHeld": 63.5,
     "currentLongestDaysHeld": 984.1
   },
   "bond": {
@@ -646,7 +646,7 @@
     "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19921000
+    "totalBond": 19901000
   },
   "chargesPerBooking": 3.8
 }
