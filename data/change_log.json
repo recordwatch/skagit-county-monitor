@@ -1,5 +1,29 @@
 [
   {
+    "id": "417521-20261027104500",
+    "nameNumber": "417521",
+    "name": "CHARLIE, TERRENCE DONALD",
+    "bookedAt": "2026-10-27T10:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T11:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "723024-20261027090000",
     "nameNumber": "723024",
     "name": "VAZQUEZ-MARTINEZ, LORENZO",
@@ -140,10 +164,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T00:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-27T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -172,7 +196,7 @@
         "courtReference": "6A0433822",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -184,7 +208,7 @@
         "courtReference": "6A0433822",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -274,10 +298,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T21:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-27T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -348,10 +372,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T15:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-27T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -549,18 +573,6 @@
         "incident": "24-B02757",
         "court": "BMC",
         "courtReference": "4A0210870",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
-        "arrestType": "FELONY WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
-      {
-        "description": "THEFT 3RD DEG",
-        "offenseDate": "2024-07-19T00:00:00",
-        "incident": "24-B05127",
-        "court": "BMC",
-        "courtReference": "4A0626545",
         "bailAmount": null,
         "bailType": null,
         "disposition": "Own Recognizance Release",
@@ -13169,7 +13181,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500000,
+    "bondTotal": 300000,
     "charges": [
       {
         "description": "ROBBERY 1ST/BODILY INJURY",
@@ -13177,7 +13189,7 @@
         "incident": "26-SP0014",
         "court": "SC",
         "courtReference": "26-1-00065-29",
-        "bailAmount": 250000,
+        "bailAmount": 150000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -13213,7 +13225,7 @@
         "incident": "26-M13677",
         "court": "SC",
         "courtReference": "26-1-00516-29",
-        "bailAmount": 250000,
+        "bailAmount": 150000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -16630,7 +16642,7 @@
     "name": "MEDRANO-AMBRIZ, DANIEL",
     "bookedAt": "2026-09-02T15:00:00",
     "scheduledRelease": "2026-11-11T11:00:00",
-    "location": "P108",
+    "location": "P106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -26418,7 +26430,19 @@
         "courtReference": "24-1-00692-29",
         "bailAmount": 50000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Amended",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MANSLAUGHTER 2",
+        "offenseDate": "2022-06-17T00:00:00",
+        "incident": "22-08150",
+        "court": "SC",
+        "courtReference": "24-1-00692-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
