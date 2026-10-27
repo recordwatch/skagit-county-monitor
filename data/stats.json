@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:11:13",
+  "generatedAt": "2026-10-26T19:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 401,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 101,
-      "pct": 25.4,
+      "count": 100,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 43,
-      "pct": 10.8,
+      "count": 44,
+      "pct": 11.1,
       "label": "WA STATE PATROL"
     },
     {

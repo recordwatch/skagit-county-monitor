@@ -80,13 +80,13 @@
     "bookedAt": "2026-10-26T13:35:00",
     "scheduledRelease": null,
     "location": "J106",
-    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-26T13:35:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": 10000,
@@ -101,7 +101,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -113,7 +113,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "RENDER CRIMINAL ASSIST-3RD",
@@ -125,7 +125,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "HIT AND RUN-DAMAGE ONLY",
@@ -137,7 +137,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -149,7 +149,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -161,7 +161,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
@@ -14076,7 +14076,7 @@
     "nameNumber": "107279",
     "name": "MOLITOR, JOHN JOSEPH",
     "bookedAt": "2026-09-18T09:30:00",
-    "scheduledRelease": "2026-09-25T09:30:00",
+    "scheduledRelease": "2026-09-27T15:00:00",
     "location": "K208",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
