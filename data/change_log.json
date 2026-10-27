@@ -1,5 +1,78 @@
 [
   {
+    "id": "717461-20261026205000",
+    "nameNumber": "717461",
+    "name": "HARPER, GRANT ALEXANDER V",
+    "bookedAt": "2026-10-26T20:50:00",
+    "scheduledRelease": "2026-11-25T17:50:00",
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-26T20:30:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-26T20:30:00",
+        "incident": "26-M15904",
+        "court": "MVMC",
+        "courtReference": "6A0433822",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "INTERFERE W/REPORTING DOM VIOL",
+        "offenseDate": "2026-10-26T20:30:00",
+        "incident": "26-M15904",
+        "court": "MVMC",
+        "courtReference": "6A0433822",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "PHYSICAL CONT VEH UNDR INFLUEN",
+        "offenseDate": "2026-08-04T00:00:00",
+        "incident": "26-M04900",
+        "court": "MVMC",
+        "courtReference": "6A0069851",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-08-04T00:00:00",
+        "incident": "26-M05823",
+        "court": "MVMC",
+        "courtReference": "6A0267058",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T23:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "276048-20261026185500",
     "nameNumber": "276048",
     "name": "BARRON, THOMAS RAFAEL",

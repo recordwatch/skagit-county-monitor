@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T22:11:15",
+  "generatedAt": "2026-10-26T23:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 402,
-    "bookingsObserved": 199,
+    "bookingsTracked": 403,
+    "bookingsObserved": 200,
     "releasesObserved": 224,
-    "inCustody": 178,
+    "inCustody": 179,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 8,
+      "booked": 9,
       "released": 22
     }
   ],
@@ -218,8 +218,13 @@
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 24,
+      "count": 25,
       "pct": 1.6
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 23,
+      "pct": 1.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
@@ -233,11 +238,6 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 22,
-      "pct": 1.4
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
       "count": 22,
       "pct": 1.4
     },
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 100,
-      "pct": 25.1,
+      "count": 101,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -328,19 +328,19 @@
     {
       "name": "SC",
       "count": 897,
-      "pct": 59,
+      "pct": 58.9,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 194,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 150,
-      "pct": 9.9,
+      "count": 154,
+      "pct": 10.1,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 56,
-      "pct": 14
+      "count": 57,
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 339,
-      "pct": 38.5
+      "pct": 38.4
     },
     {
       "name": "Declined To Prosecute",
@@ -470,8 +470,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 12.2
+      "count": 109,
+      "pct": 12.4
     },
     {
       "name": "Sentence Complete Release",
@@ -639,11 +639,11 @@
       }
     ],
     "currentMedianDaysHeld": 63.5,
-    "currentLongestDaysHeld": 984.2
+    "currentLongestDaysHeld": 984.3
   },
   "bond": {
     "withBond": 115,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19901500
