@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:11:17",
+  "generatedAt": "2026-10-27T12:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 408,
@@ -169,16 +169,16 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 93,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 68,
-      "pct": 4.4
+      "count": 71,
+      "pct": 4.6
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 56,
+      "count": 57,
       "pct": 3.7
     },
     {
@@ -198,8 +198,8 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 36,
-      "pct": 2.3
+      "count": 37,
+      "pct": 2.4
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -209,7 +209,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -277,8 +277,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 52,
-      "pct": 12.9,
+      "count": 53,
+      "pct": 13.1,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 39,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 901,
-      "pct": 58.8,
+      "pct": 58.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,13 +340,13 @@
     {
       "name": "MVMC",
       "count": 154,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 111,
-      "pct": 7.2,
+      "count": 115,
+      "pct": 7.5,
       "label": "Burlington Municipal Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "OTHR",
-      "count": 58,
+      "count": 59,
       "pct": 3.8,
       "label": "Other"
     },
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 8,
-      "pct": 0.5,
+      "count": 9,
+      "pct": 0.6,
       "label": "TC"
     },
     {
@@ -384,7 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 96,
-      "pct": 23.8
+      "pct": 23.7
+    },
+    {
+      "name": "MISDEMEANOR WARRANT ARREST",
+      "count": 64,
+      "pct": 15.8
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -392,14 +397,9 @@
       "pct": 15.8
     },
     {
-      "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 63,
-      "pct": 15.6
-    },
-    {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 58,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 566,
-      "pct": 95.4
+      "count": 568,
+      "pct": 95.3
     },
     {
       "name": "SCRAM With Bail",
@@ -599,8 +599,8 @@
     },
     {
       "name": "Cash Only",
-      "count": 3,
-      "pct": 0.5
+      "count": 4,
+      "pct": 0.7
     }
   ],
   "releaseSources": {
@@ -646,7 +646,7 @@
     "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19664600
+    "totalBond": 19622600
   },
   "chargesPerBooking": 3.8
 }
