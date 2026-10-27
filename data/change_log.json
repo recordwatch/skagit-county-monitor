@@ -371,10 +371,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T04:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -761,10 +761,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -883,10 +883,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T04:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1163,10 +1163,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1237,10 +1237,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T06:10:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1530,10 +1530,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1616,10 +1616,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T15:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-26T18:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
