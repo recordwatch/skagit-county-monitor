@@ -5,7 +5,7 @@
     "name": "LARUE, SEAN M",
     "bookedAt": "2026-10-27T14:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "DORSEY, STEVEN BERT",
     "bookedAt": "2026-10-27T13:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -12733,7 +12733,7 @@
     "nameNumber": "175270",
     "name": "ROBINSON, JOSHUA MICHAEL",
     "bookedAt": "2026-10-01T00:30:00",
-    "scheduledRelease": "2026-10-27T14:51:02",
+    "scheduledRelease": "2026-10-11T00:30:00",
     "location": "Q105",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -12754,7 +12754,7 @@
         "courtReference": "6A0002846",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": "Serving Commit",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -12766,7 +12766,7 @@
         "courtReference": "6A0002846",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": "Serving Commit",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -19372,7 +19372,7 @@
     "nameNumber": "636198",
     "name": "REASNER, SHANE ALEX",
     "bookedAt": "2026-08-01T22:00:00",
-    "scheduledRelease": "2026-10-27T16:00:00",
+    "scheduledRelease": "2026-10-27T16:50:12",
     "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",

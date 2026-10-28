@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-27T16:11:15",
+  "generatedAt": "2026-10-27T17:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 411,
     "bookingsObserved": 208,
     "releasesObserved": 234,
     "inCustody": 177,
-    "uniquePeople": 1
+    "uniquePeople": 404
   },
   "bookingsByDay": [
     {
@@ -464,19 +464,19 @@
       "pct": 38.7
     },
     {
+      "name": "Serving Commit",
+      "count": 111,
+      "pct": 12.4
+    },
+    {
       "name": "Declined To Prosecute",
       "count": 111,
       "pct": 12.4
     },
     {
-      "name": "Serving Commit",
-      "count": 109,
-      "pct": 12.2
-    },
-    {
       "name": "Sentence Complete Release",
-      "count": 82,
-      "pct": 9.2
+      "count": 80,
+      "pct": 8.9
     },
     {
       "name": "Dismissed",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 8,
-      "pct": 4.9
+      "count": 9,
+      "pct": 5.5
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.3
+      "count": 16,
+      "pct": 9.8
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.4
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.7
+      "pct": 16.5
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11.1
+      "pct": 11
     }
   ],
   "bailTypes": [
