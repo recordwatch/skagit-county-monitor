@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:11:16",
+  "generatedAt": "2026-10-28T05:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 413,
@@ -547,13 +547,13 @@
     },
     {
       "name": "K",
-      "count": 18,
-      "pct": 10.9
+      "count": 17,
+      "pct": 10.3
     },
     {
       "name": "M",
-      "count": 7,
-      "pct": 4.2
+      "count": 8,
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -638,7 +638,7 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 57.9,
+    "currentMedianDaysHeld": 58,
     "currentLongestDaysHeld": 985.5
   },
   "bond": {
