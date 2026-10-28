@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:11:16",
+  "generatedAt": "2026-10-27T21:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 412,
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 9,
-      "pct": 5.5
+      "count": 10,
+      "pct": 6.1
     },
     {
       "name": "K",
@@ -563,7 +563,7 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
@@ -573,12 +573,12 @@
     {
       "name": "P",
       "count": 25,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "R",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 59.1,
-    "currentLongestDaysHeld": 985.1
+    "currentLongestDaysHeld": 985.2
   },
   "bond": {
     "withBond": 117,
