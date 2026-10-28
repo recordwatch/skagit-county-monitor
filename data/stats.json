@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T19:11:14",
+  "generatedAt": "2026-10-27T20:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 412,
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 50,
-      "pct": 3.2
+      "count": 51,
+      "pct": 3.3
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -222,11 +222,6 @@
       "pct": 1.6
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 23,
-      "pct": 1.5
-    },
-    {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 23,
       "pct": 1.5
@@ -238,6 +233,11 @@
     },
     {
       "name": "RESISTING ARREST",
+      "count": 22,
+      "pct": 1.4
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
       "count": 22,
       "pct": 1.4
     },
@@ -464,14 +464,14 @@
       "pct": 38.7
     },
     {
-      "name": "Serving Commit",
+      "name": "Declined To Prosecute",
       "count": 111,
       "pct": 12.4
     },
     {
-      "name": "Declined To Prosecute",
-      "count": 111,
-      "pct": 12.4
+      "name": "Serving Commit",
+      "count": 110,
+      "pct": 12.3
     },
     {
       "name": "Sentence Complete Release",
@@ -510,8 +510,8 @@
     },
     {
       "name": "Sanction Release",
-      "count": 9,
-      "pct": 1
+      "count": 10,
+      "pct": 1.1
     },
     {
       "name": "Superior Court Summon Release",
@@ -638,7 +638,7 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 59,
+    "currentMedianDaysHeld": 59.1,
     "currentLongestDaysHeld": 985.1
   },
   "bond": {
