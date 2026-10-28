@@ -1,10 +1,47 @@
 [
   {
+    "id": "554808-20261028081500",
+    "nameNumber": "554808",
+    "name": "WINNINGHAM, JON MICHAEL",
+    "bookedAt": "2026-10-28T08:15:00",
+    "scheduledRelease": null,
+    "location": "COMMUNITY SERVICE WORK",
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T08:15:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2023-04-06T00:00:00",
+        "incident": "23-A02265",
+        "court": "DC",
+        "courtReference": "PA8582",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T09:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "676149-20261027233000",
     "nameNumber": "676149",
     "name": "MARTINEZ, LOUIS IV",
     "bookedAt": "2026-10-27T23:30:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-03T23:30:00",
     "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
@@ -13,6 +50,11 @@
         "arrestDate": "2026-10-27T20:22:00",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "arrestDate": "2026-10-28T08:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": 5000,
@@ -64,6 +106,18 @@
         "disposition": null,
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-05-21T00:00:00",
+        "incident": "24-W02428",
+        "court": "SWMC",
+        "courtReference": "4A0189029",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -166,7 +220,7 @@
     "charges": [
       {
         "description": "FORGERY",
-        "offenseDate": "2023-08-28T00:00:00",
+        "offenseDate": "2023-08-25T00:00:00",
         "incident": "23-M15738",
         "court": "SC",
         "courtReference": "23-1-00726-29",
@@ -178,7 +232,7 @@
       },
       {
         "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
-        "offenseDate": "2023-08-28T00:00:00",
+        "offenseDate": "2023-08-25T00:00:00",
         "incident": "23-M15738",
         "court": "SC",
         "courtReference": "23-1-00726-29",
@@ -11036,7 +11090,7 @@
     "nameNumber": "492868",
     "name": "MARTINES, ANGELO RAY",
     "bookedAt": "2026-10-07T08:47:00",
-    "scheduledRelease": "2026-12-06T08:47:00",
+    "scheduledRelease": "2026-12-05T18:47:00",
     "location": "P106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -18164,10 +18218,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T09:11:18",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
