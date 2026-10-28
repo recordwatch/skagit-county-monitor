@@ -1,5 +1,29 @@
 [
   {
+    "id": "565538-20261028093500",
+    "nameNumber": "565538",
+    "name": "MAYA-ARTEAGA, DIEGO DANIEL",
+    "bookedAt": "2026-10-28T09:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T10:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "554808-20261028081500",
     "nameNumber": "554808",
     "name": "WINNINGHAM, JON MICHAEL",
@@ -292,10 +316,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T13:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -438,10 +462,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T10:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1610,7 +1634,7 @@
     "name": "DENUNZIO, NOLAN MANNY",
     "bookedAt": "2026-10-24T23:15:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": "N207",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -14732,7 +14756,7 @@
       },
       {
         "description": "ASSAULT 3RD LAW ENFORCEMENT",
-        "offenseDate": "2026-10-12T09:30:00",
+        "offenseDate": "2026-10-12T15:56:00",
         "incident": "26-12493",
         "court": "SC",
         "courtReference": "26-1-00532-29",
@@ -16990,7 +17014,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2026-07-18T00:00:00",
         "incident": "26-B05355",
         "court": "SC",
@@ -20771,7 +20795,7 @@
     "name": "RUCKER, GEORGE EDWARD II",
     "bookedAt": "2026-07-21T13:40:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "Q103",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -29116,7 +29140,7 @@
       },
       {
         "description": "MAINTAIN DWELLING FOR CONT SUBS",
-        "offenseDate": "2024-02-15T00:00:00",
+        "offenseDate": "2023-05-01T00:00:00",
         "incident": null,
         "court": "SC",
         "courtReference": "24-1-00117-29",
