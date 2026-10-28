@@ -1,5 +1,78 @@
 [
   {
+    "id": "676149-20261027233000",
+    "nameNumber": "676149",
+    "name": "MARTINEZ, LOUIS IV",
+    "bookedAt": "2026-10-27T23:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T20:22:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-27T20:22:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795679",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-10-27T20:22:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795680",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-12-22T00:00:00",
+        "incident": "23-B09856",
+        "court": "BMC",
+        "courtReference": "3A0791155",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2023-12-22T00:00:00",
+        "incident": "23-B09856",
+        "court": "BMC",
+        "courtReference": "3A0791155",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T01:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "619960-20261027171000",
     "nameNumber": "619960",
     "name": "TURNER, ALEXIS JANE",
