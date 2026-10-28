@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T15:11:16",
+  "generatedAt": "2026-10-28T16:06:49",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 415,
-    "bookingsObserved": 212,
+    "bookingsTracked": 416,
+    "bookingsObserved": 213,
     "releasesObserved": 240,
-    "inCustody": 175,
-    "uniquePeople": 408
+    "inCustody": 176,
+    "uniquePeople": 409
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 2,
+      "booked": 3,
       "released": 5
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 103,
-      "pct": 25,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 89,
-      "pct": 21.6,
+      "pct": 21.5,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 46,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 39,
-      "pct": 9.5,
+      "count": 40,
+      "pct": 9.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 904,
+      "count": 905,
       "pct": 58.3,
       "label": "Skagit County Superior Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 96,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 58,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -408,13 +408,13 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 24,
-      "pct": 5.8
+      "count": 25,
+      "pct": 6.1
     },
     {
       "name": "DUI CITATION ARREST",
       "count": 20,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -461,17 +461,17 @@
     {
       "name": "Own Recognizance Release",
       "count": 354,
-      "pct": 38.9
+      "pct": 38.7
     },
     {
       "name": "Serving Commit",
       "count": 111,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "Sentence Complete Release",
@@ -489,14 +489,14 @@
       "pct": 5.4
     },
     {
+      "name": "Bail Bond Release",
+      "count": 42,
+      "pct": 4.6
+    },
+    {
       "name": "Amended",
       "count": 40,
       "pct": 4.4
-    },
-    {
-      "name": "Bail Bond Release",
-      "count": 37,
-      "pct": 4.1
     },
     {
       "name": "Pending Transport",
@@ -548,12 +548,12 @@
     {
       "name": "K",
       "count": 17,
-      "pct": 10.5
+      "pct": 10.6
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.9
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -572,30 +572,30 @@
     },
     {
       "name": "P",
-      "count": 25,
-      "pct": 15.4
+      "count": 24,
+      "pct": 14.9
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.3
+      "pct": 17.4
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11.1
+      "pct": 11.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 565,
+      "count": 563,
       "pct": 95.3
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 59.9,
-    "currentLongestDaysHeld": 985.9
+    "currentMedianDaysHeld": 58.4,
+    "currentLongestDaysHeld": 986
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 60,
+    "withBond": 114,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19461600
+    "totalBond": 19311600
   },
   "chargesPerBooking": 3.7
 }

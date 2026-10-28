@@ -1,5 +1,42 @@
 [
   {
+    "id": "16230-20261028144000",
+    "nameNumber": "16230",
+    "name": "CALLOWAY, LARRY DOUGLAS",
+    "bookedAt": "2026-10-28T14:40:00",
+    "scheduledRelease": "2026-11-06T02:40:00",
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T14:40:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DV",
+        "offenseDate": "2025-05-27T00:00:00",
+        "incident": "25-W02438",
+        "court": "SC",
+        "courtReference": "25-1-00338-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T16:06:49",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "565538-20261028093500",
     "nameNumber": "565538",
     "name": "MAYA-ARTEAGA, DIEGO DANIEL",
@@ -13580,7 +13617,7 @@
     "name": "RUEDA, AB CORNELI",
     "bookedAt": "2026-09-25T14:50:00",
     "scheduledRelease": null,
-    "location": "P103",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -13590,7 +13627,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 150000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ROBBERY 1ST/BODILY INJURY",
@@ -13600,7 +13637,7 @@
         "courtReference": "26-1-00065-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -13612,7 +13649,7 @@
         "courtReference": "26-1-00065-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -13624,7 +13661,7 @@
         "courtReference": "26-1-00065-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -13634,9 +13671,9 @@
         "incident": "26-M13677",
         "court": "SC",
         "courtReference": "26-1-00516-29",
-        "bailAmount": 150000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -13647,8 +13684,8 @@
         "court": "SC",
         "courtReference": "26-1-00516-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
