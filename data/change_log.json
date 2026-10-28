@@ -1,5 +1,42 @@
 [
   {
+    "id": "619960-20261027171000",
+    "nameNumber": "619960",
+    "name": "TURNER, ALEXIS JANE",
+    "bookedAt": "2026-10-27T17:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-27T17:10:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "FORGERY",
+        "offenseDate": "2019-03-16T00:00:00",
+        "incident": "19-SP0557",
+        "court": "SC",
+        "courtReference": "19-1-00492-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T18:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743002-20261027143000",
     "nameNumber": "743002",
     "name": "LARUE, SEAN M",
