@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T14:11:17",
+  "generatedAt": "2026-10-28T15:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 415,
     "bookingsObserved": 212,
-    "releasesObserved": 239,
-    "inCustody": 176,
+    "releasesObserved": 240,
+    "inCustody": 175,
     "uniquePeople": 408
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-28",
       "booked": 2,
-      "released": 4
+      "released": 5
     }
   ],
   "topCharges": [
@@ -460,28 +460,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 346,
-      "pct": 38.4
+      "count": 354,
+      "pct": 38.9
     },
     {
       "name": "Serving Commit",
       "count": 111,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "Sentence Complete Release",
       "count": 81,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Dismissed",
       "count": 81,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "Dept Of Corrections Release",
@@ -506,7 +506,7 @@
     {
       "name": "Shuttle Release",
       "count": 14,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "Sanction Release",
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 6,
-      "pct": 3.7
+      "count": 5,
+      "pct": 3.1
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.8
+      "pct": 9.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 9,
-      "pct": 5.5
+      "pct": 5.6
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10.4
+      "pct": 10.5
     },
     {
       "name": "M",
@@ -563,33 +563,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 6.1
+      "pct": 6.2
     },
     {
       "name": "N",
       "count": 16,
-      "pct": 9.8
+      "pct": 9.9
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.3
+      "pct": 15.4
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.2
+      "pct": 17.3
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11
+      "pct": 11.1
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 571,
+      "count": 565,
       "pct": 95.3
     },
     {
@@ -605,11 +605,11 @@
   ],
   "releaseSources": {
     "official": 224,
-    "observed": 15,
+    "observed": 16,
     "reportOnly": 31
   },
   "stay": {
-    "releasedCount": 237,
+    "releasedCount": 238,
     "medianDays": 1.6,
     "meanDays": 58.5,
     "buckets": [
@@ -631,22 +631,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 27
+        "count": 28
       },
       {
         "label": "3+ months",
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 58.3,
+    "currentMedianDaysHeld": 59.9,
     "currentLongestDaysHeld": 985.9
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 62,
+    "withBond": 115,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19617600
+    "totalBond": 19461600
   },
   "chargesPerBooking": 3.7
 }
