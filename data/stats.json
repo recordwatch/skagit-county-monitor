@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:11:15",
+  "generatedAt": "2026-10-29T14:38:02",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 429,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 100,
-      "pct": 6.3
+      "count": 101,
+      "pct": 6.4
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 94,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 104,
-      "pct": 24.5,
+      "pct": 24.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 48,
-      "pct": 11.3,
+      "count": 49,
+      "pct": 11.5,
       "label": "WA STATE PATROL"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 10,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 915,
+      "count": 916,
       "pct": 57.9,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 204,
-      "pct": 12.9,
+      "count": 205,
+      "pct": 13,
       "label": "Skagit County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 124,
-      "pct": 7.9,
+      "pct": 7.8,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 99,
-      "pct": 23.3
+      "pct": 23.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 67,
-      "pct": 15.8
+      "pct": 15.7
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 10,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -433,8 +433,8 @@
     },
     {
       "name": "DUI WARRANT ARREST",
-      "count": 7,
-      "pct": 1.6
+      "count": 8,
+      "pct": 1.9
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 361,
-      "pct": 39
+      "pct": 38.9
     },
     {
       "name": "Declined To Prosecute",
@@ -470,7 +470,7 @@
     },
     {
       "name": "Serving Commit",
-      "count": 106,
+      "count": 107,
       "pct": 11.5
     },
     {
@@ -481,12 +481,12 @@
     {
       "name": "Dismissed",
       "count": 81,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 57,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "Bail Bond Release",
@@ -495,8 +495,8 @@
     },
     {
       "name": "Amended",
-      "count": 40,
-      "pct": 4.3
+      "count": 41,
+      "pct": 4.4
     },
     {
       "name": "Shuttle Release",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9
+      "count": 16,
+      "pct": 9.6
     },
     {
       "name": "ONE DAY OFFENDER",
@@ -578,12 +578,12 @@
     {
       "name": "P",
       "count": 26,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.5
+      "pct": 17.4
     },
     {
       "name": "R",
@@ -651,7 +651,7 @@
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19354100
+    "totalBond": 19349100
   },
   "chargesPerBooking": 3.7
 }

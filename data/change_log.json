@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-29T12:10:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T12:00:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2012-01-30T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0003939",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T14:11:15",
     "releasedAt": null,
@@ -78,7 +91,7 @@
     "name": "WHITAKER, ALEX JAMES",
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -3143,7 +3156,7 @@
     "nameNumber": "573637",
     "name": "LOWRIE, MELISSA MICHELE",
     "bookedAt": "2026-10-23T09:10:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-29T14:18:22",
     "location": "R108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -3154,7 +3167,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "MAL MISCH 2 >750",
@@ -3162,9 +3175,21 @@
         "incident": "25-W06147",
         "court": "SC",
         "courtReference": "25-1-00809-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2025-12-17T00:00:00",
+        "incident": "25-W06147",
+        "court": "SC",
+        "courtReference": "25-1-00809-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
