@@ -1,5 +1,53 @@
 [
   {
+    "id": "546417-20261029091500",
+    "nameNumber": "546417",
+    "name": "PHARE, NATASHA RAE",
+    "bookedAt": "2026-10-29T09:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T10:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "638066-20261029091500",
+    "nameNumber": "638066",
+    "name": "WHITAKER, ALEX JAMES",
+    "bookedAt": "2026-10-29T09:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-29T09:15:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T10:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "484152-20261029045000",
     "nameNumber": "484152",
     "name": "DAMM, TAYLOR JAY",
@@ -325,11 +373,16 @@
     "scheduledRelease": "2027-06-05T20:15:00",
     "location": "P104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-28T19:03:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "arrestDate": "2026-10-29T09:00:00",
+        "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -344,7 +397,7 @@
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": "Serving Commit",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
@@ -356,7 +409,7 @@
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": "Serving Commit",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -517,7 +570,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -525,9 +578,9 @@
         "incident": "26-B00887",
         "court": "BMC",
         "courtReference": "6A0146886",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
