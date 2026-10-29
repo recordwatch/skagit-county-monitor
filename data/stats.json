@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:11:17",
+  "generatedAt": "2026-10-28T19:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 416,
@@ -182,12 +182,12 @@
       "pct": 3.8
     },
     {
-      "name": "DWLS/R 3RD DEGREE",
-      "count": 51,
+      "name": "ASSAULT 4TH DEGREE DV",
+      "count": 52,
       "pct": 3.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE DV",
+      "name": "DWLS/R 3RD DEGREE",
       "count": 51,
       "pct": 3.3
     },
@@ -460,13 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 357,
-      "pct": 38.9
-    },
-    {
-      "name": "Serving Commit",
-      "count": 111,
-      "pct": 12.1
+      "count": 359,
+      "pct": 39
     },
     {
       "name": "Declined To Prosecute",
@@ -474,9 +469,14 @@
       "pct": 12.1
     },
     {
+      "name": "Serving Commit",
+      "count": 110,
+      "pct": 12
+    },
+    {
       "name": "Sentence Complete Release",
-      "count": 81,
-      "pct": 8.8
+      "count": 82,
+      "pct": 8.9
     },
     {
       "name": "Dismissed",
@@ -496,7 +496,7 @@
     {
       "name": "Amended",
       "count": 40,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Pending Transport",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3
+      "pct": 3.1
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 6.7
+      "count": 10,
+      "pct": 6.1
     },
     {
       "name": "K",
@@ -573,12 +573,12 @@
     {
       "name": "P",
       "count": 24,
-      "pct": 14.6
+      "pct": 14.7
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.1
+      "pct": 17.2
     },
     {
       "name": "R",
