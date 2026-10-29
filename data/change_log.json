@@ -15,7 +15,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -23,6 +23,30 @@
         "incident": "26-W04864",
         "court": "SWMC",
         "courtReference": "6A0112386",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2026-10-28T20:00:00",
+        "incident": "26-13111",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG - NOT TO EXCEED $750 VALUE",
+        "offenseDate": "2026-10-28T20:00:00",
+        "incident": "26-13111",
+        "court": "SC",
+        "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -26428,7 +26452,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26440,7 +26464,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26476,7 +26500,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26488,7 +26512,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26500,7 +26524,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26512,7 +26536,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26524,7 +26548,7 @@
         "courtReference": "25-1-00812-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
