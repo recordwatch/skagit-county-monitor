@@ -5,7 +5,7 @@
     "name": "CALLOWAY, LARRY DOUGLAS",
     "bookedAt": "2026-10-28T14:40:00",
     "scheduledRelease": "2026-11-06T02:40:00",
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -11016,7 +11016,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PHYSICAL CONT VEH UNDR INFLUEN",
@@ -11024,9 +11024,9 @@
         "incident": "26-M00470",
         "court": "MVMC",
         "courtReference": "6A0118631",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -13690,10 +13690,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T17:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -18110,7 +18110,7 @@
     "name": "ALLISON, BRIAN CLAY",
     "bookedAt": "2026-08-22T03:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -24905,7 +24905,7 @@
     "name": "RODRIGUEZ, EMMANUEL",
     "bookedAt": "2026-04-17T15:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
