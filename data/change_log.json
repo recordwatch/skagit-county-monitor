@@ -1,5 +1,29 @@
 [
   {
+    "id": "637554-20261028194000",
+    "nameNumber": "637554",
+    "name": "HARPER, MICHAEL SHANE",
+    "bookedAt": "2026-10-28T19:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T19:25:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T21:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "142529-20261028180500",
     "nameNumber": "142529",
     "name": "THIBERT, JESSE LEE",
@@ -11080,10 +11104,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T21:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -23082,7 +23106,7 @@
     "name": "BARRON, FRANCISCO JR",
     "bookedAt": "2026-06-16T20:51:00",
     "scheduledRelease": null,
-    "location": "M104",
+    "location": "M108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

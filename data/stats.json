@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T20:11:18",
+  "generatedAt": "2026-10-28T21:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 417,
-    "bookingsObserved": 214,
-    "releasesObserved": 242,
+    "bookingsTracked": 418,
+    "bookingsObserved": 215,
+    "releasesObserved": 243,
     "inCustody": 175,
     "uniquePeople": 410
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 4,
-      "released": 7
+      "booked": 5,
+      "released": 8
     }
   ],
   "topCharges": [
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 103,
-      "pct": 24.9,
+      "count": 104,
+      "pct": 25.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 89,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 40,
-      "pct": 9.7,
+      "pct": 9.6,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 96,
-      "pct": 23.2
+      "pct": 23.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 59,
-      "pct": 14.3
+      "count": 60,
+      "pct": 14.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 224,
-    "observed": 18,
+    "observed": 19,
     "reportOnly": 31
   },
   "stay": {
-    "releasedCount": 240,
+    "releasedCount": 241,
     "medianDays": 1.6,
-    "meanDays": 58.1,
+    "meanDays": 58,
     "buckets": [
       {
         "label": "< 1 day",
@@ -627,7 +627,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 21
+        "count": 22
       },
       {
         "label": "1–3 months",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 60.1,
-    "currentLongestDaysHeld": 986.1
+    "currentLongestDaysHeld": 986.2
   },
   "bond": {
     "withBond": 114,
