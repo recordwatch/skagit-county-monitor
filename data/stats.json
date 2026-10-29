@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:34:21",
+  "generatedAt": "2026-10-29T03:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 423,
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 104,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 91,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 55,
-      "pct": 13.2,
+      "count": 56,
+      "pct": 13.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 40,
-      "pct": 9.6,
+      "pct": 9.5,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 908,
-      "pct": 58.1,
+      "count": 911,
+      "pct": 58.2,
       "label": "Skagit County Superior Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 98,
-      "pct": 23.4
+      "count": 99,
+      "pct": 23.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 60,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -429,7 +429,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 9,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
