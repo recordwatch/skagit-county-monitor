@@ -1,5 +1,29 @@
 [
   {
+    "id": "300890-20261029131000",
+    "nameNumber": "300890",
+    "name": "INKSTER, DEAN PATRICK",
+    "bookedAt": "2026-10-29T13:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "502510-20261029121000",
     "nameNumber": "502510",
     "name": "GUSDAL, NAVY RENEE MICHELLE",
@@ -1459,7 +1483,7 @@
     "name": "STOUPA, ASHLEY JUNE",
     "bookedAt": "2026-10-26T13:35:00",
     "scheduledRelease": null,
-    "location": "J106",
+    "location": "R204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -18788,7 +18812,7 @@
     "name": "ALLISON, BRIAN CLAY",
     "bookedAt": "2026-08-22T03:35:00",
     "scheduledRelease": null,
-    "location": "J210",
+    "location": "M104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
