@@ -1,5 +1,42 @@
 [
   {
+    "id": "142529-20261028180500",
+    "nameNumber": "142529",
+    "name": "THIBERT, JESSE LEE",
+    "bookedAt": "2026-10-28T18:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T17:13:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-28T16:55:00",
+        "incident": "26-A06702",
+        "court": "AMC",
+        "courtReference": "6A0311504",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T19:40:55",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "16230-20261028144000",
     "nameNumber": "16230",
     "name": "CALLOWAY, LARRY DOUGLAS",
@@ -573,10 +610,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T07:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-28T19:40:55",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
