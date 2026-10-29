@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-28T20:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-28T20:30:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-07T00:00:00",
+        "incident": "26-W04864",
+        "court": "SWMC",
+        "courtReference": "6A0112386",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-28T22:11:15",
     "releasedAt": null,
@@ -29,7 +42,7 @@
     "name": "DECATOR, DON SCOTT",
     "bookedAt": "2026-10-28T20:15:00",
     "scheduledRelease": "2027-06-05T20:15:00",
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -49,7 +62,7 @@
         "courtReference": "2A0407440",
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -61,7 +74,7 @@
         "courtReference": "2A0157982",
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -302,7 +315,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -322,8 +335,8 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00795680",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"

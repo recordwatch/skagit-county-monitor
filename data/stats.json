@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T23:11:15",
+  "generatedAt": "2026-10-29T00:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 420,
@@ -9,11 +9,6 @@
     "uniquePeople": 412
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-29",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-09-30",
       "booked": 3,
@@ -158,6 +153,11 @@
       "date": "2026-10-28",
       "booked": 7,
       "released": 8
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 75,
-      "pct": 4.8
+      "count": 76,
+      "pct": 4.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 104,
-      "pct": 25,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 90,
-      "pct": 21.6,
+      "count": 91,
+      "pct": 21.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 46,
-      "pct": 11.1,
+      "pct": 11,
       "label": "WA STATE PATROL"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 36,
-      "pct": 8.7,
+      "pct": 8.6,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 905,
-      "pct": 58.1,
+      "pct": 58,
       "label": "Skagit County Superior Court"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SWMC",
-      "count": 40,
+      "count": 41,
       "pct": 2.6,
       "label": "Sedro-Woolley Municipal Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 96,
-      "pct": 23.1
+      "count": 97,
+      "pct": 23.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 66,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -461,16 +461,16 @@
     {
       "name": "Own Recognizance Release",
       "count": 359,
-      "pct": 39
+      "pct": 38.9
+    },
+    {
+      "name": "Serving Commit",
+      "count": 112,
+      "pct": 12.1
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 12.1
-    },
-    {
-      "name": "Serving Commit",
-      "count": 110,
       "pct": 12
     },
     {
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "DORM 1 (E101)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 10.4
+      "count": 18,
+      "pct": 11
     },
     {
       "name": "P",
       "count": 24,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 567,
+      "count": 566,
       "pct": 95.3
     },
     {
@@ -638,15 +638,15 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 57.2,
+    "currentMedianDaysHeld": 57.3,
     "currentLongestDaysHeld": 986.3
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 61,
+    "withBond": 115,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19357600
+    "totalBond": 19356600
   },
   "chargesPerBooking": 3.7
 }
