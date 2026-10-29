@@ -10,9 +10,9 @@
     "arrestType": null,
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T09:15:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
@@ -39,8 +39,33 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2020-03-18T00:00:00",
+        "incident": "20-M04510",
+        "court": "SC",
+        "courtReference": "21-1-00184-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "BAIL JUMP-FELONY B OR C",
+        "offenseDate": "2020-03-18T00:00:00",
+        "incident": "20-M04510",
+        "court": "SC",
+        "courtReference": "21-1-00184-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T10:11:16",
     "releasedAt": null,
@@ -139,10 +164,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T04:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T11:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -511,10 +536,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T19:40:55",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T11:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -585,10 +610,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T11:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
