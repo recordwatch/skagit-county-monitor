@@ -29,7 +29,7 @@
     "name": "WILLIAMS, PHYLLIS MARIE",
     "bookedAt": "2026-10-29T02:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -722,8 +722,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-27T15:11:16",
-    "releasedAt": "2026-10-28T11:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T10:48:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -832,8 +832,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-27T13:11:19",
-    "releasedAt": "2026-10-28T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T09:32:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -978,8 +978,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-27T10:11:17",
-    "releasedAt": "2026-10-28T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T09:32:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1027,8 +1027,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-27T07:11:17",
-    "releasedAt": "2026-10-28T19:40:55",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T19:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1076,8 +1076,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-27T00:11:15",
-    "releasedAt": "2026-10-27T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T10:16:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1210,8 +1210,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T21:11:15",
-    "releasedAt": "2026-10-27T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T10:45:20",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1284,8 +1284,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T15:11:14",
-    "releasedAt": "2026-10-27T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T10:45:39",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5198,8 +5198,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-18T18:11:16",
-    "releasedAt": "2026-10-27T08:58:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T08:43:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -11497,8 +11497,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-28T21:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T20:20:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -14156,8 +14156,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-28T17:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T16:00:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -17133,8 +17133,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-28T15:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-28T14:40:41",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -17664,8 +17664,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-29T06:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-29T05:25:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -18969,8 +18969,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T08:58:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T08:43:16",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -20198,8 +20198,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T17:18:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T16:00:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -22827,8 +22827,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T09:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T08:44:15",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -27052,8 +27052,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T09:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T08:43:59",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -27961,8 +27961,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-27T08:58:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-27T08:42:56",
+    "releaseSource": "official",
     "baseline": true
   },
   {
