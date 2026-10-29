@@ -1,11 +1,48 @@
 [
   {
+    "id": "564444-20261028232500",
+    "nameNumber": "564444",
+    "name": "JOHNSON, KARTER EVAN",
+    "bookedAt": "2026-10-28T23:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T19:22:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-10-28T19:19:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T02:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "34366-20261028204500",
     "nameNumber": "34366",
     "name": "MARQUIS-BOSTON, KEALY MARIE",
     "bookedAt": "2026-10-28T20:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J105",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [

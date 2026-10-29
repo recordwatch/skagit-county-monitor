@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T01:11:17",
+  "generatedAt": "2026-10-29T02:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 420,
-    "bookingsObserved": 217,
+    "bookingsTracked": 421,
+    "bookingsObserved": 218,
     "releasesObserved": 243,
-    "inCustody": 177,
-    "uniquePeople": 412
+    "inCustody": 178,
+    "uniquePeople": 413
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 7,
+      "booked": 8,
       "released": 8
     },
     {
@@ -222,12 +222,12 @@
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 23,
+      "name": "ATTEMPT TO ELUDE",
+      "count": 24,
       "pct": 1.5
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 23,
       "pct": 1.5
     },
@@ -283,8 +283,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 46,
-      "pct": 11,
+      "count": 47,
+      "pct": 11.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 14,
-      "pct": 3.4,
+      "pct": 3.3,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 907,
+      "count": 908,
       "pct": 58.1,
       "label": "Skagit County Superior Court"
     },
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 157,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 97,
-      "pct": 23.3
+      "count": 98,
+      "pct": 23.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 67,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 29,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,23 +542,23 @@
     },
     {
       "name": "J",
-      "count": 10,
-      "pct": 6.1
+      "count": 11,
+      "pct": 6.7
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -568,22 +568,22 @@
     {
       "name": "N",
       "count": 18,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "P",
       "count": 24,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11
+      "pct": 10.9
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 57.3,
-    "currentLongestDaysHeld": 986.3
+    "currentMedianDaysHeld": 56.9,
+    "currentLongestDaysHeld": 986.4
   },
   "bond": {
     "withBond": 116,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19357600
