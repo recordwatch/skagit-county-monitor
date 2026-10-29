@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T13:11:15",
+  "generatedAt": "2026-10-29T14:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 428,
-    "bookingsObserved": 225,
+    "bookingsTracked": 429,
+    "bookingsObserved": 226,
     "releasesObserved": 249,
-    "inCustody": 179,
-    "uniquePeople": 419
+    "inCustody": 180,
+    "uniquePeople": 420
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 6,
+      "booked": 7,
       "released": 6
     }
   ],
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 914,
+      "count": 915,
       "pct": 57.9,
       "label": "Skagit County Superior Court"
     },
@@ -470,13 +470,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 11.6
+      "count": 106,
+      "pct": 11.5
     },
     {
       "name": "Sentence Complete Release",
-      "count": 87,
-      "pct": 9.4
+      "count": 88,
+      "pct": 9.5
     },
     {
       "name": "Dismissed",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "K",
       "count": 17,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "M",
@@ -563,12 +563,12 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "N",
       "count": 15,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "ONE DAY OFFENDER",
@@ -578,23 +578,23 @@
     {
       "name": "P",
       "count": 26,
-      "pct": 15.8
+      "pct": 15.7
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "R",
-      "count": 17,
-      "pct": 10.3
+      "count": 18,
+      "pct": 10.8
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 573,
+      "count": 568,
       "pct": 95.3
     },
     {
@@ -643,15 +643,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 56,
-    "currentLongestDaysHeld": 986.8
+    "currentMedianDaysHeld": 56.1,
+    "currentLongestDaysHeld": 986.9
   },
   "bond": {
     "withBond": 116,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19361100
+    "totalBond": 19354100
   },
   "chargesPerBooking": 3.7
 }

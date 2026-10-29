@@ -1,11 +1,35 @@
 [
   {
+    "id": "502510-20261029121000",
+    "nameNumber": "502510",
+    "name": "GUSDAL, NAVY RENEE MICHELLE",
+    "bookedAt": "2026-10-29T12:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T14:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "546417-20261029091500",
     "nameNumber": "546417",
     "name": "PHARE, NATASHA RAE",
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -460,6 +484,18 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": "Serving Commit",
         "arrestType": "DUI WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-10-29T09:00:00",
+        "incident": "26-13106",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -21757,7 +21793,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 32000,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "ASSAULT IN VIOLATION COURT ORD",
@@ -21875,7 +21911,7 @@
         "courtReference": "AC0017810",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -21897,8 +21933,8 @@
         "incident": "19-A01584",
         "court": "AMC",
         "courtReference": "AC0017917",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -21909,8 +21945,8 @@
         "incident": "19-A02966",
         "court": "AMC",
         "courtReference": "AC0017414",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -21933,8 +21969,8 @@
         "incident": "19-A06822",
         "court": "AMC",
         "courtReference": "9Z0331275",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -21945,8 +21981,8 @@
         "incident": "20-A00817",
         "court": "AMC",
         "courtReference": "AC0017261",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -21957,8 +21993,8 @@
         "incident": "20-A00817",
         "court": "AMC",
         "courtReference": "AC0017262",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
