@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T08:11:17",
+  "generatedAt": "2026-10-29T09:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 425,
-    "bookingsObserved": 222,
+    "bookingsTracked": 426,
+    "bookingsObserved": 223,
     "releasesObserved": 244,
-    "inCustody": 181,
-    "uniquePeople": 416
+    "inCustody": 182,
+    "uniquePeople": 417
   },
   "bookingsByDay": [
     {
@@ -163,23 +163,23 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 99,
-      "pct": 6.3
+      "count": 100,
+      "pct": 6.4
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 95,
+      "count": 94,
       "pct": 6
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 78,
+      "count": 79,
       "pct": 5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 59,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 104,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 91,
-      "pct": 21.6,
+      "count": 92,
+      "pct": 21.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 56,
-      "pct": 13.3,
+      "count": 58,
+      "pct": 13.7,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "WA STATE PATROL",
       "count": 48,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 36,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 15,
-      "pct": 3.6,
+      "count": 14,
+      "pct": 3.3,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "SAN JUAN COUNTY SHERIFF",
       "count": 4,
-      "pct": 1,
+      "pct": 0.9,
       "label": "SAN JUAN COUNTY SHERIFF"
     }
   ],
@@ -328,24 +328,24 @@
     {
       "name": "SC",
       "count": 911,
-      "pct": 58,
+      "pct": 57.9,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 203,
-      "pct": 12.9,
+      "count": 204,
+      "pct": 13,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 158,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 122,
+      "count": 123,
       "pct": 7.8,
       "label": "Burlington Municipal Court"
     },
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 99,
-      "pct": 23.5
+      "pct": 23.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 68,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 66,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 61,
-      "pct": 14.5
+      "count": 62,
+      "pct": 14.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 20,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DUI COMMITMENT ARREST",
-      "count": 16,
-      "pct": 3.8
+      "count": 17,
+      "pct": 4
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -444,7 +444,7 @@
     {
       "name": "REVOCATION OF PR",
       "count": 4,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "ORDER OF TRANSPORT",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 83,
-      "pct": 9
+      "count": 84,
+      "pct": 9.1
     },
     {
       "name": "Dismissed",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,22 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "N",
       "count": 20,
-      "pct": 11.9
+      "pct": 11.8
+    },
+    {
+      "name": "ONE DAY OFFENDER",
+      "count": 1,
+      "pct": 0.6
     },
     {
       "name": "P",
       "count": 24,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "R",
@@ -589,7 +594,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 570,
+      "count": 571,
       "pct": 95.3
     },
     {
@@ -639,14 +644,14 @@
       }
     ],
     "currentMedianDaysHeld": 55.8,
-    "currentLongestDaysHeld": 986.6
+    "currentLongestDaysHeld": 986.7
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19372600
+    "totalBond": 19373600
   },
   "chargesPerBooking": 3.7
 }

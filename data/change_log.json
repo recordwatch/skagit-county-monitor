@@ -6,17 +6,30 @@
     "bookedAt": "2026-10-29T04:50:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T04:16:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-29T04:16:00",
+        "incident": "26-B07888",
+        "court": "BMC",
+        "courtReference": "6A0419657",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T06:11:15",
     "releasedAt": null,
@@ -30,13 +43,13 @@
     "bookedAt": "2026-10-29T02:05:00",
     "scheduledRelease": null,
     "location": "J208",
-    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-29T01:07:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 15000,
@@ -51,10 +64,10 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2024-06-11T00:00:00",
         "incident": "24-M10250",
         "court": "MVMC",
@@ -63,7 +76,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "THEFT 3RD DEG",
@@ -75,7 +88,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -14076,6 +14089,43 @@
     "baseline": true
   },
   {
+    "id": "199782-20260926110000",
+    "nameNumber": "199782",
+    "name": "STEINER, CASEY JOSEF",
+    "bookedAt": "2026-09-26T11:00:00",
+    "scheduledRelease": "2026-10-31T08:15:00",
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T11:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-10-15T00:00:00",
+        "incident": "25-12899",
+        "court": "DC",
+        "courtReference": "5A0878698",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T09:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "509932-20260925145000",
     "nameNumber": "509932",
     "name": "RUEDA, AB CORNELI",
@@ -20292,7 +20342,7 @@
     "nameNumber": "81157",
     "name": "TARANGO, JOSE LUIS JR",
     "bookedAt": "2026-07-30T10:00:00",
-    "scheduledRelease": "2026-08-25T22:01:53",
+    "scheduledRelease": "2026-10-29T08:35:56",
     "location": "K209",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
