@@ -1,13 +1,37 @@
 [
   {
+    "id": "303902-20261029020500",
+    "nameNumber": "303902",
+    "name": "WILLIAMS, PHYLLIS MARIE",
+    "bookedAt": "2026-10-29T02:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T04:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "415850-20261029015500",
     "nameNumber": "415850",
     "name": "WILLIAMS, DANIEL LEWIS",
     "bookedAt": "2026-10-29T01:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-29T20:19:00",
@@ -16,7 +40,44 @@
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-28T19:06:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00901570",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 1ST DEGREE",
+        "offenseDate": "2026-10-28T19:06:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00901570",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-10-28T19:06:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00901570",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T02:34:21",
     "releasedAt": null,
@@ -29,7 +90,7 @@
     "name": "JUAREZ-ZEFERINO, ALVARO",
     "bookedAt": "2026-10-29T01:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N102",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -90,7 +151,7 @@
     "name": "JOHNSON, KARTER EVAN",
     "bookedAt": "2026-10-28T23:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
