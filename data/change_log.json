@@ -39,7 +39,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "DUI",
@@ -47,8 +47,8 @@
         "incident": "22-07677",
         "court": "DC",
         "courtReference": "2A0407440",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -59,8 +59,8 @@
         "incident": "22-06026",
         "court": "DC",
         "courtReference": "2A0157982",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
