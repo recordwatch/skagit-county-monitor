@@ -1,5 +1,29 @@
 [
   {
+    "id": "484152-20261029045000",
+    "nameNumber": "484152",
+    "name": "DAMM, TAYLOR JAY",
+    "bookedAt": "2026-10-29T04:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T06:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "303902-20261029020500",
     "nameNumber": "303902",
     "name": "WILLIAMS, PHYLLIS MARIE",
@@ -15,7 +39,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -23,8 +47,8 @@
         "incident": "22-B07993",
         "court": "BMC",
         "courtReference": "BUC021612",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -35,8 +59,20 @@
         "incident": "24-M10250",
         "court": "MVMC",
         "courtReference": "4A0532301",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2022-10-09T00:00:00",
+        "incident": "22-B09093",
+        "court": "BMC",
+        "courtReference": "2A0622730",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -54,7 +90,7 @@
     "name": "WILLIAMS, DANIEL LEWIS",
     "bookedAt": "2026-10-29T01:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J111",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -17626,10 +17662,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T06:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
