@@ -6,8 +6,8 @@
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-29T09:15:00",
@@ -15,8 +15,33 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2024-05-06T00:00:00",
+        "incident": "24-B03060",
+        "court": "SC",
+        "courtReference": "24-1-00349-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-07-13T00:00:00",
+        "incident": "23-B05299",
+        "court": "BMC",
+        "courtReference": "3A0534423",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T10:11:16",
     "releasedAt": null,
