@@ -1,22 +1,84 @@
 [
   {
+    "id": "318968-20261029140000",
+    "nameNumber": "318968",
+    "name": "ZAVALETA, JESUS ISREAL",
+    "bookedAt": "2026-10-29T14:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-29T12:35:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY DVPA",
+        "offenseDate": "2023-07-07T00:00:00",
+        "incident": "23-M12118",
+        "court": "SC",
+        "courtReference": "23-1-00488-29",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MISCH 2 >750-DV",
+        "offenseDate": "2023-07-07T00:00:00",
+        "incident": "23-M12118",
+        "court": "SC",
+        "courtReference": "23-1-00488-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T16:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "300890-20261029131000",
     "nameNumber": "300890",
     "name": "INKSTER, DEAN PATRICK",
     "bookedAt": "2026-10-29T13:10:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T12:20:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-29T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 20-1-00474-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T15:11:16",
     "releasedAt": null,
@@ -431,7 +493,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -439,9 +501,9 @@
         "incident": "26-W04864",
         "court": "SWMC",
         "courtReference": "6A0112386",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -450,10 +512,10 @@
         "offenseDate": "2026-10-28T20:00:00",
         "incident": "26-13111",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00599-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -462,10 +524,10 @@
         "offenseDate": "2026-10-28T20:00:00",
         "incident": "26-13111",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00599-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -970,10 +1032,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T15:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T16:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1618,7 +1680,7 @@
     "name": "LAWRENCE, CHASITY ANN",
     "bookedAt": "2026-10-26T09:00:00",
     "scheduledRelease": null,
-    "location": "J204",
+    "location": "R108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -3218,10 +3280,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T16:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -22413,7 +22475,7 @@
     "name": "GRIFFIN, STEPHEN JAMES",
     "bookedAt": "2026-07-07T12:38:00",
     "scheduledRelease": null,
-    "location": "J202",
+    "location": "K106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
