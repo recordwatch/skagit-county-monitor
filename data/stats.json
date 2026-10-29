@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T02:11:17",
+  "generatedAt": "2026-10-29T02:34:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 421,
-    "bookingsObserved": 218,
+    "bookingsTracked": 423,
+    "bookingsObserved": 220,
     "releasesObserved": 243,
-    "inCustody": 178,
-    "uniquePeople": 413
+    "inCustody": 180,
+    "uniquePeople": 415
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 0,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -638,12 +638,12 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 56.9,
+    "currentMedianDaysHeld": 56.5,
     "currentLongestDaysHeld": 986.4
   },
   "bond": {
     "withBond": 116,
-    "noBond": 62,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19357600

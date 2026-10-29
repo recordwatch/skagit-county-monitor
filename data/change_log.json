@@ -1,5 +1,53 @@
 [
   {
+    "id": "415850-20261029015500",
+    "nameNumber": "415850",
+    "name": "WILLIAMS, DANIEL LEWIS",
+    "bookedAt": "2026-10-29T01:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T02:34:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "633556-20261029012500",
+    "nameNumber": "633556",
+    "name": "JUAREZ-ZEFERINO, ALVARO",
+    "bookedAt": "2026-10-29T01:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T02:34:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "564444-20261028232500",
     "nameNumber": "564444",
     "name": "JOHNSON, KARTER EVAN",
