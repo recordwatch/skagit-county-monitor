@@ -115,7 +115,7 @@
     "nameNumber": "676149",
     "name": "MARTINEZ, LOUIS IV",
     "bookedAt": "2026-10-27T23:30:00",
-    "scheduledRelease": "2026-11-03T23:30:00",
+    "scheduledRelease": "2026-11-03T18:30:00",
     "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
@@ -290,7 +290,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "FORGERY",
@@ -298,9 +298,9 @@
         "incident": "23-M15738",
         "court": "SC",
         "courtReference": "23-1-00726-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -311,8 +311,20 @@
         "court": "SC",
         "courtReference": "23-1-00726-29",
         "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-10-27T13:50:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "WHATCOM 23-1-01251-37",
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -541,7 +553,7 @@
         "offenseDate": "2026-10-27T02:30:00",
         "incident": "26-M15908",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00596-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -553,7 +565,7 @@
         "offenseDate": "2026-10-27T02:30:00",
         "incident": "26-M15908",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00596-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -14008,7 +14020,7 @@
     "name": "LOPEZ-LUCERO, DENNIS",
     "bookedAt": "2026-09-22T12:55:00",
     "scheduledRelease": "2027-01-05T19:55:00",
-    "location": "P102",
+    "location": "P103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -18853,7 +18865,7 @@
     "name": "GARCIA, RAMSSES",
     "bookedAt": "2026-08-15T01:20:00",
     "scheduledRelease": null,
-    "location": "P101",
+    "location": "P103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
