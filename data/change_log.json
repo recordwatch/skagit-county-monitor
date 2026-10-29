@@ -1,5 +1,78 @@
 [
   {
+    "id": "34366-20261028204500",
+    "nameNumber": "34366",
+    "name": "MARQUIS-BOSTON, KEALY MARIE",
+    "bookedAt": "2026-10-28T20:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "463872-20261028201500",
+    "nameNumber": "463872",
+    "name": "DECATOR, DON SCOTT",
+    "bookedAt": "2026-10-28T20:15:00",
+    "scheduledRelease": "2027-06-05T20:15:00",
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-28T19:03:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2022-06-08T00:00:00",
+        "incident": "22-07677",
+        "court": "DC",
+        "courtReference": "2A0407440",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2022-05-07T00:00:00",
+        "incident": "22-06026",
+        "court": "DC",
+        "courtReference": "2A0157982",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "637554-20261028194000",
     "nameNumber": "637554",
     "name": "HARPER, MICHAEL SHANE",
@@ -15,8 +88,45 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-28T19:25:00",
+        "incident": "26-M16000",
+        "court": "MVMC",
+        "courtReference": "6A0426448",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-10-28T19:25:00",
+        "incident": "26-M16000",
+        "court": "MVMC",
+        "courtReference": "6A0426448",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "offenseDate": "2026-10-28T19:25:00",
+        "incident": "26-M16000",
+        "court": "MVMC",
+        "courtReference": "6A0426448",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-28T21:11:15",
     "releasedAt": null,
@@ -29,7 +139,7 @@
     "name": "THIBERT, JESSE LEE",
     "bookedAt": "2026-10-28T18:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
