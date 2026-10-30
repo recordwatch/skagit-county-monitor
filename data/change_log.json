@@ -4,7 +4,7 @@
     "nameNumber": "609540",
     "name": "CORTES-BRAVO, GABINA",
     "bookedAt": "2026-10-30T13:30:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-17T13:30:00",
     "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
@@ -23,6 +23,18 @@
         "incident": "25-M07138",
         "court": "MVMC",
         "courtReference": "5A0445204",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT DVPA",
+        "offenseDate": "2025-05-04T00:00:00",
+        "incident": "25-M07138",
+        "court": "MVMC",
+        "courtReference": "5A0445205",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -410,10 +422,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:38:02",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -29789,10 +29801,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:38:02",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
