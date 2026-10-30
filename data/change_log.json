@@ -1,5 +1,29 @@
 [
   {
+    "id": "743133-20261030111500",
+    "nameNumber": "743133",
+    "name": "VASQUEZ, LINO A",
+    "bookedAt": "2026-10-30T11:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T12:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "623343-20261030081200",
     "nameNumber": "623343",
     "name": "BODE, ANDREW QUINCY",
@@ -42,7 +66,7 @@
     "name": "MCCRAIGIE, TIYANNA FELICIA",
     "bookedAt": "2026-10-30T06:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J207",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -126,7 +150,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 4500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -134,9 +158,9 @@
         "incident": "26-M08149",
         "court": "MVMC",
         "courtReference": "6A0288027",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -147,8 +171,8 @@
         "court": "MVMC",
         "courtReference": "6A0288027",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -158,7 +182,7 @@
         "incident": "24-B01123",
         "court": "BMC",
         "courtReference": "4A096523",
-        "bailAmount": 2500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -187,7 +211,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
@@ -207,9 +231,9 @@
         "incident": "26-13153",
         "court": "DC",
         "courtReference": "6A0435609",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -220,8 +244,8 @@
         "court": "DC",
         "courtReference": "6A0435609",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -231,9 +255,9 @@
         "incident": "26-13153",
         "court": "DC",
         "courtReference": "6A0435610",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -564,7 +588,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CONT SUBS AMPHET/METHAMPHET",
@@ -596,9 +620,9 @@
         "incident": "24-A07652",
         "court": "AMC",
         "courtReference": "5A0242860",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -711,7 +735,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DUI",
@@ -719,7 +743,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0003939",
-        "bailAmount": 5000,
+        "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
@@ -748,7 +772,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 6000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -768,9 +792,9 @@
         "incident": "23-B05299",
         "court": "BMC",
         "courtReference": "3A0534423",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -8818,7 +8842,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -8826,9 +8850,9 @@
         "incident": "20-SP1037",
         "court": "DC",
         "courtReference": "XZ0189585",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -9654,7 +9678,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 4000,
+    "bondTotal": 3250,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATION 1ST",
@@ -9674,9 +9698,9 @@
         "incident": "26-06338",
         "court": "DC",
         "courtReference": "6A0055724",
-        "bailAmount": 750,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },

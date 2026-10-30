@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T11:11:16",
+  "generatedAt": "2026-10-30T12:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 453,
-    "bookingsObserved": 250,
+    "bookingsTracked": 454,
+    "bookingsObserved": 251,
     "releasesObserved": 256,
-    "inCustody": 197,
-    "uniquePeople": 444
+    "inCustody": 198,
+    "uniquePeople": 445
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 3,
+      "booked": 4,
       "released": 7
     }
   ],
@@ -460,27 +460,27 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 368,
-      "pct": 38.2
+      "count": 376,
+      "pct": 38.6
     },
     {
       "name": "Serving Commit",
       "count": 113,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 108,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "Dismissed",
-      "count": 82,
+      "count": 83,
       "pct": 8.5
     },
     {
@@ -491,17 +491,17 @@
     {
       "name": "Amended",
       "count": 43,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "Bail Bond Release",
       "count": 42,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Shuttle Release",
       "count": 14,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Pending Transport",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 6
+      "count": 12,
+      "pct": 6.6
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "M",
@@ -568,7 +568,7 @@
     {
       "name": "N",
       "count": 16,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "ONE DAY OFFENDER",
@@ -578,12 +578,12 @@
     {
       "name": "P",
       "count": 26,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "R",
@@ -594,13 +594,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 585,
+      "count": 576,
       "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 4
     },
     {
       "name": "Cash Only",
@@ -643,15 +643,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 48.3,
+    "currentMedianDaysHeld": 47.5,
     "currentLongestDaysHeld": 987.8
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 77,
+    "withBond": 117,
+    "noBond": 81,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19304600
+    "totalBond": 19289350
   },
   "chargesPerBooking": 3.6
 }
