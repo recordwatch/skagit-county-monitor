@@ -518,7 +518,7 @@
     "name": "JOHNSON, KARTER EVAN",
     "bookedAt": "2026-10-28T23:25:00",
     "scheduledRelease": null,
-    "location": "N203",
+    "location": "J211",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2470,7 +2470,7 @@
     "nameNumber": "38964",
     "name": "DENUNZIO, NOLAN MANNY",
     "bookedAt": "2026-10-24T23:15:00",
-    "scheduledRelease": "2026-10-25T19:15:00",
+    "scheduledRelease": "2026-10-30T21:15:00",
     "location": "N207",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -6834,9 +6834,9 @@
     "nameNumber": "692867",
     "name": "HERNANDEZ, BRYAN ISAI",
     "bookedAt": "2026-10-16T09:30:00",
-    "scheduledRelease": null,
-    "releasedAt": "2026-10-16T09:55:06",
-    "location": null,
+    "scheduledRelease": "2026-10-30T17:30:08",
+    "releasedAt": null,
+    "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -6856,14 +6856,14 @@
         "courtReference": "T00266642",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-10-17T07:06:00",
-    "releaseSource": "official",
+    "releaseSource": null,
     "fromReleaseReport": true,
     "baseline": false
   },
@@ -6959,22 +6959,35 @@
     "name": "LANDAHL, LINCOLN FREDRICK",
     "bookedAt": "2026-10-16T08:50:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-16T08:50:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
-    "status": "released",
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-02-19T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T166208",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-10-16T09:11:14",
-    "releasedAt": "2026-10-16T09:08:22",
-    "releaseSource": "official",
+    "releasedAt": null,
+    "releaseSource": null,
     "baseline": false
   },
   {
@@ -7679,23 +7692,36 @@
     "nameNumber": "625646",
     "name": "WOODRUFF, AMANDA LAUREN",
     "bookedAt": "2026-10-15T10:55:00",
-    "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "scheduledRelease": "2026-10-30T17:35:42",
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "DUI COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-15T10:55:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
-    "status": "released",
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2024-10-12T00:00:00",
+        "incident": "24-B07561",
+        "court": "BMC",
+        "courtReference": "4A0719533",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-10-15T11:11:14",
-    "releasedAt": "2026-10-15T11:11:39",
-    "releaseSource": "official",
+    "releasedAt": null,
+    "releaseSource": null,
     "baseline": false
   },
   {
@@ -13256,6 +13282,43 @@
     "baseline": true
   },
   {
+    "id": "217059-20261002083000",
+    "nameNumber": "217059",
+    "name": "KILBY, KYLE RICHARD",
+    "bookedAt": "2026-10-02T08:30:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-02T08:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-12-11T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00012228",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "272202-20261001222500",
     "nameNumber": "272202",
     "name": "JAVORSEK, JESSE PHILLIP",
@@ -14411,6 +14474,117 @@
     "baseline": true
   },
   {
+    "id": "668784-20260926125500",
+    "nameNumber": "668784",
+    "name": "MCCOLLUM, JOELSEPH JAMES",
+    "bookedAt": "2026-09-26T12:55:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T12:55:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2023-08-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009088",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "739830-20260926114000",
+    "nameNumber": "739830",
+    "name": "HATALA, JOSEPH KYLE",
+    "bookedAt": "2026-09-26T11:40:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T11:40:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-05-10T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T368336",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "433234-20260926112500",
+    "nameNumber": "433234",
+    "name": "HAM, CALVIN DOYOON",
+    "bookedAt": "2026-09-26T11:25:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T11:25:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-11-15T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T88140",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "199782-20260926110000",
     "nameNumber": "199782",
     "name": "STEINER, CASEY JOSEF",
@@ -14443,6 +14617,154 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T09:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "711240-20260926104000",
+    "nameNumber": "711240",
+    "name": "DIAZ-HERNANDEZ, ALEJANDRO",
+    "bookedAt": "2026-09-26T10:40:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T10:40:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-01-08T00:00:00",
+        "incident": "24-M00454",
+        "court": "MVMC",
+        "courtReference": "5A0069606",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "243242-20260926101500",
+    "nameNumber": "243242",
+    "name": "VALENTINE, CORY ALLEN",
+    "bookedAt": "2026-09-26T10:15:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T10:15:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-06-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00540419",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "729922-20260926095000",
+    "nameNumber": "729922",
+    "name": "BISHOP, SAMSON JAYMON ANDREW",
+    "bookedAt": "2026-09-26T09:50:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T09:50:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-01-16T00:00:00",
+        "incident": "26-M00764",
+        "court": "MVMC",
+        "courtReference": "6A0051928",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "739119-20260926090000",
+    "nameNumber": "739119",
+    "name": "MULLIN, ELIZABETH IRENE",
+    "bookedAt": "2026-09-26T09:00:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-26T09:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-02-08T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00113975",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -15164,6 +15486,80 @@
     "baseline": true
   },
   {
+    "id": "739475-20260921150000",
+    "nameNumber": "739475",
+    "name": "MILLER, CRAIG WAYNE",
+    "bookedAt": "2026-09-21T15:00:00",
+    "scheduledRelease": null,
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-21T15:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2024-08-25T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA9334",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Alternative Interview Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "350815-20260921143000",
+    "nameNumber": "350815",
+    "name": "JOHNSON, TYLER JEFFREY",
+    "bookedAt": "2026-09-21T14:30:00",
+    "scheduledRelease": "2026-10-30T16:34:51",
+    "location": "ONE DAY OFFENDER",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-09-21T14:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2018-12-22T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA6763",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T18:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "711780-20260921133500",
     "nameNumber": "711780",
     "name": "JEROME, NATHEN STEWART",
@@ -15701,7 +16097,7 @@
     "nameNumber": "107279",
     "name": "MOLITOR, JOHN JOSEPH",
     "bookedAt": "2026-09-18T09:30:00",
-    "scheduledRelease": "2026-10-27T15:00:00",
+    "scheduledRelease": "2026-10-29T17:49:14",
     "location": "K208",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -15727,7 +16123,7 @@
         "courtReference": "26-1-00530-29",
         "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -15740,6 +16136,30 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Own Recognizance Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT-2 STRNGULTN/SUFFOCATN",
+        "offenseDate": "2026-09-18T07:02:00",
+        "incident": "26-W04556",
+        "court": "SC",
+        "courtReference": "26-1-00530-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Amended",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT-2 STRNGULTN/SUFFOCATN",
+        "offenseDate": "2026-09-18T07:02:00",
+        "incident": "26-W04556",
+        "court": "SC",
+        "courtReference": "26-1-00530-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
