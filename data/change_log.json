@@ -5910,10 +5910,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T09:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T14:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
