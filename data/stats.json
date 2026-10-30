@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:11:18",
+  "generatedAt": "2026-10-30T12:59:57",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 454,
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 112,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 59,
-      "pct": 13.1,
+      "count": 60,
+      "pct": 13.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 220,
+      "count": 221,
       "pct": 13.5,
       "label": "Skagit County District Court"
     },
@@ -394,12 +394,12 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 62,
-      "pct": 13.7
+      "count": 63,
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 26,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "DUI CITATION ARREST",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "K",
@@ -563,22 +563,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 8.7
+      "count": 17,
+      "pct": 9.2
     },
     {
       "name": "ONE DAY OFFENDER",
       "count": 17,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "Q",
@@ -588,13 +588,13 @@
     {
       "name": "R",
       "count": 19,
-      "pct": 10.4
+      "pct": 10.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 576,
+      "count": 577,
       "pct": 95.4
     },
     {
@@ -647,11 +647,11 @@
     "currentLongestDaysHeld": 987.8
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 81,
+    "withBond": 118,
+    "noBond": 80,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19289350
+    "totalBond": 19290350
   },
   "chargesPerBooking": 3.6
 }
