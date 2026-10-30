@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:11:15",
+  "generatedAt": "2026-10-29T20:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 446,
@@ -183,8 +183,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 52,
-      "pct": 3.2
+      "count": 54,
+      "pct": 3.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -222,17 +222,17 @@
       "pct": 1.7
     },
     {
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 24,
+      "pct": 1.5
+    },
+    {
       "name": "ATTEMPT TO ELUDE",
       "count": 24,
       "pct": 1.5
     },
     {
       "name": "RESISTING ARREST",
-      "count": 23,
-      "pct": 1.4
-    },
-    {
-      "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 23,
       "pct": 1.4
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 110,
-      "pct": 24.8,
+      "count": 111,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 93,
-      "pct": 21,
+      "pct": 20.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 931,
-      "pct": 57.8,
+      "pct": 57.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 162,
-      "pct": 10,
+      "count": 165,
+      "pct": 10.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 125,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 100,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 67,
-      "pct": 15.1
+      "count": 68,
+      "pct": 15.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 41,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 18,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "M",
@@ -563,12 +563,12 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 7.8
+      "count": 15,
+      "pct": 8.3
     },
     {
       "name": "ONE DAY OFFENDER",
@@ -583,18 +583,18 @@
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.6
+      "pct": 10.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 566,
+      "count": 569,
       "pct": 95.3
     },
     {
@@ -643,15 +643,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 47.6,
+    "currentMedianDaysHeld": 47.7,
     "currentLongestDaysHeld": 987.1
   },
   "bond": {
-    "withBond": 113,
-    "noBond": 84,
+    "withBond": 114,
+    "noBond": 83,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19345100
+    "totalBond": 19349600
   },
   "chargesPerBooking": 3.6
 }

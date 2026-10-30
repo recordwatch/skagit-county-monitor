@@ -114,7 +114,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
         "offenseDate": "2026-10-29T15:21:00",
         "incident": "26-M16044",
         "court": "SC",
@@ -126,7 +126,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
         "offenseDate": "2026-10-29T15:21:00",
         "incident": "26-M16044",
         "court": "SC",
@@ -138,7 +138,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "description": "WEAPON POSSESSION BY COUNTY/LOCAL PRISONER",
         "offenseDate": "2026-10-29T15:21:00",
         "incident": "26-M16044",
         "court": "SC",
@@ -163,17 +163,54 @@
     "bookedAt": "2026-10-29T15:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T15:00:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 4500,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-01-23T00:00:00",
+        "incident": "26-M01096",
+        "court": "MVMC",
+        "courtReference": "6A0131824",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-01-23T00:00:00",
+        "incident": "26-M01096",
+        "court": "MVMC",
+        "courtReference": "6A0131824",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2026-08-21T00:00:00",
+        "incident": "26-M12682",
+        "court": "MVMC",
+        "courtReference": "6A0090709",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T17:11:16",
     "releasedAt": null,
@@ -259,7 +296,7 @@
     "name": "INKSTER, DEAN PATRICK",
     "bookedAt": "2026-10-29T13:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
