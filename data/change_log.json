@@ -1,5 +1,42 @@
 [
   {
+    "id": "623343-20261030081200",
+    "nameNumber": "623343",
+    "name": "BODE, ANDREW QUINCY",
+    "bookedAt": "2026-10-30T08:12:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-30T08:12:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2024-01-12T00:00:00",
+        "incident": "24-B00282",
+        "court": "BMC",
+        "courtReference": "4A0109055",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T10:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "111392-20261030065000",
     "nameNumber": "111392",
     "name": "MCCRAIGIE, TIYANNA FELICIA",
@@ -62,7 +99,7 @@
         "courtReference": "6A0366467",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -233,7 +270,7 @@
         "courtReference": "T00954249",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -476,7 +513,7 @@
         "courtReference": "6A0131824",
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -488,7 +525,7 @@
         "courtReference": "6A0131824",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -4169,7 +4206,7 @@
     "nameNumber": "654618",
     "name": "BARRIO, KAHLEE",
     "bookedAt": "2026-10-22T14:15:00",
-    "scheduledRelease": "2026-10-30T15:31:31",
+    "scheduledRelease": "2026-10-30T15:03:53",
     "releasedAt": null,
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
@@ -7371,7 +7408,7 @@
     "nameNumber": "692867",
     "name": "HERNANDEZ, BRYAN ISAI",
     "bookedAt": "2026-10-16T09:30:00",
-    "scheduledRelease": "2026-10-30T17:30:08",
+    "scheduledRelease": "2026-10-30T14:55:14",
     "releasedAt": null,
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
@@ -7495,7 +7532,7 @@
     "nameNumber": "430156",
     "name": "LANDAHL, LINCOLN FREDRICK",
     "bookedAt": "2026-10-16T08:50:00",
-    "scheduledRelease": "2026-10-30T17:23:34",
+    "scheduledRelease": "2026-10-30T17:41:56",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -8229,7 +8266,7 @@
     "nameNumber": "625646",
     "name": "WOODRUFF, AMANDA LAUREN",
     "bookedAt": "2026-10-15T10:55:00",
-    "scheduledRelease": "2026-10-30T17:35:42",
+    "scheduledRelease": "2026-10-30T14:52:21",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
@@ -8438,10 +8475,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T10:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -13823,7 +13860,7 @@
     "nameNumber": "217059",
     "name": "KILBY, KYLE RICHARD",
     "bookedAt": "2026-10-02T08:30:00",
-    "scheduledRelease": "2026-10-30T17:20:25",
+    "scheduledRelease": "2026-10-30T14:46:32",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -14190,10 +14227,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T10:11:17",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -14699,10 +14736,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T10:11:17",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -15274,7 +15311,7 @@
     "nameNumber": "733784",
     "name": "LOPEZ, ISAIAH",
     "bookedAt": "2026-09-26T09:30:00",
-    "scheduledRelease": "2026-10-30T17:14:22",
+    "scheduledRelease": "2026-10-30T14:59:00",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15323,7 +15360,7 @@
     "nameNumber": "739119",
     "name": "MULLIN, ELIZABETH IRENE",
     "bookedAt": "2026-09-26T09:00:00",
-    "scheduledRelease": "2026-10-30T17:30:30",
+    "scheduledRelease": "2026-10-30T14:48:59",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15445,7 +15482,7 @@
     "nameNumber": "703721",
     "name": "BRAATEN, JANA RENEE",
     "bookedAt": "2026-09-25T13:00:00",
-    "scheduledRelease": "2026-10-30T15:34:39",
+    "scheduledRelease": "2026-10-30T15:02:29",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI COMMITMENT ARREST",
@@ -16113,7 +16150,7 @@
     "nameNumber": "739475",
     "name": "MILLER, CRAIG WAYNE",
     "bookedAt": "2026-09-21T15:00:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-30T14:57:36",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -16134,7 +16171,7 @@
         "courtReference": "PA9334",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Alternative Interview Release",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }

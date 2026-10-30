@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T09:11:17",
+  "generatedAt": "2026-10-30T10:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 452,
-    "bookingsObserved": 249,
-    "releasesObserved": 249,
-    "inCustody": 203,
-    "uniquePeople": 443
+    "bookingsTracked": 453,
+    "bookingsObserved": 250,
+    "releasesObserved": 252,
+    "inCustody": 201,
+    "uniquePeople": 444
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 2,
-      "released": 0
+      "booked": 3,
+      "released": 3
     }
   ],
   "topCharges": [
@@ -223,7 +223,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 24,
+      "count": 25,
       "pct": 1.5
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 60,
-      "pct": 13.3,
+      "count": 61,
+      "pct": 13.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 126,
-      "pct": 7.7,
+      "count": 127,
+      "pct": 7.8,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 101,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 71,
-      "pct": 15.7
+      "count": 72,
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -460,23 +460,23 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 364,
-      "pct": 37.9
+      "count": 368,
+      "pct": 38.2
     },
     {
       "name": "Serving Commit",
       "count": 113,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "Declined To Prosecute",
       "count": 111,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "Sentence Complete Release",
-      "count": 106,
-      "pct": 11
+      "count": 107,
+      "pct": 11.1
     },
     {
       "name": "Dismissed",
@@ -506,7 +506,7 @@
     {
       "name": "Pending Transport",
       "count": 12,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "Sanction Release",
@@ -514,16 +514,16 @@
       "pct": 1
     },
     {
-      "name": "Alternative Interview Release",
-      "count": 2,
-      "pct": 0.2
+      "name": "Superior Court Summon Release",
+      "count": 1,
+      "pct": 0.1
     }
   ],
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.6
+      "pct": 2.7
     },
     {
       "name": "DORM 1 (E101)",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 16,
-      "pct": 8.5
+      "count": 13,
+      "pct": 7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 6.3
+      "pct": 6.5
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 9.5
+      "pct": 9.7
     },
     {
       "name": "M",
@@ -563,38 +563,38 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.3
+      "pct": 5.4
     },
     {
       "name": "N",
       "count": 19,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "ONE DAY OFFENDER",
       "count": 17,
-      "pct": 9
+      "pct": 9.1
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 13.8
+      "pct": 14
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.3
+      "pct": 15.6
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.1
+      "pct": 10.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 584,
+      "count": 585,
       "pct": 95.4
     },
     {
@@ -610,13 +610,13 @@
   ],
   "releaseSources": {
     "official": 246,
-    "observed": 3,
+    "observed": 6,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 247,
-    "medianDays": 1.6,
-    "meanDays": 58.3,
+    "releasedCount": 250,
+    "medianDays": 1.8,
+    "meanDays": 57.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -632,26 +632,26 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 22
+        "count": 23
       },
       {
         "label": "1–3 months",
-        "count": 31
+        "count": 33
       },
       {
         "label": "3+ months",
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 44.5,
+    "currentMedianDaysHeld": 44.6,
     "currentLongestDaysHeld": 987.7
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 83,
+    "withBond": 121,
+    "noBond": 80,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19294100
+    "totalBond": 19309100
   },
   "chargesPerBooking": 3.6
 }
