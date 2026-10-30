@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T15:11:16",
+  "generatedAt": "2026-10-30T16:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 454,
-    "bookingsObserved": 251,
-    "releasesObserved": 257,
-    "inCustody": 197,
-    "uniquePeople": 445
+    "bookingsTracked": 455,
+    "bookingsObserved": 252,
+    "releasesObserved": 275,
+    "inCustody": 180,
+    "uniquePeople": 446
   },
   "bookingsByDay": [
     {
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 4,
-      "released": 8
+      "booked": 5,
+      "released": 26
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 105,
-      "pct": 6.4
+      "count": 106,
+      "pct": 6.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 99,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 81,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -219,7 +219,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 27,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
@@ -237,12 +237,12 @@
       "pct": 1.4
     },
     {
-      "name": "DWLS/R 1ST DEGREE",
-      "count": 22,
-      "pct": 1.3
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 23,
+      "pct": 1.4
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
+      "name": "DWLS/R 1ST DEGREE",
       "count": 22,
       "pct": 1.3
     },
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 112,
-      "pct": 24.7,
+      "count": 113,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 94,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 61,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 938,
+      "count": 941,
       "pct": 57.4,
       "label": "Skagit County Superior Court"
     },
@@ -339,20 +339,20 @@
     },
     {
       "name": "MVMC",
-      "count": 167,
-      "pct": 10.2,
+      "count": 168,
+      "pct": 10.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 127,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "AMC",
       "count": 68,
-      "pct": 4.2,
+      "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "TC",
       "count": 9,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "TC"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 101,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 41,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 22,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "DUI COMMITMENT ARREST",
-      "count": 19,
-      "pct": 4.2
+      "count": 20,
+      "pct": 4.4
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -460,38 +460,38 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 377,
-      "pct": 38.7
+      "count": 379,
+      "pct": 38.6
     },
     {
       "name": "Serving Commit",
       "count": 113,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "Declined To Prosecute",
-      "count": 111,
+      "count": 112,
       "pct": 11.4
     },
     {
       "name": "Sentence Complete Release",
-      "count": 108,
-      "pct": 11.1
+      "count": 110,
+      "pct": 11.2
     },
     {
       "name": "Dismissed",
       "count": 83,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 58,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "Amended",
-      "count": 43,
-      "pct": 4.4
+      "count": 47,
+      "pct": 4.8
     },
     {
       "name": "Bail Bond Release",
@@ -523,79 +523,74 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.2
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.1
+      "pct": 1.2
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.1
+      "pct": 7.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
       "count": 12,
-      "pct": 6.6
+      "pct": 7.2
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 9.8
+      "pct": 10.8
     },
     {
       "name": "M",
       "count": 9,
-      "pct": 4.9
+      "pct": 5.4
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 6,
-      "pct": 3.3
+      "pct": 3.6
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.5
+      "pct": 6
     },
     {
       "name": "N",
       "count": 17,
-      "pct": 9.3
-    },
-    {
-      "name": "ONE DAY OFFENDER",
-      "count": 17,
-      "pct": 9.3
+      "pct": 10.2
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 14.2
+      "pct": 15.7
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.8
+      "pct": 17.5
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.4
+      "pct": 11.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 577,
-      "pct": 95.4
+      "count": 573,
+      "pct": 95.3
     },
     {
       "name": "SCRAM With Bail",
@@ -610,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 246,
-    "observed": 11,
-    "reportOnly": 29
+    "observed": 29,
+    "reportOnly": 31
   },
   "stay": {
-    "releasedCount": 255,
-    "medianDays": 1.6,
-    "meanDays": 56.8,
+    "releasedCount": 273,
+    "medianDays": 2,
+    "meanDays": 54.9,
     "buckets": [
       {
         "label": "< 1 day",
@@ -624,7 +619,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 72
+        "count": 73
       },
       {
         "label": "3–7 days",
@@ -632,26 +627,26 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 24
+        "count": 28
       },
       {
         "label": "1–3 months",
-        "count": 33
+        "count": 46
       },
       {
         "label": "3+ months",
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 48.5,
-    "currentLongestDaysHeld": 987.9
+    "currentMedianDaysHeld": 57.1,
+    "currentLongestDaysHeld": 988
   },
   "bond": {
-    "withBond": 118,
-    "noBond": 79,
+    "withBond": 116,
+    "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19290350
+    "totalBond": 19189350
   },
   "chargesPerBooking": 3.6
 }

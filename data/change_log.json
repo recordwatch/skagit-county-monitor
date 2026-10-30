@@ -1,5 +1,42 @@
 [
   {
+    "id": "609540-20261030133000",
+    "nameNumber": "609540",
+    "name": "CORTES-BRAVO, GABINA",
+    "bookedAt": "2026-10-30T13:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-30T13:30:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-05-04T00:00:00",
+        "incident": "25-M07138",
+        "court": "MVMC",
+        "courtReference": "5A0445204",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T16:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743133-20261030111500",
     "nameNumber": "743133",
     "name": "VASQUEZ, LINO A",
@@ -344,7 +381,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -353,10 +390,22 @@
         "offenseDate": "2026-10-29T17:17:00",
         "incident": "26-W05258",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00606-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "UNLAW POSS FIREARM 2ND DEGREE",
+        "offenseDate": "2026-10-29T17:17:00",
+        "incident": "26-W05258",
+        "court": "SC",
+        "courtReference": "26-1-00606-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -898,10 +947,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T06:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4244,7 +4293,7 @@
     "name": "BARRIO, KAHLEE",
     "bookedAt": "2026-10-22T14:15:00",
     "scheduledRelease": "2026-10-30T15:03:53",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T16:11:20",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -4270,9 +4319,9 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T07:11:16",
-    "releaseSource": null,
+    "releaseSource": "observed",
     "fromReleaseReport": true,
     "baseline": false
   },
@@ -7446,7 +7495,7 @@
     "name": "HERNANDEZ, BRYAN ISAI",
     "bookedAt": "2026-10-16T09:30:00",
     "scheduledRelease": "2026-10-30T14:55:14",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T16:11:20",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -7472,9 +7521,9 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T07:06:00",
-    "releaseSource": null,
+    "releaseSource": "observed",
     "fromReleaseReport": true,
     "baseline": false
   },
@@ -7595,10 +7644,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T09:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -8329,10 +8378,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T11:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -13923,10 +13972,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15115,10 +15164,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15152,10 +15201,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15189,10 +15238,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15226,10 +15275,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T09:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15263,10 +15312,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15300,10 +15349,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15337,10 +15386,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15386,10 +15435,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:40:54",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15423,10 +15472,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15545,10 +15594,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:40:54",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -16213,10 +16262,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -16250,10 +16299,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T16:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -29654,7 +29703,7 @@
     "nameNumber": "716817",
     "name": "MARTIN-AHILON, RAFAEL MARCO A",
     "bookedAt": "2025-08-18T13:50:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-30T15:33:42",
     "location": "N101",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -29665,7 +29714,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 100000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CHILD MOLESTATION 3RD DEGREE",
@@ -29673,9 +29722,9 @@
         "incident": "25-M04789",
         "court": "SC",
         "courtReference": "25-1-00475-29",
-        "bailAmount": 100000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29686,8 +29735,8 @@
         "court": "SC",
         "courtReference": "25-1-00475-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29698,8 +29747,8 @@
         "court": "SC",
         "courtReference": "25-1-00475-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29710,8 +29759,32 @@
         "court": "SC",
         "courtReference": "25-1-00475-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "COMM WITH MINOR-IMORAL PURPOSES",
+        "offenseDate": "2025-03-23T00:00:00",
+        "incident": "25-M04789",
+        "court": "SC",
+        "courtReference": "25-1-00475-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2025-03-23T00:00:00",
+        "incident": "25-M04789",
+        "court": "SC",
+        "courtReference": "25-1-00475-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
