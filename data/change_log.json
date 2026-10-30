@@ -1,5 +1,29 @@
 [
   {
+    "id": "237862-20261030010000",
+    "nameNumber": "237862",
+    "name": "KEELS, NOAH BENJAMIN",
+    "bookedAt": "2026-10-30T01:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T02:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "258942-20261029231500",
     "nameNumber": "258942",
     "name": "NELSON, KRISTYAN COLE",
@@ -39,7 +63,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
@@ -49,6 +73,42 @@
         "courtReference": "PA0008835",
         "bailAmount": null,
         "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-29T21:55:00",
+        "incident": "26-13153",
+        "court": "DC",
+        "courtReference": "6A0435609",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-10-29T21:55:00",
+        "incident": "26-13153",
+        "court": "DC",
+        "courtReference": "6A0435609",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-10-29T21:55:00",
+        "incident": "26-13153",
+        "court": "DC",
+        "courtReference": "6A0435610",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -891,6 +951,42 @@
         "court": "SC",
         "courtReference": "26-1-00600-29",
         "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-10-28T19:19:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00600-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-10-28T19:19:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00600-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "NVOL WITHOUT ID (CRIMINAL)",
+        "offenseDate": "2026-10-28T19:19:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00600-29",
+        "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -20056,7 +20152,7 @@
         "courtReference": "23-1-00663-29",
         "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -20068,7 +20164,7 @@
         "courtReference": "22-1-00335-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -20092,7 +20188,7 @@
         "courtReference": "23-1-00663-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -20104,7 +20200,7 @@
         "courtReference": "23-1-00663-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
