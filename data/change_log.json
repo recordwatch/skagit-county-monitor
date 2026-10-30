@@ -30,17 +30,54 @@
     "bookedAt": "2026-10-29T23:15:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T23:03:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 4500,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-07T00:00:00",
+        "incident": "26-M08149",
+        "court": "MVMC",
+        "courtReference": "6A0288027",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-07T00:00:00",
+        "incident": "26-M08149",
+        "court": "MVMC",
+        "courtReference": "6A0288027",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2024-02-15T00:00:00",
+        "incident": "24-B01123",
+        "court": "BMC",
+        "courtReference": "4A096523",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T01:11:14",
     "releasedAt": null,
@@ -53,7 +90,7 @@
     "name": "ANNESE, ANTHONY SALVATORE JR",
     "bookedAt": "2026-10-29T22:40:00",
     "scheduledRelease": "2026-11-08T22:40:00",
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -126,7 +163,7 @@
     "name": "VERRUE, JESSICA MARIAH",
     "bookedAt": "2026-10-29T21:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
