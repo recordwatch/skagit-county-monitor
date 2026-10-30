@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T00:11:17",
+  "generatedAt": "2026-10-30T01:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 449,
-    "bookingsObserved": 246,
+    "bookingsTracked": 450,
+    "bookingsObserved": 247,
     "releasesObserved": 249,
-    "inCustody": 200,
-    "uniquePeople": 440
+    "inCustody": 201,
+    "uniquePeople": 441
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 15,
+      "booked": 16,
       "released": 10
     },
     {
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 103,
+      "count": 104,
       "pct": 6.4
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 58,
-      "pct": 13,
+      "count": 59,
+      "pct": 13.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 935,
-      "pct": 57.7,
+      "pct": 57.6,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 216,
-      "pct": 13.3,
+      "count": 217,
+      "pct": 13.4,
       "label": "Skagit County District Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 101,
-      "pct": 22.6
+      "pct": 22.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 62,
-      "pct": 13.9
+      "pct": 13.8
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -413,13 +413,13 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 20,
-      "pct": 4.5
+      "count": 21,
+      "pct": 4.7
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 19,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 18,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "M",
@@ -558,7 +558,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 6,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 9.2
+      "count": 18,
+      "pct": 9.7
     },
     {
       "name": "ONE DAY OFFENDER",
@@ -583,7 +583,7 @@
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.8
+      "pct": 15.7
     },
     {
       "name": "R",
@@ -643,12 +643,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 45.2,
+    "currentMedianDaysHeld": 44.2,
     "currentLongestDaysHeld": 987.3
   },
   "bond": {
     "withBond": 117,
-    "noBond": 83,
+    "noBond": 84,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19285600

@@ -1,5 +1,29 @@
 [
   {
+    "id": "258942-20261029231500",
+    "nameNumber": "258942",
+    "name": "NELSON, KRISTYAN COLE",
+    "bookedAt": "2026-10-29T23:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T01:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "422671-20261029224000",
     "nameNumber": "422671",
     "name": "ANNESE, ANTHONY SALVATORE JR",
@@ -43,17 +67,30 @@
     "bookedAt": "2026-10-29T21:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T19:24:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-30T19:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954249",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T00:11:17",
     "releasedAt": null,
@@ -66,7 +103,7 @@
     "name": "SHULTZ, CHARLES LEE",
     "bookedAt": "2026-10-29T20:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -803,7 +840,7 @@
         "offenseDate": "2026-10-28T20:18:00",
         "incident": "26-B07881",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00598-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -815,7 +852,7 @@
         "offenseDate": "2026-10-28T20:18:00",
         "incident": "26-B07881",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00598-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -2787,7 +2824,7 @@
     "nameNumber": "38964",
     "name": "DENUNZIO, NOLAN MANNY",
     "bookedAt": "2026-10-24T23:15:00",
-    "scheduledRelease": "2026-10-30T21:15:00",
+    "scheduledRelease": "2026-10-30T19:15:00",
     "location": "N207",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
