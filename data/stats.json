@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:11:15",
+  "generatedAt": "2026-10-30T15:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 454,
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 376,
-      "pct": 38.6
+      "count": 377,
+      "pct": 38.7
     },
     {
       "name": "Serving Commit",
@@ -643,7 +643,7 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 48.4,
+    "currentMedianDaysHeld": 48.5,
     "currentLongestDaysHeld": 987.9
   },
   "bond": {

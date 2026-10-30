@@ -893,7 +893,7 @@
         "courtReference": "6A0419657",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
