@@ -6,17 +6,150 @@
     "bookedAt": "2026-10-29T15:50:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T15:50:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "UNLAWFULLY CARRY A DANGEROUS WEAPON",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-10-29T15:21:00",
+        "incident": "26-M16044",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T17:11:16",
     "releasedAt": null,
@@ -163,7 +296,7 @@
     "name": "GUSDAL, NAVY RENEE MICHELLE",
     "bookedAt": "2026-10-29T12:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -201,13 +334,13 @@
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
     "location": "R208",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-29T09:15:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 6000,
@@ -222,7 +355,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "THEFT 3RD DEG",
@@ -234,7 +367,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -250,13 +383,13 @@
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
     "location": "N204",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-10-29T09:15:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 10000,
@@ -271,11 +404,11 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "BAIL JUMP-FELONY B OR C",
-        "offenseDate": "2020-03-18T00:00:00",
+        "offenseDate": "2025-07-21T00:00:00",
         "incident": "20-M04510",
         "court": "SC",
         "courtReference": "21-1-00184-29",
@@ -283,7 +416,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -16262,10 +16395,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-29T19:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {

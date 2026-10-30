@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T18:40:54",
+  "generatedAt": "2026-10-29T19:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 446,
     "bookingsObserved": 243,
-    "releasesObserved": 248,
-    "inCustody": 198,
+    "releasesObserved": 249,
+    "inCustody": 197,
     "uniquePeople": 437
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-29",
       "booked": 12,
-      "released": 9
+      "released": 10
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 94,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -194,7 +194,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -214,7 +214,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -227,17 +227,17 @@
       "pct": 1.5
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 23,
+      "pct": 1.4
+    },
+    {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 23,
       "pct": 1.4
     },
     {
       "name": "DWLS/R 1ST DEGREE",
-      "count": 22,
-      "pct": 1.4
-    },
-    {
-      "name": "RESISTING ARREST",
       "count": 22,
       "pct": 1.4
     },
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 108,
-      "pct": 24.4,
+      "count": 110,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 95,
-      "pct": 21.5,
+      "count": 93,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 59,
-      "pct": 13.3,
+      "count": 60,
+      "pct": 13.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SC",
-      "count": 920,
-      "pct": 57.5,
+      "count": 931,
+      "pct": 57.8,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 215,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 162,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -358,13 +358,13 @@
     {
       "name": "OTHR",
       "count": 62,
-      "pct": 3.9,
+      "pct": 3.8,
       "label": "Other"
     },
     {
       "name": "SWMC",
       "count": 41,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 99,
-      "pct": 22.4
+      "count": 100,
+      "pct": 22.6
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 67,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 25,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DUI CITATION ARREST",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 7,
-      "pct": 3.9
+      "count": 8,
+      "pct": 4.4
     },
     {
       "name": "K",
-      "count": 19,
-      "pct": 10.6
+      "count": 18,
+      "pct": 10
     },
     {
       "name": "M",
@@ -610,11 +610,11 @@
   ],
   "releaseSources": {
     "official": 237,
-    "observed": 11,
+    "observed": 12,
     "reportOnly": 29
   },
   "stay": {
-    "releasedCount": 246,
+    "releasedCount": 247,
     "medianDays": 1.6,
     "meanDays": 58.3,
     "buckets": [
@@ -636,19 +636,19 @@
       },
       {
         "label": "1–3 months",
-        "count": 30
+        "count": 31
       },
       {
         "label": "3+ months",
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 46.8,
+    "currentMedianDaysHeld": 47.6,
     "currentLongestDaysHeld": 987.1
   },
   "bond": {
     "withBond": 113,
-    "noBond": 85,
+    "noBond": 84,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19345100
