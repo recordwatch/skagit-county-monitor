@@ -1,5 +1,42 @@
 [
   {
+    "id": "111392-20261030065000",
+    "nameNumber": "111392",
+    "name": "MCCRAIGIE, TIYANNA FELICIA",
+    "bookedAt": "2026-10-30T06:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-30T06:05:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-09-21T00:00:00",
+        "incident": "26-A06728",
+        "court": "AMC",
+        "courtReference": "6A0091270",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T08:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "237862-20261030010000",
     "nameNumber": "237862",
     "name": "KEELS, NOAH BENJAMIN",
@@ -15408,7 +15445,7 @@
     "nameNumber": "703721",
     "name": "BRAATEN, JANA RENEE",
     "bookedAt": "2026-09-25T13:00:00",
-    "scheduledRelease": "2026-10-30T17:34:39",
+    "scheduledRelease": "2026-10-30T15:34:39",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI COMMITMENT ARREST",

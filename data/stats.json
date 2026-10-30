@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T07:11:17",
+  "generatedAt": "2026-10-30T08:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 451,
-    "bookingsObserved": 248,
+    "bookingsTracked": 452,
+    "bookingsObserved": 249,
     "releasesObserved": 249,
-    "inCustody": 202,
-    "uniquePeople": 442
+    "inCustody": 203,
+    "uniquePeople": 443
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 80,
-      "pct": 4.9
+      "count": 81,
+      "pct": 5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 112,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 94,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 37,
-      "pct": 8.2,
+      "count": 38,
+      "pct": 8.4,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 938,
-      "pct": 57.5,
+      "pct": 57.4,
       "label": "Skagit County Superior Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "AMC",
-      "count": 67,
-      "pct": 4.1,
+      "count": 68,
+      "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 70,
-      "pct": 15.6
+      "count": 71,
+      "pct": 15.7
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 62,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -594,7 +594,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 583,
+      "count": 584,
       "pct": 95.4
     },
     {
@@ -647,11 +647,11 @@
     "currentLongestDaysHeld": 987.6
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 83,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19293100
+    "totalBond": 19294100
   },
   "chargesPerBooking": 3.6
 }
