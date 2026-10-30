@@ -104,10 +104,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T02:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -275,10 +275,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T00:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -542,10 +542,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T17:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -689,10 +689,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T15:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -7532,7 +7532,7 @@
     "nameNumber": "430156",
     "name": "LANDAHL, LINCOLN FREDRICK",
     "bookedAt": "2026-10-16T08:50:00",
-    "scheduledRelease": "2026-10-30T17:41:56",
+    "scheduledRelease": "2026-10-30T14:41:56",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15089,7 +15089,7 @@
     "nameNumber": "739830",
     "name": "HATALA, JOSEPH KYLE",
     "bookedAt": "2026-09-26T11:40:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-10-30T14:40:31",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15110,7 +15110,7 @@
         "courtReference": "T368336",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Alternative Interview Release",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -15126,7 +15126,7 @@
     "nameNumber": "433234",
     "name": "HAM, CALVIN DOYOON",
     "bookedAt": "2026-09-26T11:25:00",
-    "scheduledRelease": "2026-10-30T17:19:51",
+    "scheduledRelease": "2026-10-30T14:37:36",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15200,7 +15200,7 @@
     "nameNumber": "711240",
     "name": "DIAZ-HERNANDEZ, ALEJANDRO",
     "bookedAt": "2026-09-26T10:40:00",
-    "scheduledRelease": "2026-10-30T17:12:12",
+    "scheduledRelease": "2026-10-30T14:38:40",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -15274,7 +15274,7 @@
     "nameNumber": "729922",
     "name": "BISHOP, SAMSON JAYMON ANDREW",
     "bookedAt": "2026-09-26T09:50:00",
-    "scheduledRelease": "2026-10-30T17:13:07",
+    "scheduledRelease": "2026-10-30T14:36:03",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -16187,7 +16187,7 @@
     "nameNumber": "350815",
     "name": "JOHNSON, TYLER JEFFREY",
     "bookedAt": "2026-09-21T14:30:00",
-    "scheduledRelease": "2026-10-30T16:34:51",
+    "scheduledRelease": "2026-10-30T14:30:00",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
