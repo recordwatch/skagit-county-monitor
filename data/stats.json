@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T21:11:16",
+  "generatedAt": "2026-10-29T22:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 446,
-    "bookingsObserved": 243,
+    "bookingsTracked": 447,
+    "bookingsObserved": 244,
     "releasesObserved": 249,
-    "inCustody": 197,
-    "uniquePeople": 437
+    "inCustody": 198,
+    "uniquePeople": 438
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 12,
+      "booked": 13,
       "released": 10
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 94,
-      "pct": 5.8
+      "count": 95,
+      "pct": 5.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -351,7 +351,7 @@
     },
     {
       "name": "AMC",
-      "count": 66,
+      "count": 67,
       "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
@@ -594,7 +594,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 573,
+      "count": 574,
       "pct": 95.3
     },
     {
@@ -643,15 +643,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 47.7,
+    "currentMedianDaysHeld": 46.9,
     "currentLongestDaysHeld": 987.2
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 117,
     "noBond": 81,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19284600
+    "totalBond": 19285600
   },
   "chargesPerBooking": 3.6
 }

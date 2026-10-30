@@ -1,5 +1,29 @@
 [
   {
+    "id": "241966-20261029201500",
+    "nameNumber": "241966",
+    "name": "SHULTZ, CHARLES LEE",
+    "bookedAt": "2026-10-29T20:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "168131-20261029155000",
     "nameNumber": "168131",
     "name": "VOYCE, JAMES EZRA II",
@@ -222,7 +246,7 @@
     "nameNumber": "575927",
     "name": "PENDLETON, NICKI N",
     "bookedAt": "2026-10-29T14:10:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-16T14:10:00",
     "location": null,
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -233,7 +257,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONT SUBS AMPHET/METHAMPHET",
@@ -255,6 +279,18 @@
         "courtReference": "24-1-00795-29",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-11-21T00:00:00",
+        "incident": "24-A07652",
+        "court": "AMC",
+        "courtReference": "5A0242860",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "ANACORTES POLICE DEPT"
