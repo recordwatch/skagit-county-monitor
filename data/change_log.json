@@ -1,9 +1,46 @@
 [
   {
-    "id": "241966-20261029201500",
-    "nameNumber": "241966",
-    "name": "SHULTZ, CHARLES LEE",
-    "bookedAt": "2026-10-29T20:15:00",
+    "id": "422671-20261029224000",
+    "nameNumber": "422671",
+    "name": "ANNESE, ANTHONY SALVATORE JR",
+    "bookedAt": "2026-10-29T22:40:00",
+    "scheduledRelease": "2026-11-08T22:40:00",
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-29T21:56:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2024-11-22T00:00:00",
+        "incident": "24-14916",
+        "court": "DC",
+        "courtReference": "PA0008835",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T00:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "44287-20261029215500",
+    "nameNumber": "44287",
+    "name": "VERRUE, JESSICA MARIAH",
+    "bookedAt": "2026-10-29T21:55:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -17,6 +54,55 @@
     ],
     "bondTotal": null,
     "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T00:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "241966-20261029201500",
+    "nameNumber": "241966",
+    "name": "SHULTZ, CHARLES LEE",
+    "bookedAt": "2026-10-29T20:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-29T18:50:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VIOL ANTI-HARASSMENT ORDER-DV",
+        "offenseDate": "2026-10-29T17:17:00",
+        "incident": "26-W05258",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "UNLAW POSS FIREARM 2ND DEGREE",
+        "offenseDate": "2026-10-29T17:17:00",
+        "incident": "26-W05258",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T22:11:15",
     "releasedAt": null,
@@ -186,7 +272,7 @@
     "name": "BODIN, BLAKE GARDNER",
     "bookedAt": "2026-10-29T15:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -267,19 +353,19 @@
         "courtReference": "24-1-00795-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
       {
-        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "description": "VUCSA - CONSPIRACY TO COMMIT",
         "offenseDate": "2023-07-01T00:00:00",
         "incident": "23-A07750",
         "court": "SC",
         "courtReference": "24-1-00795-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -705,7 +791,7 @@
         "offenseDate": "2026-10-28T20:18:00",
         "incident": "26-B07881",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00598-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,

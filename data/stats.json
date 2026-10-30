@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-29T23:11:16",
+  "generatedAt": "2026-10-30T00:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 447,
-    "bookingsObserved": 244,
+    "bookingsTracked": 449,
+    "bookingsObserved": 246,
     "releasesObserved": 249,
-    "inCustody": 198,
-    "uniquePeople": 438
+    "inCustody": 200,
+    "uniquePeople": 440
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-30",
-      "booked": 3,
-      "released": 0
-    },
     {
       "date": "2026-10-01",
       "booked": 7,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 13,
+      "booked": 15,
       "released": 10
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -189,7 +189,7 @@
     {
       "name": "DWLS/R 3RD DEGREE",
       "count": 51,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -202,12 +202,12 @@
       "pct": 2.3
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 35,
+      "name": "RECKLESS DRIVING",
+      "count": 36,
       "pct": 2.2
     },
     {
-      "name": "RECKLESS DRIVING",
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 35,
       "pct": 2.2
     },
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 111,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 93,
-      "pct": 20.9,
+      "count": 94,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 60,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 40,
-      "pct": 9,
+      "count": 41,
+      "pct": 9.2,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "SC",
-      "count": 933,
+      "count": 935,
       "pct": 57.7,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 215,
+      "count": 216,
       "pct": 13.3,
       "label": "Skagit County District Court"
     },
@@ -383,18 +383,18 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 100,
-      "pct": 22.5
+      "count": 101,
+      "pct": 22.6
+    },
+    {
+      "name": "MISDEMEANOR WARRANT ARREST",
+      "count": 69,
+      "pct": 15.4
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.5
-    },
-    {
-      "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 68,
-      "pct": 15.3
+      "pct": 15.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 364,
-      "pct": 38.2
+      "pct": 38.1
     },
     {
       "name": "Declined To Prosecute",
@@ -470,8 +470,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 11.2
+      "count": 108,
+      "pct": 11.3
     },
     {
       "name": "Sentence Complete Release",
@@ -480,8 +480,8 @@
     },
     {
       "name": "Dismissed",
-      "count": 81,
-      "pct": 8.5
+      "count": 82,
+      "pct": 8.6
     },
     {
       "name": "Dept Of Corrections Release",
@@ -563,22 +563,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 8.7
+      "count": 17,
+      "pct": 9.2
     },
     {
       "name": "ONE DAY OFFENDER",
       "count": 17,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "Q",
@@ -588,7 +588,7 @@
     {
       "name": "R",
       "count": 19,
-      "pct": 10.4
+      "pct": 10.3
     }
   ],
   "bailTypes": [
@@ -643,12 +643,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 47,
+    "currentMedianDaysHeld": 45.2,
     "currentLongestDaysHeld": 987.3
   },
   "bond": {
     "withBond": 117,
-    "noBond": 81,
+    "noBond": 83,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19285600
