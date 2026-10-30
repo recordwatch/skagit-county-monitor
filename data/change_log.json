@@ -5,18 +5,31 @@
     "name": "KEELS, NOAH BENJAMIN",
     "bookedAt": "2026-10-30T01:00:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "location": "N204",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T23:10:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-29T23:10:00",
+        "incident": "26-W05263",
+        "court": "SWMC",
+        "courtReference": "6A0366467",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T02:11:14",
     "releasedAt": null,
@@ -29,7 +42,7 @@
     "name": "NELSON, KRISTYAN COLE",
     "bookedAt": "2026-10-29T23:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J102",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [

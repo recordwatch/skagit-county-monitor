@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:11:17",
+  "generatedAt": "2026-10-30T05:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 451,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 104,
+      "count": 105,
       "pct": 6.4
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 60,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 41,
-      "pct": 9.1,
+      "count": 42,
+      "pct": 9.3,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 41,
-      "pct": 2.5,
+      "count": 42,
+      "pct": 2.6,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 101,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -413,8 +413,8 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 21,
-      "pct": 4.7
+      "count": 22,
+      "pct": 4.9
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 5.9
+      "count": 12,
+      "pct": 6.3
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "M",
@@ -567,28 +567,28 @@
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 9.6
+      "count": 19,
+      "pct": 10.1
     },
     {
       "name": "ONE DAY OFFENDER",
       "count": 17,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 13.9
+      "pct": 13.8
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 15.5
+      "pct": 15.3
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.2
+      "pct": 10.1
     }
   ],
   "bailTypes": [
@@ -643,7 +643,7 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 44.3,
+    "currentMedianDaysHeld": 44.4,
     "currentLongestDaysHeld": 987.5
   },
   "bond": {
