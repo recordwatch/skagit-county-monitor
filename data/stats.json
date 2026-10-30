@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:11:16",
+  "generatedAt": "2026-10-29T21:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 446,
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 80,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 111,
-      "pct": 25,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 58,
-      "pct": 13.1,
+      "pct": 13,
       "label": "WA STATE PATROL"
     },
     {
@@ -295,14 +295,14 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 36,
-      "pct": 8.1,
+      "count": 37,
+      "pct": 8.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 14,
-      "pct": 3.2,
+      "pct": 3.1,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SKAGIT COUNTY JAIL",
       "count": 6,
-      "pct": 1.4,
+      "pct": 1.3,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 931,
-      "pct": 57.6,
+      "count": 933,
+      "pct": 57.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 62,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "FELONY COMMITMENT ARREST",
-      "count": 25,
-      "pct": 5.6
+      "count": 26,
+      "pct": 5.8
     },
     {
       "name": "DUI CITATION ARREST",
@@ -424,12 +424,12 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 10,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 10,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -439,7 +439,7 @@
     {
       "name": "SUPERIOR COURT SUMMONS",
       "count": 6,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "REVOCATION OF PR",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "DORM 1 (E101)",
@@ -538,7 +538,7 @@
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     },
     {
       "name": "J",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,34 +567,34 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 8.3
+      "count": 16,
+      "pct": 8.8
     },
     {
       "name": "ONE DAY OFFENDER",
       "count": 17,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 10.5
+      "pct": 10.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 569,
+      "count": 573,
       "pct": 95.3
     },
     {
@@ -644,14 +644,14 @@
       }
     ],
     "currentMedianDaysHeld": 47.7,
-    "currentLongestDaysHeld": 987.1
+    "currentLongestDaysHeld": 987.2
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 83,
+    "withBond": 116,
+    "noBond": 81,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19349600
+    "totalBond": 19284600
   },
   "chargesPerBooking": 3.6
 }

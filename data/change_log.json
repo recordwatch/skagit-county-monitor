@@ -224,17 +224,42 @@
     "bookedAt": "2026-10-29T14:10:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-10-29T14:10:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2023-10-18T00:00:00",
+        "incident": "23-A07750",
+        "court": "SC",
+        "courtReference": "24-1-00795-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2023-07-01T00:00:00",
+        "incident": "23-A07750",
+        "court": "SC",
+        "courtReference": "24-1-00795-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T17:11:16",
     "releasedAt": null,
@@ -247,7 +272,7 @@
     "name": "ZAVALETA, JESUS ISREAL",
     "bookedAt": "2026-10-29T14:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -310,7 +335,7 @@
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
-        "offenseDate": "2026-10-29T00:00:00",
+        "offenseDate": "2026-10-29T13:10:00",
         "incident": null,
         "court": "OTHR",
         "courtReference": "DOC 20-1-00474-29",
@@ -576,7 +601,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "DUI",
@@ -584,8 +609,8 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00901570",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
@@ -597,7 +622,7 @@
         "court": "DC",
         "courtReference": "T00901570",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
@@ -609,7 +634,7 @@
         "court": "DC",
         "courtReference": "T00901570",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
@@ -698,16 +723,16 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
         "offenseDate": "2026-10-28T19:19:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00600-29",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -19012,7 +19037,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 204000,
+    "bondTotal": 104000,
     "charges": [
       {
         "description": "CONT SUB-HOMICIDE",
@@ -19020,7 +19045,7 @@
         "incident": "26-B03593",
         "court": "SC",
         "courtReference": "26-1-00492-29",
-        "bailAmount": 200000,
+        "bailAmount": 100000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -19815,7 +19840,7 @@
     "nameNumber": "415970",
     "name": "FARIAS-LUNA, FRANCISCO",
     "bookedAt": "2026-08-20T17:18:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-28T17:18:00",
     "location": "N207",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
