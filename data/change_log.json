@@ -420,8 +420,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-30T12:11:18",
-    "releasedAt": "2026-10-30T18:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T17:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -494,8 +494,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-30T08:11:18",
-    "releasedAt": "2026-10-30T20:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T19:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -531,8 +531,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-30T02:11:14",
-    "releasedAt": "2026-10-30T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T10:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -702,8 +702,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-30T00:11:17",
-    "releasedAt": "2026-10-30T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T10:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -763,8 +763,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T22:11:15",
-    "releasedAt": "2026-10-30T16:38:02",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T16:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -981,8 +981,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T17:11:16",
-    "releasedAt": "2026-10-30T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T10:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1128,8 +1128,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T15:11:16",
-    "releasedAt": "2026-10-30T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T10:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1300,8 +1300,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T06:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T13:00:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3605,8 +3605,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-25T01:11:19",
-    "releasedAt": "2026-10-30T19:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T18:58:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -4644,7 +4644,7 @@
     "name": "BARRIO, KAHLEE",
     "bookedAt": "2026-10-22T14:15:00",
     "scheduledRelease": "2026-10-30T15:03:53",
-    "releasedAt": "2026-10-30T16:11:20",
+    "releasedAt": "2026-10-30T15:10:08",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -4672,7 +4672,7 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T07:11:16",
-    "releaseSource": "observed",
+    "releaseSource": "official",
     "fromReleaseReport": true,
     "baseline": false
   },
@@ -6312,8 +6312,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-19T09:11:16",
-    "releasedAt": "2026-10-30T14:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T13:46:57",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -7846,7 +7846,7 @@
     "name": "HERNANDEZ, BRYAN ISAI",
     "bookedAt": "2026-10-16T09:30:00",
     "scheduledRelease": "2026-10-30T14:55:14",
-    "releasedAt": "2026-10-30T16:11:20",
+    "releasedAt": "2026-10-30T15:15:22",
     "location": "ONE DAY OFFENDER",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -7874,7 +7874,7 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-17T07:06:00",
-    "releaseSource": "observed",
+    "releaseSource": "official",
     "fromReleaseReport": true,
     "baseline": false
   },
@@ -7997,8 +7997,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T09:11:14",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:25:43",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8731,8 +8731,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T11:11:14",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:16:13",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8914,8 +8914,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-15T10:11:15",
-    "releasedAt": "2026-10-30T10:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T09:10:03",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -12719,8 +12719,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-30T19:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T18:20:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -14349,8 +14349,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:21:30",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -14690,8 +14690,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-30T10:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T09:22:50",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -15199,8 +15199,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-30T10:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T09:17:46",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -15541,8 +15541,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:23:58",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15578,8 +15578,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:26:27",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15615,8 +15615,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:28:36",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15652,8 +15652,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T09:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:31:17",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15689,8 +15689,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:27:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15726,8 +15726,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:22:47",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15763,8 +15763,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:29:31",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15812,8 +15812,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:40:54",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:12:02",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15849,8 +15849,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:20:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15971,8 +15971,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:40:54",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:11:30",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -16639,8 +16639,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:14:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -16676,8 +16676,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T18:11:15",
-    "releasedAt": "2026-10-30T16:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T15:30:25",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -30183,8 +30183,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-10-30T16:38:02",
-    "releaseSource": "observed",
+    "releasedAt": "2026-10-30T16:15:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
