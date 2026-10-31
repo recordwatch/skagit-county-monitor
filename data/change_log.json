@@ -153,10 +153,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T08:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-10-30T20:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
