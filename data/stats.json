@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T17:11:15",
+  "generatedAt": "2026-10-30T18:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 455,
     "bookingsObserved": 252,
-    "releasesObserved": 277,
-    "inCustody": 178,
+    "releasesObserved": 278,
+    "inCustody": 177,
     "uniquePeople": 446
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-30",
       "booked": 5,
-      "released": 28
+      "released": 29
     }
   ],
   "topCharges": [
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 941,
+      "count": 943,
       "pct": 57.4,
       "label": "Skagit County Superior Court"
     },
@@ -461,27 +461,27 @@
     {
       "name": "Own Recognizance Release",
       "count": 379,
-      "pct": 38.5
+      "pct": 38.4
     },
     {
       "name": "Serving Commit",
       "count": 113,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "Declined To Prosecute",
       "count": 112,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "Sentence Complete Release",
-      "count": 110,
-      "pct": 11.2
+      "count": 112,
+      "pct": 11.3
     },
     {
       "name": "Dismissed",
-      "count": 83,
-      "pct": 8.4
+      "count": 84,
+      "pct": 8.5
     },
     {
       "name": "Dept Of Corrections Release",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 572,
+      "count": 570,
       "pct": 95.3
     },
     {
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 246,
-    "observed": 31,
+    "observed": 32,
     "reportOnly": 31
   },
   "stay": {
-    "releasedCount": 275,
+    "releasedCount": 276,
     "medianDays": 2,
-    "meanDays": 56.1,
+    "meanDays": 55.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 89
+        "count": 90
       },
       {
         "label": "1–3 days",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 57.2,
-    "currentLongestDaysHeld": 988
+    "currentLongestDaysHeld": 988.1
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 114,
     "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19188350
+    "totalBond": 19183350
   },
   "chargesPerBooking": 3.6
 }
