@@ -15,7 +15,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 28000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -40,10 +40,251 @@
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2025-08-21T00:00:00",
+        "incident": "25-10306",
+        "court": "SC",
+        "courtReference": "25-1-00678-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-01-22T00:00:00",
+        "incident": "26-M01054",
+        "court": "SC",
+        "courtReference": "26-1-00316-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-01-22T00:00:00",
+        "incident": "26-M01054",
+        "court": "SC",
+        "courtReference": "26-1-00316-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-01-22T00:00:00",
+        "incident": "26-M01054",
+        "court": "SC",
+        "courtReference": "26-1-00316-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-04-30T00:00:00",
+        "incident": "26-B03142",
+        "court": "SC",
+        "courtReference": "26-1-00319-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-08-08T00:00:00",
+        "incident": "26-B05923",
+        "court": "SC",
+        "courtReference": "26-1-00534-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-08-08T00:00:00",
+        "incident": "26-B05923",
+        "court": "SC",
+        "courtReference": "26-1-00534-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-07-15T00:00:00",
+        "incident": "26-B05248",
+        "court": "BMC",
+        "courtReference": "6A0349043",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-06-26T00:00:00",
+        "incident": "26-B04731",
+        "court": "BMC",
+        "courtReference": "6A0325791",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-09-25T00:00:00",
+        "incident": "24-B07063",
+        "court": "BMC",
+        "courtReference": "4A0627400",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-02-12T00:00:00",
+        "incident": "26-A00784",
+        "court": "AMC",
+        "courtReference": "6A0173980",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-10-31T00:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "462697-20261030233000",
+    "nameNumber": "462697",
+    "name": "REVEY, ERNEST ALLEN II",
+    "bookedAt": "2026-10-30T23:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-30T20:30:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 16500,
+    "charges": [
+      {
+        "description": "DANGEROUS WEAPON POSS,MANUF,SELL",
+        "offenseDate": "2025-06-13T00:00:00",
+        "incident": "25-06903",
+        "court": "DC",
+        "courtReference": "5a0303922",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSS DRUG PARAPHEN",
+        "offenseDate": "2025-06-13T00:00:00",
+        "incident": "25-06903",
+        "court": "DC",
+        "courtReference": "5a0303922",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-10-20T00:00:00",
+        "incident": "25-M16960",
+        "court": "MVMC",
+        "courtReference": "5A0876898",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2025-10-20T00:00:00",
+        "incident": "25-M16960",
+        "court": "MVMC",
+        "courtReference": "5A0876898",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-03-08T00:00:00",
+        "incident": "24-B01670",
+        "court": "BMC",
+        "courtReference": "4A0298293",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2025-10-09T00:00:00",
+        "incident": "25-B07616",
+        "court": "BMC",
+        "courtReference": "5A0805061",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-08-16T00:00:00",
+        "incident": "26-B06112",
+        "court": "BMC",
+        "courtReference": "6A0102898",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T01:11:15",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
