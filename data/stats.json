@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T08:11:16",
+  "generatedAt": "2026-10-31T08:58:10",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 458,
-    "bookingsObserved": 255,
+    "bookingsTracked": 459,
+    "bookingsObserved": 256,
     "releasesObserved": 282,
-    "inCustody": 176,
+    "inCustody": 177,
     "uniquePeople": 449
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 60,
-      "pct": 3.6
+      "count": 61,
+      "pct": 3.7
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 95,
-      "pct": 20.8,
+      "count": 96,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -351,14 +351,14 @@
     },
     {
       "name": "AMC",
-      "count": 69,
-      "pct": 4.1,
+      "count": 70,
+      "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
     {
       "name": "OTHR",
-      "count": 62,
-      "pct": 3.7,
+      "count": 63,
+      "pct": 3.8,
       "label": "Other"
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 73,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 64,
-      "pct": 14
+      "count": 65,
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -434,7 +434,7 @@
     {
       "name": "DUI WARRANT ARREST",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.3
+      "count": 13,
+      "pct": 7.9
     },
     {
       "name": "K",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 10.3
+      "count": 16,
+      "pct": 9.7
     },
     {
       "name": "P",
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 58.3,
-    "currentLongestDaysHeld": 988.6
+    "currentMedianDaysHeld": 57.9,
+    "currentLongestDaysHeld": 988.7
   },
   "bond": {
     "withBond": 117,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19201350
