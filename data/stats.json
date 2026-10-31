@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:11:16",
+  "generatedAt": "2026-10-30T21:38:51",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 455,
@@ -461,17 +461,17 @@
     {
       "name": "Own Recognizance Release",
       "count": 379,
-      "pct": 38.4
+      "pct": 38.2
+    },
+    {
+      "name": "Declined To Prosecute",
+      "count": 116,
+      "pct": 11.7
     },
     {
       "name": "Serving Commit",
       "count": 113,
       "pct": 11.4
-    },
-    {
-      "name": "Declined To Prosecute",
-      "count": 112,
-      "pct": 11.3
     },
     {
       "name": "Sentence Complete Release",
@@ -486,17 +486,17 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 58,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "Amended",
       "count": 48,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "Bail Bond Release",
       "count": 43,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Shuttle Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,12 +548,12 @@
     {
       "name": "K",
       "count": 18,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -568,34 +568,34 @@
     {
       "name": "N",
       "count": 14,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "R",
-      "count": 19,
-      "pct": 11.8
+      "count": 20,
+      "pct": 12.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 569,
-      "pct": 95.3
+      "count": 580,
+      "pct": 95.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 988.2
   },
   "bond": {
-    "withBond": 113,
-    "noBond": 61,
+    "withBond": 114,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19144850
+    "totalBond": 19154850
   },
   "chargesPerBooking": 3.6
 }
