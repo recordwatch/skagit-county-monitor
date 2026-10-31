@@ -21530,6 +21530,11 @@
         "arrestDate": "2026-08-09T07:48:00",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "arrestDate": "2026-10-31T03:15:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": 50000,
@@ -21569,6 +21574,18 @@
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MISCH 2 >750",
+        "offenseDate": "2026-10-31T00:00:00",
+        "incident": "26-13193",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
