@@ -846,7 +846,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -854,7 +854,7 @@
         "incident": "24-B03060",
         "court": "SC",
         "courtReference": "24-1-00349-29",
-        "bailAmount": 5000,
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -1303,7 +1303,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 50000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "DUI",
@@ -1311,8 +1311,8 @@
         "incident": "22-07677",
         "court": "DC",
         "courtReference": "2A0407440",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -1323,8 +1323,8 @@
         "incident": "22-06026",
         "court": "DC",
         "courtReference": "2A0157982",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -1334,9 +1334,9 @@
         "offenseDate": "2026-10-29T09:00:00",
         "incident": "26-13106",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00604-29",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
