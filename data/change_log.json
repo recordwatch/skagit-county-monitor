@@ -64,7 +64,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 2ND DEGREE",
@@ -72,9 +72,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00917580",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -12313,7 +12313,7 @@
         "courtReference": "23-1-00061-29",
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
