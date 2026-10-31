@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-30T23:11:16",
+  "generatedAt": "2026-10-31T00:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 456,
-    "bookingsObserved": 253,
+    "bookingsTracked": 457,
+    "bookingsObserved": 254,
     "releasesObserved": 281,
-    "inCustody": 175,
-    "uniquePeople": 447
+    "inCustody": 176,
+    "uniquePeople": 448
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-01",
-      "booked": 7,
-      "released": 0
-    },
     {
       "date": "2026-10-02",
       "booked": 4,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 6,
+      "booked": 7,
       "released": 32
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -188,7 +188,7 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 52,
+      "count": 53,
       "pct": 3.2
     },
     {
@@ -222,13 +222,13 @@
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
+      "name": "ATTEMPT TO ELUDE",
       "count": 25,
       "pct": 1.5
     },
     {
-      "name": "ATTEMPT TO ELUDE",
-      "count": 24,
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 25,
       "pct": 1.5
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 114,
-      "pct": 25.1,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 94,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -289,14 +289,14 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 42,
-      "pct": 9.2,
+      "count": 43,
+      "pct": 9.4,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 38,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 943,
+      "count": 945,
       "pct": 57.4,
       "label": "Skagit County Superior Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 101,
-      "pct": 22.2
+      "count": 102,
+      "pct": 22.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -394,12 +394,12 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 64,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "K",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 8.6
+      "count": 15,
+      "pct": 9.1
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 12.3
+      "pct": 12.2
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 58.3,
+    "currentMedianDaysHeld": 57.9,
     "currentLongestDaysHeld": 988.3
   },
   "bond": {
     "withBond": 115,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19156850
