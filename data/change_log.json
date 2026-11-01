@@ -23790,7 +23790,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 50000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 2ND BODILY HARM-DV",
@@ -23798,9 +23798,9 @@
         "incident": "26-M08626",
         "court": "SC",
         "courtReference": "26-1-00364-29",
-        "bailAmount": 50000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -23811,8 +23811,8 @@
         "court": "SC",
         "courtReference": "26-1-00364-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -23823,8 +23823,8 @@
         "court": "SC",
         "courtReference": "26-1-00364-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
