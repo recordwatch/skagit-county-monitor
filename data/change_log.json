@@ -1,11 +1,60 @@
 [
   {
-    "id": "706738-20261101025500",
-    "nameNumber": "706738",
-    "name": "BALBUEAN, JAYLIN S",
-    "bookedAt": "2026-11-01T02:55:00",
+    "id": "743189-20261101040000",
+    "nameNumber": "743189",
+    "name": "DANKO, ALISSA JANAY",
+    "bookedAt": "2026-11-01T04:00:00",
     "scheduledRelease": null,
     "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-01T01:58:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-01T01:58:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00959682",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "MINOR POSS AND/OR CONSUMPTION",
+        "offenseDate": "2026-11-01T01:58:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00959684",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T06:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "706738-20261101025500",
+    "nameNumber": "706738",
+    "name": "BALBUENA, JAYLIN S",
+    "bookedAt": "2026-11-01T02:55:00",
+    "scheduledRelease": null,
+    "location": "N202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -65,8 +114,8 @@
     "nameNumber": "707281",
     "name": "AYALA-CEDILLO, JORDY",
     "bookedAt": "2026-11-01T01:40:00",
-    "scheduledRelease": "2026-12-31T01:40:00",
-    "location": null,
+    "scheduledRelease": "2027-01-20T01:40:00",
+    "location": "N202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
