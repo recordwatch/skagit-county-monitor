@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:11:14",
+  "generatedAt": "2026-10-31T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 461,
@@ -174,12 +174,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 88,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 61,
-      "pct": 3.6
+      "count": 62,
+      "pct": 3.7
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -222,13 +222,13 @@
       "pct": 1.7
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "RESISTING ARREST",
       "count": 26,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 25,
+      "name": "ATTEMPT TO ELUDE",
+      "count": 26,
       "pct": 1.5
     },
     {
@@ -242,13 +242,13 @@
       "pct": 1.4
     },
     {
-      "name": "DWLS/R 1ST DEGREE",
+      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
       "count": 22,
       "pct": 1.3
     },
     {
-      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
-      "count": 21,
+      "name": "DWLS/R 1ST DEGREE",
+      "count": 22,
       "pct": 1.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 114,
-      "pct": 24.8,
+      "count": 115,
+      "pct": 25,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 60,
-      "pct": 13.1,
+      "pct": 13,
       "label": "WA STATE PATROL"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 43,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 14,
-      "pct": 3.1,
+      "pct": 3,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 953,
-      "pct": 56.9,
+      "count": 957,
+      "pct": 57,
       "label": "Skagit County Superior Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "OTHR",
-      "count": 63,
+      "count": 64,
       "pct": 3.8,
       "label": "Other"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 102,
-      "pct": 22.2
+      "count": 103,
+      "pct": 22.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 65,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 20,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 608,
+      "count": 610,
       "pct": 95.6
     },
     {
@@ -638,15 +638,15 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 58.3,
+    "currentMedianDaysHeld": 58.4,
     "currentLongestDaysHeld": 989.2
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 60,
+    "withBond": 120,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19208350
+    "totalBond": 19213350
   },
   "chargesPerBooking": 3.6
 }
