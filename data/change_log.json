@@ -1,5 +1,127 @@
 [
   {
+    "id": "706738-20261101025500",
+    "nameNumber": "706738",
+    "name": "BALBUEAN, JAYLIN S",
+    "bookedAt": "2026-11-01T02:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-01T01:19:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-01T01:15:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-01T01:15:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "MIP PUBLIC PLACE",
+        "offenseDate": "2026-11-01T01:15:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T04:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "707281-20261101014000",
+    "nameNumber": "707281",
+    "name": "AYALA-CEDILLO, JORDY",
+    "bookedAt": "2026-11-01T01:40:00",
+    "scheduledRelease": "2026-12-31T01:40:00",
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-01T00:37:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-11-01T00:37:00",
+        "incident": "26-13229",
+        "court": "DC",
+        "courtReference": "6A0363400",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2025-11-07T00:00:00",
+        "incident": "25-W05527",
+        "court": "SWMC",
+        "courtReference": "5A0261746",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2024-08-14T00:00:00",
+        "incident": "24-10303",
+        "court": "DC",
+        "courtReference": "4A0489882",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T04:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "198374-20261031223000",
     "nameNumber": "198374",
     "name": "WHISENNAND, TASHANNA E L",
