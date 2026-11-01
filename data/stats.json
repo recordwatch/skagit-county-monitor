@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T22:11:14",
+  "generatedAt": "2026-10-31T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 461,
-    "bookingsObserved": 258,
+    "bookingsTracked": 462,
+    "bookingsObserved": 259,
     "releasesObserved": 282,
-    "inCustody": 179,
-    "uniquePeople": 451
+    "inCustody": 180,
+    "uniquePeople": 452
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 3,
+      "booked": 4,
       "released": 1
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 115,
-      "pct": 25,
+      "pct": 24.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 96,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 62,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 38,
-      "pct": 8.3,
+      "pct": 8.2,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 14,
-      "pct": 3,
+      "count": 15,
+      "pct": 3.3,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 9,
-      "pct": 0.5,
+      "count": 10,
+      "pct": 0.6,
       "label": "TC"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 103,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 65,
-      "pct": 14.1
+      "count": 66,
+      "pct": 14.3
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 26,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DUI CITATION ARREST",
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 58.4,
-    "currentLongestDaysHeld": 989.2
+    "currentMedianDaysHeld": 57.7,
+    "currentLongestDaysHeld": 989.3
   },
   "bond": {
     "withBond": 120,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19213350
