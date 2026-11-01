@@ -1,5 +1,42 @@
 [
   {
+    "id": "198374-20261031223000",
+    "nameNumber": "198374",
+    "name": "WHISENNAND, TASHANNA E L",
+    "bookedAt": "2026-10-31T22:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-31T20:51:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-03-04T00:00:00",
+        "incident": "26-A01153",
+        "court": "AMC",
+        "courtReference": "6A0141007",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T00:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "137137-20261031214000",
     "nameNumber": "137137",
     "name": "JOE, MARK WAYNE JR",
@@ -139,7 +176,7 @@
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
