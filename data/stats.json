@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T11:11:15",
+  "generatedAt": "2026-11-01T12:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 466,
-    "bookingsObserved": 263,
+    "bookingsTracked": 467,
+    "bookingsObserved": 264,
     "releasesObserved": 282,
-    "inCustody": 184,
-    "uniquePeople": 456
+    "inCustody": 185,
+    "uniquePeople": 457
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 109,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -178,7 +178,7 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 62,
+      "count": 63,
       "pct": 3.7
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 97,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 11,
-      "pct": 2.4,
+      "count": 12,
+      "pct": 2.6,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "OTHR",
-      "count": 64,
+      "count": 65,
       "pct": 3.8,
       "label": "Other"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 104,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -423,13 +423,13 @@
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 10,
-      "pct": 2.2
+      "count": 11,
+      "pct": 2.4
     },
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 10,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 53.2,
+    "currentMedianDaysHeld": 52.5,
     "currentLongestDaysHeld": 989.8
   },
   "bond": {
     "withBond": 119,
-    "noBond": 65,
+    "noBond": 66,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19064350
