@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:11:15",
+  "generatedAt": "2026-11-01T01:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 463,
@@ -461,27 +461,27 @@
     {
       "name": "Own Recognizance Release",
       "count": 379,
-      "pct": 38.1
+      "pct": 38
     },
     {
       "name": "Declined To Prosecute",
       "count": 116,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "Serving Commit",
       "count": 114,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 113,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "Dismissed",
-      "count": 84,
-      "pct": 8.5
+      "count": 86,
+      "pct": 8.6
     },
     {
       "name": "Dept Of Corrections Release",
@@ -499,14 +499,14 @@
       "pct": 4.3
     },
     {
-      "name": "Shuttle Release",
+      "name": "Pending Transport",
       "count": 14,
       "pct": 1.4
     },
     {
-      "name": "Pending Transport",
-      "count": 12,
-      "pct": 1.2
+      "name": "Shuttle Release",
+      "count": 14,
+      "pct": 1.4
     },
     {
       "name": "Sanction Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 17,
-      "pct": 10.2
+      "count": 18,
+      "pct": 10.7
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "M",
@@ -568,28 +568,28 @@
     {
       "name": "N",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "Q",
       "count": 30,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 12
+      "pct": 11.9
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 611,
+      "count": 607,
       "pct": 95.6
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 989.3
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 60,
+    "withBond": 120,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19214350
+    "totalBond": 19114350
   },
   "chargesPerBooking": 3.6
 }
