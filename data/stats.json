@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T19:28:28",
+  "generatedAt": "2026-10-31T20:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 460,
-    "bookingsObserved": 257,
+    "bookingsTracked": 461,
+    "bookingsObserved": 258,
     "releasesObserved": 282,
-    "inCustody": 178,
-    "uniquePeople": 450
+    "inCustody": 179,
+    "uniquePeople": 451
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 2,
+      "booked": 3,
       "released": 1
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 106,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 101,
-      "pct": 6.1
+      "count": 104,
+      "pct": 6.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 61,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -194,7 +194,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -218,7 +218,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 28,
+      "count": 29,
       "pct": 1.7
     },
     {
@@ -227,14 +227,14 @@
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
+      "name": "RESISTING ARREST",
       "count": 25,
       "pct": 1.5
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 24,
-      "pct": 1.4
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 25,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 114,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 96,
-      "pct": 21,
+      "pct": 20.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 61,
-      "pct": 13.3,
+      "count": 62,
+      "pct": 13.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,25 +328,25 @@
     {
       "name": "SC",
       "count": 953,
-      "pct": 57.1,
+      "pct": 56.9,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 225,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 173,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 133,
-      "pct": 8,
+      "count": 139,
+      "pct": 8.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 102,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 73,
-      "pct": 15.9
+      "count": 74,
+      "pct": 16.1
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 15.1
+      "pct": 15
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 41,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 602,
+      "count": 608,
       "pct": 95.6
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 989.1
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 119,
     "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19203350
+    "totalBond": 19208350
   },
   "chargesPerBooking": 3.6
 }

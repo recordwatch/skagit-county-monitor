@@ -1,5 +1,102 @@
 [
   {
+    "id": "695346-20261031191500",
+    "nameNumber": "695346",
+    "name": "WALDRON, AUSTIN",
+    "bookedAt": "2026-10-31T19:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-10-31T17:27:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0046503",
+        "bailAmount": 4500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0046503",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0046503",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "LEGEND DRUG-POSSESS NO PRESCRIPTION",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0046503",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0046503",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-06-08T00:00:00",
+        "incident": "26-B04162",
+        "court": "BMC",
+        "courtReference": "6A0326093",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T20:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "371152-20261031174800",
     "nameNumber": "371152",
     "name": "ACUNA, JESUS MOSES",
