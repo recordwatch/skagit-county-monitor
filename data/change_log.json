@@ -1,5 +1,42 @@
 [
   {
+    "id": "245570-20261101231500",
+    "nameNumber": "245570",
+    "name": "MITCHELL, MICHAEL KEVIN",
+    "bookedAt": "2026-11-01T23:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-01T20:16:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 3RD - BODILY HARM BY WEAPON",
+        "offenseDate": "2026-11-01T19:53:00",
+        "incident": "26-SP1714",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T00:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743210-20261101182500",
     "nameNumber": "743210",
     "name": "SHANI, OREN JONATHAN",

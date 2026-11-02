@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-01T23:26:10",
+  "generatedAt": "2026-11-02T00:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 469,
-    "bookingsObserved": 266,
+    "bookingsTracked": 470,
+    "bookingsObserved": 267,
     "releasesObserved": 284,
-    "inCustody": 185,
-    "uniquePeople": 459
+    "inCustody": 186,
+    "uniquePeople": 460
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-03",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-10-04",
       "booked": 2,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 6,
+      "booked": 7,
       "released": 2
+    },
+    {
+      "date": "2026-11-02",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 116,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 63,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 15,
-      "pct": 3.2,
+      "count": 16,
+      "pct": 3.4,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 964,
+      "count": 965,
       "pct": 56.9,
       "label": "Skagit County Superior Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 105,
-      "pct": 22.4
+      "count": 106,
+      "pct": 22.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -404,12 +404,12 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 41,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 26,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "DUI CITATION ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 11,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 53,
+    "currentMedianDaysHeld": 52.9,
     "currentLongestDaysHeld": 990.3
   },
   "bond": {
     "withBond": 118,
-    "noBond": 67,
+    "noBond": 68,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19054350
