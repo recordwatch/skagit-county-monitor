@@ -15,8 +15,33 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-02T08:15:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00917613",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-03-19T00:00:00",
+        "incident": "26-W01158",
+        "court": "DC",
+        "courtReference": "6A0146264",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T09:21:40",
     "releasedAt": null,
@@ -495,10 +520,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T00:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2006,7 +2031,7 @@
     "name": "WHITAKER, ALEX JAMES",
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": "P206",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -2239,7 +2264,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "VEHICULAR ASSAULT",
+        "description": "VEHICLE ASSAULT-UNDR INFLUENCE & CAUSES BODILY HARM",
         "offenseDate": "2026-10-28T20:18:00",
         "incident": "26-B07881",
         "court": "SC",
@@ -22365,7 +22390,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
