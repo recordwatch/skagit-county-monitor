@@ -325,10 +325,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T00:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T15:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -814,10 +814,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T20:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T15:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -972,7 +972,7 @@
     "name": "BEGAY, AARON LARRY",
     "bookedAt": "2026-10-30T23:30:00",
     "scheduledRelease": null,
-    "location": "J104",
+    "location": "Q202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1508,7 +1508,7 @@
     "name": "NELSON, KRISTYAN COLE",
     "bookedAt": "2026-10-29T23:15:00",
     "scheduledRelease": null,
-    "location": "J102",
+    "location": "P204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -2448,10 +2448,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T02:34:21",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T15:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3143,7 +3143,7 @@
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
     "scheduledRelease": null,
-    "location": "P205",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -22428,7 +22428,7 @@
     "name": "SEDANO, ESTEBAN",
     "bookedAt": "2026-08-10T14:35:00",
     "scheduledRelease": "2026-12-08T14:35:00",
-    "location": "P205",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
