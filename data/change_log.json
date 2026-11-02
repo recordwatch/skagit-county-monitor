@@ -5,7 +5,7 @@
     "name": "KEITH, TODD JAY",
     "bookedAt": "2026-11-01T11:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "BONENGE, MICHEL SATIVI",
     "bookedAt": "2026-11-01T10:45:40",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J206",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1589,7 +1589,7 @@
     "name": "PENDLETON, NICKI N",
     "bookedAt": "2026-10-29T14:10:00",
     "scheduledRelease": "2026-11-16T14:10:00",
-    "location": "J205",
+    "location": "R211",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -1736,7 +1736,7 @@
     "name": "GUSDAL, NAVY RENEE MICHELLE",
     "bookedAt": "2026-10-29T12:10:00",
     "scheduledRelease": null,
-    "location": "J209",
+    "location": "R102",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -1969,7 +1969,7 @@
     "name": "WILLIAMS, DANIEL LEWIS",
     "bookedAt": "2026-10-29T01:55:00",
     "scheduledRelease": null,
-    "location": "J111",
+    "location": "N108",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -2590,7 +2590,7 @@
     "name": "TURNER, ALEXIS JANE",
     "bookedAt": "2026-10-27T17:10:00",
     "scheduledRelease": null,
-    "location": "J206",
+    "location": "R102",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
