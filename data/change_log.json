@@ -5,7 +5,7 @@
     "name": "BEAMON, MARQUIS DEAN",
     "bookedAt": "2026-11-02T01:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "ARRIAGA GONZALEZ, MIGUEL ANGEL",
     "bookedAt": "2026-11-02T01:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -67,7 +67,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "HIT AND RUN",
+        "description": "HIT AND RUN-DAMAGE ONLY",
         "offenseDate": "2026-11-01T22:40:00",
         "incident": "26-B07989",
         "court": "BMC",
