@@ -6,17 +6,30 @@
     "bookedAt": "2026-11-02T11:20:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-02T11:20:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2024-07-02T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00397-29 DOC",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T12:11:17",
     "releasedAt": null,
@@ -54,6 +67,55 @@
     "bookedAt": "2026-11-02T11:00:00",
     "scheduledRelease": null,
     "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-02T10:43:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2018-02-14T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0007248",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-02T10:43:00",
+        "incident": "26-13276",
+        "court": "DC",
+        "courtReference": "6A0300826",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T12:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "277581-20261102102000",
+    "nameNumber": "277581",
+    "name": "MITCHELL, GARY LYNN SR",
+    "bookedAt": "2026-11-02T10:20:00",
+    "scheduledRelease": null,
+    "location": null,
     "arrestingAgency": null,
     "arrestType": null,
     "arrests": [
@@ -66,7 +128,7 @@
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
-    "firstSeen": "2026-11-02T12:11:17",
+    "firstSeen": "2026-11-02T13:11:16",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -151,10 +213,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -200,10 +262,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -232,7 +294,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -433,10 +495,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T06:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1162,10 +1224,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T01:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1211,10 +1273,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1334,10 +1396,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T10:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
