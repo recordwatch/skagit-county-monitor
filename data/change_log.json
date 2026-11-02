@@ -148,7 +148,7 @@
         "courtReference": "T00917610",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -520,7 +520,7 @@
     "name": "WALDRON, AUSTIN",
     "bookedAt": "2026-10-31T19:15:00",
     "scheduledRelease": null,
-    "location": "J207",
+    "location": null,
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -2548,7 +2548,7 @@
     "nameNumber": "16230",
     "name": "CALLOWAY, LARRY DOUGLAS",
     "bookedAt": "2026-10-28T14:40:00",
-    "scheduledRelease": "2026-11-06T02:40:00",
+    "scheduledRelease": "2026-11-05T18:40:00",
     "location": "Q104",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -26530,10 +26530,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
