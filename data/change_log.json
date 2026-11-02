@@ -1687,10 +1687,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T16:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-01T16:33:48",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
