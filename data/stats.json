@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T18:11:15",
+  "generatedAt": "2026-11-01T19:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 468,
-    "bookingsObserved": 265,
+    "bookingsTracked": 469,
+    "bookingsObserved": 266,
     "releasesObserved": 284,
-    "inCustody": 184,
-    "uniquePeople": 458
+    "inCustody": 185,
+    "uniquePeople": 459
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 109,
-      "pct": 6.4
+      "count": 110,
+      "pct": 6.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 97,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 62,
-      "pct": 13.3,
+      "count": 63,
+      "pct": 13.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 62,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 39,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DC",
-      "count": 229,
-      "pct": 13.5,
+      "count": 230,
+      "pct": 13.6,
       "label": "Skagit County District Court"
     },
     {
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 105,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 75,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 69,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 67,
-      "pct": 14.3
+      "count": 68,
+      "pct": 14.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -638,12 +638,12 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 53.5,
+    "currentMedianDaysHeld": 52.8,
     "currentLongestDaysHeld": 990.1
   },
   "bond": {
     "withBond": 118,
-    "noBond": 66,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19054350
