@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:11:27",
+  "generatedAt": "2026-11-01T21:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 469,
@@ -528,7 +528,7 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "K",
       "count": 18,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 10,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.4
+      "count": 19,
+      "pct": 10.9
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 15
+      "pct": 14.9
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 52.9,
-    "currentLongestDaysHeld": 990.1
+    "currentLongestDaysHeld": 990.2
   },
   "bond": {
     "withBond": 118,
