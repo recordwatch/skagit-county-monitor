@@ -185,7 +185,7 @@
         "courtReference": "25-1-00609-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -1849,8 +1849,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T16:11:18",
-    "releasedAt": "2026-11-01T16:33:48",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-01T16:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8262,8 +8262,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-16T22:11:15",
-    "releasedAt": "2026-11-01T18:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-01T17:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -26465,7 +26465,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26477,7 +26477,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26489,7 +26489,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26501,7 +26501,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26513,7 +26513,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26525,7 +26525,7 @@
         "courtReference": "10-1-00912-3",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
