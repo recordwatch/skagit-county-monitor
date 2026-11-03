@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T22:32:13",
+  "generatedAt": "2026-11-02T23:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 479,
-    "bookingsObserved": 276,
+    "bookingsTracked": 480,
+    "bookingsObserved": 277,
     "releasesObserved": 303,
-    "inCustody": 176,
-    "uniquePeople": 468
+    "inCustody": 177,
+    "uniquePeople": 469
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 9,
+      "booked": 10,
       "released": 19
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 66,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -219,7 +219,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 30,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "RESISTING ARREST",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 116,
-      "pct": 24.3,
+      "count": 117,
+      "pct": 24.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 39,
-      "pct": 8.2,
+      "pct": 8.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 968,
+      "count": 970,
       "pct": 56.5,
       "label": "Skagit County Superior Court"
     },
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 173,
+      "count": 174,
       "pct": 10.1,
       "label": "Mount Vernon Municipal Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 106,
-      "pct": 22.2
+      "count": 107,
+      "pct": 22.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -558,7 +558,7 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -567,35 +567,35 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.8
+      "count": 17,
+      "pct": 10.4
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 30,
-      "pct": 18.4
+      "pct": 18.3
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 14.1
+      "pct": 14
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 595,
+      "count": 596,
       "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 20
       }
     ],
-    "currentMedianDaysHeld": 57.1,
-    "currentLongestDaysHeld": 991.2
+    "currentMedianDaysHeld": 55.4,
+    "currentLongestDaysHeld": 991.3
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19011850
+    "totalBond": 19012850
   },
   "chargesPerBooking": 3.6
 }
