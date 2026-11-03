@@ -138,7 +138,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DUI",
@@ -146,9 +146,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0007248",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -158,9 +158,9 @@
         "incident": "26-13276",
         "court": "DC",
         "courtReference": "6A0300826",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -472,7 +472,7 @@
     "name": "BONENGE, MICHEL SATIVI",
     "bookedAt": "2026-11-01T10:45:40",
     "scheduledRelease": null,
-    "location": "J111",
+    "location": "J104",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -482,16 +482,16 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
-        "description": "MAL MISCH 2ND DEG",
+        "description": "MAL MISCH 2 >750",
         "offenseDate": "2026-11-01T10:26:00",
         "incident": "26-M16156",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00615-29",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -501,9 +501,21 @@
         "offenseDate": "2026-11-01T10:26:00",
         "incident": "26-M16156",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00615-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-11-01T10:26:00",
+        "incident": "26-M16156",
+        "court": "SC",
+        "courtReference": "26-1-00615-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -515,19 +527,31 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Amended",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-11-01T10:26:00",
+        "incident": "26-M16156",
+        "court": "SC",
+        "courtReference": "26-1-00615-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "description": "ASSAULT 2ND DEGREE",
         "offenseDate": "2026-11-01T10:26:00",
         "incident": "26-M16156",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00615-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -14301,7 +14325,7 @@
     "name": "BANDY, CHANEL CIERRA",
     "bookedAt": "2026-10-06T23:05:00",
     "scheduledRelease": null,
-    "location": "R110",
+    "location": "R203",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

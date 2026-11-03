@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:11:15",
+  "generatedAt": "2026-11-02T18:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 478,
@@ -184,7 +184,7 @@
     {
       "name": "DWLS/R 3RD DEGREE",
       "count": 59,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -218,8 +218,8 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 29,
-      "pct": 1.7
+      "count": 30,
+      "pct": 1.8
     },
     {
       "name": "RESISTING ARREST",
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 965,
+      "count": 967,
       "pct": 56.5,
       "label": "Skagit County Superior Court"
     },
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 141,
-      "pct": 8.3,
+      "pct": 8.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 414,
-      "pct": 39.8
+      "pct": 39.7
     },
     {
       "name": "Sentence Complete Release",
@@ -476,12 +476,12 @@
     {
       "name": "Serving Commit",
       "count": 108,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "Dismissed",
       "count": 86,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "Dept Of Corrections Release",
@@ -490,13 +490,13 @@
     },
     {
       "name": "Amended",
-      "count": 48,
-      "pct": 4.6
+      "count": 49,
+      "pct": 4.7
     },
     {
       "name": "Bail Bond Release",
-      "count": 43,
-      "pct": 4.1
+      "count": 45,
+      "pct": 4.3
     },
     {
       "name": "Pending Transport",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 592,
+      "count": 596,
       "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 20
       }
     ],
-    "currentMedianDaysHeld": 56.9,
-    "currentLongestDaysHeld": 991
+    "currentMedianDaysHeld": 57,
+    "currentLongestDaysHeld": 991.1
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 62,
+    "withBond": 115,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18983350
+    "totalBond": 19004850
   },
   "chargesPerBooking": 3.6
 }
