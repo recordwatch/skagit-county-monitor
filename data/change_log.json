@@ -324,10 +324,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T12:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T10:11:28",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -434,7 +434,7 @@
     "name": "MITCHELL, GARY LYNN SR",
     "bookedAt": "2026-11-02T10:20:00",
     "scheduledRelease": "2026-11-18T16:20:00",
-    "location": "N205",
+    "location": "MALE INMATE WORKER (E103)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -924,7 +924,7 @@
     "name": "AYALA-CEDILLO, JORDY",
     "bookedAt": "2026-11-01T01:40:00",
     "scheduledRelease": "2027-01-20T01:40:00",
-    "location": "N202",
+    "location": "P201",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -1290,10 +1290,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T08:58:10",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T10:11:28",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2668,7 +2668,7 @@
     "name": "WILLIAMS, DANIEL LEWIS",
     "bookedAt": "2026-10-29T01:55:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": "Q106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
