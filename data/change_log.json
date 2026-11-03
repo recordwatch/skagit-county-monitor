@@ -30,17 +30,66 @@
     "bookedAt": "2026-11-03T12:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-03T12:35:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "POSS CONT SUBS BY PRISONER",
+        "offenseDate": "2025-01-06T00:00:00",
+        "incident": "25-M00315",
+        "court": "SC",
+        "courtReference": "25-1-00019-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-01-06T00:00:00",
+        "incident": "25-M00315",
+        "court": "SC",
+        "courtReference": "25-1-00019-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-08-26T00:00:00",
+        "incident": "24-M15566",
+        "court": "MVMC",
+        "courtReference": "4A0668763",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-07-22T00:00:00",
+        "incident": "24-M13088",
+        "court": "MVMC",
+        "courtReference": "4A0267624",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T13:11:19",
     "releasedAt": null,
@@ -3765,7 +3814,7 @@
     "name": "HARPER, GRANT ALEXANDER V",
     "bookedAt": "2026-10-26T20:50:00",
     "scheduledRelease": "2026-11-25T17:50:00",
-    "location": "K210",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [

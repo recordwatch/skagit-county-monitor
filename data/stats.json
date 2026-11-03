@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:11:19",
+  "generatedAt": "2026-11-03T14:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 484,
@@ -168,13 +168,13 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 105,
-      "pct": 6.1
+      "count": 107,
+      "pct": 6.2
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 90,
-      "pct": 5.2
+      "count": 91,
+      "pct": 5.3
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -234,7 +234,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 25,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 118,
-      "pct": 24.5,
+      "count": 119,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -327,20 +327,20 @@
   "courts": [
     {
       "name": "SC",
-      "count": 973,
+      "count": 975,
       "pct": 56.5,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 239,
-      "pct": 13.9,
+      "pct": 13.8,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 174,
-      "pct": 10.1,
+      "count": 176,
+      "pct": 10.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 72,
-      "pct": 15
+      "count": 73,
+      "pct": 15.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 20,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -547,8 +547,8 @@
     },
     {
       "name": "K",
-      "count": 15,
-      "pct": 9.7
+      "count": 14,
+      "pct": 9
     },
     {
       "name": "M",
@@ -562,8 +562,8 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 13,
-      "pct": 8.4
+      "count": 14,
+      "pct": 9
     },
     {
       "name": "N",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 594,
+      "count": 598,
       "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Cash Only",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 55.3,
-    "currentLongestDaysHeld": 991.8
+    "currentLongestDaysHeld": 991.9
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 54,
+    "withBond": 115,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19011850
+    "totalBond": 19021850
   },
   "chargesPerBooking": 3.6
 }
