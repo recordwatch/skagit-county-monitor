@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T05:11:22",
+  "generatedAt": "2026-11-03T06:11:23",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 480,
-    "bookingsObserved": 277,
+    "bookingsTracked": 481,
+    "bookingsObserved": 278,
     "releasesObserved": 303,
-    "inCustody": 177,
-    "uniquePeople": 469
+    "inCustody": 178,
+    "uniquePeople": 470
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 104,
+      "count": 105,
       "pct": 6.1
     },
     {
@@ -197,14 +197,14 @@
       "pct": 2.4
     },
     {
-      "name": "RECKLESS DRIVING",
+      "name": "CRIM TRESPASS 2ND",
       "count": 39,
       "pct": 2.3
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 38,
-      "pct": 2.2
+      "name": "RECKLESS DRIVING",
+      "count": 39,
+      "pct": 2.3
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -252,39 +252,39 @@
       "pct": 1.3
     },
     {
-      "name": "IDENTITY THEFT 2ND",
+      "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
       "count": 21,
       "pct": 1.2
     },
     {
-      "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-      "count": 20,
+      "name": "IDENTITY THEFT 2ND",
+      "count": 21,
       "pct": 1.2
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 117,
-      "pct": 24.4,
+      "count": 118,
+      "pct": 24.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 101,
-      "pct": 21.1,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 65,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 63,
-      "pct": 13.2,
+      "pct": 13.1,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 970,
-      "pct": 56.5,
+      "pct": 56.4,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 142,
-      "pct": 8.3,
+      "count": 145,
+      "pct": 8.4,
       "label": "Burlington Municipal Court"
     },
     {
@@ -389,12 +389,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 76,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 70,
-      "pct": 14.6
+      "count": 71,
+      "pct": 14.8
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 596,
+      "count": 599,
       "pct": 95.5
     },
     {
@@ -638,15 +638,15 @@
         "count": 20
       }
     ],
-    "currentMedianDaysHeld": 55.6,
-    "currentLongestDaysHeld": 991.5
+    "currentMedianDaysHeld": 55,
+    "currentLongestDaysHeld": 991.6
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 117,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19012850
+    "totalBond": 19013350
   },
   "chargesPerBooking": 3.6
 }
