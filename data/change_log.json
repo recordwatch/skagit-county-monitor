@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-02T14:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-02T14:39:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2019-03-14T00:00:00",
+        "incident": "19-SP0542",
+        "court": "DC",
+        "courtReference": "PA0007326",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-02T00:00:00",
+        "incident": "26-13293",
+        "court": "DC",
+        "courtReference": "6A0055725",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T16:11:16",
     "releasedAt": null,
@@ -71,7 +96,7 @@
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": "2026-11-02T13:11:58",
+        "arrestDate": "2026-11-02T11:20:00",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -113,7 +138,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -136,6 +161,18 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2010-02-10T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "C00731375",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1774,7 +1811,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "DISORDERLY CONDUCT",
@@ -1782,7 +1819,7 @@
         "incident": "26-M16044",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": 25000,
+        "bailAmount": 15000,
         "bailType": "Cash/Bond Accepted",
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
@@ -2494,7 +2531,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -2502,7 +2539,7 @@
         "incident": null,
         "court": "SC",
         "courtReference": "26-1-00600-29",
-        "bailAmount": 25000,
+        "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -17363,7 +17400,7 @@
     "nameNumber": "709263",
     "name": "WOOD, ASHLEY MARIE",
     "bookedAt": "2026-09-21T15:30:00",
-    "scheduledRelease": "2026-11-02T16:00:00",
+    "scheduledRelease": "2026-11-02T16:53:04",
     "location": "R205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "FELONY WARRANT ARREST",
@@ -17586,7 +17623,7 @@
         "courtReference": "DOC 25-1-00547-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sanction Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -25157,10 +25194,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-02T17:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
