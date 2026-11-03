@@ -5,7 +5,7 @@
     "name": "STONE, JORDAN LYLE",
     "bookedAt": "2026-11-03T04:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -161,7 +161,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 12000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -169,9 +169,9 @@
         "incident": "26-13299",
         "court": "DC",
         "courtReference": "6A0406929",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -193,9 +193,9 @@
         "incident": "23-B08987",
         "court": "BMC",
         "courtReference": "3A0808158",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -222,7 +222,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -230,9 +230,9 @@
         "incident": "19-SP0542",
         "court": "DC",
         "courtReference": "PA0007326",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -242,9 +242,9 @@
         "incident": "26-13293",
         "court": "DC",
         "courtReference": "6A0055725",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -481,7 +481,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -489,9 +489,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00917613",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -501,9 +501,9 @@
         "incident": "26-W01158",
         "court": "DC",
         "courtReference": "6A0146264",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -18721,7 +18721,7 @@
     "name": "KREBS, JAMES SCOTT",
     "bookedAt": "2026-09-15T19:32:00",
     "scheduledRelease": "2027-01-13T19:32:00",
-    "location": "Q106",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
