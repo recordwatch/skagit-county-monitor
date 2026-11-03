@@ -238,7 +238,7 @@
       },
       {
         "description": "DWLS/R 3RD DEGREE",
-        "offenseDate": "2026-11-02T00:00:00",
+        "offenseDate": "2026-11-02T14:39:00",
         "incident": "26-13293",
         "court": "DC",
         "courtReference": "6A0055725",
@@ -316,10 +316,10 @@
         "offenseDate": "2024-07-02T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "23-1-00397-29 DOC",
+        "courtReference": "DOC 23-1-00397-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -361,10 +361,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T12:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -399,7 +399,7 @@
       },
       {
         "description": "DWLS/R 3RD DEGREE",
-        "offenseDate": "2026-11-02T10:43:00",
+        "offenseDate": "2026-11-02T10:29:00",
         "incident": "26-13276",
         "court": "DC",
         "courtReference": "6A0300826",
@@ -414,7 +414,7 @@
         "offenseDate": "2010-02-10T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "C00731375",
+        "courtReference": "ISLAND CO C00731375",
         "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": "Pending Transport",
@@ -1273,7 +1273,7 @@
         "courtReference": "DOC 21-1-00100-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -7570,10 +7570,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T11:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -21006,10 +21006,10 @@
         "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -23508,10 +23508,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -24809,10 +24809,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -26972,10 +26972,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -30584,10 +30584,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T09:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
