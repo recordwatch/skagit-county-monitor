@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T12:48:40",
+  "generatedAt": "2026-11-03T13:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 482,
-    "bookingsObserved": 279,
+    "bookingsTracked": 484,
+    "bookingsObserved": 281,
     "releasesObserved": 316,
-    "inCustody": 166,
-    "uniquePeople": 471
+    "inCustody": 168,
+    "uniquePeople": 473
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 1,
+      "booked": 3,
       "released": 12
     }
   ],
@@ -562,8 +562,8 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 12,
-      "pct": 7.7
+      "count": 13,
+      "pct": 8.4
     },
     {
       "name": "N",
@@ -572,13 +572,13 @@
     },
     {
       "name": "P",
-      "count": 26,
-      "pct": 16.8
+      "count": 24,
+      "pct": 15.5
     },
     {
       "name": "Q",
-      "count": 28,
-      "pct": 18.1
+      "count": 29,
+      "pct": 18.7
     },
     {
       "name": "R",
@@ -638,12 +638,12 @@
         "count": 24
       }
     ],
-    "currentMedianDaysHeld": 57.7,
+    "currentMedianDaysHeld": 55.3,
     "currentLongestDaysHeld": 991.8
   },
   "bond": {
     "withBond": 114,
-    "noBond": 52,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19011850

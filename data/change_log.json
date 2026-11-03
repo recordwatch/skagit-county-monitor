@@ -1,5 +1,53 @@
 [
   {
+    "id": "686437-20261103123500",
+    "nameNumber": "686437",
+    "name": "BROWN, EDMUND THEODORE",
+    "bookedAt": "2026-11-03T12:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T13:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "284998-20261103123500",
+    "nameNumber": "284998",
+    "name": "DAY, NICOLE ELSIE",
+    "bookedAt": "2026-11-03T12:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T13:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "90605-20261103044500",
     "nameNumber": "90605",
     "name": "STONE, JORDAN LYLE",
@@ -924,7 +972,7 @@
     "name": "AYALA-CEDILLO, JORDY",
     "bookedAt": "2026-11-01T01:40:00",
     "scheduledRelease": "2027-01-20T01:40:00",
-    "location": "P201",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -2924,7 +2972,7 @@
     "name": "DECATOR, DON SCOTT",
     "bookedAt": "2026-10-28T20:15:00",
     "scheduledRelease": "2027-06-05T20:15:00",
-    "location": "P104",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -20086,7 +20134,7 @@
     "name": "PFEIFER, NICHOLAS DANIEL",
     "bookedAt": "2026-09-05T00:25:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "Q205",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
