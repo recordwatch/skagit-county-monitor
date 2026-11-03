@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:53:42",
+  "generatedAt": "2026-11-03T07:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 482,
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 414,
-      "pct": 39.7
+      "pct": 39.6
     },
     {
       "name": "Sentence Complete Release",
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 61,
-      "pct": 5.8
+      "count": 62,
+      "pct": 5.9
     },
     {
       "name": "Amended",

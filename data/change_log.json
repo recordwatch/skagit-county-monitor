@@ -21001,7 +21001,7 @@
         "courtReference": "24-1-05013-28",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "SAN JUAN COUNTY SHERIFF"
       }
