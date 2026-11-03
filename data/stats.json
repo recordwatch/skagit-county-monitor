@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:11:15",
+  "generatedAt": "2026-11-02T21:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 479,
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 77,
-      "pct": 16.1
+      "count": 76,
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -433,8 +433,8 @@
     },
     {
       "name": "DUI WARRANT ARREST",
-      "count": 8,
-      "pct": 1.7
+      "count": 9,
+      "pct": 1.9
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -638,8 +638,8 @@
         "count": 20
       }
     ],
-    "currentMedianDaysHeld": 57,
-    "currentLongestDaysHeld": 991.1
+    "currentMedianDaysHeld": 57.1,
+    "currentLongestDaysHeld": 991.2
   },
   "bond": {
     "withBond": 115,

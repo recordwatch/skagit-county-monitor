@@ -68,11 +68,11 @@
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-02T14:39:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -87,7 +87,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
@@ -99,7 +99,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
