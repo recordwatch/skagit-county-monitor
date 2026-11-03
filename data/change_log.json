@@ -6,17 +6,66 @@
     "bookedAt": "2026-11-03T12:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-03T12:35:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 40000,
+    "charges": [
+      {
+        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
+        "offenseDate": "2026-09-07T00:00:00",
+        "incident": "26-M13565",
+        "court": "SC",
+        "courtReference": "26-1-00509-29",
+        "bailAmount": 40000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-09-07T00:00:00",
+        "incident": "26-M13565",
+        "court": "SC",
+        "courtReference": "26-1-00509-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "INTERFERE W/REPORT DOM VIOL-DV",
+        "offenseDate": "2026-09-07T00:00:00",
+        "incident": "26-M13565",
+        "court": "SC",
+        "courtReference": "26-1-00509-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "UNLAWFUL IMPRISONMENT DVPA",
+        "offenseDate": "2026-09-07T00:00:00",
+        "incident": "26-M13565",
+        "court": "SC",
+        "courtReference": "26-1-00509-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T13:11:19",
     "releasedAt": null,
@@ -3570,7 +3619,7 @@
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "P205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -22855,7 +22904,7 @@
     "name": "SEDANO, ESTEBAN",
     "bookedAt": "2026-08-10T14:35:00",
     "scheduledRelease": "2026-12-08T14:35:00",
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "P205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
