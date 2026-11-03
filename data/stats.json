@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:11:17",
+  "generatedAt": "2026-11-02T19:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 478,
@@ -198,8 +198,8 @@
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 38,
-      "pct": 2.2
+      "count": 39,
+      "pct": 2.3
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 596,
+      "count": 592,
       "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.8
+      "pct": 3.9
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 991.1
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 61,
+    "withBond": 114,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19004850
+    "totalBond": 18999850
   },
   "chargesPerBooking": 3.6
 }
