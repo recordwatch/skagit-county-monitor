@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:11:19",
+  "generatedAt": "2026-11-03T08:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 482,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 119,
-      "pct": 24.7,
+      "count": 118,
+      "pct": 24.5,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 101,
-      "pct": 21,
+      "count": 102,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 62,
-      "pct": 5.9
+      "count": 69,
+      "pct": 6.6
     },
     {
       "name": "Amended",
@@ -499,11 +499,6 @@
       "pct": 4.3
     },
     {
-      "name": "Pending Transport",
-      "count": 16,
-      "pct": 1.5
-    },
-    {
       "name": "Shuttle Release",
       "count": 14,
       "pct": 1.3
@@ -512,6 +507,11 @@
       "name": "Sanction Release",
       "count": 11,
       "pct": 1.1
+    },
+    {
+      "name": "Pending Transport",
+      "count": 10,
+      "pct": 1
     },
     {
       "name": "Superior Court Summon Release",
@@ -638,7 +638,7 @@
         "count": 20
       }
     ],
-    "currentMedianDaysHeld": 55,
+    "currentMedianDaysHeld": 55.1,
     "currentLongestDaysHeld": 991.6
   },
   "bond": {

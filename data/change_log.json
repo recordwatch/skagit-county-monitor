@@ -356,7 +356,7 @@
         "courtReference": "DOC 25-1-00383-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -24780,7 +24780,7 @@
         "courtReference": "26-1-00364-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -24792,7 +24792,7 @@
         "courtReference": "26-1-00364-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -24804,7 +24804,7 @@
         "courtReference": "26-1-00364-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -26919,7 +26919,7 @@
         "courtReference": "26-1-00329-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -26931,7 +26931,7 @@
         "courtReference": "26-1-00329-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -30548,13 +30548,13 @@
     "bookedAt": "2025-12-05T08:30:00",
     "scheduledRelease": null,
     "location": "K110",
-    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2025-12-05T08:10:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
@@ -30569,7 +30569,7 @@
         "bailType": null,
         "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "MANSLAUGHTER 2",
@@ -30579,9 +30579,9 @@
         "courtReference": "24-1-00692-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
