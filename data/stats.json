@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T06:11:23",
+  "generatedAt": "2026-11-03T06:53:42",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 481,
-    "bookingsObserved": 278,
-    "releasesObserved": 303,
+    "bookingsTracked": 482,
+    "bookingsObserved": 279,
+    "releasesObserved": 304,
     "inCustody": 178,
-    "uniquePeople": 470
+    "uniquePeople": 471
   },
   "bookingsByDay": [
     {
@@ -151,8 +151,8 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 10,
-      "released": 19
+      "booked": 11,
+      "released": 20
     },
     {
       "date": "2026-11-03",
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 89,
+      "count": 90,
       "pct": 5.2
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 118,
-      "pct": 24.6,
+      "count": 119,
+      "pct": 24.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 43,
-      "pct": 9,
+      "pct": 8.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SKAGIT COUNTY JAIL",
       "count": 6,
-      "pct": 1.3,
+      "pct": 1.2,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 970,
-      "pct": 56.4,
+      "count": 973,
+      "pct": 56.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "OTHR",
       "count": 68,
-      "pct": 4,
+      "pct": 3.9,
       "label": "Other"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 107,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -393,18 +393,18 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 71,
-      "pct": 14.8
+      "count": 72,
+      "pct": 15
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 68,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 42,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "DUI CITATION ARREST",
@@ -439,7 +439,7 @@
     {
       "name": "SUPERIOR COURT SUMMONS",
       "count": 6,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "REVOCATION OF PR",
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 59,
-      "pct": 5.7
+      "count": 61,
+      "pct": 5.8
     },
     {
       "name": "Amended",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 18,
-      "pct": 1.7
+      "count": 16,
+      "pct": 1.5
     },
     {
       "name": "Shuttle Release",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 599,
+      "count": 601,
       "pct": 95.5
     },
     {
@@ -604,18 +604,18 @@
     }
   ],
   "releaseSources": {
-    "official": 281,
-    "observed": 22,
-    "reportOnly": 31
+    "official": 301,
+    "observed": 3,
+    "reportOnly": 32
   },
   "stay": {
-    "releasedCount": 301,
+    "releasedCount": 302,
     "medianDays": 2,
-    "meanDays": 52.7,
+    "meanDays": 52.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 95
+        "count": 96
       },
       {
         "label": "1–3 days",
@@ -646,7 +646,7 @@
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19013350
+    "totalBond": 19020350
   },
   "chargesPerBooking": 3.6
 }
