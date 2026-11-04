@@ -1,11 +1,48 @@
 [
   {
+    "id": "2554-20261103212500",
+    "nameNumber": "2554",
+    "name": "PETER, ROBERT WARREN II",
+    "bookedAt": "2026-11-03T21:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-03T21:44:45",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2025-07-31T00:00:00",
+        "incident": "26-M16283",
+        "court": "SC",
+        "courtReference": "25-1-00498-29",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T22:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "601589-20261103172500",
     "nameNumber": "601589",
     "name": "HARRIS, KELCY ANN",
     "bookedAt": "2026-11-03T17:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -42,7 +79,7 @@
     "name": "MUSTAIN, NICHOLAS ALEXANDER",
     "bookedAt": "2026-11-03T17:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -16033,7 +16070,7 @@
     "nameNumber": "459280",
     "name": "LARKIN, TYLER NICOLAS",
     "bookedAt": "2026-10-01T14:45:00",
-    "scheduledRelease": "2026-11-03T19:56:13",
+    "scheduledRelease": "2026-11-03T21:07:21",
     "location": "P108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -16044,7 +16081,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "RECKLESS ENDANGERMENT",
@@ -16076,9 +16113,9 @@
         "incident": "24-B00849",
         "court": "BMC",
         "courtReference": "4A0218871",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailAmount": 1250,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16088,9 +16125,9 @@
         "incident": "24-B07120",
         "court": "BMC",
         "courtReference": "4A0770792",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailAmount": 1250,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16101,8 +16138,8 @@
         "court": "BMC",
         "courtReference": "4A0770792",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16112,9 +16149,9 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailAmount": 1250,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16124,9 +16161,9 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailAmount": 1250,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16137,8 +16174,8 @@
         "court": "BMC",
         "courtReference": "6A0328734",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16148,9 +16185,9 @@
         "incident": "26-B07223",
         "court": "BMC",
         "courtReference": "6A0328736",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16161,8 +16198,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16173,8 +16210,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -16185,8 +16222,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
