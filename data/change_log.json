@@ -6,17 +6,30 @@
     "bookedAt": "2026-11-04T09:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-04T09:30:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-11-04T09:06:00",
+        "incident": "26-M16294",
+        "court": "MVMC",
+        "courtReference": "6A0433300",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T11:11:15",
     "releasedAt": null,
@@ -63,7 +76,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -71,8 +84,8 @@
         "incident": "26-W02053",
         "court": "SWMC",
         "courtReference": "6A0075466",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -84,19 +97,19 @@
         "court": "SWMC",
         "courtReference": "6A0075466",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
-        "description": "PROTECTION ORDER VIOLATION-DV",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-05-08T00:00:00",
         "incident": "26-W02053",
         "court": "SWMC",
         "courtReference": "6A0075466",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -114,7 +127,7 @@
     "name": "STROMBERG, CURRAN FRANCIS",
     "bookedAt": "2026-11-04T08:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -245,7 +258,7 @@
         "courtReference": "T00901576",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -299,10 +312,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T23:52:07",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T12:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -397,10 +410,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T12:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
