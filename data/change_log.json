@@ -1,5 +1,116 @@
 [
   {
+    "id": "424397-20261104024500",
+    "nameNumber": "424397",
+    "name": "CRANDALL, WILLIAM KIRK",
+    "bookedAt": "2026-11-04T02:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-03T23:06:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-03T22:48:00",
+        "incident": "26-B08036",
+        "court": "BMC",
+        "courtReference": "6A0437777",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T04:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "96699-20261104023500",
+    "nameNumber": "96699",
+    "name": "JACK, DAVID JOSEPH JR",
+    "bookedAt": "2026-11-04T02:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T02:02:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "FAIL TO COMPLY",
+        "offenseDate": "2025-01-10T00:00:00",
+        "incident": "26-SP1734",
+        "court": "TC",
+        "courtReference": "SWI-AW-03/26-2331",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T04:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "743310-20261104020500",
+    "nameNumber": "743310",
+    "name": "ESPINOSA-ROSAS, ERICK OSCIEL",
+    "bookedAt": "2026-11-04T02:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T00:55:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DRIVER UNDR 21-CONSUMING ALCOH",
+        "offenseDate": "2026-11-04T00:39:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00901576",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T04:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "200306-20261103222500",
     "nameNumber": "200306",
     "name": "MURRAY, JONATHAN ELIAS LINVOG",

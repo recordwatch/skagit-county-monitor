@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T03:11:17",
+  "generatedAt": "2026-11-04T04:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 489,
-    "bookingsObserved": 286,
+    "bookingsTracked": 492,
+    "bookingsObserved": 289,
     "releasesObserved": 320,
-    "inCustody": 169,
-    "uniquePeople": 477
+    "inCustody": 172,
+    "uniquePeople": 480
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 0,
+      "booked": 3,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 115,
+      "count": 116,
       "pct": 6.6
     },
     {
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 124,
-      "pct": 25.4,
+      "pct": 25.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 102,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 65,
-      "pct": 13.3,
+      "count": 66,
+      "pct": 13.4,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 63,
-      "pct": 12.9,
+      "count": 64,
+      "pct": 13,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 39,
-      "pct": 8,
+      "pct": 7.9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 16,
-      "pct": 3.3,
+      "count": 17,
+      "pct": 3.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SC",
       "count": 988,
-      "pct": 56.6,
+      "pct": 56.5,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 239,
+      "count": 240,
       "pct": 13.7,
       "label": "Skagit County District Court"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 145,
-      "pct": 8.3,
+      "count": 146,
+      "pct": 8.4,
       "label": "Burlington Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "OTHR",
       "count": 69,
-      "pct": 4,
+      "pct": 3.9,
       "label": "Other"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "TC",
-      "count": 10,
+      "count": 11,
       "pct": 0.6,
       "label": "TC"
     },
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 107,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 76,
-      "pct": 15.6
+      "count": 77,
+      "pct": 15.7
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 75,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -407,14 +407,14 @@
       "pct": 8.6
     },
     {
+      "name": "DUI CITATION ARREST",
+      "count": 28,
+      "pct": 5.7
+    },
+    {
       "name": "FELONY COMMITMENT ARREST",
       "count": 27,
       "pct": 5.5
-    },
-    {
-      "name": "DUI CITATION ARREST",
-      "count": 26,
-      "pct": 5.3
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 599,
+      "count": 600,
       "pct": 95.5
     },
     {
@@ -638,15 +638,15 @@
         "count": 24
       }
     ],
-    "currentMedianDaysHeld": 55.1,
-    "currentLongestDaysHeld": 992.4
+    "currentMedianDaysHeld": 54.8,
+    "currentLongestDaysHeld": 992.5
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 55,
+    "withBond": 115,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19071850
+    "totalBond": 19072350
   },
   "chargesPerBooking": 3.6
 }
