@@ -1,5 +1,53 @@
 [
   {
+    "id": "162438-20261104134000",
+    "nameNumber": "162438",
+    "name": "SIGURDSON, CHRISTOPHER SCOTT",
+    "bookedAt": "2026-11-04T13:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T15:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "626297-20261104131500",
+    "nameNumber": "626297",
+    "name": "AIVLES, ADRIANA ARACELI",
+    "bookedAt": "2026-11-04T13:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T13:00:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T15:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "742235-20261104093500",
     "nameNumber": "742235",
     "name": "EMMEL, JOSHUA ALAN",
@@ -1083,7 +1131,7 @@
     "name": "PACKARD, LHASA CAROL",
     "bookedAt": "2026-11-02T11:00:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1866,7 +1914,7 @@
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
     "scheduledRelease": null,
-    "location": "J208",
+    "location": "P201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -3231,7 +3279,7 @@
     "name": "WHITAKER, ALEX JAMES",
     "bookedAt": "2026-10-29T09:15:00",
     "scheduledRelease": null,
-    "location": "P206",
+    "location": "P204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -20818,7 +20866,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 12000,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -20826,9 +20874,9 @@
         "incident": "26-W04306",
         "court": "SWMC",
         "courtReference": "6A0404420",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20839,8 +20887,8 @@
         "court": "SWMC",
         "courtReference": "6A0404420",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20862,9 +20910,9 @@
         "incident": "26-05686",
         "court": "DC",
         "courtReference": "6A0300136",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20875,8 +20923,8 @@
         "court": "DC",
         "courtReference": "6A0300136",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20886,9 +20934,9 @@
         "incident": "26-W00475",
         "court": "SWMC",
         "courtReference": "6A0153262",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20899,8 +20947,8 @@
         "court": "SWMC",
         "courtReference": "6A0153262",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20936,7 +20984,7 @@
         "courtReference": "WHATCOM 5A0033662",
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -20948,7 +20996,7 @@
         "courtReference": "WHATCON T00114939",
         "bailAmount": 3500,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -28955,10 +29003,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T15:11:17",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
