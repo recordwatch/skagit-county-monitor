@@ -5,7 +5,7 @@
     "name": "CRANDALL, WILLIAM KIRK",
     "bookedAt": "2026-11-04T02:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -42,13 +42,13 @@
     "name": "JACK, DAVID JOSEPH JR",
     "bookedAt": "2026-11-04T02:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
         "arrestDate": "2026-11-04T02:02:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "OTHER COUNTY HOLDS",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
@@ -61,9 +61,9 @@
         "court": "TC",
         "courtReference": "SWI-AW-03/26-2331",
         "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "Cash Only",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "OTHER COUNTY HOLDS",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
@@ -79,7 +79,7 @@
     "name": "ESPINOSA-ROSAS, ERICK OSCIEL",
     "bookedAt": "2026-11-04T02:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
