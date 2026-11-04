@@ -1,11 +1,108 @@
 [
   {
+    "id": "437070-20261103125000",
+    "nameNumber": "437070",
+    "name": "NIELSON, HEATHER ANN",
+    "bookedAt": "2026-11-03T12:50:00",
+    "scheduledRelease": "2027-01-01T14:50:00",
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-03T12:50:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT OF CHILD 3RD DEGREE",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT OF CHILD 3RD DEGREE",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-03-12T00:00:00",
+        "incident": "26-M03484",
+        "court": "SC",
+        "courtReference": "26-1-00214-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T16:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "686437-20261103123500",
     "nameNumber": "686437",
     "name": "BROWN, EDMUND THEODORE",
     "bookedAt": "2026-11-03T12:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -161,7 +258,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 7500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -169,9 +266,9 @@
         "incident": "26-B08011",
         "court": "BMC",
         "courtReference": "6A0419658",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -182,8 +279,8 @@
         "court": "BMC",
         "courtReference": "6A0419658",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -194,8 +291,8 @@
         "court": "BMC",
         "courtReference": "6A0419658",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -205,9 +302,9 @@
         "incident": "26-M05746",
         "court": "SC",
         "courtReference": "26-1-00435-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -218,8 +315,8 @@
         "court": "SC",
         "courtReference": "26-1-00435-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -307,7 +404,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -327,9 +424,9 @@
         "incident": "24-05711",
         "court": "SC",
         "courtReference": "24-1-00367-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -19294,7 +19391,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 100000,
+    "bondTotal": 105000,
     "charges": [
       {
         "description": "BURGLARY 1ST DEGREE",
@@ -19353,6 +19450,18 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Own Recognizance Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
+        "offenseDate": "2026-06-10T00:00:00",
+        "incident": "26-06639",
+        "court": "SC",
+        "courtReference": "26-1-00586-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
