@@ -223,7 +223,7 @@
   {
     "id": "601589-20261103172500",
     "nameNumber": "601589",
-    "name": "HARRIS, KELCY ANN",
+    "name": "DODD, KELCY ANN",
     "bookedAt": "2026-11-03T17:25:00",
     "scheduledRelease": null,
     "location": "R210",
@@ -288,10 +288,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T19:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T09:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -495,7 +495,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2025-01-06T00:00:00",
         "incident": "25-M00315",
         "court": "SC",
@@ -23430,7 +23430,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -25829,7 +25829,7 @@
     "nameNumber": "357096",
     "name": "BLUMANTHAL, EMILY ROSE",
     "bookedAt": "2026-07-09T08:15:00",
-    "scheduledRelease": "2026-11-06T22:30:00",
+    "scheduledRelease": "2026-11-11T22:30:00",
     "location": "R202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -28778,7 +28778,7 @@
         "courtReference": "5A0899619",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
