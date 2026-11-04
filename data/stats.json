@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T13:11:15",
+  "generatedAt": "2026-11-04T14:03:56",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 496,
     "bookingsObserved": 293,
-    "releasesObserved": 326,
-    "inCustody": 170,
+    "releasesObserved": 327,
+    "inCustody": 169,
     "uniquePeople": 484
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-04",
       "booked": 7,
-      "released": 6
+      "released": 7
     }
   ],
   "topCharges": [
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 11,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 10,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "K",
       "count": 14,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "N",
-      "count": 13,
-      "pct": 8.3
+      "count": 15,
+      "pct": 9.5
     },
     {
       "name": "P",
       "count": 24,
-      "pct": 15.4
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18.6
+      "pct": 18.4
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 14.7
+      "pct": 14.6
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 317,
-    "observed": 9,
+    "observed": 10,
     "reportOnly": 32
   },
   "stay": {
-    "releasedCount": 324,
+    "releasedCount": 325,
     "medianDays": 2,
-    "meanDays": 51.5,
+    "meanDays": 51.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 107
+        "count": 108
       },
       {
         "label": "1–3 days",
@@ -638,15 +638,15 @@
         "count": 24
       }
     ],
-    "currentMedianDaysHeld": 55.4,
-    "currentLongestDaysHeld": 992.8
+    "currentMedianDaysHeld": 55.6,
+    "currentLongestDaysHeld": 992.9
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 116,
     "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19086850
+    "totalBond": 19081850
   },
   "chargesPerBooking": 3.5
 }
