@@ -321,10 +321,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T06:11:23",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T17:06:05",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -443,10 +443,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T20:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-03T17:06:05",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2091,7 +2091,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -2123,9 +2123,9 @@
         "incident": "24-B01123",
         "court": "BMC",
         "courtReference": "4A096523",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
