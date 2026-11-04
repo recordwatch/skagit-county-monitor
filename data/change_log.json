@@ -64,7 +64,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": 21000,
     "charges": [
       {
         "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
@@ -85,6 +85,18 @@
         "court": "SC",
         "courtReference": "25-1-00498-29",
         "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-03T21:12:00",
+        "incident": "26-M16283",
+        "court": "MVMC",
+        "courtReference": "6A0435095",
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",

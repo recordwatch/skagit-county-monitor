@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:11:16",
+  "generatedAt": "2026-11-04T03:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 489,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 107,
-      "pct": 6.1
+      "count": 108,
+      "pct": 6.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -194,7 +194,7 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 988,
-      "pct": 56.7,
+      "pct": 56.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 179,
+      "count": 180,
       "pct": 10.3,
       "label": "Mount Vernon Municipal Court"
     },
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 598,
+      "count": 599,
       "pct": 95.5
     },
     {
@@ -646,7 +646,7 @@
     "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19070850
+    "totalBond": 19071850
   },
   "chargesPerBooking": 3.6
 }
