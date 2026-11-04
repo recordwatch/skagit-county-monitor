@@ -1,5 +1,90 @@
 [
   {
+    "id": "581560-20261104085000",
+    "nameNumber": "581560",
+    "name": "KEY, DALLAS GRAHAM",
+    "bookedAt": "2026-11-04T08:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T08:50:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T10:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "346027-20261104085000",
+    "nameNumber": "346027",
+    "name": "WARRICK, MARTIN ALAN",
+    "bookedAt": "2026-11-04T08:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T10:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "80045-20261104084500",
+    "nameNumber": "80045",
+    "name": "STROMBERG, CURRAN FRANCIS",
+    "bookedAt": "2026-11-04T08:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T08:08:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION DISTANCE-DV",
+        "offenseDate": "2025-10-16T00:00:00",
+        "incident": "25-A06783",
+        "court": "AMC",
+        "courtReference": "5A0665077",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T10:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "424397-20261104024500",
     "nameNumber": "424397",
     "name": "CRANDALL, WILLIAM KIRK",
@@ -30,10 +115,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T04:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T10:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
