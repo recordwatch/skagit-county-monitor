@@ -53,7 +53,7 @@
     "name": "TORIBIO-TELLEZ, DANIEL",
     "bookedAt": "2026-11-04T14:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -201,16 +201,29 @@
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
-    "arrestType": "FELONY WARRANT ARREST",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
         "arrestDate": "2026-11-04T13:00:00",
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "SC",
+        "courtReference": "25-1-00555-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T15:11:17",
     "releasedAt": null,
@@ -457,10 +470,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T04:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T18:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
