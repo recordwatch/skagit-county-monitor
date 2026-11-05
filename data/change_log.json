@@ -22372,7 +22372,7 @@
         "courtReference": "8Z0981828",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Serving Commit",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -29762,10 +29762,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T15:46:38",
+    "releaseSource": "observed",
     "baseline": true
   },
   {

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T15:11:19",
+  "generatedAt": "2026-11-05T15:46:38",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 513,
     "bookingsObserved": 310,
-    "releasesObserved": 342,
-    "inCustody": 171,
+    "releasesObserved": 343,
+    "inCustody": 170,
     "uniquePeople": 498
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-05",
       "booked": 8,
-      "released": 11
+      "released": 12
     }
   ],
   "topCharges": [
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 447,
-      "pct": 40.9
+      "count": 446,
+      "pct": 40.8
     },
     {
       "name": "Sentence Complete Release",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 109,
-      "pct": 10
+      "count": 110,
+      "pct": 10.1
     },
     {
       "name": "Dismissed",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 12,
-      "pct": 7.5
+      "count": 11,
+      "pct": 7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,27 +543,27 @@
     {
       "name": "J",
       "count": 8,
-      "pct": 5
+      "pct": 5.1
     },
     {
       "name": "K",
       "count": 15,
-      "pct": 9.4
+      "pct": 9.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5
+      "pct": 5.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.1
+      "pct": 3.2
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.6
     },
     {
       "name": "N",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 28,
-      "pct": 17.6
+      "pct": 17.7
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.6
+      "pct": 17.7
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 15.1
+      "pct": 15.2
     }
   ],
   "bailTypes": [
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 328,
-    "observed": 14,
+    "observed": 15,
     "reportOnly": 33
   },
   "stay": {
-    "releasedCount": 340,
+    "releasedCount": 341,
     "medianDays": 2,
-    "meanDays": 50.8,
+    "meanDays": 51.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -635,15 +635,15 @@
       },
       {
         "label": "3+ months",
-        "count": 27
+        "count": 28
       }
     ],
-    "currentMedianDaysHeld": 54.5,
-    "currentLongestDaysHeld": 993.9
+    "currentMedianDaysHeld": 53.7,
+    "currentLongestDaysHeld": 994
   },
   "bond": {
     "withBond": 117,
-    "noBond": 54,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19121050
