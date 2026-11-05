@@ -154,7 +154,7 @@
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
         "offenseDate": "2026-05-26T00:00:00",
-        "incident": null,
+        "incident": "26-A02941",
         "court": "DC",
         "courtReference": "PA0009459",
         "bailAmount": 10000,
@@ -166,7 +166,7 @@
       {
         "description": "HARASSMENT-DV",
         "offenseDate": "2026-05-26T00:00:00",
-        "incident": null,
+        "incident": "26-A02941",
         "court": "DC",
         "courtReference": "PA0009459",
         "bailAmount": null,
@@ -178,7 +178,7 @@
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
         "offenseDate": "2026-05-26T00:00:00",
-        "incident": null,
+        "incident": "26-A02941",
         "court": "DC",
         "courtReference": "PA0009459",
         "bailAmount": null,
@@ -438,7 +438,7 @@
         "offenseDate": "2026-11-04T14:25:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "4Z0998841",
+        "courtReference": "WHATCOM 4Z0998841",
         "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -450,7 +450,7 @@
         "offenseDate": "2026-11-04T14:25:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "7Z0373307",
+        "courtReference": "WHATCOM 7Z0373307",
         "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -629,10 +629,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T15:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -30438,10 +30438,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T10:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
