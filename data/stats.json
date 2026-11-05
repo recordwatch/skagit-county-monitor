@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T14:11:13",
+  "generatedAt": "2026-11-05T15:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 513,
     "bookingsObserved": 310,
-    "releasesObserved": 341,
-    "inCustody": 172,
+    "releasesObserved": 342,
+    "inCustody": 171,
     "uniquePeople": 498
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-05",
       "booked": 8,
-      "released": 10
+      "released": 11
     }
   ],
   "topCharges": [
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 4,
-      "pct": 2.5
+      "count": 3,
+      "pct": 1.9
     },
     {
       "name": "DORM 1 (E101)",
@@ -568,29 +568,29 @@
     {
       "name": "N",
       "count": 13,
-      "pct": 8.1
+      "pct": 8.2
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.5
+      "pct": 17.6
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.5
+      "pct": 17.6
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 15
+      "pct": 15.1
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 617,
-      "pct": 95.7
+      "count": 615,
+      "pct": 95.6
     },
     {
       "name": "SCRAM With Bail",
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 328,
-    "observed": 13,
+    "observed": 14,
     "reportOnly": 33
   },
   "stay": {
-    "releasedCount": 339,
-    "medianDays": 1.9,
-    "meanDays": 50.6,
+    "releasedCount": 340,
+    "medianDays": 2,
+    "meanDays": 50.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -635,18 +635,18 @@
       },
       {
         "label": "3+ months",
-        "count": 26
+        "count": 27
       }
     ],
-    "currentMedianDaysHeld": 54.7,
+    "currentMedianDaysHeld": 54.5,
     "currentLongestDaysHeld": 993.9
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 117,
     "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19131050
+    "totalBond": 19121050
   },
   "chargesPerBooking": 3.5
 }
