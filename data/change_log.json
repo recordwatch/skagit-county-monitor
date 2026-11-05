@@ -162,7 +162,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DRIVER UNDR 21-CONSUMING ALCOH",
@@ -172,7 +172,7 @@
         "courtReference": "T00795693",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -182,9 +182,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00795696",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -286,10 +286,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T20:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -347,10 +347,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T16:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
