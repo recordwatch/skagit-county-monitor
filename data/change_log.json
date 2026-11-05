@@ -578,7 +578,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 21000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
@@ -586,7 +586,7 @@
         "incident": "25-M12355",
         "court": "SC",
         "courtReference": "25-1-00498-29",
-        "bailAmount": 20000,
+        "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -610,9 +610,9 @@
         "incident": "26-M16283",
         "court": "MVMC",
         "courtReference": "6A0435095",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -21725,7 +21725,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 11500,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "DUI",
@@ -21769,9 +21769,9 @@
         "incident": "26-M01504",
         "court": "SC",
         "courtReference": "26-1-00304-29",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }

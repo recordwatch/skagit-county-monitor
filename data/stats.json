@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:40:55",
+  "generatedAt": "2026-11-04T19:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 502,
@@ -460,12 +460,12 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 440,
+      "count": 441,
       "pct": 40.7
     },
     {
       "name": "Sentence Complete Release",
-      "count": 124,
+      "count": 125,
       "pct": 11.5
     },
     {
@@ -486,7 +486,7 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 71,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "Amended",
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 603,
-      "pct": 95.6
+      "count": 601,
+      "pct": 95.5
     },
     {
       "name": "SCRAM With Bail",
@@ -646,7 +646,7 @@
     "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19096850
+    "totalBond": 19084350
   },
   "chargesPerBooking": 3.5
 }
