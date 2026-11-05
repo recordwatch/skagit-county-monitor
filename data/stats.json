@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T10:14:40",
+  "generatedAt": "2026-11-05T11:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 507,
-    "bookingsObserved": 304,
+    "bookingsTracked": 510,
+    "bookingsObserved": 307,
     "releasesObserved": 333,
-    "inCustody": 174,
-    "uniquePeople": 494
+    "inCustody": 177,
+    "uniquePeople": 496
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 2,
+      "booked": 5,
       "released": 2
     }
   ],
@@ -214,7 +214,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 125,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 64,
-      "pct": 12.6,
+      "count": 65,
+      "pct": 12.8,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 17,
-      "pct": 3.4,
+      "pct": 3.3,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 16,
-      "pct": 3.2,
+      "pct": 3.1,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 989,
+      "count": 990,
       "pct": 55.5,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 256,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Skagit County District Court"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "BMC",
-      "count": 146,
+      "count": 147,
       "pct": 8.2,
       "label": "Burlington Municipal Court"
     },
@@ -389,12 +389,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 82,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 75,
-      "pct": 14.8
+      "count": 76,
+      "pct": 15
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 42,
-      "pct": 8.3
+      "count": 43,
+      "pct": 8.5
     },
     {
       "name": "DUI CITATION ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 20,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 443,
-      "pct": 40.8
+      "pct": 40.7
     },
     {
       "name": "Sentence Complete Release",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 107,
-      "pct": 9.8
+      "count": 108,
+      "pct": 9.9
     },
     {
       "name": "Dismissed",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 10,
-      "pct": 6.1
+      "count": 11,
+      "pct": 6.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,48 +548,48 @@
     {
       "name": "K",
       "count": 14,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 11
+      "count": 19,
+      "pct": 11.5
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.6
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 14.7
+      "pct": 14.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 618,
+      "count": 619,
       "pct": 95.7
     },
     {
@@ -638,15 +638,15 @@
         "count": 26
       }
     ],
-    "currentMedianDaysHeld": 54.6,
-    "currentLongestDaysHeld": 993.7
+    "currentMedianDaysHeld": 52.6,
+    "currentLongestDaysHeld": 993.8
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 52,
+    "withBond": 123,
+    "noBond": 54,
     "medianBond": 40000,
     "maxBond": 1350000,
-    "totalBond": 19175550
+    "totalBond": 19185550
   },
   "chargesPerBooking": 3.5
 }

@@ -1,11 +1,109 @@
 [
   {
+    "id": "703022-20261105104946",
+    "nameNumber": "703022",
+    "name": "CASTRO-PERALES, DIEGO",
+    "bookedAt": "2026-11-05T10:49:46",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T11:11:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "346446-20261105100000",
+    "nameNumber": "346446",
+    "name": "DELAFUENTE, GRACIE MARIE",
+    "bookedAt": "2026-11-05T10:00:00",
+    "scheduledRelease": "2026-11-10T10:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "BURLINGTON MUNICIPAL COURT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T10:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "BURLINGTON MUNICIPAL COURT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "IGNITION INTERLOCK DR LIC VIOL",
+        "offenseDate": "2026-06-12T00:00:00",
+        "incident": "26-B04277",
+        "court": "BMC",
+        "courtReference": "6A0310357",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "BURLINGTON MUNICIPAL COURT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T11:11:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "600841-20261105091500",
+    "nameNumber": "600841",
+    "name": "ABRAHAMSE, TYLER GREGORY",
+    "bookedAt": "2026-11-05T09:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T08:43:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "THEFT 2ND DEGREE",
+        "offenseDate": "2026-01-11T00:00:00",
+        "incident": "26-B00290",
+        "court": "SC",
+        "courtReference": "26-1-00125-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T11:11:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "619047-20261105072000",
     "nameNumber": "619047",
     "name": "SANTOS-RAMIREZ, SERGIO",
     "bookedAt": "2026-11-05T07:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
