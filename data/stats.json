@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:11:16",
+  "generatedAt": "2026-11-05T05:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 505,
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "K",
       "count": 14,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "M",
@@ -558,12 +558,12 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 25,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "R",
-      "count": 23,
-      "pct": 14.1
+      "count": 24,
+      "pct": 14.6
     }
   ],
   "bailTypes": [
@@ -638,7 +638,7 @@
         "count": 25
       }
     ],
-    "currentMedianDaysHeld": 54.6,
+    "currentMedianDaysHeld": 54.7,
     "currentLongestDaysHeld": 993.5
   },
   "bond": {
