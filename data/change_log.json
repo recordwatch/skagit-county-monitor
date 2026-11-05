@@ -1,5 +1,54 @@
 [
   {
+    "id": "619047-20261105072000",
+    "nameNumber": "619047",
+    "name": "SANTOS-RAMIREZ, SERGIO",
+    "bookedAt": "2026-11-05T07:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T07:00:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2022-12-16T00:00:00",
+        "incident": "22-17350",
+        "court": "DC",
+        "courtReference": "2A0096460",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-04-30T00:00:00",
+        "incident": "25-W01984",
+        "court": "SWMC",
+        "courtReference": "5A0034751",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T09:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "619118-20261105020000",
     "nameNumber": "619118",
     "name": "LEACH, JORDAN R",
@@ -555,7 +604,7 @@
     "name": "AIVLES, ADRIANA ARACELI",
     "bookedAt": "2026-11-04T13:15:00",
     "scheduledRelease": null,
-    "location": "J206",
+    "location": null,
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
