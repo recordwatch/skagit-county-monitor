@@ -1,5 +1,29 @@
 [
   {
+    "id": "33488-20261105120500",
+    "nameNumber": "33488",
+    "name": "ORCUTT, JAMES ARNOLD",
+    "bookedAt": "2026-11-05T12:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T12:05:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T13:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "703022-20261105104946",
     "nameNumber": "703022",
     "name": "CASTRO-PERALES, DIEGO",
@@ -17,10 +41,10 @@
     ],
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T11:11:21",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T13:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -56,6 +80,43 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T11:11:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "703022-20261105092500",
+    "nameNumber": "703022",
+    "name": "CASTRO-PERALES, DIEGO",
+    "bookedAt": "2026-11-05T09:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T09:15:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 26-1-00419-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T13:11:17",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -457,10 +518,10 @@
         "agency": "WHATCOM COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T20:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T13:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -759,7 +820,7 @@
         "courtReference": "6A0433300",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -884,7 +945,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE-DV",
@@ -892,9 +953,9 @@
         "incident": "25-A06783",
         "court": "AMC",
         "courtReference": "5A0665077",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -1206,7 +1267,7 @@
     "name": "NIELSON, HEATHER ANN",
     "bookedAt": "2026-11-03T12:50:00",
     "scheduledRelease": "2027-01-01T14:50:00",
-    "location": "J105",
+    "location": "R103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -21675,10 +21736,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T13:11:17",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
