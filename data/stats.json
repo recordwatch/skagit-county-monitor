@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T22:11:15",
+  "generatedAt": "2026-11-04T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 504,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 71,
-      "pct": 4
+      "count": 73,
+      "pct": 4.1
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -219,7 +219,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 31,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 989,
-      "pct": 55.9,
+      "pct": 55.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -350,16 +350,16 @@
       "label": "Burlington Municipal Court"
     },
     {
+      "name": "OTHR",
+      "count": 74,
+      "pct": 4.2,
+      "label": "Other"
+    },
+    {
       "name": "AMC",
       "count": 73,
       "pct": 4.1,
       "label": "Anacortes Municipal Court"
-    },
-    {
-      "name": "OTHR",
-      "count": 72,
-      "pct": 4.1,
-      "label": "Other"
     },
     {
       "name": "SWMC",
@@ -567,29 +567,29 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 10.1
+      "count": 17,
+      "pct": 10.6
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 607,
+      "count": 609,
       "pct": 95.6
     },
     {
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 54.7,
-    "currentLongestDaysHeld": 993.2
+    "currentLongestDaysHeld": 993.3
   },
   "bond": {
     "withBond": 120,
     "noBond": 54,
     "medianBond": 45000,
     "maxBond": 1350000,
-    "totalBond": 19131050
+    "totalBond": 19161050
   },
   "chargesPerBooking": 3.5
 }
