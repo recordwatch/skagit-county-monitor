@@ -1,5 +1,29 @@
 [
   {
+    "id": "443666-20261104191500",
+    "nameNumber": "443666",
+    "name": "COYLE, RICHARD THOMAS",
+    "bookedAt": "2026-11-04T19:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T20:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "538028-20261104151000",
     "nameNumber": "538028",
     "name": "GREEN, ADRIAN PAUL",
@@ -43,6 +67,30 @@
     "charges": [],
     "status": "in_custody",
     "firstSeen": "2026-11-04T16:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "743353-20261104145500",
+    "nameNumber": "743353",
+    "name": "MILLER, PATRICK ADAM",
+    "bookedAt": "2026-11-04T14:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T20:11:16",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -199,7 +247,7 @@
     "name": "AIVLES, ADRIANA ARACELI",
     "bookedAt": "2026-11-04T13:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J206",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -213,10 +261,10 @@
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
-        "offenseDate": null,
+        "offenseDate": "2026-11-04T13:00:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "25-1-00555-29",
+        "courtReference": "DOC 25-1-00555-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -883,7 +931,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS CONT SUBS BY PRISONER",
@@ -915,9 +963,9 @@
         "incident": "24-M15566",
         "court": "MVMC",
         "courtReference": "4A0668763",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -927,9 +975,9 @@
         "incident": "24-M13088",
         "court": "MVMC",
         "courtReference": "4A0267624",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -16736,19 +16784,7 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
-      {
-        "description": "CRIM TRESPASS 1ST",
-        "offenseDate": "2026-08-14T00:00:00",
-        "incident": "26-B06089",
-        "court": "BMC",
-        "courtReference": "6A0328734",
-        "bailAmount": 1250,
+        "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",

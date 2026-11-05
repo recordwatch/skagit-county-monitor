@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T19:11:16",
+  "generatedAt": "2026-11-04T20:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 502,
-    "bookingsObserved": 299,
+    "bookingsTracked": 504,
+    "bookingsObserved": 301,
     "releasesObserved": 330,
-    "inCustody": 172,
-    "uniquePeople": 489
+    "inCustody": 174,
+    "uniquePeople": 491
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 13,
+      "booked": 15,
       "released": 10
     }
   ],
@@ -244,22 +244,22 @@
     {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
       "count": 22,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
       "count": 22,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
       "count": 22,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "DWLS/R 1ST DEGREE",
       "count": 22,
-      "pct": 1.2
+      "pct": 1.3
     }
   ],
   "topAgencies": [
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 146,
-      "pct": 8.3,
+      "count": 145,
+      "pct": 8.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 441,
-      "pct": 40.7
+      "count": 443,
+      "pct": 40.8
     },
     {
       "name": "Sentence Complete Release",
@@ -496,7 +496,7 @@
     {
       "name": "Bail Bond Release",
       "count": 45,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "Shuttle Release",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 9,
-      "pct": 5.8
+      "count": 10,
+      "pct": 6.4
     },
     {
       "name": "K",
       "count": 14,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "M",
@@ -563,33 +563,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "N",
       "count": 14,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 14.7
+      "pct": 14.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 601,
+      "count": 598,
       "pct": 95.5
     },
     {
@@ -638,15 +638,15 @@
         "count": 25
       }
     ],
-    "currentMedianDaysHeld": 55.1,
+    "currentMedianDaysHeld": 54.6,
     "currentLongestDaysHeld": 993.1
   },
   "bond": {
     "withBond": 117,
-    "noBond": 55,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19084350
+    "totalBond": 19079350
   },
   "chargesPerBooking": 3.5
 }
