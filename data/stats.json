@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T13:11:17",
+  "generatedAt": "2026-11-05T14:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 512,
-    "bookingsObserved": 309,
-    "releasesObserved": 338,
-    "inCustody": 174,
-    "uniquePeople": 497
+    "bookingsTracked": 513,
+    "bookingsObserved": 310,
+    "releasesObserved": 341,
+    "inCustody": 172,
+    "uniquePeople": 498
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 7,
-      "released": 7
+      "booked": 8,
+      "released": 10
     }
   ],
   "topCharges": [
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 92,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 62,
+      "count": 63,
       "pct": 3.5
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 109,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 45,
-      "pct": 8.8,
+      "count": 46,
+      "pct": 9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 990,
+      "count": 992,
       "pct": 55.4,
       "label": "Skagit County Superior Court"
     },
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 76,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "Other"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SWMC",
-      "count": 48,
+      "count": 49,
       "pct": 2.7,
       "label": "Sedro-Woolley Municipal Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 107,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 83,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 43,
-      "pct": 8.4
+      "count": 44,
+      "pct": 8.6
     },
     {
       "name": "DUI CITATION ARREST",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 108,
-      "pct": 9.9
+      "count": 109,
+      "pct": 10
     },
     {
       "name": "Dismissed",
@@ -528,12 +528,12 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 11,
-      "pct": 6.8
+      "count": 12,
+      "pct": 7.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -547,8 +547,8 @@
     },
     {
       "name": "K",
-      "count": 14,
-      "pct": 8.7
+      "count": 15,
+      "pct": 9.4
     },
     {
       "name": "M",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 11.2
+      "count": 13,
+      "pct": 8.1
     },
     {
       "name": "P",
-      "count": 25,
-      "pct": 15.5
+      "count": 28,
+      "pct": 17.5
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.4
+      "pct": 17.5
     },
     {
       "name": "R",
-      "count": 25,
-      "pct": 15.5
+      "count": 24,
+      "pct": 15
     }
   ],
   "bailTypes": [
@@ -605,21 +605,21 @@
   ],
   "releaseSources": {
     "official": 328,
-    "observed": 10,
+    "observed": 13,
     "reportOnly": 33
   },
   "stay": {
-    "releasedCount": 336,
-    "medianDays": 2,
-    "meanDays": 51.1,
+    "releasedCount": 339,
+    "medianDays": 1.9,
+    "meanDays": 50.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 115
+        "count": 116
       },
       {
         "label": "1–3 days",
-        "count": 83
+        "count": 85
       },
       {
         "label": "3–7 days",
@@ -638,12 +638,12 @@
         "count": 26
       }
     ],
-    "currentMedianDaysHeld": 53.5,
-    "currentLongestDaysHeld": 993.8
+    "currentMedianDaysHeld": 54.7,
+    "currentLongestDaysHeld": 993.9
   },
   "bond": {
     "withBond": 118,
-    "noBond": 56,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19131050

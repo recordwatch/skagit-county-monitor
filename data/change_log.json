@@ -1,5 +1,42 @@
 [
   {
+    "id": "408014-20261105130000",
+    "nameNumber": "408014",
+    "name": "KINKEL, SAMUEL JAMES",
+    "bookedAt": "2026-11-05T13:00:00",
+    "scheduledRelease": "2027-02-03T13:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T13:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-08-26T00:00:00",
+        "incident": "25-W04159",
+        "court": "SWMC",
+        "courtReference": "5A0687551",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T14:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "33488-20261105120500",
     "nameNumber": "33488",
     "name": "ORCUTT, JAMES ARNOLD",
@@ -89,7 +126,7 @@
     "nameNumber": "703022",
     "name": "CASTRO-PERALES, DIEGO",
     "bookedAt": "2026-11-05T09:25:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-22T17:25:00",
     "location": null,
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
@@ -113,6 +150,30 @@
         "disposition": null,
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
+      },
+      {
+        "description": "ASSAULT 3RD-CRIM NEG/SUB PAIN",
+        "offenseDate": "2026-07-28T00:00:00",
+        "incident": "26-B05580",
+        "court": "SC",
+        "courtReference": "26-1-00419-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      },
+      {
+        "description": "INTERFERE W/REPORT DOM VIOL-DV",
+        "offenseDate": "2026-07-26T00:00:00",
+        "incident": "26-B05580",
+        "court": "SC",
+        "courtReference": "26-1-00419-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "status": "in_custody",
@@ -127,7 +188,7 @@
     "name": "ABRAHAMSE, TYLER GREGORY",
     "bookedAt": "2026-11-05T09:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -250,10 +311,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T04:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T14:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -420,7 +481,7 @@
     "name": "WEIDE, BRADLEY TAYLOR",
     "bookedAt": "2026-11-04T14:55:00",
     "scheduledRelease": null,
-    "location": "N203",
+    "location": "P206",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -568,7 +629,7 @@
     "name": "TORIBIO-TELLEZ, DANIEL",
     "bookedAt": "2026-11-04T14:25:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": "P104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -825,10 +886,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T11:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T14:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -837,7 +898,7 @@
     "name": "KEY, DALLAS GRAHAM",
     "bookedAt": "2026-11-04T08:50:00",
     "scheduledRelease": null,
-    "location": "N206",
+    "location": "P206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -960,10 +1021,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T10:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T14:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1132,7 +1193,7 @@
     "name": "PETER, ROBERT WARREN II",
     "bookedAt": "2026-11-03T21:25:00",
     "scheduledRelease": null,
-    "location": "N107",
+    "location": "K110",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -15705,7 +15766,7 @@
     "name": "HARTLEY, JORDAN MATTHEW",
     "bookedAt": "2026-10-07T10:40:00",
     "scheduledRelease": null,
-    "location": "K202",
+    "location": "K106",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
