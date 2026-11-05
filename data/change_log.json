@@ -54,17 +54,66 @@
     "bookedAt": "2026-11-04T14:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-04T14:55:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 16000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2020-10-22T00:00:00",
+        "incident": "20-W06255",
+        "court": "SWMC",
+        "courtReference": "SC0072472",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2021-07-16T00:00:00",
+        "incident": "21-09976",
+        "court": "DC",
+        "courtReference": "1A0208770",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "offenseDate": "2023-05-16T00:00:00",
+        "incident": "23-M07396",
+        "court": "MVMC",
+        "courtReference": "3A0375585",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2023-03-05T00:00:00",
+        "incident": "23-B01535",
+        "court": "BMC",
+        "courtReference": "3A0150600",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T16:11:19",
     "releasedAt": null,
@@ -78,17 +127,30 @@
     "bookedAt": "2026-11-04T14:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WHATCOM COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-04T14:55:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "WHATCOM COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-04T14:55:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "3Z0482373",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "WHATCOM COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T20:11:16",
     "releasedAt": null,
@@ -139,17 +201,30 @@
     "bookedAt": "2026-11-04T14:25:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-04T14:25:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10100,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-04T14:25:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "24-000008",
+        "bailAmount": 10100,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SAN JUAN COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T17:11:16",
     "releasedAt": null,
@@ -172,7 +247,7 @@
         "agency": "SKAGIT COUNTY JAIL"
       }
     ],
-    "bondTotal": 17000,
+    "bondTotal": 17600,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -229,6 +304,18 @@
         "court": "AMC",
         "courtReference": "6A0290428",
         "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-04T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "6A0023832",
+        "bailAmount": 600,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
