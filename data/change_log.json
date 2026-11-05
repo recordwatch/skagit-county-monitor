@@ -5,18 +5,91 @@
     "name": "COYLE, RICHARD THOMAS",
     "bookedAt": "2026-11-04T19:15:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "location": "J209",
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-04T16:19:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 22000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-11-04T15:42:00",
+        "incident": "26-A06830",
+        "court": "AMC",
+        "courtReference": "6A0237029",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSS STOLEN PROPERTY 3RD",
+        "offenseDate": "2026-11-04T15:42:00",
+        "incident": "26-A06830",
+        "court": "AMC",
+        "courtReference": "6A0237029",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-05-25T00:00:00",
+        "incident": "26-A02905",
+        "court": "DC",
+        "courtReference": "PA0009458",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009459",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "HARASSMENT-DV",
+        "offenseDate": "2026-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009459",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-05-26T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009459",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T20:11:16",
     "releasedAt": null,
@@ -29,14 +102,14 @@
     "name": "GREEN, ADRIAN PAUL",
     "bookedAt": "2026-11-04T15:10:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "location": "J211",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-04T14:52:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": 25000,
@@ -51,7 +124,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "AIM/DISCHARGE FIREARMS",
@@ -63,7 +136,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "RECKLESS DRIVING",
@@ -75,7 +148,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -5197,7 +5270,7 @@
     "name": "LAWRENCE, CHASITY ANN",
     "bookedAt": "2026-10-26T09:00:00",
     "scheduledRelease": null,
-    "location": "R108",
+    "location": "R105",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
