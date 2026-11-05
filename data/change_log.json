@@ -1,5 +1,90 @@
 [
   {
+    "id": "538028-20261104151000",
+    "nameNumber": "538028",
+    "name": "GREEN, ADRIAN PAUL",
+    "bookedAt": "2026-11-04T15:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T14:52:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T16:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "88370-20261104145500",
+    "nameNumber": "88370",
+    "name": "WEIDE, BRADLEY TAYLOR",
+    "bookedAt": "2026-11-04T14:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T16:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "495919-20261104142500",
+    "nameNumber": "495919",
+    "name": "TORIBIO-TELLEZ, DANIEL",
+    "bookedAt": "2026-11-04T14:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-04T14:25:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2012-08-07T00:00:00",
+        "incident": "12-10287",
+        "court": "DC",
+        "courtReference": "2Z0647893",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T16:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "162438-20261104134000",
     "nameNumber": "162438",
     "name": "SIGURDSON, CHRISTOPHER SCOTT",
@@ -1180,10 +1265,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T12:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-04T16:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
