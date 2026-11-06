@@ -30,7 +30,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
-        "description": "ASSAULT 4TH DEGREE DV",
+        "description": "UNLAWFUL IMPRISONMENT DVPA",
         "offenseDate": "2026-11-06T04:45:00",
         "incident": "26-W05361",
         "court": "SC",
@@ -128,10 +128,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T20:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T08:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

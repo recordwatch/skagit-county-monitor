@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T07:11:18",
+  "generatedAt": "2026-11-06T08:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 520,
     "bookingsObserved": 317,
-    "releasesObserved": 347,
-    "inCustody": 173,
+    "releasesObserved": 348,
+    "inCustody": 172,
     "uniquePeople": 504
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-06",
       "booked": 1,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -188,7 +188,7 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 62,
+      "count": 61,
       "pct": 3.4
     },
     {
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 10,
-      "pct": 6.2
+      "count": 9,
+      "pct": 5.6
     },
     {
       "name": "K",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     },
     {
       "name": "N",
       "count": 17,
-      "pct": 10.5
+      "pct": 10.6
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.3
+      "pct": 17.4
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.7
+      "pct": 16.8
     },
     {
       "name": "R",
       "count": 22,
-      "pct": 13.6
+      "pct": 13.7
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 342,
-    "observed": 5,
+    "observed": 6,
     "reportOnly": 33
   },
   "stay": {
-    "releasedCount": 345,
+    "releasedCount": 346,
     "medianDays": 2,
-    "meanDays": 50.6,
+    "meanDays": 50.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 116
+        "count": 117
       },
       {
         "label": "1–3 days",
@@ -638,12 +638,12 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 51.5,
+    "currentMedianDaysHeld": 52.5,
     "currentLongestDaysHeld": 994.6
   },
   "bond": {
     "withBond": 118,
-    "noBond": 55,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19115550
