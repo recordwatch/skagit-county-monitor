@@ -1,5 +1,29 @@
 [
   {
+    "id": "671754-20261105183500",
+    "nameNumber": "671754",
+    "name": "BRODIGAN, EMMA JOY",
+    "bookedAt": "2026-11-05T18:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T20:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "672334-20261105160000",
     "nameNumber": "672334",
     "name": "PELTIER, BRADLEY GARDNER",
@@ -30,17 +54,30 @@
     "bookedAt": "2026-11-05T15:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-05T14:43:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "ANIMAL CRUELTY 2ND DEGREE",
+        "offenseDate": "2025-06-22T00:00:00",
+        "incident": "25-07315",
+        "court": "DC",
+        "courtReference": "C00068891",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T18:11:17",
     "releasedAt": null,
@@ -52,19 +89,32 @@
     "nameNumber": "592266",
     "name": "MARTINEZ-VALLEJO, ADRIAN ANDREW",
     "bookedAt": "2026-11-05T14:35:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2027-02-03T14:35:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SAUK/SUIATTLE POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-05T14:35:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SAUK/SUIATTLE POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 3RD-CRIM NEG/SUB PAIN",
+        "offenseDate": "2026-01-04T00:00:00",
+        "incident": "26-SP0014",
+        "court": "SC",
+        "courtReference": "26-1-00066-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SAUK/SUIATTLE POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T16:11:17",
     "releasedAt": null,
@@ -893,7 +943,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 35000,
+    "bondTotal": 55000,
     "charges": [
       {
         "description": "DUI",
@@ -901,7 +951,7 @@
         "incident": "12-10287",
         "court": "DC",
         "courtReference": "2Z0647893",
-        "bailAmount": 5000,
+        "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -991,7 +1041,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 17600,
+    "bondTotal": 600,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -999,9 +1049,9 @@
         "incident": "25-06714",
         "court": "DC",
         "courtReference": "5A0629575",
-        "bailAmount": 7500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1012,8 +1062,8 @@
         "court": "DC",
         "courtReference": "5A0629575",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1023,9 +1073,9 @@
         "incident": "26-01961",
         "court": "DC",
         "courtReference": "6A0166050",
-        "bailAmount": 7500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1035,9 +1085,9 @@
         "incident": "26-A02162",
         "court": "AMC",
         "courtReference": "6A0258077",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1047,9 +1097,9 @@
         "incident": "26-A02533",
         "court": "AMC",
         "courtReference": "6A0290428",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1740,10 +1790,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T13:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T20:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3132,7 +3182,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 28000,
+    "bondTotal": 30000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -3285,6 +3335,18 @@
         "court": "AMC",
         "courtReference": "6A0173980",
         "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-09-14T00:00:00",
+        "incident": "26-B06802",
+        "court": "BMC",
+        "courtReference": "6A0413651",
+        "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
