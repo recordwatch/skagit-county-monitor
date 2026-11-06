@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:11:17",
+  "generatedAt": "2026-11-05T17:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 515,
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 992,
+      "count": 991,
       "pct": 55.4,
       "label": "Skagit County Superior Court"
     },
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 76,
-      "pct": 4.2,
+      "pct": 4.3,
       "label": "Other"
     },
     {
@@ -460,13 +460,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 446,
+      "count": 447,
       "pct": 40.8
     },
     {
       "name": "Sentence Complete Release",
-      "count": 125,
-      "pct": 11.4
+      "count": 128,
+      "pct": 11.7
     },
     {
       "name": "Declined To Prosecute",
@@ -476,12 +476,12 @@
     {
       "name": "Serving Commit",
       "count": 110,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Dismissed",
-      "count": 86,
-      "pct": 7.9
+      "count": 85,
+      "pct": 7.8
     },
     {
       "name": "Dept Of Corrections Release",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 615,
+      "count": 611,
       "pct": 95.6
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.7
+      "pct": 3.8
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 994
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 55,
+    "withBond": 115,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19121050
+    "totalBond": 19108550
   },
   "chargesPerBooking": 3.5
 }

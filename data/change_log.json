@@ -3916,18 +3916,6 @@
     "charges": [
       {
         "description": "CONT SUBS AMPHET/METHAMPHET",
-        "offenseDate": "2023-10-18T00:00:00",
-        "incident": "23-A07750",
-        "court": "SC",
-        "courtReference": "24-1-00795-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Dismissed",
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
-      },
-      {
-        "description": "VUCSA - CONSPIRACY TO COMMIT",
         "offenseDate": "2023-07-01T00:00:00",
         "incident": "23-A07750",
         "court": "SC",
@@ -4096,7 +4084,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -4104,9 +4092,9 @@
         "incident": "24-B03060",
         "court": "SC",
         "courtReference": "24-1-00349-29",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -5673,7 +5661,7 @@
     "nameNumber": "161985",
     "name": "LAWRENCE, CHASITY ANN",
     "bookedAt": "2026-10-26T09:00:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-05T16:54:51",
     "location": "R105",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -5684,7 +5672,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -5692,9 +5680,9 @@
         "incident": "23-B03378",
         "court": "SC",
         "courtReference": "23-1-00493-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -5705,8 +5693,8 @@
         "court": "SC",
         "courtReference": "23-1-00493-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -5717,8 +5705,8 @@
         "court": "SC",
         "courtReference": "23-1-00493-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
