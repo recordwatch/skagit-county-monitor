@@ -202,13 +202,13 @@
     "bookedAt": "2026-11-05T14:35:00",
     "scheduledRelease": "2027-01-04T14:35:00",
     "location": "M103",
-    "arrestingAgency": "SAUK/SUIATTLE POLICE DEPT",
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-05T14:35:00",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SAUK/SUIATTLE POLICE DEPT"
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
@@ -223,7 +223,7 @@
         "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SAUK/SUIATTLE POLICE DEPT"
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       },
       {
         "description": "NEG DRIVING 1ST (CRIMINAL)",
@@ -235,7 +235,7 @@
         "bailType": null,
         "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SAUK/SUIATTLE POLICE DEPT"
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "status": "in_custody",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:11:15",
+  "generatedAt": "2026-11-06T01:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 519,
@@ -307,8 +307,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 17,
-      "pct": 3.3,
+      "count": 18,
+      "pct": 3.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
