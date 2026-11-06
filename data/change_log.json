@@ -1,5 +1,91 @@
 [
   {
+    "id": "167054-20261106090000",
+    "nameNumber": "167054",
+    "name": "CARDONA, EDUARDO BARRIGA",
+    "bookedAt": "2026-11-06T09:00:00",
+    "scheduledRelease": "2026-12-02T18:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-06T09:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-09-20T00:00:00",
+        "incident": "24-01605",
+        "court": "DC",
+        "courtReference": "5A0631173",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2025-09-20T00:00:00",
+        "incident": "24-01605",
+        "court": "DC",
+        "courtReference": "5A0631173",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T10:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "495282-20261106084500",
+    "nameNumber": "495282",
+    "name": "PETERSON, JARED JAMES",
+    "bookedAt": "2026-11-06T08:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-06T08:16:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-06-16T00:00:00",
+        "incident": "26-W02784",
+        "court": "SWMC",
+        "courtReference": "6A0173301",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T10:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "640981-20261106060500",
     "nameNumber": "640981",
     "name": "HAMPTON, ZAKARY RYAN",
@@ -377,7 +463,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "IGNITION INTERLOCK DR LIC VIOL",
+        "description": "OPERATE VEHICLE W/O IGNITION INTERLOCK",
         "offenseDate": "2026-11-05T11:51:00",
         "incident": "26-M16342",
         "court": "SC",
@@ -453,7 +539,7 @@
         "offenseDate": "2026-04-17T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "6A0055553",
+        "courtReference": "FERNDALE 6A0055553",
         "bailAmount": 7500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -706,7 +792,7 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "THEFT 2ND DEGREE",
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
         "offenseDate": "2026-01-11T00:00:00",
         "incident": "26-B00290",
         "court": "SC",
@@ -740,7 +826,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS DRIVING",
@@ -748,9 +834,9 @@
         "incident": "22-17350",
         "court": "DC",
         "courtReference": "2A0096460",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -760,9 +846,9 @@
         "incident": "25-W01984",
         "court": "SWMC",
         "courtReference": "5A0034751",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
