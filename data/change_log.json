@@ -1,5 +1,29 @@
 [
   {
+    "id": "272001-20261105210000",
+    "nameNumber": "272001",
+    "name": "MOSIER, HILLARY STANCE",
+    "bookedAt": "2026-11-05T21:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-05T21:00:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T22:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "671754-20261105183500",
     "nameNumber": "671754",
     "name": "BRODIGAN, EMMA JOY",
@@ -102,7 +126,7 @@
     "name": "FOX, WILLIAM LEE",
     "bookedAt": "2026-11-05T15:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N102",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -139,7 +163,7 @@
     "name": "MARTINEZ-VALLEJO, ADRIAN ANDREW",
     "bookedAt": "2026-11-05T14:35:00",
     "scheduledRelease": "2027-01-04T14:35:00",
-    "location": null,
+    "location": "M103",
     "arrestingAgency": "SAUK/SUIATTLE POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -188,7 +212,7 @@
     "name": "ESTEBAN-NICOLAS, RUDY",
     "bookedAt": "2026-11-05T14:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [

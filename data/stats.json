@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T21:39:55",
+  "generatedAt": "2026-11-05T22:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 518,
-    "bookingsObserved": 315,
+    "bookingsTracked": 519,
+    "bookingsObserved": 316,
     "releasesObserved": 347,
-    "inCustody": 171,
-    "uniquePeople": 502
+    "inCustody": 172,
+    "uniquePeople": 503
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 13,
+      "booked": 14,
       "released": 16
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 126,
-      "pct": 24.5,
+      "pct": 24.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 109,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 41,
-      "pct": 8,
+      "pct": 7.9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -318,10 +318,10 @@
       "label": "SKAGIT COUNTY JAIL"
     },
     {
-      "name": "SAN JUAN COUNTY SHERIFF",
+      "name": "ISLAND COUNTY SHERIFF",
       "count": 5,
       "pct": 1,
-      "label": "SAN JUAN COUNTY SHERIFF"
+      "label": "ISLAND COUNTY SHERIFF"
     }
   ],
   "courts": [
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 108,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -394,7 +394,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 76,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -428,8 +428,8 @@
     },
     {
       "name": "OTHER COUNTY HOLDS",
-      "count": 13,
-      "pct": 2.5
+      "count": 14,
+      "pct": 2.7
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 11,
-      "pct": 7.1
+      "pct": 6.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,47 +543,47 @@
     {
       "name": "J",
       "count": 8,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "K",
       "count": 15,
-      "pct": 9.6
+      "pct": 9.4
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 5.1
+      "count": 9,
+      "pct": 5.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.5
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 9
+      "count": 16,
+      "pct": 10.1
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.9
+      "pct": 17.6
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.3
+      "pct": 17
     },
     {
       "name": "R",
       "count": 22,
-      "pct": 14.1
+      "pct": 13.8
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 53.1,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 994.2
   },
   "bond": {
     "withBond": 117,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19107050
