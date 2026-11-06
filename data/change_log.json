@@ -3253,6 +3253,11 @@
         "arrestDate": "2026-10-30T20:30:00",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "arrestDate": "2026-11-05T13:00:00",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 30000,
@@ -3422,8 +3427,8 @@
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+        "arrestType": "REVOCATION OF PR",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
