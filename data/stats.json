@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T13:11:15",
+  "generatedAt": "2026-11-06T14:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 522,
-    "bookingsObserved": 319,
+    "bookingsTracked": 523,
+    "bookingsObserved": 320,
     "releasesObserved": 351,
-    "inCustody": 171,
-    "uniquePeople": 505
+    "inCustody": 172,
+    "uniquePeople": 506
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 3,
+      "booked": 4,
       "released": 4
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 77,
-      "pct": 4.2
+      "count": 78,
+      "pct": 4.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -272,13 +272,13 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 109,
-      "pct": 21,
+      "pct": 20.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 69,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 18,
-      "pct": 3.5,
+      "count": 19,
+      "pct": 3.6,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 79,
-      "pct": 4.3,
+      "count": 80,
+      "pct": 4.4,
       "label": "Other"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 109,
-      "pct": 21
+      "pct": 20.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 44,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DUI CITATION ARREST",
@@ -423,8 +423,8 @@
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 17,
-      "pct": 3.3
+      "count": 18,
+      "pct": 3.5
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -465,12 +465,12 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 128,
-      "pct": 11.4
+      "count": 129,
+      "pct": 11.5
     },
     {
       "name": "Serving Commit",
-      "count": 123,
+      "count": 122,
       "pct": 10.9
     },
     {
@@ -638,12 +638,12 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 53.7,
-    "currentLongestDaysHeld": 994.8
+    "currentMedianDaysHeld": 52.8,
+    "currentLongestDaysHeld": 994.9
   },
   "bond": {
     "withBond": 115,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19100550

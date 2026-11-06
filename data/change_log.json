@@ -1,5 +1,42 @@
 [
   {
+    "id": "323149-20261106124500",
+    "nameNumber": "323149",
+    "name": "SIMMONS, RILEY MICHAEL",
+    "bookedAt": "2026-11-06T12:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-06T12:15:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-06T12:15:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00266-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T14:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "167054-20261106090000",
     "nameNumber": "167054",
     "name": "CARDONA, EDUARDO BARRIGA",
@@ -13523,7 +13560,7 @@
         "courtReference": "PA0009504",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
