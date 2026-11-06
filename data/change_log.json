@@ -5,7 +5,7 @@
     "name": "HAMPTON, ZAKARY RYAN",
     "bookedAt": "2026-11-06T06:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -139,7 +139,7 @@
     "nameNumber": "672334",
     "name": "PELTIER, BRADLEY GARDNER",
     "bookedAt": "2026-11-05T16:00:00",
-    "scheduledRelease": "2026-12-20T16:00:00",
+    "scheduledRelease": "2026-12-05T16:00:00",
     "location": "N206",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "PAROLE/PROB VIOLATION",
