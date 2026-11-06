@@ -28,19 +28,68 @@
     "nameNumber": "672334",
     "name": "PELTIER, BRADLEY GARDNER",
     "bookedAt": "2026-11-05T16:00:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-12-05T16:00:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "PAROLE/PROB VIOLATION",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-05T16:00:00",
+        "arrestType": "PAROLE/PROB VIOLATION",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2023-12-06T00:00:00",
+        "incident": "23-W06438",
+        "court": "SC",
+        "courtReference": "23-1-00847-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "PAROLE/PROB VIOLATION",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2023-12-06T00:00:00",
+        "incident": "23-W06438",
+        "court": "SC",
+        "courtReference": "23-1-00847-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "PAROLE/PROB VIOLATION",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT DVPA",
+        "offenseDate": "2023-12-06T00:00:00",
+        "incident": "23-W06438",
+        "court": "SC",
+        "courtReference": "23-1-00847-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "PAROLE/PROB VIOLATION",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT DVPA",
+        "offenseDate": "2023-12-06T00:00:00",
+        "incident": "23-W06438",
+        "court": "SC",
+        "courtReference": "23-1-00847-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "PAROLE/PROB VIOLATION",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T19:11:14",
     "releasedAt": null,
@@ -89,7 +138,7 @@
     "nameNumber": "592266",
     "name": "MARTINEZ-VALLEJO, ADRIAN ANDREW",
     "bookedAt": "2026-11-05T14:35:00",
-    "scheduledRelease": "2027-02-03T14:35:00",
+    "scheduledRelease": "2027-01-04T14:35:00",
     "location": null,
     "arrestingAgency": "SAUK/SUIATTLE POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -110,7 +159,19 @@
         "courtReference": "26-1-00066-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SAUK/SUIATTLE POLICE DEPT"
+      },
+      {
+        "description": "NEG DRIVING 1ST (CRIMINAL)",
+        "offenseDate": "2023-11-19T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0780317",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SAUK/SUIATTLE POLICE DEPT"
       }
@@ -137,7 +198,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 14000,
+    "bondTotal": 21500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -266,6 +327,18 @@
         "court": "DC",
         "courtReference": "3A0636168",
         "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-04-17T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "6A0055553",
+        "bailAmount": 7500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
