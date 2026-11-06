@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:11:17",
+  "generatedAt": "2026-11-06T03:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 519,
@@ -334,13 +334,13 @@
     {
       "name": "DC",
       "count": 262,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 184,
-      "pct": 10.1,
+      "count": 185,
+      "pct": 10.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -470,8 +470,8 @@
     },
     {
       "name": "Declined To Prosecute",
-      "count": 119,
-      "pct": 10.7
+      "count": 120,
+      "pct": 10.8
     },
     {
       "name": "Serving Commit",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 614,
+      "count": 615,
       "pct": 95.6
     },
     {
@@ -646,7 +646,7 @@
     "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19114550
+    "totalBond": 19115550
   },
   "chargesPerBooking": 3.5
 }
