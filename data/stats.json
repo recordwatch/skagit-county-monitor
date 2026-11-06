@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T06:11:15",
+  "generatedAt": "2026-11-06T07:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 519,
-    "bookingsObserved": 316,
+    "bookingsTracked": 520,
+    "bookingsObserved": 317,
     "releasesObserved": 347,
-    "inCustody": 172,
-    "uniquePeople": 503
+    "inCustody": 173,
+    "uniquePeople": 504
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 60,
-      "pct": 3.3
+      "count": 62,
+      "pct": 3.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -266,31 +266,31 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 126,
-      "pct": 24.4,
+      "pct": 24.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 109,
-      "pct": 21.1,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 68,
-      "pct": 13.2,
+      "pct": 13.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 65,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 46,
-      "pct": 8.9,
+      "count": 47,
+      "pct": 9.1,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1003,
+      "count": 1005,
       "pct": 55.3,
       "label": "Skagit County Superior Court"
     },
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 79,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "Other"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 108,
-      "pct": 20.9
+      "count": 109,
+      "pct": 21
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 328,
-    "observed": 19,
+    "official": 342,
+    "observed": 5,
     "reportOnly": 33
   },
   "stay": {
@@ -638,12 +638,12 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 52.4,
+    "currentMedianDaysHeld": 51.5,
     "currentLongestDaysHeld": 994.6
   },
   "bond": {
     "withBond": 118,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19115550
