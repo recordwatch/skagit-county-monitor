@@ -1,5 +1,53 @@
 [
   {
+    "id": "592266-20261105143500",
+    "nameNumber": "592266",
+    "name": "MARTINEZ-VALLEJO, ADRIAN ANDREW",
+    "bookedAt": "2026-11-05T14:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "693236-20261105141000",
+    "nameNumber": "693236",
+    "name": "ESTEBAN-NICOLAS, RUDY",
+    "bookedAt": "2026-11-05T14:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "408014-20261105130000",
     "nameNumber": "408014",
     "name": "KINKEL, SAMUEL JAMES",
