@@ -150,7 +150,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 7500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -170,9 +170,9 @@
         "incident": "16-B01349",
         "court": "BMC",
         "courtReference": "BUC019806",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       }
@@ -324,10 +324,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T18:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -618,7 +618,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -626,9 +626,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009383",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -639,8 +639,8 @@
         "court": "DC",
         "courtReference": "PA0009383",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -3312,7 +3312,7 @@
     "nameNumber": "371152",
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-25T17:48:00",
     "location": "P201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -3381,7 +3381,7 @@
         "courtReference": "DOC 22-1-00802-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -5634,7 +5634,7 @@
     "nameNumber": "417521",
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-20T10:45:00",
     "location": "P205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -5715,7 +5715,7 @@
         "courtReference": "DOC 25-1-00585-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
