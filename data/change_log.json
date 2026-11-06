@@ -1,11 +1,109 @@
 [
   {
+    "id": "620514-20261106142500",
+    "nameNumber": "620514",
+    "name": "RAMIREZ, JOE JESSIE",
+    "bookedAt": "2026-11-06T14:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-06T11:57:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-11-06T11:57:00",
+        "incident": "26-SP1751",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-03-16T00:00:00",
+        "incident": "26-A01364",
+        "court": "AMC",
+        "courtReference": "6A0216200",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2025-10-05T00:00:00",
+        "incident": "25-SP1533",
+        "court": "DC",
+        "courtReference": "5A0204005",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "562672-20261106135500",
+    "nameNumber": "562672",
+    "name": "STRONG, LEELA MAE",
+    "bookedAt": "2026-11-06T13:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-06T13:55:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2016-03-06T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0005570",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "323149-20261106124500",
     "nameNumber": "323149",
     "name": "SIMMONS, RILEY MICHAEL",
     "bookedAt": "2026-11-06T12:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N103",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -263,7 +361,7 @@
     "name": "PELTIER, BRADLEY GARDNER",
     "bookedAt": "2026-11-05T16:00:00",
     "scheduledRelease": "2026-12-05T16:00:00",
-    "location": "N206",
+    "location": "P208",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "PAROLE/PROB VIOLATION",
     "arrests": [
@@ -755,7 +853,7 @@
     "name": "CASTRO-PERALES, DIEGO",
     "bookedAt": "2026-11-05T09:25:00",
     "scheduledRelease": "2026-11-22T17:25:00",
-    "location": "N201",
+    "location": "P208",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
