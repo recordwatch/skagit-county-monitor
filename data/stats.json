@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:11:16",
+  "generatedAt": "2026-11-05T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 519,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 75,
-      "pct": 4.1
+      "count": 76,
+      "pct": 4.2
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -301,8 +301,8 @@
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 17,
-      "pct": 3.3,
+      "count": 18,
+      "pct": 3.5,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "OTHR",
-      "count": 77,
+      "count": 78,
       "pct": 4.3,
       "label": "Other"
     },
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 84,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 72,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -423,8 +423,8 @@
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 16,
-      "pct": 3.1
+      "count": 17,
+      "pct": 3.3
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 10.1
+      "count": 17,
+      "pct": 10.6
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "R",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 52.1,
-    "currentLongestDaysHeld": 994.2
+    "currentLongestDaysHeld": 994.3
   },
   "bond": {
     "withBond": 117,
