@@ -1,5 +1,29 @@
 [
   {
+    "id": "10394-20261105153000",
+    "nameNumber": "10394",
+    "name": "FOX, WILLIAM LEE",
+    "bookedAt": "2026-11-05T15:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T18:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "592266-20261105143500",
     "nameNumber": "592266",
     "name": "MARTINEZ-VALLEJO, ADRIAN ANDREW",
@@ -91,17 +115,42 @@
     "bookedAt": "2026-11-05T12:05:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-05T12:05:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2024-05-02T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009383",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "PHYSICAL CONT VEH UNDR INFLUEN",
+        "offenseDate": "2024-05-02T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009383",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T13:11:17",
     "releasedAt": null,
@@ -175,7 +224,7 @@
     "name": "CASTRO-PERALES, DIEGO",
     "bookedAt": "2026-11-05T09:25:00",
     "scheduledRelease": "2026-11-22T17:25:00",
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -213,7 +262,7 @@
       },
       {
         "description": "INTERFERE W/REPORT DOM VIOL-DV",
-        "offenseDate": "2026-07-26T00:00:00",
+        "offenseDate": "2026-07-28T00:00:00",
         "incident": "26-B05580",
         "court": "SC",
         "courtReference": "26-1-00419-29",
@@ -4111,10 +4160,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T18:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -5723,10 +5772,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-05T18:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
