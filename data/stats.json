@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T01:11:14",
+  "generatedAt": "2026-11-07T02:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 528,
-    "bookingsObserved": 325,
+    "bookingsTracked": 529,
+    "bookingsObserved": 326,
     "releasesObserved": 357,
-    "inCustody": 171,
-    "uniquePeople": 511
+    "inCustody": 172,
+    "uniquePeople": 512
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 127,
-      "pct": 24.1,
+      "count": 128,
+      "pct": 24.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 65,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 5,
-      "pct": 1,
+      "pct": 0.9,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 85,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 45,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "DUI CITATION ARREST",
@@ -428,8 +428,8 @@
     },
     {
       "name": "OTHER COUNTY HOLDS",
-      "count": 14,
-      "pct": 2.7
+      "count": 15,
+      "pct": 2.8
     },
     {
       "name": "DUI WARRANT ARREST",
@@ -638,12 +638,12 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 995.3
+    "currentMedianDaysHeld": 52.3,
+    "currentLongestDaysHeld": 995.4
   },
   "bond": {
     "withBond": 111,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18835950

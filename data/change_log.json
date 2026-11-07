@@ -1,5 +1,29 @@
 [
   {
+    "id": "708097-20261107010500",
+    "nameNumber": "708097",
+    "name": "ISABELL, KENNETH DARRELL JR",
+    "bookedAt": "2026-11-07T01:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T00:45:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T02:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "206919-20261106210500",
     "nameNumber": "206919",
     "name": "HASSENMILLER, KRISTY LYNN",
