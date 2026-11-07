@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:11:16",
+  "generatedAt": "2026-11-06T22:26:05",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 528,
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 110,
+      "count": 111,
       "pct": 6
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1008,
+      "count": 1010,
       "pct": 55,
       "label": "Skagit County Superior Court"
     },
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 187,
+      "count": 188,
       "pct": 10.2,
       "label": "Mount Vernon Municipal Court"
     },
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 608,
+      "count": 612,
       "pct": 95.6
     },
     {
@@ -646,7 +646,7 @@
     "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19096950
+    "totalBond": 19121950
   },
   "chargesPerBooking": 3.5
 }

@@ -39,7 +39,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": 26000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -54,13 +54,49 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-06T20:28:00",
+        "incident": "26-M16441",
+        "court": "MVMC",
+        "courtReference": "6A0394355",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
         "description": "ASSAULT 3RD - BODILY HARM BY WEAPON",
         "offenseDate": "2021-06-15T00:00:00",
         "incident": "21-08130",
         "court": "SC",
         "courtReference": "21-1-00539-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2021-06-15T00:00:00",
+        "incident": "21-08130",
+        "court": "SC",
+        "courtReference": "21-1-00539-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HIT AND RUN ACCIDENT/INJURY-FELONY",
+        "offenseDate": "2021-06-15T00:00:00",
+        "incident": "21-08130",
+        "court": "SC",
+        "courtReference": "21-1-00539-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -3594,7 +3630,7 @@
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
     "scheduledRelease": "2026-11-25T17:48:00",
-    "location": "P201",
+    "location": "P204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
