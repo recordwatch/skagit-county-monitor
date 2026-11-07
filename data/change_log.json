@@ -5,7 +5,7 @@
     "name": "DIAZ-HERNANDEZ, MATTHEW J",
     "bookedAt": "2026-11-07T05:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "HENDRIX, ALEXUS MAY",
     "bookedAt": "2026-11-07T05:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J105",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -115,7 +115,7 @@
     "name": "PRICE-NESS, COLTON E",
     "bookedAt": "2026-11-07T03:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
