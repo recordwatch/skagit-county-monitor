@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T03:11:16",
+  "generatedAt": "2026-11-07T04:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 529,
-    "bookingsObserved": 326,
+    "bookingsTracked": 530,
+    "bookingsObserved": 327,
     "releasesObserved": 357,
-    "inCustody": 172,
-    "uniquePeople": 512
+    "inCustody": 173,
+    "uniquePeople": 513
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 123,
+      "count": 124,
       "pct": 6.7
     },
     {
@@ -209,7 +209,7 @@
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 36,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 128,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 110,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 70,
-      "pct": 13.3,
+      "count": 71,
+      "pct": 13.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SC",
       "count": 1012,
-      "pct": 54.9,
+      "pct": 54.8,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 269,
+      "count": 270,
       "pct": 14.6,
       "label": "Skagit County District Court"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 150,
-      "pct": 8.1,
+      "count": 152,
+      "pct": 8.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -370,7 +370,7 @@
     {
       "name": "TC",
       "count": 12,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "TC"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 110,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 72,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 29,
-      "pct": 5.5
+      "count": 30,
+      "pct": 5.7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -639,11 +639,11 @@
       }
     ],
     "currentMedianDaysHeld": 52.3,
-    "currentLongestDaysHeld": 995.4
+    "currentLongestDaysHeld": 995.5
   },
   "bond": {
     "withBond": 112,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18910950
