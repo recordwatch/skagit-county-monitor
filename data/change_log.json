@@ -1,11 +1,35 @@
 [
   {
+    "id": "199347-20261106154700",
+    "nameNumber": "199347",
+    "name": "ECKARD, ADAM LEE",
+    "bookedAt": "2026-11-06T15:47:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T18:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "620514-20261106142500",
     "nameNumber": "620514",
     "name": "RAMIREZ, JOE JESSIE",
     "bookedAt": "2026-11-06T14:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -4891,10 +4915,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T18:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -13711,10 +13735,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T00:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T18:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -21230,7 +21254,7 @@
     "name": "DANSKIN, PAUL BENJAMIN",
     "bookedAt": "2026-09-13T20:00:00",
     "scheduledRelease": null,
-    "location": "M110",
+    "location": "M109",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
