@@ -102,7 +102,7 @@
     "name": "STRONG, LEELA MAE",
     "bookedAt": "2026-11-06T13:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -348,10 +348,10 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T17:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -571,7 +571,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 22500,
+    "bondTotal": 37500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -581,7 +581,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -593,7 +593,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -605,7 +605,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -617,7 +617,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -629,7 +629,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -641,7 +641,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -651,7 +651,7 @@
         "incident": "26-M07355",
         "court": "SC",
         "courtReference": "26-1-00466-29",
-        "bailAmount": 10000,
+        "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -975,10 +975,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T11:11:21",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-06T17:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3645,7 +3645,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 30000,
+    "bondTotal": 45000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -3653,8 +3653,8 @@
         "incident": "26-W05273",
         "court": "SC",
         "courtReference": "26-1-00614-29",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -3666,7 +3666,7 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -4853,7 +4853,7 @@
     "nameNumber": "638066",
     "name": "WHITAKER, ALEX JAMES",
     "bookedAt": "2026-10-29T09:15:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-06T16:52:56",
     "location": "P204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",

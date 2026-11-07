@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-06T16:13:11",
+  "generatedAt": "2026-11-06T17:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 525,
     "bookingsObserved": 322,
-    "releasesObserved": 351,
-    "inCustody": 174,
+    "releasesObserved": 353,
+    "inCustody": 172,
     "uniquePeople": 508
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-06",
       "booked": 6,
-      "released": 4
+      "released": 6
     }
   ],
   "topCharges": [
@@ -460,13 +460,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 458,
-      "pct": 40.7
+      "count": 464,
+      "pct": 41
     },
     {
       "name": "Sentence Complete Release",
       "count": 129,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "Serving Commit",
@@ -476,12 +476,12 @@
     {
       "name": "Declined To Prosecute",
       "count": 120,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "Dismissed",
       "count": 85,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "Dept Of Corrections Release",
@@ -491,12 +491,12 @@
     {
       "name": "Bail Bond Release",
       "count": 49,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Amended",
       "count": 49,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Shuttle Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 9,
-      "pct": 5.6
+      "count": 8,
+      "pct": 5
     },
     {
       "name": "K",
@@ -563,34 +563,34 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.3
+      "count": 14,
+      "pct": 8.7
     },
     {
       "name": "P",
       "count": 31,
-      "pct": 19.1
+      "pct": 19.3
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.3
+      "pct": 17.4
     },
     {
       "name": "R",
-      "count": 22,
-      "pct": 13.6
+      "count": 23,
+      "pct": 14.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 614,
-      "pct": 95.6
+      "count": 616,
+      "pct": 95.7
     },
     {
       "name": "SCRAM With Bail",
@@ -605,21 +605,21 @@
   ],
   "releaseSources": {
     "official": 342,
-    "observed": 9,
+    "observed": 11,
     "reportOnly": 33
   },
   "stay": {
-    "releasedCount": 349,
-    "medianDays": 2,
-    "meanDays": 50.1,
+    "releasedCount": 351,
+    "medianDays": 1.9,
+    "meanDays": 49.8,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 118
+        "count": 119
       },
       {
         "label": "1–3 days",
-        "count": 88
+        "count": 89
       },
       {
         "label": "3–7 days",
@@ -638,15 +638,15 @@
         "count": 28
       }
     ],
-    "currentMedianDaysHeld": 51.8,
+    "currentMedianDaysHeld": 52.9,
     "currentLongestDaysHeld": 995
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 58,
+    "withBond": 115,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19109050
+    "totalBond": 19136550
   },
   "chargesPerBooking": 3.5
 }
