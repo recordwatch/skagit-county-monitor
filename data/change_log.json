@@ -15,7 +15,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DUI",
@@ -35,20 +35,20 @@
         "incident": "26-B00284",
         "court": "BMC",
         "courtReference": "6A0123224",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
       {
-        "description": "DISPOSAL OR ACCUMULATION PROHIBITED",
+        "description": "PRIVATE CAMPING PROHIBITED",
         "offenseDate": "2026-01-12T00:00:00",
         "incident": "26-B00284",
         "court": "BMC",
         "courtReference": "6A0123224",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
@@ -238,15 +238,15 @@
     "scheduledRelease": null,
     "location": "J208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
-    "arrestType": "FELONY WARRANT ARREST",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-06T20:28:00",
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 26000,
+    "bondTotal": 56000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -257,7 +257,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
@@ -269,7 +269,7 @@
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
@@ -281,7 +281,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
@@ -293,7 +293,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
@@ -305,7 +305,43 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "TAMPERING W EVIDENCE",
+        "offenseDate": "2024-06-10T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "43484",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-06-10T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "43050",
+        "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSS DRUG PARAPHEN",
+        "offenseDate": "2024-06-10T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "43050",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
@@ -322,13 +358,13 @@
     "bookedAt": "2026-11-06T15:47:00",
     "scheduledRelease": "2026-11-08T15:47:00",
     "location": null,
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-06T15:47:00",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
@@ -341,9 +377,9 @@
         "courtReference": "6A0205189",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
