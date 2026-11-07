@@ -6,8 +6,8 @@
     "bookedAt": "2026-11-06T21:05:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-06T14:27:00",
@@ -15,8 +15,117 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 14000,
+    "charges": [
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "offenseDate": "2026-05-07T00:00:00",
+        "incident": "26-M06390",
+        "court": "SC",
+        "courtReference": "26-1-00246-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-05-07T00:00:00",
+        "incident": "26-M06390",
+        "court": "SC",
+        "courtReference": "26-1-00246-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2024-06-10T00:00:00",
+        "incident": "24-08712",
+        "court": "DC",
+        "courtReference": "C00069485",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-09-04T00:00:00",
+        "incident": "26-M13373",
+        "court": "MVMC",
+        "courtReference": "6A0129345",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-09-04T00:00:00",
+        "incident": "26-M13373",
+        "court": "MVMC",
+        "courtReference": "6A0129345",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-07-25T00:00:00",
+        "incident": "26-M11128",
+        "court": "MVMC",
+        "courtReference": "6A0342099",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-07-25T00:00:00",
+        "incident": "26-M11128",
+        "court": "MVMC",
+        "courtReference": "6A0342099",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PRIVATE CAMPING PROHIBITED",
+        "offenseDate": "2026-07-09T00:00:00",
+        "incident": "26-B05091",
+        "court": "BMC",
+        "courtReference": "6A0341291",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-08-13T00:00:00",
+        "incident": "25-W03959",
+        "court": "SWMC",
+        "courtReference": "5A0333939",
+        "bailAmount": 3500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T22:11:16",
     "releasedAt": null,
@@ -29,7 +138,7 @@
     "name": "KIRK, KRISTIN LYNN",
     "bookedAt": "2026-11-06T20:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -25130,7 +25239,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 30000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -25174,9 +25283,9 @@
         "incident": "26-09645",
         "court": "SC",
         "courtReference": "26-1-00450-29",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -25187,8 +25296,8 @@
         "court": "SC",
         "courtReference": "26-1-00450-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -27327,7 +27436,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT IN VIOLATION COURT ORD",
@@ -27359,8 +27468,8 @@
         "incident": "21-A03936",
         "court": "SC",
         "courtReference": "21-1-00678-29",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -27384,7 +27493,7 @@
         "court": "SC",
         "courtReference": "21-1-00678-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -27408,7 +27517,7 @@
         "court": "SC",
         "courtReference": "21-1-00678-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -27432,7 +27541,7 @@
         "court": "SC",
         "courtReference": "21-1-00678-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -27564,7 +27673,7 @@
         "court": "SC",
         "courtReference": "21-1-00678-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -27588,7 +27697,7 @@
         "court": "SC",
         "courtReference": "21-1-00678-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
