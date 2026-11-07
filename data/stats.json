@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:11:15",
+  "generatedAt": "2026-11-06T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 525,
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 93,
+      "count": 94,
       "pct": 5.1
     },
     {
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 66,
-      "pct": 3.6
+      "count": 67,
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -208,8 +208,8 @@
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 35,
-      "pct": 1.9
+      "count": 36,
+      "pct": 2
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1006,
-      "pct": 55.1,
+      "pct": 55,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 266,
-      "pct": 14.6,
+      "count": 268,
+      "pct": 14.7,
       "label": "Skagit County District Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "AMC",
-      "count": 76,
+      "count": 77,
       "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
@@ -460,7 +460,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 457,
+      "count": 458,
       "pct": 40.7
     },
     {
@@ -471,7 +471,7 @@
     {
       "name": "Serving Commit",
       "count": 122,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "Declined To Prosecute",
@@ -552,8 +552,8 @@
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 5.6
+      "count": 7,
+      "pct": 4.3
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -572,13 +572,13 @@
     },
     {
       "name": "P",
-      "count": 30,
-      "pct": 18.5
+      "count": 31,
+      "pct": 19.1
     },
     {
       "name": "Q",
-      "count": 27,
-      "pct": 16.7
+      "count": 28,
+      "pct": 17.3
     },
     {
       "name": "R",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 611,
+      "count": 614,
       "pct": 95.6
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "Cash Only",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 51.8,
-    "currentLongestDaysHeld": 994.9
+    "currentLongestDaysHeld": 995
   },
   "bond": {
     "withBond": 116,
     "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19105550
+    "totalBond": 19109050
   },
   "chargesPerBooking": 3.5
 }
