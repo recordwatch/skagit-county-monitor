@@ -4,19 +4,32 @@
     "nameNumber": "199347",
     "name": "ECKARD, ADAM LEE",
     "bookedAt": "2026-11-06T15:47:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-08T15:47:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-06T15:47:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-04-07T00:00:00",
+        "incident": "26-M04737",
+        "court": "MVMC",
+        "courtReference": "6A0205189",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T18:11:14",
     "releasedAt": null,
@@ -1523,7 +1536,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 600,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -1591,9 +1604,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "SJC 6A0023832",
-        "bailAmount": 600,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -4010,7 +4023,7 @@
     "name": "CORTES-BRAVO, GABINA",
     "bookedAt": "2026-10-30T13:30:00",
     "scheduledRelease": "2026-11-17T01:30:00",
-    "location": "R209",
+    "location": "R108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
     "arrests": [
@@ -26909,7 +26922,7 @@
     "nameNumber": "357829",
     "name": "RUCKER, GEORGE EDWARD II",
     "bookedAt": "2026-07-21T13:40:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-08-20T13:40:00",
     "location": "Q103",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -26920,7 +26933,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 30000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -26928,9 +26941,9 @@
         "incident": "26-A04311",
         "court": "SC",
         "courtReference": "26-1-00398-29",
-        "bailAmount": 30000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26941,8 +26954,8 @@
         "court": "SC",
         "courtReference": "26-1-00398-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26953,8 +26966,8 @@
         "court": "SC",
         "courtReference": "26-1-00398-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26965,8 +26978,8 @@
         "court": "SC",
         "courtReference": "26-1-00398-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -26977,8 +26990,8 @@
         "court": "SC",
         "courtReference": "26-1-00398-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       }
