@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:11:15",
+  "generatedAt": "2026-11-07T03:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 529,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 78,
-      "pct": 4.2
+      "count": 79,
+      "pct": 4.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 80,
-      "pct": 4.3,
+      "count": 81,
+      "pct": 4.4,
       "label": "Other"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 602,
+      "count": 603,
       "pct": 95.6
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 995.4
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 61,
+    "withBond": 112,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18835950
+    "totalBond": 18910950
   },
   "chargesPerBooking": 3.5
 }

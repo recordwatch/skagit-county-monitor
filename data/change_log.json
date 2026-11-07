@@ -15,8 +15,21 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 75000,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2019-08-30T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "19-1-00296-19",
+        "bailAmount": 75000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-07T02:11:15",
     "releasedAt": null,
