@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T10:13:42",
+  "generatedAt": "2026-11-07T11:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 533,
-    "bookingsObserved": 330,
+    "bookingsTracked": 534,
+    "bookingsObserved": 331,
     "releasesObserved": 358,
-    "inCustody": 175,
-    "uniquePeople": 516
+    "inCustody": 176,
+    "uniquePeople": 517
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 79,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 129,
-      "pct": 24.3,
+      "pct": 24.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 110,
-      "pct": 20.7,
+      "count": 111,
+      "pct": 20.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 72,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "WA STATE PATROL"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1014,
+      "count": 1015,
       "pct": 54.6,
       "label": "Skagit County Superior Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 110,
-      "pct": 20.7
+      "count": 111,
+      "pct": 20.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 21,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -639,11 +639,11 @@
       }
     ],
     "currentMedianDaysHeld": 49.9,
-    "currentLongestDaysHeld": 995.7
+    "currentLongestDaysHeld": 995.8
   },
   "bond": {
     "withBond": 114,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18949450

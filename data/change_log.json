@@ -1,5 +1,42 @@
 [
   {
+    "id": "208368-20261107092500",
+    "nameNumber": "208368",
+    "name": "COLLETT, KEVIN PAUL",
+    "bookedAt": "2026-11-07T09:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T07:57:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST FIREARM/DEADLY WEAPON",
+        "offenseDate": "2026-11-07T07:57:00",
+        "incident": "26-13495",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T11:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "505686-20261107050500",
     "nameNumber": "505686",
     "name": "DIAZ-HERNANDEZ, MATTHEW J",
