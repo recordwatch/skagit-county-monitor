@@ -78,7 +78,7 @@
     "name": "FREDAY, JOHN RAYMOND",
     "bookedAt": "2026-11-07T12:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
