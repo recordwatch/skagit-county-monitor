@@ -1,5 +1,42 @@
 [
   {
+    "id": "699544-20261108072200",
+    "nameNumber": "699544",
+    "name": "MORRISON, BRITTANY LYNN",
+    "bookedAt": "2026-11-08T07:22:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-08T07:22:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2ND BODILY HARM",
+        "offenseDate": "2026-11-08T06:18:00",
+        "incident": "26-13539",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T09:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "691927-20261108060000",
     "nameNumber": "691927",
     "name": "TORRES-URIETA, JUAN JOSE",
