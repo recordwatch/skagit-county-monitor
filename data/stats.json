@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T20:11:14",
+  "generatedAt": "2026-11-07T21:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 539,
-    "bookingsObserved": 336,
+    "bookingsTracked": 541,
+    "bookingsObserved": 338,
     "releasesObserved": 359,
-    "inCustody": 180,
-    "uniquePeople": 522
+    "inCustody": 182,
+    "uniquePeople": 523
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 10,
+      "booked": 12,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 127,
+      "count": 129,
       "pct": 6.8
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 117,
-      "pct": 6.2
+      "count": 120,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 80,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -224,7 +224,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 31,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 130,
-      "pct": 24.2,
+      "pct": 24.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 113,
-      "pct": 21,
+      "count": 114,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 73,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 65,
-      "pct": 12.1,
+      "count": 66,
+      "pct": 12.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1015,
-      "pct": 54,
+      "pct": 53.8,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 284,
-      "pct": 15.1,
+      "count": 289,
+      "pct": 15.3,
       "label": "Skagit County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 157,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 51,
-      "pct": 2.7,
+      "count": 53,
+      "pct": 2.8,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 111,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 88,
-      "pct": 16.4
+      "count": 89,
+      "pct": 16.5
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,17 +399,17 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 75,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 45,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 32,
-      "pct": 6
+      "count": 33,
+      "pct": 6.1
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 18,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 627,
-      "pct": 95.7
+      "count": 632,
+      "pct": 95.8
     },
     {
       "name": "SCRAM With Bail",
       "count": 24,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 48.7,
-    "currentLongestDaysHeld": 996.1
+    "currentMedianDaysHeld": 48.1,
+    "currentLongestDaysHeld": 996.2
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 118,
     "noBond": 64,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18985450
+    "totalBond": 19000450
   },
   "chargesPerBooking": 3.5
 }

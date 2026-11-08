@@ -15,10 +15,145 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-01-06T00:00:00",
+        "incident": "26-W00083",
+        "court": "SWMC",
+        "courtReference": "6A0067606",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-10-11T00:00:00",
+        "incident": "25-W05051",
+        "court": "SWMC",
+        "courtReference": "5A0543908",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-07T20:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "553067-20261107190000",
+    "nameNumber": "553067",
+    "name": "BELL, RICHARD RANDALL",
+    "bookedAt": "2026-11-07T19:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T16:52:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-07T16:52:00",
+        "incident": "26-13518",
+        "court": "DC",
+        "courtReference": "6A0434449",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FT OBEY OFFICER/FLAGGER/FIRE",
+        "offenseDate": "2026-11-07T16:52:00",
+        "incident": "26-13518",
+        "court": "DC",
+        "courtReference": "6A0434449",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T21:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "611042-20261107183600",
+    "nameNumber": "611042",
+    "name": "GRIMM, KEVIN RAMON",
+    "bookedAt": "2026-11-07T18:36:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T18:02:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC-ATTEMPT",
+        "offenseDate": "2024-08-10T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0658518",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2024-05-27T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009389",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-05-27T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009389",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T21:11:17",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
