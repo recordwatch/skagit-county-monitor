@@ -103,7 +103,7 @@
     "name": "LAUCKS, CHELSEA DAWN",
     "bookedAt": "2026-11-08T05:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J105",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -152,7 +152,7 @@
     "name": "HEDEEN, JESSICA DAWN",
     "bookedAt": "2026-11-08T03:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R208",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
