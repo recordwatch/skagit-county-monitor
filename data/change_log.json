@@ -6404,7 +6404,7 @@
         "courtReference": "2A0157982",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },

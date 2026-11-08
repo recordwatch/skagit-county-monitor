@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:42:35",
+  "generatedAt": "2026-11-08T01:11:50",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 542,
@@ -470,8 +470,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 123,
-      "pct": 10.6
+      "count": 122,
+      "pct": 10.5
     },
     {
       "name": "Declined To Prosecute",
