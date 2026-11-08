@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T06:11:16",
+  "generatedAt": "2026-11-08T07:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 543,
-    "bookingsObserved": 340,
+    "bookingsTracked": 545,
+    "bookingsObserved": 342,
     "releasesObserved": 359,
-    "inCustody": 184,
-    "uniquePeople": 525
+    "inCustody": 186,
+    "uniquePeople": 527
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 1,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -465,13 +465,13 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 130,
-      "pct": 11.2
+      "count": 132,
+      "pct": 11.3
     },
     {
       "name": "Serving Commit",
-      "count": 122,
-      "pct": 10.5
+      "count": 120,
+      "pct": 10.3
     },
     {
       "name": "Declined To Prosecute",
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 353,
-    "observed": 6,
+    "official": 354,
+    "observed": 5,
     "reportOnly": 34
   },
   "stay": {
@@ -638,12 +638,12 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 48.2,
+    "currentMedianDaysHeld": 47.9,
     "currentLongestDaysHeld": 996.6
   },
   "bond": {
     "withBond": 119,
-    "noBond": 65,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19000950

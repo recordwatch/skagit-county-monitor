@@ -1,5 +1,53 @@
 [
   {
+    "id": "691927-20261108060000",
+    "nameNumber": "691927",
+    "name": "TORRES-URIETA, JUAN JOSE",
+    "bookedAt": "2026-11-08T06:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T07:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "254778-20261108053000",
+    "nameNumber": "254778",
+    "name": "LAUCKS, CHELSEA DAWN",
+    "bookedAt": "2026-11-08T05:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T07:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "220188-20261108032000",
     "nameNumber": "220188",
     "name": "HEDEEN, JESSICA DAWN",
@@ -703,8 +751,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-07T06:11:17",
-    "releasedAt": "2026-11-07T13:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-07T12:32:20",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -23199,7 +23247,7 @@
     "nameNumber": "159322",
     "name": "PEEK, ELIJAH JACOB",
     "bookedAt": "2026-09-10T07:05:00",
-    "scheduledRelease": "2026-11-08T04:05:00",
+    "scheduledRelease": "2026-11-08T06:02:57",
     "location": "Q201",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -23220,7 +23268,7 @@
         "courtReference": "25-1-00221-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -23232,7 +23280,7 @@
         "courtReference": "25-1-00221-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
