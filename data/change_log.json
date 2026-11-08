@@ -1,5 +1,29 @@
 [
   {
+    "id": "397878-20261107193500",
+    "nameNumber": "397878",
+    "name": "BUCHANAN, KIERA RAE",
+    "bookedAt": "2026-11-07T19:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T17:50:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T20:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "515848-20261107134500",
     "nameNumber": "515848",
     "name": "ANGULO, PETER JOSE",
