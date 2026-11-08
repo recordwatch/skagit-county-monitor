@@ -1,5 +1,42 @@
 [
   {
+    "id": "743454-20261107230000",
+    "nameNumber": "743454",
+    "name": "SHELTON, AARON KYLE",
+    "bookedAt": "2026-11-07T23:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T21:31:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-07T21:31:00",
+        "incident": "26-A06895",
+        "court": "AMC",
+        "courtReference": "6A0220961",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T00:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "397878-20261107193500",
     "nameNumber": "397878",
     "name": "BUCHANAN, KIERA RAE",
@@ -103,20 +140,20 @@
     "name": "GRIMM, KEVIN RAMON",
     "bookedAt": "2026-11-07T18:36:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": "BURLINGTON POLICE DEPT",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "location": "N202",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-07T18:02:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC-ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2024-08-10T00:00:00",
         "incident": null,
         "court": "DC",
@@ -124,8 +161,8 @@
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "DUI",
@@ -136,8 +173,8 @@
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -148,8 +185,8 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
