@@ -445,7 +445,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-11-07T09:30:00",
+        "offenseDate": "2026-11-07T08:34:00",
         "incident": null,
         "court": "DC",
         "courtReference": "T00821461",
@@ -457,7 +457,7 @@
       },
       {
         "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-        "offenseDate": "2026-11-07T09:30:00",
+        "offenseDate": "2026-11-07T08:34:00",
         "incident": null,
         "court": "DC",
         "courtReference": "T00821461",
@@ -469,7 +469,7 @@
       },
       {
         "description": "DWLS/R 2ND DEGREE",
-        "offenseDate": "2026-11-07T09:30:00",
+        "offenseDate": "2026-11-07T08:34:00",
         "incident": null,
         "court": "DC",
         "courtReference": "T00821461",
