@@ -30,17 +30,42 @@
     "bookedAt": "2026-11-08T05:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-08T04:18:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
+        "offenseDate": "2022-11-27T00:00:00",
+        "incident": "22-M22499",
+        "court": "SC",
+        "courtReference": "23-1-00129-29",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "DUI FELONY",
+        "offenseDate": "2022-11-27T00:00:00",
+        "incident": "22-M22499",
+        "court": "SC",
+        "courtReference": "23-1-00129-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T07:11:17",
     "releasedAt": null,
@@ -23297,10 +23322,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-08T08:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
