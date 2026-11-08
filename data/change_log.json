@@ -211,7 +211,7 @@
     "name": "MOSS, ASHLEY ANN",
     "bookedAt": "2026-11-07T12:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -28544,7 +28544,7 @@
     "name": "BLUMANTHAL, EMILY ROSE",
     "bookedAt": "2026-07-09T08:15:00",
     "scheduledRelease": "2026-11-11T22:30:00",
-    "location": "J201",
+    "location": "J211",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
