@@ -37,6 +37,30 @@
     "baseline": false
   },
   {
+    "id": "689834-20261108114800",
+    "nameNumber": "689834",
+    "name": "GUILLEN, JOSE GUADALUPE",
+    "bookedAt": "2026-11-08T11:48:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-08T11:21:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T15:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "699544-20261108072200",
     "nameNumber": "699544",
     "name": "MORRISON, BRITTANY LYNN",
@@ -332,7 +356,7 @@
         "courtReference": "6A0434449",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -344,7 +368,7 @@
         "courtReference": "6A0434449",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -5636,10 +5660,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T00:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-08T15:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
