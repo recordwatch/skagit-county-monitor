@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T13:11:16",
+  "generatedAt": "2026-11-08T14:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 546,
-    "bookingsObserved": 343,
-    "releasesObserved": 360,
+    "bookingsTracked": 547,
+    "bookingsObserved": 344,
+    "releasesObserved": 361,
     "inCustody": 186,
-    "uniquePeople": 528
+    "uniquePeople": 529
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 4,
-      "released": 1
+      "booked": 5,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -278,7 +278,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 76,
-      "pct": 14,
+      "pct": 13.9,
       "label": "WA STATE PATROL"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 51,
-      "pct": 9.4,
+      "count": 52,
+      "pct": 9.5,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 196,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 53,
-      "pct": 2.8,
+      "count": 54,
+      "pct": 2.9,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 88,
-      "pct": 16.2
+      "count": 89,
+      "pct": 16.3
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 76,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 464,
-      "pct": 39.9
+      "count": 468,
+      "pct": 40.1
     },
     {
       "name": "Sentence Complete Release",
@@ -481,7 +481,7 @@
     {
       "name": "Dismissed",
       "count": 102,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "Dept Of Corrections Release",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DORM 1 (E101)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "K",
       "count": 15,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "M",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 11.7
+      "count": 21,
+      "pct": 12.2
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 17.5
+      "pct": 17.4
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 635,
+      "count": 632,
       "pct": 95.8
     },
     {
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 354,
-    "observed": 6,
+    "observed": 7,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 358,
+    "releasedCount": 359,
     "medianDays": 2,
-    "meanDays": 49.4,
+    "meanDays": 49.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 122
+        "count": 123
       },
       {
         "label": "1–3 days",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 47.5,
-    "currentLongestDaysHeld": 996.8
+    "currentLongestDaysHeld": 996.9
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 66,
+    "withBond": 119,
+    "noBond": 67,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19020950
+    "totalBond": 19021450
   },
   "chargesPerBooking": 3.5
 }
