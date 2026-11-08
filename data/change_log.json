@@ -53,7 +53,20 @@
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 2ND BODILY HARM",
+        "offenseDate": "2026-11-08T11:21:00",
+        "incident": "26-13524",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T15:11:14",
     "releasedAt": null,
@@ -373,10 +386,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T21:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-08T15:54:50",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1272,7 +1285,7 @@
     "nameNumber": "199347",
     "name": "ECKARD, ADAM LEE",
     "bookedAt": "2026-11-06T15:47:00",
-    "scheduledRelease": "2026-11-08T15:47:00",
+    "scheduledRelease": "2026-11-08T15:37:33",
     "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -1293,7 +1306,7 @@
         "courtReference": "6A0205189",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
