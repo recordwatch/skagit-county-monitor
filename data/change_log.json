@@ -88,7 +88,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 26000,
+    "bondTotal": 36000,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -173,10 +173,95 @@
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2025-06-06T00:00:00",
+        "incident": "25-06598",
+        "court": "DC",
+        "courtReference": "5A0563982",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2025-06-06T00:00:00",
+        "incident": "25-06598",
+        "court": "DC",
+        "courtReference": "5A0563982",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-07T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "275703-20261107125500",
+    "nameNumber": "275703",
+    "name": "MOSS, ASHLEY ANN",
+    "bookedAt": "2026-11-07T12:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-07T11:46:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-11-07T11:46:00",
+        "incident": "26-13501",
+        "court": "DC",
+        "courtReference": "6A0031266",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2025-06-03T00:00:00",
+        "incident": "25-B03720",
+        "court": "BMC",
+        "courtReference": "5A0566533",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-07T12:55:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "22-1-00258-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T16:11:15",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -187,7 +272,7 @@
     "name": "TINOCO-LOPEZ, JOSE OMAR",
     "bookedAt": "2026-11-07T10:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -261,7 +346,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 1ST FIREARM/DEADLY WEAPON",
+        "description": "ASSAULT 1ST FIREARM/DEADLY WEAPON DVPA",
         "offenseDate": "2026-11-07T07:57:00",
         "incident": "26-13495",
         "court": "SC",

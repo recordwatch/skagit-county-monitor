@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T15:11:16",
+  "generatedAt": "2026-11-07T16:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 537,
-    "bookingsObserved": 334,
+    "bookingsTracked": 538,
+    "bookingsObserved": 335,
     "releasesObserved": 359,
-    "inCustody": 178,
-    "uniquePeople": 520
+    "inCustody": 179,
+    "uniquePeople": 521
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 8,
+      "booked": 9,
       "released": 1
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 79,
-      "pct": 4.2
+      "count": 80,
+      "pct": 4.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -193,8 +193,8 @@
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 42,
-      "pct": 2.2
+      "count": 43,
+      "pct": 2.3
     },
     {
       "name": "RECKLESS DRIVING",
@@ -213,8 +213,8 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 34,
-      "pct": 1.8
+      "count": 35,
+      "pct": 1.9
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -223,8 +223,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 30,
-      "pct": 1.6
+      "count": 31,
+      "pct": 1.7
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 112,
-      "pct": 20.9,
+      "count": 113,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 49,
-      "pct": 9.2,
+      "pct": 9.1,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 41,
-      "pct": 7.7,
+      "pct": 7.6,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 19,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -328,30 +328,30 @@
     {
       "name": "SC",
       "count": 1015,
-      "pct": 54.2,
+      "pct": 54,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 281,
-      "pct": 15,
+      "count": 284,
+      "pct": 15.1,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
       "count": 196,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 156,
-      "pct": 8.3,
+      "count": 157,
+      "pct": 8.4,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
-      "count": 84,
+      "count": 85,
       "pct": 4.5,
       "label": "Other"
     },
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 87,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 74,
-      "pct": 13.8
+      "count": 75,
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 15,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "M",
@@ -558,38 +558,38 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.8
+      "count": 17,
+      "pct": 10.4
     },
     {
       "name": "P",
       "count": 30,
-      "pct": 18.4
+      "pct": 18.3
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 14.1
+      "pct": 14
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 623,
+      "count": 627,
       "pct": 95.7
     },
     {
@@ -638,15 +638,15 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 49.5,
-    "currentLongestDaysHeld": 995.9
+    "currentMedianDaysHeld": 49,
+    "currentLongestDaysHeld": 996
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18971950
+    "totalBond": 18985450
   },
   "chargesPerBooking": 3.5
 }
