@@ -28,6 +28,18 @@
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-08T06:18:00",
+        "incident": "26-13539",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -43,17 +55,42 @@
     "bookedAt": "2026-11-08T06:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-08T04:04:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-08T04:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00991452",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-08T04:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00991452",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T07:11:17",
     "releasedAt": null,
@@ -6879,7 +6916,7 @@
     "name": "TURNER, ALEXIS JANE",
     "bookedAt": "2026-10-27T17:10:00",
     "scheduledRelease": null,
-    "location": "R102",
+    "location": "R110",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

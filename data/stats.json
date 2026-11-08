@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:11:17",
+  "generatedAt": "2026-11-08T10:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 546,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 130,
+      "count": 131,
       "pct": 6.9
     },
     {
@@ -192,14 +192,14 @@
       "pct": 3.3
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "name": "RECKLESS DRIVING",
       "count": 43,
       "pct": 2.3
     },
     {
-      "name": "RECKLESS DRIVING",
-      "count": 42,
-      "pct": 2.2
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "count": 43,
+      "pct": 2.3
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -214,7 +214,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 35,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -227,13 +227,13 @@
       "pct": 1.6
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "RESISTING ARREST",
       "count": 29,
       "pct": 1.5
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 28,
+      "name": "ATTEMPT TO ELUDE",
+      "count": 29,
       "pct": 1.5
     },
     {
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 115,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 75,
-      "pct": 13.8,
+      "count": 76,
+      "pct": 14,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 65,
-      "pct": 12,
+      "pct": 11.9,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1018,
-      "pct": 53.9,
+      "count": 1019,
+      "pct": 53.8,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 290,
-      "pct": 15.3,
+      "count": 292,
+      "pct": 15.4,
       "label": "Skagit County District Court"
     },
     {
@@ -394,7 +394,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 78,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -408,13 +408,13 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 34,
-      "pct": 6.3
+      "count": 35,
+      "pct": 6.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 28,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "DUI COMMITMENT ARREST",
