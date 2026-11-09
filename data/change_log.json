@@ -6,17 +6,90 @@
     "bookedAt": "2026-11-09T11:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-09T11:11:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 12000,
+    "charges": [
+      {
+        "description": "POSS STOLEN PROP 2ND >750",
+        "offenseDate": "2026-07-09T00:00:00",
+        "incident": "26-B05103",
+        "court": "SC",
+        "courtReference": "26-1-00380-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-07-09T00:00:00",
+        "incident": "26-B05103",
+        "court": "SC",
+        "courtReference": "26-1-00380-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-07-09T00:00:00",
+        "incident": "26-B05103",
+        "court": "SC",
+        "courtReference": "26-1-00380-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-04-27T00:00:00",
+        "incident": "25-M06717",
+        "court": "MVMC",
+        "courtReference": "5A0440000",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-09-03T00:00:00",
+        "incident": "26-M13341",
+        "court": "MVMC",
+        "courtReference": "6A0383626",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-10-27T00:00:00",
+        "incident": "25-M17276",
+        "court": "MVMC",
+        "courtReference": "5A0871009",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T13:11:16",
     "releasedAt": null,
@@ -238,10 +311,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T00:11:50",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -568,10 +641,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T19:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -605,10 +678,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T20:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -703,10 +776,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T14:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -838,10 +911,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T07:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -899,7 +972,7 @@
     "name": "HEDEEN, JESSICA DAWN",
     "bookedAt": "2026-11-08T03:20:00",
     "scheduledRelease": null,
-    "location": "R208",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -919,7 +992,7 @@
         "courtReference": "T00884961",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1010,10 +1083,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1120,10 +1193,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T21:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1448,10 +1521,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T14:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1522,10 +1595,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T06:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1656,10 +1729,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T04:11:21",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2291,10 +2364,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T10:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T14:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
