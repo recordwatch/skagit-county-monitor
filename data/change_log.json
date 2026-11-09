@@ -24,6 +24,30 @@
     "baseline": false
   },
   {
+    "id": "614768-20261108152000",
+    "nameNumber": "614768",
+    "name": "INFANTE, JORGE",
+    "bookedAt": "2026-11-08T15:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T19:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "222778-20261108134540",
     "nameNumber": "222778",
     "name": "PERRY, LAUREN MAE",
