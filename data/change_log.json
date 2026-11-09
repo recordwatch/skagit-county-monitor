@@ -1,5 +1,54 @@
 [
   {
+    "id": "517384-20261109100000",
+    "nameNumber": "517384",
+    "name": "PEREZ-DOMINGUEZ, MIGUEL ANGEL",
+    "bookedAt": "2026-11-09T10:00:00",
+    "scheduledRelease": "2026-12-08T06:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T10:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-01-12T00:00:00",
+        "incident": "25-M00760",
+        "court": "SC",
+        "courtReference": "25-1-00030-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2025-01-12T00:00:00",
+        "incident": "25-M00760",
+        "court": "SC",
+        "courtReference": "25-1-00030-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T11:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "741664-20261109084500",
     "nameNumber": "741664",
     "name": "PRESSON, ERIC ROGER",
@@ -86,7 +135,7 @@
         "courtReference": "6A0405307",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -382,7 +431,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -390,9 +439,9 @@
         "incident": "26-M16517",
         "court": "MVMC",
         "courtReference": "6A0394356",
-        "bailAmount": 3000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -403,8 +452,8 @@
         "court": "MVMC",
         "courtReference": "6A0394356",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -415,8 +464,8 @@
         "court": "MVMC",
         "courtReference": "6A0394356",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -541,7 +590,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HIT/RUN UNATTENDED PROPERTY",
@@ -549,9 +598,9 @@
         "incident": "24-W03173",
         "court": "SWMC",
         "courtReference": "4A0163636",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -934,7 +983,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -942,9 +991,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "4A0658518",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -954,9 +1003,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009389",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -967,8 +1016,8 @@
         "court": "DC",
         "courtReference": "PA0009389",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1068,7 +1117,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 36000,
+    "bondTotal": 700,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -1076,7 +1125,7 @@
         "incident": "26-13501",
         "court": "DC",
         "courtReference": "6A0031267",
-        "bailAmount": 1000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1088,7 +1137,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0008227",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1100,7 +1149,7 @@
         "incident": "24-11891",
         "court": "DC",
         "courtReference": "4A0188196",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1112,7 +1161,7 @@
         "incident": "24-15903",
         "court": "DC",
         "courtReference": "4A0679265",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1124,7 +1173,7 @@
         "incident": "25-00474",
         "court": "DC",
         "courtReference": "5A0051330",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1136,7 +1185,7 @@
         "incident": "25-B03720",
         "court": "BMC",
         "courtReference": "5A0393646",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1160,7 +1209,7 @@
         "incident": "25-06598",
         "court": "DC",
         "courtReference": "5A0563982",
-        "bailAmount": 10000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1347,7 +1396,7 @@
   {
     "id": "505686-20261107050500",
     "nameNumber": "505686",
-    "name": "DIAZ-HERNANDEZ, MATTHEW J",
+    "name": "DIAZ-HERNANDEZ, MATTHEW JESUS",
     "bookedAt": "2026-11-07T05:05:00",
     "scheduledRelease": null,
     "location": "N201",
@@ -1370,7 +1419,7 @@
         "courtReference": "T00884959",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -2129,7 +2178,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -2137,9 +2186,9 @@
         "incident": "26-W02784",
         "court": "SWMC",
         "courtReference": "6A0173301",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -10744,7 +10793,7 @@
     "nameNumber": "410495",
     "name": "CHAVEZ-OCHOA, JOSE LUIS",
     "bookedAt": "2026-10-21T09:00:00",
-    "scheduledRelease": "2026-11-13T09:00:00",
+    "scheduledRelease": "2026-11-09T09:00:00",
     "location": "MALE INMATE WORKER (E103)",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
