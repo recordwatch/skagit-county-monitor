@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T11:11:18",
+  "generatedAt": "2026-11-09T12:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 560,
-    "bookingsObserved": 357,
+    "bookingsTracked": 562,
+    "bookingsObserved": 359,
     "releasesObserved": 370,
-    "inCustody": 190,
-    "uniquePeople": 542
+    "inCustody": 192,
+    "uniquePeople": 543
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 3,
+      "booked": 5,
       "released": 4
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 121,
-      "pct": 6.3
+      "count": 122,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 481,
-      "pct": 40.6
+      "count": 484,
+      "pct": 40.7
     },
     {
       "name": "Sentence Complete Release",
@@ -638,12 +638,12 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 44,
+    "currentMedianDaysHeld": 41.4,
     "currentLongestDaysHeld": 997.8
   },
   "bond": {
     "withBond": 120,
-    "noBond": 70,
+    "noBond": 72,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18991650
