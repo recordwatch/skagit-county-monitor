@@ -1,5 +1,66 @@
 [
   {
+    "id": "741664-20261109084500",
+    "nameNumber": "741664",
+    "name": "PRESSON, ERIC ROGER",
+    "bookedAt": "2026-11-09T08:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T08:45:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T09:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "318848-20261109082500",
+    "nameNumber": "318848",
+    "name": "SHEA, MEGHAN JEAN",
+    "bookedAt": "2026-11-09T08:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T07:50:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2023-05-31T00:00:00",
+        "incident": "23-06990",
+        "court": "DC",
+        "courtReference": "C00068804",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T09:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "695102-20261108221000",
     "nameNumber": "695102",
     "name": "WARREN, SHAKUR ALLEN",
