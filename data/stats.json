@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:12:53",
+  "generatedAt": "2026-11-09T07:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 557,
@@ -475,18 +475,23 @@
     },
     {
       "name": "Serving Commit",
-      "count": 119,
+      "count": 118,
       "pct": 10.1
     },
     {
       "name": "Dismissed",
-      "count": 103,
-      "pct": 8.8
+      "count": 97,
+      "pct": 8.3
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 73,
-      "pct": 6.2
+      "count": 80,
+      "pct": 6.8
+    },
+    {
+      "name": "Amended",
+      "count": 56,
+      "pct": 4.8
     },
     {
       "name": "Bail Bond Release",
@@ -494,14 +499,9 @@
       "pct": 4.3
     },
     {
-      "name": "Amended",
-      "count": 50,
-      "pct": 4.3
-    },
-    {
       "name": "Pending Transport",
-      "count": 22,
-      "pct": 1.9
+      "count": 16,
+      "pct": 1.4
     },
     {
       "name": "Shuttle Release",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.3
+      "pct": 8.4
     },
     {
       "name": "K",
-      "count": 15,
-      "pct": 8.3
+      "count": 14,
+      "pct": 7.8
     },
     {
       "name": "M",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 29,
-      "pct": 16.1
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.4
+      "pct": 14.5
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 13.9
+      "pct": 14
     }
   ],
   "bailTypes": [
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 354,
-    "observed": 12,
+    "official": 361,
+    "observed": 5,
     "reportOnly": 34
   },
   "stay": {
@@ -638,7 +638,7 @@
         "count": 29
       }
     ],
-    "currentMedianDaysHeld": 46.2,
+    "currentMedianDaysHeld": 46.3,
     "currentLongestDaysHeld": 997.6
   },
   "bond": {
