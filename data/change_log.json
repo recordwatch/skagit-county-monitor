@@ -1,5 +1,29 @@
 [
   {
+    "id": "695102-20261108221000",
+    "nameNumber": "695102",
+    "name": "WARREN, SHAKUR ALLEN",
+    "bookedAt": "2026-11-08T22:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T00:11:50",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "483127-20261108200500",
     "nameNumber": "483127",
     "name": "SANCHEZ, FELIPE",
@@ -103,7 +127,7 @@
     "name": "JONATHAN, SANDY",
     "bookedAt": "2026-11-08T18:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -152,7 +176,7 @@
     "name": "WILL, STEPHANIE LYNNE",
     "bookedAt": "2026-11-08T16:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J203",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -335,7 +359,7 @@
     "name": "THOMAS, ZACHARY OWEN",
     "bookedAt": "2026-11-08T15:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -25564,7 +25588,7 @@
     "name": "EMMIL, JASON DON KENNETH",
     "bookedAt": "2026-08-25T17:20:00",
     "scheduledRelease": null,
-    "location": "Q206",
+    "location": "Q201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -36724,7 +36748,7 @@
     "name": "KELLY, JAMES JOSEPH",
     "bookedAt": "2024-03-21T23:55:00",
     "scheduledRelease": null,
-    "location": "Q207",
+    "location": "Q206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
