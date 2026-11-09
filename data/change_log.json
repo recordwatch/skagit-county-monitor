@@ -1,5 +1,66 @@
 [
   {
+    "id": "222778-20261108134540",
+    "nameNumber": "222778",
+    "name": "PERRY, LAUREN MAE",
+    "bookedAt": "2026-11-08T13:45:40",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-08T12:32:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "ANIMAL CRUELTY 1ST",
+        "offenseDate": "2019-07-16T00:00:00",
+        "incident": "19-10173",
+        "court": "SC",
+        "courtReference": "19-1-01366-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Felony Book And Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ANIMAL CRUELTY 2ND",
+        "offenseDate": "2019-07-16T00:00:00",
+        "incident": "19-10173",
+        "court": "SC",
+        "courtReference": "19-1-01366-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Felony Book And Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2020-07-10T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "XZ0129864",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T17:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "485773-20261108123200",
     "nameNumber": "485773",
     "name": "HALL, ANTHONY ROCCO",
@@ -79,7 +140,7 @@
     "name": "MORRISON, BRITTANY LYNN",
     "bookedAt": "2026-11-08T07:22:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R209",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -310,7 +371,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -318,9 +379,9 @@
         "incident": "26-W00083",
         "court": "SWMC",
         "courtReference": "6A0067606",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -1311,10 +1372,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T18:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-08T17:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
