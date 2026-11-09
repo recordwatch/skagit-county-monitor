@@ -42,7 +42,7 @@
     "name": "SANCHEZ, FELIPE",
     "bookedAt": "2026-11-08T20:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -274,7 +274,7 @@
     "name": "GUILLEN, MIGUEL ANGEL V",
     "bookedAt": "2026-11-08T16:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
