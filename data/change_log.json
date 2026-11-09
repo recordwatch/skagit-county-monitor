@@ -1,5 +1,29 @@
 [
   {
+    "id": "431535-20261108165000",
+    "nameNumber": "431535",
+    "name": "WILL, STEPHANIE LYNNE",
+    "bookedAt": "2026-11-08T16:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T18:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "222778-20261108134540",
     "nameNumber": "222778",
     "name": "PERRY, LAUREN MAE",
@@ -54,10 +78,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T17:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-08T18:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -66,7 +90,7 @@
     "name": "HALL, ANTHONY ROCCO",
     "bookedAt": "2026-11-08T12:32:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
