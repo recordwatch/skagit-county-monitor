@@ -17,10 +17,10 @@
     ],
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T09:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T10:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -39,7 +39,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -47,8 +47,8 @@
         "incident": "23-06990",
         "court": "DC",
         "courtReference": "C00068804",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -568,7 +568,7 @@
     "name": "GUILLEN, JOSE GUADALUPE",
     "bookedAt": "2026-11-08T11:48:00",
     "scheduledRelease": null,
-    "location": "J207",
+    "location": "J206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -704,13 +704,13 @@
     "bookedAt": "2026-11-08T05:30:00",
     "scheduledRelease": null,
     "location": "J105",
-    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-08T04:18:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 20000,
@@ -725,7 +725,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "DUI FELONY",
@@ -737,7 +737,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -1583,7 +1583,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2026-05-07T00:00:00",
         "incident": "26-M06390",
         "court": "SC",

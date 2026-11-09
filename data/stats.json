@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-09T09:11:17",
+  "generatedAt": "2026-11-09T10:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 559,
     "bookingsObserved": 356,
-    "releasesObserved": 369,
-    "inCustody": 190,
+    "releasesObserved": 370,
+    "inCustody": 189,
     "uniquePeople": 541
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-09",
       "booked": 2,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 122,
-      "pct": 6.4
+      "count": 121,
+      "pct": 6.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -243,7 +243,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-      "count": 24,
+      "count": 25,
       "pct": 1.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 132,
-      "pct": 23.7,
+      "count": 133,
+      "pct": 23.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 52,
-      "pct": 9.3,
+      "count": 51,
+      "pct": 9.2,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 642,
+      "count": 643,
       "pct": 95.8
     },
     {
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 361,
-    "observed": 8,
+    "observed": 9,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 367,
+    "releasedCount": 368,
     "medianDays": 2,
-    "meanDays": 49.8,
+    "meanDays": 49.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 125
+        "count": 126
       },
       {
         "label": "1–3 days",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 43.9,
+    "currentMedianDaysHeld": 45,
     "currentLongestDaysHeld": 997.7
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 67,
-    "medianBond": 50000,
+    "withBond": 124,
+    "noBond": 65,
+    "medianBond": 47500,
     "maxBond": 1350000,
-    "totalBond": 19044950
+    "totalBond": 19049950
   },
   "chargesPerBooking": 3.4
 }
