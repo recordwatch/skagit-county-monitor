@@ -311,7 +311,7 @@
     "name": "INFANTE, JORGE",
     "bookedAt": "2026-11-08T15:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
