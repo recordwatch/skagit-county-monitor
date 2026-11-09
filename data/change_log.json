@@ -1,9 +1,9 @@
 [
   {
-    "id": "149257-20261109111500",
-    "nameNumber": "149257",
-    "name": "MUNOZ, GUADALUPE",
-    "bookedAt": "2026-11-09T11:15:00",
+    "id": "451735-20261109113000",
+    "nameNumber": "451735",
+    "name": "TUCKER, JEREMY RYAN",
+    "bookedAt": "2026-11-09T11:30:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -18,6 +18,43 @@
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
+    "firstSeen": "2026-11-09T13:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "149257-20261109111500",
+    "nameNumber": "149257",
+    "name": "MUNOZ, GUADALUPE",
+    "bookedAt": "2026-11-09T11:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T11:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 25-1-00383-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-11-09T12:11:16",
     "releasedAt": null,
     "releaseSource": null,
@@ -30,17 +67,30 @@
     "bookedAt": "2026-11-09T11:15:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-09T10:30:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 24-1-00618-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T12:11:16",
     "releasedAt": null,
@@ -126,7 +176,7 @@
     "name": "SHEA, MEGHAN JEAN",
     "bookedAt": "2026-11-09T08:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R210",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -550,7 +600,7 @@
         "courtReference": "T00976698",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -771,7 +821,7 @@
         "courtReference": "T00991452",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -783,7 +833,7 @@
         "courtReference": "T00991452",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1554,7 +1604,7 @@
   {
     "id": "461154-20261107031500",
     "nameNumber": "461154",
-    "name": "PRICE-NESS, COLTON E",
+    "name": "PRICE-NESS, COLTON ELLIOT",
     "bookedAt": "2026-11-07T03:15:00",
     "scheduledRelease": null,
     "location": "N108",
@@ -1567,7 +1617,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1577,7 +1627,7 @@
         "courtReference": "T00884958",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1587,9 +1637,9 @@
         "incident": "26-B00284",
         "court": "BMC",
         "courtReference": "6A0123224",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1600,8 +1650,8 @@
         "court": "BMC",
         "courtReference": "6A0123224",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -2155,10 +2205,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T14:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

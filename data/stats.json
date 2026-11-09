@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T12:11:16",
+  "generatedAt": "2026-11-09T13:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 562,
-    "bookingsObserved": 359,
-    "releasesObserved": 370,
+    "bookingsTracked": 563,
+    "bookingsObserved": 360,
+    "releasesObserved": 371,
     "inCustody": 192,
-    "uniquePeople": 543
+    "uniquePeople": 544
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 5,
-      "released": 4
+      "booked": 6,
+      "released": 5
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 82,
-      "pct": 4.3
+      "count": 84,
+      "pct": 4.4
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 134,
-      "pct": 24,
+      "pct": 23.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 78,
-      "pct": 14,
+      "pct": 13.9,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 69,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -300,16 +300,16 @@
       "label": "ANACORTES POLICE DEPT"
     },
     {
+      "name": "DEPARTMENT OF CORRECTIONS",
+      "count": 21,
+      "pct": 3.8,
+      "label": "DEPARTMENT OF CORRECTIONS"
+    },
+    {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 20,
       "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
-    },
-    {
-      "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 19,
-      "pct": 3.4,
-      "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
       "name": "SKAGIT COUNTY JAIL",
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 87,
-      "pct": 4.5,
+      "count": 89,
+      "pct": 4.6,
       "label": "Other"
     },
     {
@@ -384,22 +384,22 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 115,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 92,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 79,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 79,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 36,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -423,8 +423,8 @@
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 18,
-      "pct": 3.2
+      "count": 20,
+      "pct": 3.6
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -460,28 +460,28 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 484,
-      "pct": 40.7
+      "count": 490,
+      "pct": 41
     },
     {
       "name": "Sentence Complete Release",
       "count": 133,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "Serving Commit",
       "count": 120,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Declined To Prosecute",
       "count": 120,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "Dismissed",
       "count": 97,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "Dept Of Corrections Release",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 28,
-      "pct": 15.7
+      "count": 27,
+      "pct": 15.2
     },
     {
       "name": "P",
@@ -582,14 +582,14 @@
     },
     {
       "name": "R",
-      "count": 25,
-      "pct": 14
+      "count": 26,
+      "pct": 14.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 635,
+      "count": 633,
       "pct": 95.8
     },
     {
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 361,
-    "observed": 9,
+    "observed": 10,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 368,
+    "releasedCount": 369,
     "medianDays": 2,
-    "meanDays": 49.6,
+    "meanDays": 49.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -623,7 +623,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 29
+        "count": 30
       },
       {
         "label": "1–4 weeks",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 997.8
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 72,
+    "withBond": 119,
+    "noBond": 73,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18991650
+    "totalBond": 18990650
   },
   "chargesPerBooking": 3.4
 }
