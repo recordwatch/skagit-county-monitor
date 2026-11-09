@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:11:15",
+  "generatedAt": "2026-11-09T04:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 557,
@@ -476,12 +476,12 @@
     {
       "name": "Serving Commit",
       "count": 119,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "Dismissed",
-      "count": 102,
-      "pct": 8.7
+      "count": 103,
+      "pct": 8.8
     },
     {
       "name": "Dept Of Corrections Release",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 46.1,
-    "currentLongestDaysHeld": 997.4
+    "currentLongestDaysHeld": 997.5
   },
   "bond": {
     "withBond": 123,

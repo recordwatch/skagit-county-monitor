@@ -32325,7 +32325,7 @@
         "courtReference": "26-1-00267-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
