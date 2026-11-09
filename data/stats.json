@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:11:50",
+  "generatedAt": "2026-11-09T01:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 557,
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 62,
-      "pct": 3.2
+      "count": 63,
+      "pct": 3.3
     },
     {
       "name": "RECKLESS DRIVING",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 131,
-      "pct": 23.6,
+      "count": 132,
+      "pct": 23.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1025,
-      "pct": 53.6,
+      "pct": 53.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 202,
+      "count": 203,
       "pct": 10.6,
       "label": "Mount Vernon Municipal Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 115,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -392,14 +392,14 @@
       "pct": 16.4
     },
     {
-      "name": "FELONY WARRANT ARREST",
+      "name": "MISDEMEANOR CITATION ARREST",
       "count": 79,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
-      "name": "MISDEMEANOR CITATION ARREST",
-      "count": 78,
-      "pct": 14.1
+      "name": "FELONY WARRANT ARREST",
+      "count": 79,
+      "pct": 14.2
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 28,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "K",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "M",
@@ -558,32 +558,32 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "N",
-      "count": 23,
-      "pct": 13.1
+      "count": 24,
+      "pct": 13.6
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 14.9
+      "pct": 14.8
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.3
+      "pct": 14.2
     }
   ],
   "bailTypes": [
