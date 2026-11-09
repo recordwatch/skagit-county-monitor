@@ -1,5 +1,78 @@
 [
   {
+    "id": "232385-20261108193000",
+    "nameNumber": "232385",
+    "name": "BROMELS, KORY MITCHELL",
+    "bookedAt": "2026-11-08T19:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T21:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "600925-20261108183000",
+    "nameNumber": "600925",
+    "name": "JONATHAN, SANDY",
+    "bookedAt": "2026-11-08T18:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-08T18:09:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-08T18:09:00",
+        "incident": "26-B08156",
+        "court": "BMC",
+        "courtReference": "6A0240021",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2018-03-05T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "8Z0311122",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T21:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "431535-20261108165000",
     "nameNumber": "431535",
     "name": "WILL, STEPHANIE LYNNE",
@@ -15,7 +88,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 18500,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -25,6 +98,54 @@
         "courtReference": "6A0128301",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2025-11-16T00:00:00",
+        "incident": "25-M19341",
+        "court": "MVMC",
+        "courtReference": "5A0926610",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-12T00:00:00",
+        "incident": "26-B07509",
+        "court": "BMC",
+        "courtReference": "6A0273274",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-02-07T00:00:00",
+        "incident": null,
+        "court": "BMC",
+        "courtReference": "6A0141999",
+        "bailAmount": 3000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-01-01T00:00:00",
+        "incident": "25-M00013",
+        "court": "MVMC",
+        "courtReference": "6A0009349",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -56,7 +177,7 @@
     "charges": [
       {
         "description": "ASSAULT 2ND BODILY HARM",
-        "offenseDate": "2026-11-07T00:00:00",
+        "offenseDate": "2026-11-07T19:43:00",
         "incident": "26-13524",
         "court": "SC",
         "courtReference": "INV",
@@ -275,7 +396,7 @@
     "name": "GUILLEN, JOSE GUADALUPE",
     "bookedAt": "2026-11-08T11:48:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J207",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -289,7 +410,7 @@
     "charges": [
       {
         "description": "ASSAULT 2ND BODILY HARM",
-        "offenseDate": "2026-11-08T11:21:00",
+        "offenseDate": "2026-11-07T19:43:00",
         "incident": "26-13524",
         "court": "SC",
         "courtReference": "INV",
