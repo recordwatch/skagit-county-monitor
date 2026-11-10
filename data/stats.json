@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T13:23:12",
+  "generatedAt": "2026-11-10T14:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 577,
-    "bookingsObserved": 374,
+    "bookingsTracked": 578,
+    "bookingsObserved": 375,
     "releasesObserved": 401,
-    "inCustody": 176,
-    "uniquePeople": 558
+    "inCustody": 177,
+    "uniquePeople": 559
   },
   "bookingsByDay": [
     {
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 5,
+      "booked": 6,
       "released": 11
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 137,
+      "count": 138,
       "pct": 7
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 127,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 106,
-      "pct": 5.4
+      "count": 108,
+      "pct": 5.5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 135,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 82,
-      "pct": 14.3,
+      "count": 83,
+      "pct": 14.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1047,
-      "pct": 53.3,
+      "pct": 53.2,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 302,
-      "pct": 15.4,
+      "count": 305,
+      "pct": 15.5,
       "label": "Skagit County District Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 116,
-      "pct": 20.2
+      "pct": 20.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -419,12 +419,12 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 21,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 21,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -433,8 +433,8 @@
     },
     {
       "name": "DUI WARRANT ARREST",
-      "count": 13,
-      "pct": 2.3
+      "count": 14,
+      "pct": 2.4
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -471,7 +471,7 @@
     {
       "name": "Declined To Prosecute",
       "count": 128,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "Serving Commit",
@@ -495,7 +495,7 @@
     },
     {
       "name": "Bail Bond Release",
-      "count": 51,
+      "count": 52,
       "pct": 4.2
     },
     {
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 7.9
+      "count": 11,
+      "pct": 6.7
     },
     {
       "name": "K",
@@ -582,14 +582,14 @@
     },
     {
       "name": "R",
-      "count": 23,
-      "pct": 14
+      "count": 25,
+      "pct": 15.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 650,
+      "count": 652,
       "pct": 94.9
     },
     {
@@ -643,10 +643,10 @@
   },
   "bond": {
     "withBond": 125,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19079250
+    "totalBond": 19066750
   },
   "chargesPerBooking": 3.4
 }
