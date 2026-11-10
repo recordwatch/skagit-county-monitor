@@ -37,6 +37,30 @@
     "baseline": false
   },
   {
+    "id": "740765-20261109170000",
+    "nameNumber": "740765",
+    "name": "RUIZ-GALICIA, RIGOBERTO",
+    "bookedAt": "2026-11-09T17:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T20:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "65746-20261109150000",
     "nameNumber": "65746",
     "name": "CASSIMERE, DARRYL FRANCIS JR",
@@ -274,17 +298,30 @@
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-09T14:24:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-09T14:24:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00963283",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T19:11:14",
     "releasedAt": null,
@@ -872,10 +909,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T20:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T20:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1105,10 +1142,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T15:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T20:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
