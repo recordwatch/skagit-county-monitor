@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-09T23:11:14",
+  "generatedAt": "2026-11-10T00:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 570,
-    "bookingsObserved": 367,
+    "bookingsTracked": 571,
+    "bookingsObserved": 368,
     "releasesObserved": 390,
-    "inCustody": 180,
-    "uniquePeople": 551
+    "inCustody": 181,
+    "uniquePeople": 552
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-11",
-      "booked": 11,
-      "released": 6
-    },
     {
       "date": "2026-10-12",
       "booked": 15,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 13,
+      "booked": 14,
       "released": 24
+    },
+    {
+      "date": "2026-11-10",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 124,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -179,11 +179,11 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 85,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 72,
+      "count": 73,
       "pct": 3.7
     },
     {
@@ -192,19 +192,19 @@
       "pct": 3.4
     },
     {
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "count": 44,
+      "pct": 2.3
+    },
+    {
       "name": "RECKLESS DRIVING",
       "count": 44,
       "pct": 2.3
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 43,
-      "pct": 2.2
-    },
-    {
       "name": "CRIM TRESPASS 2ND",
       "count": 42,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -272,13 +272,13 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 123,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 79,
-      "pct": 13.9,
+      "count": 80,
+      "pct": 14.1,
       "label": "WA STATE PATROL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1042,
-      "pct": 53.4,
+      "count": 1047,
+      "pct": 53.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 208,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 115,
-      "pct": 20.2
+      "count": 116,
+      "pct": 20.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "M",
@@ -563,34 +563,34 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "N",
-      "count": 21,
-      "pct": 12.7
+      "count": 23,
+      "pct": 13.8
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.4
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.8
+      "pct": 15.6
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
-      "pct": 95.1
+      "count": 648,
+      "pct": 95.2
     },
     {
       "name": "SCRAM With Bail",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 48.9,
+    "currentMedianDaysHeld": 48.5,
     "currentLongestDaysHeld": 998.3
   },
   "bond": {
-    "withBond": 124,
+    "withBond": 125,
     "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19103350
+    "totalBond": 19113350
   },
   "chargesPerBooking": 3.4
 }
