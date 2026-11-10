@@ -1,5 +1,29 @@
 [
   {
+    "id": "36196-20261110104400",
+    "nameNumber": "36196",
+    "name": "BATISTA-FLORES, MANAURY FABIAN",
+    "bookedAt": "2026-11-10T10:44:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T11:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "616044-20261110030000",
     "nameNumber": "616044",
     "name": "LINBURG, SAMANTHA CLAIRE",
@@ -15,7 +39,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -23,8 +47,8 @@
         "incident": "26-13639",
         "court": "DC",
         "courtReference": "6A0363401",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -35,9 +59,9 @@
         "incident": "25-M18523",
         "court": "MVMC",
         "courtReference": "5A0918801",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -47,8 +71,8 @@
         "incident": "25-M16150",
         "court": "MVMC",
         "courtReference": "5A0836487",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -872,10 +896,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T09:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
