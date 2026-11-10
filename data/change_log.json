@@ -250,7 +250,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2024-11-12T00:00:00",
         "incident": "24-A07426",
         "court": "AMC",
@@ -262,7 +262,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2024-11-12T00:00:00",
         "incident": "24-A07426",
         "court": "AMC",
@@ -834,7 +834,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": 100,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -842,9 +842,9 @@
         "incident": "26-B08156",
         "court": "BMC",
         "courtReference": "6A0240021",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -854,7 +854,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "8Z0311122",
-        "bailAmount": 2500,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -1946,7 +1946,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "ASSAULT 1ST FIREARM/DEADLY WEAPON DVPA",
@@ -1954,8 +1954,8 @@
         "incident": "26-13495",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -1967,7 +1967,7 @@
         "court": "SC",
         "courtReference": "26-1-00626-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -2203,7 +2203,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 14000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -2235,9 +2235,9 @@
         "incident": "24-08712",
         "court": "DC",
         "courtReference": "C00069485",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2247,9 +2247,9 @@
         "incident": "26-M13373",
         "court": "MVMC",
         "courtReference": "6A0129345",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2260,8 +2260,8 @@
         "court": "MVMC",
         "courtReference": "6A0129345",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2271,9 +2271,9 @@
         "incident": "26-M11128",
         "court": "MVMC",
         "courtReference": "6A0342099",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2284,8 +2284,8 @@
         "court": "MVMC",
         "courtReference": "6A0342099",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2295,9 +2295,9 @@
         "incident": "26-B05091",
         "court": "BMC",
         "courtReference": "6A0341291",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -2307,9 +2307,9 @@
         "incident": "25-W03959",
         "court": "SWMC",
         "courtReference": "5A0333939",
-        "bailAmount": 3500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -2619,10 +2619,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T22:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2641,7 +2641,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 100,
     "charges": [
       {
         "description": "DUI",
@@ -2649,7 +2649,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0005570",
-        "bailAmount": 5000,
+        "bailAmount": 100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
@@ -2801,7 +2801,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -2809,9 +2809,9 @@
         "incident": "26-W05361",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -2820,9 +2820,9 @@
         "offenseDate": "2026-11-06T04:45:00",
         "incident": "26-W05361",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00623-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -3110,7 +3110,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3122,7 +3122,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3134,7 +3134,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3146,7 +3146,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3158,7 +3158,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3170,7 +3170,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -3181,7 +3181,7 @@
         "court": "SC",
         "courtReference": "26-1-00466-29",
         "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -3242,6 +3242,54 @@
         "courtReference": "FERNDALE 6A0055553",
         "bailAmount": 7500,
         "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-02-04T00:00:00",
+        "incident": "26-M07355",
+        "court": "SC",
+        "courtReference": "26-1-00466-29",
+        "bailAmount": null,
+        "bailType": "SCRAM With Bail",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-02-04T00:00:00",
+        "incident": "26-M07355",
+        "court": "SC",
+        "courtReference": "26-1-00466-29",
+        "bailAmount": null,
+        "bailType": "SCRAM With Bail",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-02-04T00:00:00",
+        "incident": "26-M07355",
+        "court": "SC",
+        "courtReference": "26-1-00466-29",
+        "bailAmount": null,
+        "bailType": "SCRAM With Bail",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-02-04T00:00:00",
+        "incident": "26-M07355",
+        "court": "SC",
+        "courtReference": "26-1-00466-29",
+        "bailAmount": null,
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
