@@ -971,13 +971,13 @@
     "bookedAt": "2026-11-08T19:30:00",
     "scheduledRelease": null,
     "location": "N206",
-    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-08T19:00:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": 1000,
@@ -992,7 +992,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -1004,7 +1004,7 @@
         "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",

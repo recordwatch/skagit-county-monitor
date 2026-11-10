@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:11:15",
+  "generatedAt": "2026-11-10T09:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 573,
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 124,
-      "pct": 21.7,
+      "count": 125,
+      "pct": 21.9,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 71,
-      "pct": 12.4,
+      "count": 70,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 48.7,
-    "currentLongestDaysHeld": 998.6
+    "currentLongestDaysHeld": 998.7
   },
   "bond": {
     "withBond": 126,
