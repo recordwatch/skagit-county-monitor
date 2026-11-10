@@ -1,11 +1,108 @@
 [
   {
+    "id": "65746-20261109150000",
+    "nameNumber": "65746",
+    "name": "CASSIMERE, DARRYL FRANCIS JR",
+    "bookedAt": "2026-11-09T15:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T15:00:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "THEFT 2ND DEGREE",
+        "offenseDate": "2022-11-04T00:00:00",
+        "incident": "22-15629",
+        "court": "SC",
+        "courtReference": "22-1-00728-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEGREE",
+        "offenseDate": "2022-11-04T00:00:00",
+        "incident": "22-15629",
+        "court": "SC",
+        "courtReference": "22-1-00728-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "621225-20261109150000",
+    "nameNumber": "621225",
+    "name": "HERNANDEZ-GONZALEZ, OSCAR",
+    "bookedAt": "2026-11-09T15:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "695551-20261109150000",
+    "nameNumber": "695551",
+    "name": "HURD, MICHAEL GREGORY",
+    "bookedAt": "2026-11-09T15:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "451735-20261109113000",
     "nameNumber": "451735",
     "name": "TUCKER, JEREMY RYAN",
     "bookedAt": "2026-11-09T11:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -139,7 +236,7 @@
     "name": "VARGAS-FLORES, NOLBERTO",
     "bookedAt": "2026-11-09T11:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N102",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -10990,10 +11087,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T10:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15038,10 +15135,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T16:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
