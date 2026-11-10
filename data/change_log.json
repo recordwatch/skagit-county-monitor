@@ -66,7 +66,7 @@
     "name": "ALBOR-MARTINEZ, JUAN MANUEL",
     "bookedAt": "2026-11-09T21:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -284,7 +284,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE",
@@ -292,9 +292,9 @@
         "incident": "22-15629",
         "court": "SC",
         "courtReference": "22-1-00728-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Felony Book And Release",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -305,8 +305,8 @@
         "court": "SC",
         "courtReference": "22-1-00728-29",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": "Felony Book And Release",
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },

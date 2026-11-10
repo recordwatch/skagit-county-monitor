@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:11:18",
+  "generatedAt": "2026-11-10T02:11:22",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 572,
@@ -461,12 +461,12 @@
     {
       "name": "Own Recognizance Release",
       "count": 499,
-      "pct": 41
+      "pct": 41.1
     },
     {
       "name": "Sentence Complete Release",
       "count": 133,
-      "pct": 10.9
+      "pct": 11
     },
     {
       "name": "Declined To Prosecute",
@@ -515,8 +515,8 @@
     },
     {
       "name": "Felony Book And Release",
-      "count": 4,
-      "pct": 0.3
+      "count": 2,
+      "pct": 0.2
     }
   ],
   "housingUnits": [
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,29 +567,29 @@
     },
     {
       "name": "N",
-      "count": 24,
-      "pct": 14.3
+      "count": 25,
+      "pct": 14.8
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 14.3
+      "pct": 14.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
+      "count": 649,
       "pct": 94.9
     },
     {
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 48.4,
-    "currentLongestDaysHeld": 998.3
+    "currentMedianDaysHeld": 48.5,
+    "currentLongestDaysHeld": 998.4
   },
   "bond": {
     "withBond": 126,
     "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19109850
+    "totalBond": 19114850
   },
   "chargesPerBooking": 3.4
 }
