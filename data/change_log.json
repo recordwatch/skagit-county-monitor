@@ -1,9 +1,33 @@
 [
   {
-    "id": "36196-20261110104400",
-    "nameNumber": "36196",
-    "name": "BATISTA-FLORES, MANAURY FABIAN",
-    "bookedAt": "2026-11-10T10:44:00",
+    "id": "174235-20261110113500",
+    "nameNumber": "174235",
+    "name": "JAVIER, SATURNINO JOSEPH",
+    "bookedAt": "2026-11-10T11:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-10T11:35:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T12:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "681374-20261110111500",
+    "nameNumber": "681374",
+    "name": "SANCHEZ-MENDOZA, ROBERTO",
+    "bookedAt": "2026-11-10T11:15:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -17,6 +41,43 @@
     ],
     "bondTotal": null,
     "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T12:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "36196-20261110104400",
+    "nameNumber": "36196",
+    "name": "BATISTA-FLORES, MANAURY FABIAN",
+    "bookedAt": "2026-11-10T10:44:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-10T10:30:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-10T10:30:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00076-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T11:11:14",
     "releasedAt": null,
@@ -78,10 +139,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T05:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T12:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -100,7 +161,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -108,9 +169,9 @@
         "incident": "26-M16606",
         "court": "MVMC",
         "courtReference": "6A0440339",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -121,8 +182,8 @@
         "court": "MVMC",
         "courtReference": "6A0440339",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -281,7 +342,7 @@
         "courtReference": "5A0440257",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }

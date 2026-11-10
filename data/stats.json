@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T11:11:14",
+  "generatedAt": "2026-11-10T12:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 574,
-    "bookingsObserved": 371,
-    "releasesObserved": 396,
-    "inCustody": 178,
-    "uniquePeople": 555
+    "bookingsTracked": 576,
+    "bookingsObserved": 373,
+    "releasesObserved": 397,
+    "inCustody": 179,
+    "uniquePeople": 557
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 2,
-      "released": 6
+      "booked": 4,
+      "released": 7
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 85,
-      "pct": 4.3
+      "count": 86,
+      "pct": 4.4
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 125,
-      "pct": 21.9,
+      "pct": 21.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 80,
-      "pct": 14,
+      "count": 81,
+      "pct": 14.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 70,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 42,
-      "pct": 7.4,
+      "pct": 7.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 21,
-      "pct": 3.7,
+      "count": 22,
+      "pct": 3.8,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "SAN JUAN COUNTY SHERIFF",
       "count": 6,
-      "pct": 1.1,
+      "pct": 1,
       "label": "SAN JUAN COUNTY SHERIFF"
     }
   ],
@@ -351,7 +351,7 @@
     },
     {
       "name": "OTHR",
-      "count": 90,
+      "count": 91,
       "pct": 4.6,
       "label": "Other"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 116,
-      "pct": 20.3
+      "pct": 20.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 92,
-      "pct": 16.1
+      "count": 93,
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 46,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DUI CITATION ARREST",
@@ -417,14 +417,14 @@
       "pct": 4.9
     },
     {
-      "name": "DUI COMMITMENT ARREST",
+      "name": "DEPT OF CORRECTIONS HOLD",
       "count": 21,
       "pct": 3.7
     },
     {
-      "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 20,
-      "pct": 3.5
+      "name": "DUI COMMITMENT ARREST",
+      "count": 21,
+      "pct": 3.7
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 503,
-      "pct": 41.3
+      "count": 506,
+      "pct": 41.4
     },
     {
       "name": "Sentence Complete Release",
@@ -476,17 +476,17 @@
     {
       "name": "Serving Commit",
       "count": 120,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "Dismissed",
       "count": 97,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 81,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "Amended",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 8.4
+      "count": 13,
+      "pct": 7.9
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.9
     },
     {
       "name": "M",
@@ -563,22 +563,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.3
     },
     {
       "name": "N",
       "count": 20,
-      "pct": 12
+      "pct": 12.1
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.5
+      "pct": 17.6
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.7
+      "pct": 15.8
     },
     {
       "name": "R",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
+      "count": 645,
       "pct": 94.9
     },
     {
       "name": "SCRAM With Bail",
       "count": 31,
-      "pct": 4.5
+      "pct": 4.6
     },
     {
       "name": "Cash Only",
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 386,
-    "observed": 10,
+    "observed": 11,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 394,
+    "releasedCount": 395,
     "medianDays": 1.9,
-    "meanDays": 46.6,
+    "meanDays": 46.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 131
+        "count": 132
       },
       {
         "label": "1–3 days",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 50.1,
+    "currentMedianDaysHeld": 49.9,
     "currentLongestDaysHeld": 998.8
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 55,
+    "withBond": 122,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19024750
+    "totalBond": 19023250
   },
   "chargesPerBooking": 3.4
 }
