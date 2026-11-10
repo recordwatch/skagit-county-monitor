@@ -5,7 +5,7 @@
     "name": "LINBURG, SAMANTHA CLAIRE",
     "bookedAt": "2026-11-10T03:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -4249,10 +4249,10 @@
         "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T17:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T06:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
