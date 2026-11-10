@@ -1,11 +1,48 @@
 [
   {
+    "id": "703682-20261109175500",
+    "nameNumber": "703682",
+    "name": "GARCIA-MARTINEZ, JESUS",
+    "bookedAt": "2026-11-09T17:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T17:16:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-11-09T16:13:28",
+        "incident": "26-B08184",
+        "court": "BMC",
+        "courtReference": "5A0440257",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T19:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "65746-20261109150000",
     "nameNumber": "65746",
     "name": "CASSIMERE, DARRYL FRANCIS JR",
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -226,6 +263,30 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "598603-20261109150000",
+    "nameNumber": "598603",
+    "name": "OCONNOR, BRAXTON JAMES",
+    "bookedAt": "2026-11-09T15:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T19:11:14",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -1019,7 +1080,7 @@
     "name": "GUILLEN, JOSE GUADALUPE",
     "bookedAt": "2026-11-08T11:48:00",
     "scheduledRelease": null,
-    "location": "J206",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1036,10 +1097,10 @@
         "offenseDate": "2026-11-07T19:43:00",
         "incident": "26-13524",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00627-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1191,10 +1252,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T07:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T19:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
