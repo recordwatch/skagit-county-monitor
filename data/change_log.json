@@ -1,5 +1,42 @@
 [
   {
+    "id": "743520-20261109203000",
+    "nameNumber": "743520",
+    "name": "JOHNSON, KATHERINE M",
+    "bookedAt": "2026-11-09T20:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-09T20:30:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SAN JUAN COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": null,
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "26-1-05027-28",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SAN JUAN COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T21:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "703682-20261109175500",
     "nameNumber": "703682",
     "name": "GARCIA-MARTINEZ, JESUS",
@@ -43,17 +80,42 @@
     "bookedAt": "2026-11-09T17:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-09T16:29:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-09T16:29:00",
+        "incident": "26-13617",
+        "court": "DC",
+        "courtReference": "6A0440268",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "NO VALID OPER LICEN W/O ID AID/ABET",
+        "offenseDate": "2026-11-09T16:29:00",
+        "incident": "26-13617",
+        "court": "DC",
+        "courtReference": "6A0440268",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T20:11:16",
     "releasedAt": null,
@@ -125,6 +187,18 @@
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FAIL TRANSFER TITLE W/IN 45DAY",
+        "offenseDate": "2026-09-25T00:00:00",
+        "incident": "26-B07071",
+        "court": "BMC",
+        "courtReference": "6A0402592",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -139,7 +213,7 @@
     "name": "HERNANDEZ-GONZALEZ, OSCAR",
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -662,16 +736,16 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "DUI FELONY",
         "offenseDate": "2026-11-08T16:28:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00624-29",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -681,9 +755,9 @@
         "offenseDate": "2026-11-08T16:28:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00624-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -1882,6 +1956,18 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 2ND DVPA",
+        "offenseDate": "2026-11-07T07:57:00",
+        "incident": "26-13495",
+        "court": "SC",
+        "courtReference": "26-1-00626-29",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -3014,7 +3100,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 37500,
+    "bondTotal": 27500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -3094,7 +3180,7 @@
         "incident": "26-M07355",
         "court": "SC",
         "courtReference": "26-1-00466-29",
-        "bailAmount": 25000,
+        "bailAmount": 15000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
@@ -6991,14 +7077,14 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "UNLAWFULLY CARRY A DANGEROUS WEAPON",
+        "description": "WEAPON POSSESSION BY COUNTY/LOCAL PRISONER",
         "offenseDate": "2026-10-29T15:21:00",
         "incident": "26-M16044",
         "court": "SC",
         "courtReference": "26-1-00608-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
