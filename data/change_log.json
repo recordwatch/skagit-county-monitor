@@ -79,17 +79,66 @@
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-09T15:00:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2025-01-01T00:00:00",
+        "incident": "25-00002",
+        "court": "SC",
+        "courtReference": "25-1-00122-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-01-01T00:00:00",
+        "incident": "25-00002",
+        "court": "SC",
+        "courtReference": "25-1-00122-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2024-11-12T00:00:00",
+        "incident": "24-A07426",
+        "court": "AMC",
+        "courtReference": "4A0836409",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2024-11-12T00:00:00",
+        "incident": "24-A07426",
+        "court": "AMC",
+        "courtReference": "4A0836410",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T16:11:17",
     "releasedAt": null,
@@ -1044,10 +1093,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T09:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-09T18:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2311,17 +2360,17 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 13500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
         "offenseDate": "2026-11-06T11:57:00",
         "incident": "26-SP1751",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00625-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -2331,9 +2380,9 @@
         "incident": "26-A01364",
         "court": "AMC",
         "courtReference": "6A0216200",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -2343,9 +2392,9 @@
         "incident": "25-SP1533",
         "court": "DC",
         "courtReference": "5A0204005",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -2357,7 +2406,7 @@
         "courtReference": "6A0215378",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -2367,9 +2416,9 @@
         "incident": "26-SP0417",
         "court": "DC",
         "courtReference": "6A0215378",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       },
@@ -2379,9 +2428,9 @@
         "incident": "26-A01364",
         "court": "AMC",
         "courtReference": "6A0216201",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
