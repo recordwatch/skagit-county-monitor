@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T13:11:16",
+  "generatedAt": "2026-11-10T13:23:12",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 577,
     "bookingsObserved": 374,
-    "releasesObserved": 397,
-    "inCustody": 180,
+    "releasesObserved": 401,
+    "inCustody": 176,
     "uniquePeople": 558
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-10",
       "booked": 5,
-      "released": 7
+      "released": 11
     }
   ],
   "topCharges": [
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,17 +543,17 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.9
     },
     {
       "name": "K",
-      "count": 13,
-      "pct": 7.8
+      "count": 14,
+      "pct": 8.5
     },
     {
       "name": "M",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.3
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.3
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 12
+      "count": 17,
+      "pct": 10.4
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.5
+      "pct": 17.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.5
     },
     {
       "name": "R",
       "count": 23,
-      "pct": 13.9
+      "pct": 14
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 386,
-    "observed": 11,
+    "observed": 15,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 395,
-    "medianDays": 1.9,
-    "meanDays": 46.5,
+    "releasedCount": 399,
+    "medianDays": 1.8,
+    "meanDays": 46,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 132
+        "count": 136
       },
       {
         "label": "1–3 days",
@@ -638,12 +638,12 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 49.5,
-    "currentLongestDaysHeld": 998.8
+    "currentMedianDaysHeld": 50.5,
+    "currentLongestDaysHeld": 998.9
   },
   "bond": {
     "withBond": 125,
-    "noBond": 55,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19079250
