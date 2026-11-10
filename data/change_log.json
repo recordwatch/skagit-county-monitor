@@ -1,5 +1,42 @@
 [
   {
+    "id": "159712-20261110114500",
+    "nameNumber": "159712",
+    "name": "MILLISON, DYLAN STEWART",
+    "bookedAt": "2026-11-10T11:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-10T11:13:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-04-25T00:00:00",
+        "incident": "25-B02725",
+        "court": "BMC",
+        "courtReference": "5A0286797",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T13:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "174235-20261110113500",
     "nameNumber": "174235",
     "name": "JAVIER, SATURNINO JOSEPH",
@@ -15,8 +52,21 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2024-05-05T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0286995",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T12:11:17",
     "releasedAt": null,
@@ -30,17 +80,54 @@
     "bookedAt": "2026-11-10T11:15:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-10T10:55:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 26000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-06-22T00:00:00",
+        "incident": "26-B04618",
+        "court": "BMC",
+        "courtReference": "6A0342614",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-06-22T00:00:00",
+        "incident": "26-B04618",
+        "court": "BMC",
+        "courtReference": "6A0342614",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-10T10:55:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00963286",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T12:11:17",
     "releasedAt": null,
@@ -53,7 +140,7 @@
     "name": "BATISTA-FLORES, MANAURY FABIAN",
     "bookedAt": "2026-11-10T10:44:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "Q101",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -379,7 +466,7 @@
         "courtReference": "6A0440268",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -391,7 +478,7 @@
         "courtReference": "6A0440268",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -671,7 +758,7 @@
         "courtReference": "T00963283",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
