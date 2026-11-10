@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:11:17",
+  "generatedAt": "2026-11-10T04:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 572,
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 108,
-      "pct": 5.5
+      "count": 106,
+      "pct": 5.4
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -233,7 +233,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 29,
+      "count": 30,
       "pct": 1.5
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 211,
-      "pct": 10.8,
+      "count": 210,
+      "pct": 10.7,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 649,
+      "count": 648,
       "pct": 94.9
     },
     {
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 48.5,
-    "currentLongestDaysHeld": 998.4
+    "currentLongestDaysHeld": 998.5
   },
   "bond": {
     "withBond": 126,
