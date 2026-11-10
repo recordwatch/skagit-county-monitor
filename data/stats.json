@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T00:11:15",
+  "generatedAt": "2026-11-10T01:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 571,
-    "bookingsObserved": 368,
+    "bookingsTracked": 572,
+    "bookingsObserved": 369,
     "releasesObserved": 390,
-    "inCustody": 181,
-    "uniquePeople": 552
+    "inCustody": 182,
+    "uniquePeople": 553
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 14,
+      "booked": 15,
       "released": 24
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 105,
-      "pct": 5.4
+      "count": 108,
+      "pct": 5.5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -194,12 +194,12 @@
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 44,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "RECKLESS DRIVING",
       "count": 44,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 134,
-      "pct": 23.6,
+      "count": 135,
+      "pct": 23.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 80,
-      "pct": 14.1,
+      "pct": 14,
       "label": "WA STATE PATROL"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 51,
-      "pct": 9,
+      "pct": 8.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1047,
-      "pct": 53.6,
+      "pct": 53.5,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 208,
-      "pct": 10.6,
+      "count": 211,
+      "pct": 10.8,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -389,17 +389,17 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 92,
-      "pct": 16.2
+      "pct": 16.1
+    },
+    {
+      "name": "MISDEMEANOR CITATION ARREST",
+      "count": 83,
+      "pct": 14.6
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 83,
       "pct": 14.6
-    },
-    {
-      "name": "MISDEMEANOR CITATION ARREST",
-      "count": 82,
-      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -461,12 +461,12 @@
     {
       "name": "Own Recognizance Release",
       "count": 499,
-      "pct": 41.1
+      "pct": 41
     },
     {
       "name": "Sentence Complete Release",
       "count": 133,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "Declined To Prosecute",
@@ -515,8 +515,8 @@
     },
     {
       "name": "Felony Book And Release",
-      "count": 2,
-      "pct": 0.2
+      "count": 4,
+      "pct": 0.3
     }
   ],
   "housingUnits": [
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "M",
@@ -563,39 +563,39 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "N",
-      "count": 23,
-      "pct": 13.8
+      "count": 24,
+      "pct": 14.3
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 14.4
+      "pct": 14.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 648,
-      "pct": 95.2
+      "count": 647,
+      "pct": 94.9
     },
     {
       "name": "SCRAM With Bail",
-      "count": 29,
-      "pct": 4.3
+      "count": 31,
+      "pct": 4.5
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 48.5,
+    "currentMedianDaysHeld": 48.4,
     "currentLongestDaysHeld": 998.3
   },
   "bond": {
-    "withBond": 125,
+    "withBond": 126,
     "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19113350
+    "totalBond": 19109850
   },
   "chargesPerBooking": 3.4
 }
