@@ -5,7 +5,7 @@
     "name": "TALLY, JASON AARON",
     "bookedAt": "2026-11-11T08:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -56,8 +56,8 @@
     "charges": [
       {
         "description": "ROBBERY 1ST/BODILY INJURY",
-        "offenseDate": "2026-11-11T00:00:00",
-        "incident": null,
+        "offenseDate": "2026-09-12T00:00:00",
+        "incident": "26-M13773",
         "court": "SC",
         "courtReference": "26-1-00617-29",
         "bailAmount": 100000,
@@ -68,8 +68,8 @@
       },
       {
         "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-11-11T00:00:00",
-        "incident": null,
+        "offenseDate": "2026-09-12T00:00:00",
+        "incident": "26-M13773",
         "court": "SC",
         "courtReference": "26-1-00617-29",
         "bailAmount": null,
@@ -91,7 +91,7 @@
     "name": "MACKIE-TIMMERMAN, LISA JOY",
     "bookedAt": "2026-11-11T04:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -24111,10 +24111,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-11T13:11:20",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -31062,7 +31062,7 @@
     "nameNumber": "357096",
     "name": "BLUMANTHAL, EMILY ROSE",
     "bookedAt": "2026-07-09T08:15:00",
-    "scheduledRelease": "2026-11-11T22:30:00",
+    "scheduledRelease": "2026-11-11T17:30:00",
     "location": "J211",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY COMMITMENT ARREST",
