@@ -5,7 +5,7 @@
     "name": "FUENTES, JOSE DANIEL",
     "bookedAt": "2026-11-10T13:50:00",
     "scheduledRelease": "2026-12-10T13:50:00",
-    "location": null,
+    "location": "J105",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -41,7 +41,7 @@
     "nameNumber": "707074",
     "name": "BAUER, THOMAS JOSEPH",
     "bookedAt": "2026-11-10T13:20:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2027-01-07T18:20:00",
     "location": null,
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -78,7 +78,7 @@
     "nameNumber": "674327",
     "name": "MORAZAN-SERON, ALEXI ADALID",
     "bookedAt": "2026-11-10T13:15:00",
-    "scheduledRelease": "2026-11-20T13:15:00",
+    "scheduledRelease": null,
     "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -102,18 +102,6 @@
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
-      },
-      {
-        "description": "NEG DRIVING 1ST (CRIMINAL)",
-        "offenseDate": "2022-10-22T00:00:00",
-        "incident": null,
-        "court": "DC",
-        "courtReference": "2a0565729",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": "Serving Commit",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -128,7 +116,7 @@
     "name": "GEORGE, LAURA LYNN",
     "bookedAt": "2026-11-10T12:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R209",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -156,7 +144,7 @@
         "description": "THEFT 3RD DEG",
         "offenseDate": "2024-11-15T00:00:00",
         "incident": "24-W05921",
-        "court": "DC",
+        "court": "SWMC",
         "courtReference": "4A0678622",
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
@@ -168,7 +156,7 @@
         "description": "THEFT 3RD DEG",
         "offenseDate": "2024-10-26T00:00:00",
         "incident": "24-B07970",
-        "court": "DC",
+        "court": "BMC",
         "courtReference": "4A0317909",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
@@ -180,7 +168,7 @@
         "description": "THEFT 3RD DEG",
         "offenseDate": "2025-10-26T00:00:00",
         "incident": "25-B07489",
-        "court": "DC",
+        "court": "BMC",
         "courtReference": "5A0897683",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
@@ -2365,10 +2353,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T15:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T17:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

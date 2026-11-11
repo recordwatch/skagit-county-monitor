@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T16:11:16",
+  "generatedAt": "2026-11-10T17:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 581,
     "bookingsObserved": 378,
-    "releasesObserved": 402,
-    "inCustody": 179,
+    "releasesObserved": 403,
+    "inCustody": 178,
     "uniquePeople": 562
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-10",
       "booked": 9,
-      "released": 12
+      "released": 13
     }
   ],
   "topCharges": [
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1047,
-      "pct": 53,
+      "pct": 53.1,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 309,
-      "pct": 15.7,
+      "count": 305,
+      "pct": 15.5,
       "label": "Skagit County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 167,
-      "pct": 8.5,
+      "count": 169,
+      "pct": 8.6,
       "label": "Burlington Municipal Court"
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "name": "SWMC",
-      "count": 54,
-      "pct": 2.7,
+      "count": 55,
+      "pct": 2.8,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 123,
-      "pct": 10
+      "count": 122,
+      "pct": 9.9
     },
     {
       "name": "Dismissed",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 6.7
+      "count": 12,
+      "pct": 7.2
     },
     {
       "name": "K",
       "count": 14,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 10.3
+      "count": 16,
+      "pct": 9.6
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "R",
-      "count": 26,
-      "pct": 15.8
+      "count": 27,
+      "pct": 16.3
     }
   ],
   "bailTypes": [
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 386,
-    "observed": 16,
+    "observed": 17,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 400,
+    "releasedCount": 401,
     "medianDays": 1.8,
-    "meanDays": 45.9,
+    "meanDays": 45.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -623,7 +623,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 34
+        "count": 35
       },
       {
         "label": "1–4 weeks",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 50,
+    "currentMedianDaysHeld": 50.4,
     "currentLongestDaysHeld": 999
   },
   "bond": {
-    "withBond": 126,
+    "withBond": 125,
     "noBond": 53,
-    "medianBond": 47500,
+    "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19073750
+    "totalBond": 19073050
   },
   "chargesPerBooking": 3.4
 }
