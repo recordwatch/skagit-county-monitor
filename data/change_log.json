@@ -1,5 +1,53 @@
 [
   {
+    "id": "716975-20261111043000",
+    "nameNumber": "716975",
+    "name": "MACKIE-TIMMERMAN, LISA JOY",
+    "bookedAt": "2026-11-11T04:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T05:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "743575-20261111041000",
+    "nameNumber": "743575",
+    "name": "RUSSELL, ANUHEA LILLIAN",
+    "bookedAt": "2026-11-11T04:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T05:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "185166-20261110212000",
     "nameNumber": "185166",
     "name": "ESQUIVEL-BERNAL, OSCAR",
