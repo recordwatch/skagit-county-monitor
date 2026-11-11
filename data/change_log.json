@@ -37,6 +37,55 @@
     "baseline": false
   },
   {
+    "id": "487022-20261111080500",
+    "nameNumber": "487022",
+    "name": "BROTHERS, ZACKERY WILLIAM JR",
+    "bookedAt": "2026-11-11T08:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-11T07:31:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 100000,
+    "charges": [
+      {
+        "description": "ROBBERY 1ST/BODILY INJURY",
+        "offenseDate": "2026-11-11T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-000617-29",
+        "bailAmount": 100000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-11T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-000617-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T11:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "716975-20261111043000",
     "nameNumber": "716975",
     "name": "MACKIE-TIMMERMAN, LISA JOY",
@@ -145,6 +194,18 @@
         "court": "BMC",
         "courtReference": "6A0382610",
         "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-04-02T00:00:00",
+        "incident": "26-M04442",
+        "court": "MVMC",
+        "courtReference": "6A0128315",
+        "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -273,7 +334,7 @@
     "name": "FUENTES, JOSE DANIEL",
     "bookedAt": "2026-11-10T13:50:00",
     "scheduledRelease": "2026-12-10T13:50:00",
-    "location": "J105",
+    "location": "Q106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
