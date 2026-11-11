@@ -42,7 +42,7 @@
     "name": "BAUER, THOMAS JOSEPH",
     "bookedAt": "2026-11-10T13:20:00",
     "scheduledRelease": "2027-01-07T18:20:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -79,7 +79,7 @@
     "name": "MORAZAN-SERON, ALEXI ADALID",
     "bookedAt": "2026-11-10T13:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -774,7 +774,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -782,9 +782,9 @@
         "incident": "25-00002",
         "court": "SC",
         "courtReference": "25-1-00122-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -795,8 +795,8 @@
         "court": "SC",
         "courtReference": "25-1-00122-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -806,8 +806,8 @@
         "incident": "24-A07426",
         "court": "AMC",
         "courtReference": "4A0836409",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -818,8 +818,8 @@
         "incident": "24-A07426",
         "court": "AMC",
         "courtReference": "4A0836410",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
