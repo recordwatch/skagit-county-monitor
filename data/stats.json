@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:11:16",
+  "generatedAt": "2026-11-11T03:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 582,
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 127,
+      "count": 126,
       "pct": 6.4
     },
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 87,
-      "pct": 4.4
+      "count": 88,
+      "pct": 4.5
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 214,
+      "count": 213,
       "pct": 10.8,
       "label": "Mount Vernon Municipal Court"
     },
@@ -351,14 +351,14 @@
     },
     {
       "name": "OTHR",
-      "count": 91,
+      "count": 90,
       "pct": 4.6,
       "label": "Other"
     },
     {
       "name": "AMC",
       "count": 80,
-      "pct": 4,
+      "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -460,7 +460,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 521,
+      "count": 520,
       "pct": 41.9
     },
     {
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 641,
-      "pct": 94.3
+      "count": 639,
+      "pct": 94.2
     },
     {
       "name": "SCRAM With Bail",
       "count": 35,
-      "pct": 5.1
+      "pct": 5.2
     },
     {
       "name": "Cash Only",
