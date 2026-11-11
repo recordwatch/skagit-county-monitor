@@ -752,10 +752,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T16:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T19:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -825,10 +825,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T16:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T19:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1375,7 +1375,7 @@
     "name": "JONATHAN, SANDY",
     "bookedAt": "2026-11-08T18:30:00",
     "scheduledRelease": null,
-    "location": "P107",
+    "location": null,
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -1385,7 +1385,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 100,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -1405,8 +1405,8 @@
         "incident": null,
         "court": "DC",
         "courtReference": "8Z0311122",
-        "bailAmount": 100,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -3379,10 +3379,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T07:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-10T19:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
