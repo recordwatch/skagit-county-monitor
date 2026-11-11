@@ -42,7 +42,7 @@
     "name": "BROTHERS, ZACKERY WILLIAM JR",
     "bookedAt": "2026-11-11T08:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -31896,10 +31896,10 @@
         "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-11T14:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
