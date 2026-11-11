@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T15:11:18",
+  "generatedAt": "2026-11-10T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 580,
-    "bookingsObserved": 377,
+    "bookingsTracked": 581,
+    "bookingsObserved": 378,
     "releasesObserved": 402,
-    "inCustody": 178,
-    "uniquePeople": 561
+    "inCustody": 179,
+    "uniquePeople": 562
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 8,
+      "booked": 9,
       "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 139,
-      "pct": 7
+      "count": 140,
+      "pct": 7.1
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -277,8 +277,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 83,
-      "pct": 14.4,
+      "count": 84,
+      "pct": 14.5,
       "label": "WA STATE PATROL"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1047,
-      "pct": 53.1,
+      "pct": 53,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 308,
-      "pct": 15.6,
+      "count": 309,
+      "pct": 15.7,
       "label": "Skagit County District Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 116,
-      "pct": 20.1
+      "pct": 20
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,12 +399,12 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 83,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 46,
-      "pct": 8
+      "count": 47,
+      "pct": 8.1
     },
     {
       "name": "DUI CITATION ARREST",
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 509,
-      "pct": 41.5
+      "count": 507,
+      "pct": 41.3
     },
     {
       "name": "Sentence Complete Release",
@@ -475,13 +475,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 122,
-      "pct": 9.9
+      "count": 123,
+      "pct": 10
     },
     {
       "name": "Dismissed",
-      "count": 97,
-      "pct": 7.9
+      "count": 99,
+      "pct": 8.1
     },
     {
       "name": "Dept Of Corrections Release",
@@ -638,12 +638,12 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 50.3,
-    "currentLongestDaysHeld": 998.9
+    "currentMedianDaysHeld": 50,
+    "currentLongestDaysHeld": 999
   },
   "bond": {
     "withBond": 126,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 47500,
     "maxBond": 1350000,
     "totalBond": 19073750
