@@ -605,7 +605,7 @@
         "agency": "WA STATE PATROL"
       },
       {
-        "description": "HARASSMENT/PRIOR CON - FELONY",
+        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
         "offenseDate": "2026-06-20T00:00:00",
         "incident": "26-M08961",
         "court": "SC",
@@ -2987,7 +2987,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 3RD - BODILY HARM BY WEAPON",
+        "description": "ASSAULT 3RD - BODILY HARM BY WEAPON DV",
         "offenseDate": "2021-06-15T00:00:00",
         "incident": "21-08130",
         "court": "SC",
@@ -2999,7 +2999,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "RECKLESS ENDANGERMENT",
+        "description": "RECKLESS ENDANGERMENT DVPA",
         "offenseDate": "2021-06-15T00:00:00",
         "incident": "21-08130",
         "court": "SC",
@@ -3011,7 +3011,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "HIT AND RUN ACCIDENT/INJURY-FELONY",
+        "description": "HIT AND RUN ACCIDENT/INJURY-FELONY DV",
         "offenseDate": "2021-06-15T00:00:00",
         "incident": "21-08130",
         "court": "SC",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:11:16",
+  "generatedAt": "2026-11-11T00:07:25",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 582,
@@ -9,11 +9,6 @@
     "uniquePeople": 563
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-12",
-      "booked": 15,
-      "released": 21
-    },
     {
       "date": "2026-10-13",
       "booked": 8,
@@ -158,6 +153,11 @@
       "date": "2026-11-10",
       "booked": 10,
       "released": 18
+    },
+    {
+      "date": "2026-11-11",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -252,14 +252,14 @@
       "pct": 1.2
     },
     {
-      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+      "name": "HARASSMENT/PRIOR CON - FELONY-DV",
       "count": 23,
       "pct": 1.2
     },
     {
-      "name": "HARASSMENT/PRIOR CON - FELONY-DV",
-      "count": 22,
-      "pct": 1.1
+      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+      "count": 23,
+      "pct": 1.2
     }
   ],
   "topAgencies": [
