@@ -10,9 +10,9 @@
     "arrestType": null,
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-11T00:34:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
     "bondTotal": null,
@@ -29,7 +29,7 @@
     "name": "RUSSELL, ANUHEA LILLIAN",
     "bookedAt": "2026-11-11T04:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J102",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -387,8 +387,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T12:11:17",
-    "releasedAt": "2026-11-10T15:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T14:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -546,8 +546,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T05:11:14",
-    "releasedAt": "2026-11-10T12:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T11:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -595,8 +595,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T01:11:18",
-    "releasedAt": "2026-11-10T13:23:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T13:04:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -754,8 +754,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T19:11:14",
-    "releasedAt": "2026-11-10T13:23:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T13:04:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -803,8 +803,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T20:11:16",
-    "releasedAt": "2026-11-10T13:23:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T13:04:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -888,8 +888,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T16:11:17",
-    "releasedAt": "2026-11-10T19:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T18:16:40",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -961,8 +961,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T16:11:17",
-    "releasedAt": "2026-11-10T19:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T18:15:42",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1083,8 +1083,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T19:11:14",
-    "releasedAt": "2026-11-10T13:23:12",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T13:04:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1217,8 +1217,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T12:11:16",
-    "releasedAt": "2026-11-10T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T08:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1254,8 +1254,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T12:11:16",
-    "releasedAt": "2026-11-10T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T08:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1364,8 +1364,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-09T09:11:17",
-    "releasedAt": "2026-11-10T11:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T10:38:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1548,8 +1548,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-08T21:11:18",
-    "releasedAt": "2026-11-10T20:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T19:05:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2489,8 +2489,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-07T15:11:16",
-    "releasedAt": "2026-11-10T17:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T16:57:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2868,8 +2868,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-07T02:11:15",
-    "releasedAt": "2026-11-10T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T09:18:08",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3491,8 +3491,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-06T07:11:18",
-    "releasedAt": "2026-11-10T19:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T18:35:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -4117,8 +4117,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-05T11:11:21",
-    "releasedAt": "2026-11-10T10:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T09:31:58",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -19944,8 +19944,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-10T22:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-10T21:30:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
