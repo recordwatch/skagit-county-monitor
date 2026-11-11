@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:11:14",
+  "generatedAt": "2026-11-10T21:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 581,
@@ -465,8 +465,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 133,
-      "pct": 10.7
+      "count": 134,
+      "pct": 10.8
     },
     {
       "name": "Declined To Prosecute",
@@ -475,7 +475,7 @@
     },
     {
       "name": "Serving Commit",
-      "count": 122,
+      "count": 121,
       "pct": 9.8
     },
     {
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 645,
-      "pct": 94.9
+      "count": 644,
+      "pct": 94.8
     },
     {
       "name": "SCRAM With Bail",
@@ -638,15 +638,15 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 51,
-    "currentLongestDaysHeld": 999.1
+    "currentMedianDaysHeld": 51.1,
+    "currentLongestDaysHeld": 999.2
   },
   "bond": {
     "withBond": 121,
     "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19188950
+    "totalBond": 19187950
   },
   "chargesPerBooking": 3.4
 }

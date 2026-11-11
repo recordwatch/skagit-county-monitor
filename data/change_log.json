@@ -2887,7 +2887,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 56000,
+    "bondTotal": 55000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -2895,8 +2895,8 @@
         "incident": "26-M16441",
         "court": "MVMC",
         "courtReference": "6A0394355",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -19794,7 +19794,7 @@
     "nameNumber": "492868",
     "name": "MARTINES, ANGELO RAY",
     "bookedAt": "2026-10-07T08:47:00",
-    "scheduledRelease": "2026-12-05T18:47:00",
+    "scheduledRelease": "2026-11-10T20:58:15",
     "location": "J103",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -19815,7 +19815,7 @@
         "courtReference": "C00864364",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -23922,7 +23922,7 @@
       },
       {
         "description": "ASSAULT 3RD LAW ENFORCEMENT",
-        "offenseDate": "2026-10-12T15:56:00",
+        "offenseDate": "2026-10-12T09:30:00",
         "incident": "26-12493",
         "court": "SC",
         "courtReference": "26-1-00532-29",
