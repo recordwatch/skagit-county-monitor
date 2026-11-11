@@ -5,7 +5,7 @@
     "name": "ESQUIVEL-BERNAL, OSCAR",
     "bookedAt": "2026-11-10T21:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -30,7 +30,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-11-10T19:19:00",
         "incident": "26-W05446",
         "court": "SC",

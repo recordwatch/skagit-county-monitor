@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:11:16",
+  "generatedAt": "2026-11-10T23:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 582,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 127,
-      "pct": 6.4
+      "count": 128,
+      "pct": 6.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -238,7 +238,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-      "count": 28,
+      "count": 27,
       "pct": 1.4
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 13,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "M",
@@ -558,32 +558,32 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.8
+      "count": 17,
+      "pct": 10.4
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "R",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.5
     }
   ],
   "bailTypes": [
@@ -638,8 +638,8 @@
         "count": 32
       }
     ],
-    "currentMedianDaysHeld": 51.1,
-    "currentLongestDaysHeld": 999.2
+    "currentMedianDaysHeld": 51.2,
+    "currentLongestDaysHeld": 999.3
   },
   "bond": {
     "withBond": 122,
