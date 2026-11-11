@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:11:17",
+  "generatedAt": "2026-11-11T12:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 586,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 88,
-      "pct": 4.4
+      "count": 89,
+      "pct": 4.5
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -232,13 +232,13 @@
       "pct": 1.6
     },
     {
-      "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+      "name": "RESISTING ARREST",
       "count": 30,
       "pct": 1.5
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 30,
+      "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+      "count": 29,
       "pct": 1.5
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 220,
-      "pct": 11.1,
+      "count": 219,
+      "pct": 11,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 90,
-      "pct": 4.5,
+      "count": 91,
+      "pct": 4.6,
       "label": "Other"
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 13,
-      "pct": 7.9
+      "pct": 8
     },
     {
       "name": "M",
@@ -558,12 +558,12 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.5
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.4
     },
     {
       "name": "N",
@@ -573,23 +573,23 @@
     {
       "name": "P",
       "count": 28,
-      "pct": 17.1
+      "pct": 17.2
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.1
+      "pct": 17.2
     },
     {
       "name": "R",
-      "count": 27,
-      "pct": 16.5
+      "count": 26,
+      "pct": 16
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 651,
+      "count": 648,
       "pct": 94.3
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 999.8
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 52,
+    "withBond": 124,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19319950
+    "totalBond": 19318950
   },
   "chargesPerBooking": 3.4
 }
