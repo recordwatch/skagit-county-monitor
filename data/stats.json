@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:11:15",
+  "generatedAt": "2026-11-11T02:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 582,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 128,
-      "pct": 6.5
+      "count": 127,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -178,7 +178,7 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 86,
+      "count": 87,
       "pct": 4.4
     },
     {
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 51.3,
-    "currentLongestDaysHeld": 999.3
+    "currentLongestDaysHeld": 999.4
   },
   "bond": {
     "withBond": 122,
