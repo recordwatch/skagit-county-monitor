@@ -679,7 +679,7 @@
     "name": "CASSIMERE, DARRYL FRANCIS JR",
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -689,7 +689,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 7000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE",
@@ -697,9 +697,9 @@
         "incident": "22-15629",
         "court": "SC",
         "courtReference": "22-1-00728-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -710,8 +710,8 @@
         "court": "SC",
         "courtReference": "22-1-00728-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -721,9 +721,9 @@
         "incident": "26-B07071",
         "court": "BMC",
         "courtReference": "6A0402592",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -734,8 +734,8 @@
         "court": "BMC",
         "courtReference": "6A0402592",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -746,8 +746,8 @@
         "court": "BMC",
         "courtReference": "6A0402592",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -764,7 +764,7 @@
     "name": "HERNANDEZ-GONZALEZ, OSCAR",
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": null,
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -808,7 +808,7 @@
         "courtReference": "4A0836409",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -820,7 +820,7 @@
         "courtReference": "4A0836410",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
