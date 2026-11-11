@@ -1,5 +1,42 @@
 [
   {
+    "id": "329482-20261111085500",
+    "nameNumber": "329482",
+    "name": "TALLY, JASON AARON",
+    "bookedAt": "2026-11-11T08:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-11T07:17:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "COUNTERFT SUBSTANCE KNOW POSSES",
+        "offenseDate": "2025-08-31T00:00:00",
+        "incident": "25-SP1324",
+        "court": "DC",
+        "courtReference": "5A0791397",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T10:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "716975-20261111043000",
     "nameNumber": "716975",
     "name": "MACKIE-TIMMERMAN, LISA JOY",
@@ -151,10 +188,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T05:11:20",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-11T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -702,7 +739,7 @@
     "name": "ALBOR-MARTINEZ, JUAN MANUEL",
     "bookedAt": "2026-11-09T21:50:00",
     "scheduledRelease": null,
-    "location": "N107",
+    "location": "P106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -16728,7 +16765,7 @@
     "name": "MADDEN, DEMARCUS ROBERT",
     "bookedAt": "2026-10-13T17:45:00",
     "scheduledRelease": null,
-    "location": "P106",
+    "location": "M110",
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
