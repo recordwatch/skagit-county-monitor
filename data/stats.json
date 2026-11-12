@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:11:16",
+  "generatedAt": "2026-11-11T19:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 587,
@@ -192,6 +192,11 @@
       "pct": 3.4
     },
     {
+      "name": "CRIM TRESPASS 2ND",
+      "count": 44,
+      "pct": 2.2
+    },
+    {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 44,
       "pct": 2.2
@@ -199,11 +204,6 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 44,
-      "pct": 2.2
-    },
-    {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 43,
       "pct": 2.2
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1051,
-      "pct": 52.9,
+      "count": 1053,
+      "pct": 52.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 172,
-      "pct": 8.7,
+      "pct": 8.6,
       "label": "Burlington Municipal Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 80,
-      "pct": 4,
+      "count": 83,
+      "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -590,7 +590,7 @@
     {
       "name": "Cash/Bond Accepted",
       "count": 648,
-      "pct": 94.3
+      "pct": 93.6
     },
     {
       "name": "SCRAM With Bail",
@@ -599,8 +599,8 @@
     },
     {
       "name": "Cash Only",
-      "count": 4,
-      "pct": 0.6
+      "count": 9,
+      "pct": 1.3
     }
   ],
   "releaseSources": {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.1,
+    "currentMedianDaysHeld": 50.2,
     "currentLongestDaysHeld": 1000.1
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 51,
+    "withBond": 124,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19303950
+    "totalBond": 19311950
   },
   "chargesPerBooking": 3.4
 }
