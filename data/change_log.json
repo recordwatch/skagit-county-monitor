@@ -5,7 +5,7 @@
     "name": "BURNETT, JAZMYN LEE",
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "ROJO, JULIAN CHASE",
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -69,7 +69,7 @@
       {
         "description": "DWLS/R 2ND DEGREE",
         "offenseDate": "2026-06-25T00:00:00",
-        "incident": null,
+        "incident": "26-B04704",
         "court": "BMC",
         "courtReference": "6A0326095",
         "bailAmount": 10000,
