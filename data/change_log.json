@@ -1,11 +1,35 @@
 [
   {
+    "id": "530156-20261111230500",
+    "nameNumber": "530156",
+    "name": "DELACRUZ-ARON, ALEX",
+    "bookedAt": "2026-11-11T23:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T00:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "230868-20261111202500",
     "nameNumber": "230868",
     "name": "ERICKSON, LAURA MARGARET",
     "bookedAt": "2026-11-11T20:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -19,12 +43,12 @@
     "charges": [
       {
         "description": "INDECENT EXPOSURE",
-        "offenseDate": "2026-11-11T19:39:00",
+        "offenseDate": "2026-11-11T18:39:00",
         "incident": "26-13722",
         "court": "DC",
         "courtReference": "6A0441263",
         "bailAmount": 500,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"

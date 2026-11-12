@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-11T23:11:14",
+  "generatedAt": "2026-11-12T00:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 588,
-    "bookingsObserved": 385,
+    "bookingsTracked": 589,
+    "bookingsObserved": 386,
     "releasesObserved": 413,
-    "inCustody": 175,
+    "inCustody": 176,
     "uniquePeople": 568
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-13",
-      "booked": 8,
-      "released": 16
-    },
     {
       "date": "2026-10-14",
       "booked": 11,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 6,
+      "booked": 7,
       "released": 5
+    },
+    {
+      "date": "2026-11-12",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 10,
-      "pct": 6.1
+      "count": 11,
+      "pct": 6.6
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "M",
@@ -563,34 +563,34 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "N",
       "count": 19,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.8
+      "pct": 15.7
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 653,
-      "pct": 94.2
+      "count": 654,
+      "pct": 94.4
     },
     {
       "name": "SCRAM With Bail",
@@ -599,8 +599,8 @@
     },
     {
       "name": "Cash Only",
-      "count": 5,
-      "pct": 0.7
+      "count": 4,
+      "pct": 0.6
     }
   ],
   "releaseSources": {
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.2,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 1000.3
   },
   "bond": {
     "withBond": 125,
-    "noBond": 50,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19312450
