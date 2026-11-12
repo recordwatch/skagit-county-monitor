@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:11:15",
+  "generatedAt": "2026-11-12T04:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 590,
@@ -222,6 +222,11 @@
       "pct": 1.7
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 31,
+      "pct": 1.6
+    },
+    {
       "name": "ATTEMPT TO ELUDE",
       "count": 31,
       "pct": 1.6
@@ -230,11 +235,6 @@
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 31,
       "pct": 1.6
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 30,
-      "pct": 1.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 311,
+      "count": 312,
       "pct": 15.6,
       "label": "Skagit County District Court"
     },
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 173,
-      "pct": 8.7,
+      "pct": 8.6,
       "label": "Burlington Municipal Court"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 657,
+      "count": 658,
       "pct": 94.3
     },
     {
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 49.1,
-    "currentLongestDaysHeld": 1000.4
+    "currentLongestDaysHeld": 1000.5
   },
   "bond": {
-    "withBond": 126,
-    "noBond": 51,
+    "withBond": 127,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19323450
+    "totalBond": 19323950
   },
   "chargesPerBooking": 3.4
 }

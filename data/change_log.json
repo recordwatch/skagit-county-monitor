@@ -15,7 +15,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -25,6 +25,18 @@
         "courtReference": "T00795704",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-11T19:55:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795705",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
