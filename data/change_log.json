@@ -1,5 +1,78 @@
 [
   {
+    "id": "560390-20261112112000",
+    "nameNumber": "560390",
+    "name": "HAMMERS, DANIEL SCOTT JR",
+    "bookedAt": "2026-11-12T11:20:00",
+    "scheduledRelease": "2026-11-13T11:20:00",
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T10:30:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-07-22T00:00:00",
+        "incident": "26-M10975",
+        "court": "MVMC",
+        "courtReference": "6A0148498",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-08-19T00:00:00",
+        "incident": "26-M12548",
+        "court": "MVMC",
+        "courtReference": "6A0276358",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-08-19T00:00:00",
+        "incident": "26-M12548",
+        "court": "MVMC",
+        "courtReference": "6A0276358",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-12T11:20:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "26-1-00171-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "578675-20261112100000",
     "nameNumber": "578675",
     "name": "BROTHERSON, DONALD EUGENE",
@@ -298,10 +371,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T04:19:25",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -408,10 +481,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T00:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -430,7 +503,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "INDECENT EXPOSURE",
@@ -438,9 +511,9 @@
         "incident": "26-13722",
         "court": "DC",
         "courtReference": "6A0441263",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -472,7 +545,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 8500,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
@@ -504,9 +577,9 @@
         "incident": "26-A05900",
         "court": "AMC",
         "courtReference": "6A0396966",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -516,9 +589,9 @@
         "incident": "26-A06251",
         "court": "AMC",
         "courtReference": "6A0424888",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -528,9 +601,9 @@
         "incident": "26-A06507",
         "court": "AMC",
         "courtReference": "6A0389266",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -655,7 +728,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 8500,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -663,9 +736,9 @@
         "incident": "26-M04442",
         "court": "MVMC",
         "courtReference": "6A0128315",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -676,8 +749,8 @@
         "court": "MVMC",
         "courtReference": "6A0128315",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -687,9 +760,9 @@
         "incident": "25-M13574",
         "court": "MVMC",
         "courtReference": "5A0701393",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -699,9 +772,9 @@
         "incident": "25-M13344",
         "court": "MVMC",
         "courtReference": "5A0717752",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -712,8 +785,8 @@
         "court": "MVMC",
         "courtReference": "5A0717752",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -724,8 +797,8 @@
         "court": "MVMC",
         "courtReference": "5A0717752",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -735,9 +808,9 @@
         "incident": "25-B07054",
         "court": "BMC",
         "courtReference": "5A0566588",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -747,9 +820,9 @@
         "incident": "26-B06647",
         "court": "BMC",
         "courtReference": "6A0382610",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1021,7 +1094,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 14500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1029,9 +1102,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "3A0692903",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1041,9 +1114,9 @@
         "incident": "24-W05921",
         "court": "SWMC",
         "courtReference": "4A0678622",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1053,9 +1126,9 @@
         "incident": "24-B07970",
         "court": "BMC",
         "courtReference": "4A0317909",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1065,9 +1138,9 @@
         "incident": "25-B07489",
         "court": "BMC",
         "courtReference": "5A0897683",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1244,10 +1317,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T11:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3270,7 +3343,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -3278,9 +3351,9 @@
         "incident": "26-13501",
         "court": "DC",
         "courtReference": "6A0031266",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -3290,7 +3363,7 @@
         "incident": "25-B03720",
         "court": "BMC",
         "courtReference": "5A0566533",
-        "bailAmount": 2500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
