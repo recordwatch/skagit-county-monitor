@@ -55,25 +55,25 @@
     "bondTotal": 8000,
     "charges": [
       {
-        "description": "BURGLARY 2ND DEGREE -ATTEMPT",
-        "offenseDate": "2026-11-02T00:00:00",
-        "incident": null,
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-23T00:00:00",
+        "incident": "26-A05936",
         "court": "SC",
         "courtReference": "26-1-00605-29",
         "bailAmount": 5000,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "BURGLARY 2ND DEGREE -ATTEMPT",
-        "offenseDate": "2026-11-02T00:00:00",
-        "incident": null,
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-10-01T00:00:00",
+        "incident": "26-A05936",
         "court": "SC",
         "courtReference": "26-1-00605-29",
         "bailAmount": null,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -81,11 +81,11 @@
       {
         "description": "CRIM TRESPASS 1ST",
         "offenseDate": "2026-09-22T00:00:00",
-        "incident": null,
+        "incident": "26-A05900",
         "court": "AMC",
         "courtReference": "6A0396966",
         "bailAmount": 1000,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -93,11 +93,11 @@
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-10-07T00:00:00",
-        "incident": null,
+        "incident": "26-A06251",
         "court": "AMC",
         "courtReference": "6A0424888",
         "bailAmount": 1000,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -105,11 +105,11 @@
       {
         "description": "CRIM TRESPASS 1ST",
         "offenseDate": "2026-10-19T00:00:00",
-        "incident": null,
+        "incident": "26-A06507",
         "court": "AMC",
         "courtReference": "6A0389266",
         "bailAmount": 1000,
-        "bailType": "Cash Only",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
