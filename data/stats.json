@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:11:17",
+  "generatedAt": "2026-11-12T03:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 590,
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 12,
-      "pct": 0.6,
+      "count": 13,
+      "pct": 0.7,
       "label": "TC"
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 6.6
+      "count": 12,
+      "pct": 7.1
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "M",
@@ -563,34 +563,34 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "N",
       "count": 20,
-      "pct": 12
+      "pct": 11.9
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.6
+      "pct": 15.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
       "count": 657,
-      "pct": 94.4
+      "pct": 94.3
     },
     {
       "name": "SCRAM With Bail",
@@ -599,8 +599,8 @@
     },
     {
       "name": "Cash Only",
-      "count": 4,
-      "pct": 0.6
+      "count": 5,
+      "pct": 0.7
     }
   ],
   "releaseSources": {
@@ -638,7 +638,7 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 49,
+    "currentMedianDaysHeld": 49.1,
     "currentLongestDaysHeld": 1000.4
   },
   "bond": {

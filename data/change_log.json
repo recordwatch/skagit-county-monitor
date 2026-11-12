@@ -5,7 +5,7 @@
     "name": "HEINRICH, DAVID LEE",
     "bookedAt": "2026-11-11T23:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J102",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -56,7 +56,7 @@
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-        "offenseDate": "2026-11-11T22:39:00",
+        "offenseDate": "2026-11-11T22:36:00",
         "incident": "26-B08223",
         "court": "BMC",
         "courtReference": "6A0181089",
@@ -9540,6 +9540,18 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "FAIL TO COMPLY",
+        "offenseDate": "2026-09-04T00:00:00",
+        "incident": "26-SP0775",
+        "court": "TC",
+        "courtReference": "6A0318408",
+        "bailAmount": null,
+        "bailType": "Cash Only",
+        "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
