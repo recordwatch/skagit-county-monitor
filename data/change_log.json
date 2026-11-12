@@ -1,11 +1,48 @@
 [
   {
+    "id": "230868-20261111202500",
+    "nameNumber": "230868",
+    "name": "ERICKSON, LAURA MARGARET",
+    "bookedAt": "2026-11-11T20:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-11T19:39:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "INDECENT EXPOSURE",
+        "offenseDate": "2026-11-11T19:39:00",
+        "incident": "26-13722",
+        "court": "DC",
+        "courtReference": "6A0441263",
+        "bailAmount": 500,
+        "bailType": "Cash Only",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T22:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "554131-20261111170000",
     "nameNumber": "554131",
     "name": "BUCKLES, CARSON BLU",
     "bookedAt": "2026-11-11T17:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
