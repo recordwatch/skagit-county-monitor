@@ -1,11 +1,48 @@
 [
   {
+    "id": "743590-20261111235500",
+    "nameNumber": "743590",
+    "name": "HEINRICH, DAVID LEE",
+    "bookedAt": "2026-11-11T23:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-11T19:55:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-11T19:55:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00795704",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T02:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "530156-20261111230500",
     "nameNumber": "530156",
     "name": "DELACRUZ-ARON, ALEX",
     "bookedAt": "2026-11-11T23:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -30,7 +67,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "NO CONTACT/PROTECT ORDR VIOL -ATTEMPT",
+        "description": "NO CONTACT/PROTECT ORDR VIOL DV",
         "offenseDate": "2022-01-31T00:00:00",
         "incident": "22-01418",
         "court": "DC",
@@ -42,7 +79,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2022-01-29T00:00:00",
         "incident": "22-01319",
         "court": "DC",
