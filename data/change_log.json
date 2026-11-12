@@ -1,5 +1,53 @@
 [
   {
+    "id": "743591-20261112030000",
+    "nameNumber": "743591",
+    "name": "BURNETT, JAZMYN LEE",
+    "bookedAt": "2026-11-12T03:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T04:19:25",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "670921-20261112030000",
+    "nameNumber": "670921",
+    "name": "ROJO, JULIAN CHASE",
+    "bookedAt": "2026-11-12T03:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T04:19:25",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743590-20261111235500",
     "nameNumber": "743590",
     "name": "HEINRICH, DAVID LEE",
