@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T13:11:15",
+  "generatedAt": "2026-11-12T14:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 596,
-    "bookingsObserved": 393,
-    "releasesObserved": 420,
+    "bookingsTracked": 597,
+    "bookingsObserved": 394,
+    "releasesObserved": 421,
     "inCustody": 176,
-    "uniquePeople": 575
+    "uniquePeople": 576
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 6,
-      "released": 7
+      "booked": 7,
+      "released": 8
     }
   ],
   "topCharges": [
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 90,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -193,8 +193,8 @@
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 45,
-      "pct": 2.2
+      "count": 46,
+      "pct": 2.3
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -217,6 +217,11 @@
       "pct": 1.8
     },
     {
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 33,
+      "pct": 1.6
+    },
+    {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
       "pct": 1.6
@@ -230,11 +235,6 @@
       "name": "ATTEMPT TO ELUDE",
       "count": 32,
       "pct": 1.6
-    },
-    {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 31,
-      "pct": 1.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -283,14 +283,14 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 73,
-      "pct": 12.3,
+      "count": 74,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 52,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1064,
-      "pct": 52.6,
+      "count": 1066,
+      "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "BMC",
-      "count": 175,
+      "count": 176,
       "pct": 8.7,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 92,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Other"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 118,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 48,
-      "pct": 8.1
+      "count": 49,
+      "pct": 8.2
     },
     {
       "name": "DUI CITATION ARREST",
@@ -461,22 +461,22 @@
     {
       "name": "Own Recognizance Release",
       "count": 553,
-      "pct": 43.2
+      "pct": 43
     },
     {
       "name": "Sentence Complete Release",
-      "count": 137,
-      "pct": 10.7
+      "count": 139,
+      "pct": 10.8
     },
     {
       "name": "Declined To Prosecute",
       "count": 130,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "Serving Commit",
-      "count": 122,
-      "pct": 9.5
+      "count": 123,
+      "pct": 9.6
     },
     {
       "name": "Dismissed",
@@ -490,18 +490,18 @@
     },
     {
       "name": "Amended",
-      "count": 57,
+      "count": 58,
       "pct": 4.5
     },
     {
       "name": "Bail Bond Release",
       "count": 52,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "Pending Transport",
       "count": 16,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "Shuttle Release",
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 4,
-      "pct": 2.4
+      "count": 3,
+      "pct": 1.8
     },
     {
       "name": "DORM 1 (E101)",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 13,
-      "pct": 7.8
+      "count": 14,
+      "pct": 8.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 642,
+      "count": 640,
       "pct": 94.1
     },
     {
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 407,
-    "observed": 13,
+    "observed": 14,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 418,
+    "releasedCount": 419,
     "medianDays": 1.9,
-    "meanDays": 45,
+    "meanDays": 44.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 141
+        "count": 142
       },
       {
         "label": "1–3 days",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 50.2,
-    "currentLongestDaysHeld": 1000.8
+    "currentLongestDaysHeld": 1000.9
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 55,
+    "withBond": 120,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19267450
+    "totalBond": 19237450
   },
   "chargesPerBooking": 3.4
 }
