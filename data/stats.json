@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:11:15",
+  "generatedAt": "2026-11-12T07:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 592,
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 403,
-    "observed": 10,
+    "official": 407,
+    "observed": 6,
     "reportOnly": 34
   },
   "stay": {
