@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T17:11:15",
+  "generatedAt": "2026-11-11T18:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 586,
-    "bookingsObserved": 383,
-    "releasesObserved": 412,
+    "bookingsTracked": 587,
+    "bookingsObserved": 384,
+    "releasesObserved": 413,
     "inCustody": 174,
     "uniquePeople": 567
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 4,
-      "released": 4
+      "booked": 5,
+      "released": 5
     }
   ],
   "topCharges": [
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 137,
-      "pct": 23.5,
+      "pct": 23.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 126,
-      "pct": 21.6,
+      "count": 127,
+      "pct": 21.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 85,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 71,
-      "pct": 12.2,
+      "pct": 12.1,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -392,14 +392,14 @@
       "pct": 16.8
     },
     {
-      "name": "MISDEMEANOR CITATION ARREST",
+      "name": "FELONY WARRANT ARREST",
       "count": 85,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
-      "name": "FELONY WARRANT ARREST",
-      "count": 84,
-      "pct": 14.4
+      "name": "MISDEMEANOR CITATION ARREST",
+      "count": 85,
+      "pct": 14.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 11,
-      "pct": 6.7
+      "count": 10,
+      "pct": 6.1
     },
     {
       "name": "K",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -568,22 +568,22 @@
     {
       "name": "N",
       "count": 18,
-      "pct": 10.9
+      "pct": 11
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.4
+      "pct": 16.5
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17
+      "pct": 17.1
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.8
+      "pct": 15.9
     }
   ],
   "bailTypes": [
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 403,
-    "observed": 9,
+    "observed": 10,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 410,
+    "releasedCount": 411,
     "medianDays": 1.9,
-    "meanDays": 45.5,
+    "meanDays": 45.7,
     "buckets": [
       {
         "label": "< 1 day",
@@ -635,11 +635,11 @@
       },
       {
         "label": "3+ months",
-        "count": 33
+        "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1000
+    "currentMedianDaysHeld": 50.1,
+    "currentLongestDaysHeld": 1000.1
   },
   "bond": {
     "withBond": 123,

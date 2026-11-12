@@ -1,5 +1,29 @@
 [
   {
+    "id": "554131-20261111170000",
+    "nameNumber": "554131",
+    "name": "BUCKLES, CARSON BLU",
+    "bookedAt": "2026-11-11T17:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-11T16:21:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T18:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "329482-20261111085500",
     "nameNumber": "329482",
     "name": "TALLY, JASON AARON",
@@ -31100,10 +31124,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-11T18:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
