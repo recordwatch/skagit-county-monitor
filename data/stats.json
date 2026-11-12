@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T10:11:15",
+  "generatedAt": "2026-11-12T11:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 594,
-    "bookingsObserved": 391,
+    "bookingsTracked": 595,
+    "bookingsObserved": 392,
     "releasesObserved": 413,
-    "inCustody": 181,
-    "uniquePeople": 573
+    "inCustody": 182,
+    "uniquePeople": 574
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 143,
+      "count": 144,
       "pct": 7.1
     },
     {
@@ -271,20 +271,20 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 128,
-      "pct": 21.6,
+      "count": 129,
+      "pct": 21.8,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 88,
-      "pct": 14.9,
+      "count": 87,
+      "pct": 14.7,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 72,
-      "pct": 12.2,
+      "count": 73,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 314,
+      "count": 315,
       "pct": 15.6,
       "label": "Skagit County District Court"
     },
@@ -417,12 +417,12 @@
       "pct": 4.7
     },
     {
-      "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 21,
-      "pct": 3.5
+      "name": "DUI COMMITMENT ARREST",
+      "count": 22,
+      "pct": 3.7
     },
     {
-      "name": "DUI COMMITMENT ARREST",
+      "name": "DEPT OF CORRECTIONS HOLD",
       "count": 21,
       "pct": 3.5
     },
@@ -460,43 +460,43 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 520,
-      "pct": 41.8
+      "count": 536,
+      "pct": 42.5
     },
     {
       "name": "Sentence Complete Release",
       "count": 137,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "Declined To Prosecute",
       "count": 130,
-      "pct": 10.5
+      "pct": 10.3
     },
     {
       "name": "Serving Commit",
-      "count": 119,
-      "pct": 9.6
+      "count": 120,
+      "pct": 9.5
     },
     {
       "name": "Dismissed",
       "count": 99,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 82,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "Amended",
       "count": 57,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "Bail Bond Release",
       "count": 52,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "Pending Transport",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 12,
-      "pct": 7
+      "count": 13,
+      "pct": 7.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,17 +543,17 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "M",
-      "count": 8,
-      "pct": 4.7
+      "count": 9,
+      "pct": 5.2
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,39 +563,39 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "N",
       "count": 21,
-      "pct": 12.3
+      "pct": 12.1
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 15.8
+      "pct": 15.6
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.4
+      "pct": 16.2
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.2
+      "pct": 15
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 673,
-      "pct": 94.4
+      "count": 658,
+      "pct": 94.3
     },
     {
       "name": "SCRAM With Bail",
       "count": 35,
-      "pct": 4.9
+      "pct": 5
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 48,
-    "currentLongestDaysHeld": 1000.7
+    "currentMedianDaysHeld": 47,
+    "currentLongestDaysHeld": 1000.8
   },
   "bond": {
-    "withBond": 129,
-    "noBond": 52,
+    "withBond": 123,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19376450
+    "totalBond": 19294950
   },
   "chargesPerBooking": 3.4
 }

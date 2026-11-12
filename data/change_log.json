@@ -1,11 +1,48 @@
 [
   {
+    "id": "578675-20261112100000",
+    "nameNumber": "578675",
+    "name": "BROTHERSON, DONALD EUGENE",
+    "bookedAt": "2026-11-12T10:00:00",
+    "scheduledRelease": "2026-12-11T10:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T10:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2023-04-16T00:00:00",
+        "incident": "23-04678",
+        "court": "DC",
+        "courtReference": "C00069002",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T11:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "316470-20261112091000",
     "nameNumber": "316470",
     "name": "ALBOR-HERNANDEZ, NELSON RICARDO",
     "bookedAt": "2026-11-12T09:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "M101",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -225,16 +262,16 @@
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
     "location": "N107",
-    "arrestingAgency": "WA STATE PATROL",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-12T02:35:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "WA STATE PATROL"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -242,11 +279,11 @@
         "incident": "26-B04704",
         "court": "BMC",
         "courtReference": "6A0326094",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "WA STATE PATROL"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "DWLS/R 2ND DEGREE",
@@ -254,11 +291,11 @@
         "incident": "26-B04704",
         "court": "BMC",
         "courtReference": "6A0326095",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "WA STATE PATROL"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -283,7 +320,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -293,7 +330,7 @@
         "courtReference": "T00795704",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -303,9 +340,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00795705",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -332,7 +369,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 11000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -340,9 +377,9 @@
         "incident": "26-B08223",
         "court": "BMC",
         "courtReference": "6A0181089",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -352,9 +389,9 @@
         "incident": "22-01418",
         "court": "DC",
         "courtReference": "C00066362",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -364,9 +401,9 @@
         "incident": "22-01319",
         "court": "DC",
         "courtReference": "2A0171008",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -788,7 +825,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 17000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -820,9 +857,9 @@
         "incident": "26-M06700",
         "court": "MVMC",
         "courtReference": "6A0316025",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -832,9 +869,9 @@
         "incident": "26-B02918",
         "court": "BMC",
         "courtReference": "6A0221615",
-        "bailAmount": 15000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -844,9 +881,9 @@
         "incident": "25-M17436",
         "court": "MVMC",
         "courtReference": "5A0886891",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -947,7 +984,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -955,9 +992,9 @@
         "incident": "25-M16471",
         "court": "MVMC",
         "courtReference": "5A0551902",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1131,7 +1168,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 26000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1139,9 +1176,9 @@
         "incident": "26-B04618",
         "court": "BMC",
         "courtReference": "6A0342614",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1152,8 +1189,8 @@
         "court": "BMC",
         "courtReference": "6A0342614",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -1163,9 +1200,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00963286",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1705,7 +1742,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 12000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "IDENTITY THEFT 1ST",
@@ -1749,9 +1786,9 @@
         "incident": "26-M11780",
         "court": "MVMC",
         "courtReference": "6A0241734",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1762,8 +1799,8 @@
         "court": "MVMC",
         "courtReference": "6A0241734",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
