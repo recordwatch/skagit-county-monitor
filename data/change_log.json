@@ -518,10 +518,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T13:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1145,10 +1145,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T14:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T13:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -6026,7 +6026,7 @@
     "nameNumber": "2554",
     "name": "PETER, ROBERT WARREN II",
     "bookedAt": "2026-11-03T21:25:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-13T21:25:00",
     "location": "K110",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -6037,7 +6037,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
@@ -6045,9 +6045,9 @@
         "incident": "25-M12355",
         "court": "SC",
         "courtReference": "25-1-00498-29",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -6058,8 +6058,8 @@
         "court": "SC",
         "courtReference": "25-1-00498-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
