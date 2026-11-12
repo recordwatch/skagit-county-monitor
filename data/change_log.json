@@ -6,17 +6,54 @@
     "bookedAt": "2026-11-11T23:05:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-11T22:39:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 11000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-11T22:39:00",
+        "incident": "26-B08223",
+        "court": "BMC",
+        "courtReference": "6A0181089",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "NO CONTACT/PROTECT ORDR VIOL -ATTEMPT",
+        "offenseDate": "2022-01-31T00:00:00",
+        "incident": "22-01418",
+        "court": "DC",
+        "courtReference": "C00066362",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2022-01-29T00:00:00",
+        "incident": "22-01319",
+        "court": "DC",
+        "courtReference": "2A0171008",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-12T00:11:14",
     "releasedAt": null,
@@ -819,7 +856,7 @@
         "courtReference": "DOC 23-1-00076-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
