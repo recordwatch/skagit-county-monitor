@@ -1072,10 +1072,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T15:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T12:17:50",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1280,10 +1280,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T12:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T12:17:50",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
