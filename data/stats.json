@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:19:25",
+  "generatedAt": "2026-11-12T05:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 592,
@@ -169,26 +169,26 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 129,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 111,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 89,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DWLS/R 3RD DEGREE",
       "count": 75,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 68,
+      "count": 69,
       "pct": 3.4
     },
     {
@@ -209,42 +209,42 @@
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 37,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
-      "pct": 1.7
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 31,
       "pct": 1.6
     },
     {
       "name": "ATTEMPT TO ELUDE",
-      "count": 31,
+      "count": 32,
       "pct": 1.6
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 31,
+      "pct": 1.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
       "count": 31,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
       "count": 29,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 27,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "IDENTITY THEFT 2ND",
@@ -254,31 +254,31 @@
     {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
       "count": 23,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
       "count": 23,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 137,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 128,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 86,
-      "pct": 14.6,
+      "count": 88,
+      "pct": 14.9,
       "label": "WA STATE PATROL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1053,
-      "pct": 52.7,
+      "count": 1054,
+      "pct": 52.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,66 +340,66 @@
     {
       "name": "MVMC",
       "count": 219,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 173,
-      "pct": 8.6,
+      "count": 175,
+      "pct": 8.7,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 91,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Other"
     },
     {
       "name": "AMC",
       "count": 83,
-      "pct": 4.2,
+      "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
     {
       "name": "SWMC",
       "count": 55,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Sedro-Woolley Municipal Court"
     },
     {
       "name": "TC",
       "count": 13,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "TC"
     },
     {
       "name": "UTC",
       "count": 1,
-      "pct": 0.1,
+      "pct": 0,
       "label": "UTC"
     }
   ],
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 117,
-      "pct": 19.9
+      "count": 118,
+      "pct": 20
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 98,
-      "pct": 16.7
+      "count": 99,
+      "pct": 16.8
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 87,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 85,
-      "pct": 14.5
+      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,12 +409,12 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 38,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 28,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 658,
+      "count": 660,
       "pct": 94.3
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1000.5
   },
   "bond": {
-    "withBond": 127,
-    "noBond": 52,
+    "withBond": 128,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19323950
+    "totalBond": 19343950
   },
   "chargesPerBooking": 3.4
 }
