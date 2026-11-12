@@ -37,12 +37,121 @@
     "baseline": false
   },
   {
+    "id": "688942-20261112133000",
+    "nameNumber": "688942",
+    "name": "BAILEY, SAMUEL WILLIAM",
+    "bookedAt": "2026-11-12T13:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "403805-20261112130000",
+    "nameNumber": "403805",
+    "name": "EGGLAND, FELICIA ANN",
+    "bookedAt": "2026-11-12T13:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "703280-20261112130000",
+    "nameNumber": "703280",
+    "name": "JOE, DUSTIN FELIX",
+    "bookedAt": "2026-11-12T13:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T13:00:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2024-03-16T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0302165",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "502479-20261112130000",
+    "nameNumber": "502479",
+    "name": "KNOKE, ZACHARY ASHLEY",
+    "bookedAt": "2026-11-12T13:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T15:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "560390-20261112112000",
     "nameNumber": "560390",
     "name": "HAMMERS, DANIEL SCOTT JR",
     "bookedAt": "2026-11-12T11:20:00",
     "scheduledRelease": "2026-11-13T11:20:00",
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -755,7 +864,7 @@
     "name": "MACKIE-TIMMERMAN, LISA JOY",
     "bookedAt": "2026-11-11T04:30:00",
     "scheduledRelease": null,
-    "location": "J210",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -765,7 +874,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -869,9 +978,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "Island Co 9Z0330127",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1047,7 +1156,7 @@
     "name": "BAUER, THOMAS JOSEPH",
     "bookedAt": "2026-11-10T13:20:00",
     "scheduledRelease": "2027-01-07T18:20:00",
-    "location": "N203",
+    "location": "P201",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1194,7 +1303,7 @@
     "name": "MILLISON, DYLAN STEWART",
     "bookedAt": "2026-11-10T11:45:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": "P201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -10389,7 +10498,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1600,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -10457,9 +10566,9 @@
         "incident": "24-W05581",
         "court": "SWMC",
         "courtReference": "4A0721307",
-        "bailAmount": 100,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -27998,10 +28107,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T15:11:15",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
