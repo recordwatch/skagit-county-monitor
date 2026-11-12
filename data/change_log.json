@@ -1,5 +1,150 @@
 [
   {
+    "id": "316470-20261112091000",
+    "nameNumber": "316470",
+    "name": "ALBOR-HERNANDEZ, NELSON RICARDO",
+    "bookedAt": "2026-11-12T09:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T05:13:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 30000,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2024-11-01T00:00:00",
+        "incident": "24-M19990",
+        "court": "SC",
+        "courtReference": "24-1-00828-29",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "UNLAWFUL IMPRISONMENT",
+        "offenseDate": "2024-11-01T00:00:00",
+        "incident": "24-M19990",
+        "court": "SC",
+        "courtReference": "24-1-00828-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2024-11-01T00:00:00",
+        "incident": "24-M19990",
+        "court": "SC",
+        "courtReference": "24-1-00828-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2024-11-01T00:00:00",
+        "incident": "24-M19990",
+        "court": "SC",
+        "courtReference": "24-1-00828-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2025-10-31T00:00:00",
+        "incident": "25-M17509",
+        "court": "SC",
+        "courtReference": "25-1-00705-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "48491-20261112080000",
     "nameNumber": "48491",
     "name": "PRITCHARD, DAVID MICHAEL",
@@ -25,7 +170,7 @@
         "courtReference": "PA0009148",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA DEPT FISH AND WILDLIFE"
       }
@@ -283,9 +428,14 @@
         "arrestDate": "2026-11-11T16:21:00",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "arrestDate": "2026-11-12T08:15:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 8000,
+    "bondTotal": 8500,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
@@ -345,6 +495,18 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-11T15:34:00",
+        "incident": "26-13712",
+        "court": "DC",
+        "courtReference": "6A0065151",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
