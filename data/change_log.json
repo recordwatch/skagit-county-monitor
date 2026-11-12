@@ -1,5 +1,42 @@
 [
   {
+    "id": "48491-20261112080000",
+    "nameNumber": "48491",
+    "name": "PRITCHARD, DAVID MICHAEL",
+    "bookedAt": "2026-11-12T08:00:00",
+    "scheduledRelease": null,
+    "location": "COMMUNITY SERVICE WORK",
+    "arrestingAgency": "WA DEPT FISH AND WILDLIFE",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T08:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA DEPT FISH AND WILDLIFE"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PROVID FALSE INFO FISH/WILDLIF",
+        "offenseDate": "2025-07-03T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009148",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "WA DEPT FISH AND WILDLIFE"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T09:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743591-20261112030000",
     "nameNumber": "743591",
     "name": "BURNETT, JAZMYN LEE",
@@ -589,7 +626,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 15000,
+    "bondTotal": 17000,
     "charges": [
       {
         "description": "IDENTITY THEFT 2ND",
@@ -621,8 +658,8 @@
         "incident": "26-M06700",
         "court": "MVMC",
         "courtReference": "6A0316025",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -634,6 +671,18 @@
         "court": "BMC",
         "courtReference": "6A0221615",
         "bailAmount": 15000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2025-10-29T00:00:00",
+        "incident": "25-M17436",
+        "court": "MVMC",
+        "courtReference": "5A0886891",
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T08:11:18",
+  "generatedAt": "2026-11-12T09:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 592,
-    "bookingsObserved": 389,
+    "bookingsTracked": 593,
+    "bookingsObserved": 390,
     "releasesObserved": 413,
-    "inCustody": 179,
-    "uniquePeople": 571
+    "inCustody": 180,
+    "uniquePeople": 572
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -238,8 +238,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-      "count": 29,
-      "pct": 1.4
+      "count": 30,
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -333,14 +333,14 @@
     },
     {
       "name": "DC",
-      "count": 312,
+      "count": 313,
       "pct": 15.6,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 219,
-      "pct": 10.9,
+      "count": 220,
+      "pct": 11,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 47,
-      "pct": 8
+      "count": 48,
+      "pct": 8.1
     },
     {
       "name": "DUI CITATION ARREST",
@@ -475,7 +475,7 @@
     },
     {
       "name": "Serving Commit",
-      "count": 119,
+      "count": 120,
       "pct": 9.6
     },
     {
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 3,
-      "pct": 1.8
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 12,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -558,38 +558,38 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "N",
       "count": 21,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.3
+      "pct": 15.2
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 660,
+      "count": 662,
       "pct": 94.3
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 49,
-    "currentLongestDaysHeld": 1000.6
+    "currentMedianDaysHeld": 48.5,
+    "currentLongestDaysHeld": 1000.7
   },
   "bond": {
     "withBond": 128,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19343950
+    "totalBond": 19345950
   },
   "chargesPerBooking": 3.4
 }
