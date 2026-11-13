@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:11:15",
+  "generatedAt": "2026-11-13T08:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 608,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 143,
-      "pct": 23.6,
+      "count": 144,
+      "pct": 23.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 130,
-      "pct": 21.5,
+      "count": 129,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {

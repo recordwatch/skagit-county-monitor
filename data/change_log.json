@@ -1462,13 +1462,13 @@
     "bookedAt": "2026-11-11T08:05:00",
     "scheduledRelease": null,
     "location": "N202",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-11T07:31:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 75000,
@@ -1483,7 +1483,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -1495,7 +1495,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
