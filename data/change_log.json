@@ -104,10 +104,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T04:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T12:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -177,10 +177,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T00:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T12:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -506,10 +506,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T18:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T12:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -555,7 +555,7 @@
     "name": "BAILEY, SAMUEL WILLIAM",
     "bookedAt": "2026-11-12T13:30:00",
     "scheduledRelease": null,
-    "location": "J208",
+    "location": "N102",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "REVOCATION OF PR",
     "arrests": [
@@ -1508,7 +1508,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "COUNTERFT SUBSTANCE KNOW POSSES",
@@ -1516,8 +1516,8 @@
         "incident": "25-SP1324",
         "court": "DC",
         "courtReference": "5A0791397",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -23011,7 +23011,7 @@
     "nameNumber": "459280",
     "name": "LARKIN, TYLER NICOLAS",
     "bookedAt": "2026-10-01T14:45:00",
-    "scheduledRelease": "2026-11-03T21:07:21",
+    "scheduledRelease": "2026-11-13T11:59:05",
     "location": "P108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
