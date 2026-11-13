@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:11:14",
+  "generatedAt": "2026-11-13T07:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 608,
@@ -510,8 +510,8 @@
     },
     {
       "name": "Sanction Release",
-      "count": 11,
-      "pct": 0.8
+      "count": 12,
+      "pct": 0.9
     },
     {
       "name": "Superior Court Summon Release",
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 407,
-    "observed": 19,
+    "official": 420,
+    "observed": 6,
     "reportOnly": 34
   },
   "stay": {
@@ -638,7 +638,7 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 45.1,
+    "currentMedianDaysHeld": 45.2,
     "currentLongestDaysHeld": 1001.6
   },
   "bond": {

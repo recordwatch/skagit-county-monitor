@@ -397,8 +397,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T16:11:17",
-    "releasedAt": "2026-11-12T17:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T15:59:45",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -853,7 +853,7 @@
         "courtReference": "26-1-00171-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Sanction Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -1079,8 +1079,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T09:11:16",
-    "releasedAt": "2026-11-12T14:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T13:24:17",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T04:19:25",
-    "releasedAt": "2026-11-12T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T11:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1214,8 +1214,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T02:11:17",
-    "releasedAt": "2026-11-12T16:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T15:42:25",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1275,8 +1275,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T00:11:14",
-    "releasedAt": "2026-11-12T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T11:14:30",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1312,8 +1312,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-11T22:11:16",
-    "releasedAt": "2026-11-12T13:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T12:26:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1633,8 +1633,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-11T05:11:20",
-    "releasedAt": "2026-11-12T16:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T15:09:08",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1755,8 +1755,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T22:11:16",
-    "releasedAt": "2026-11-12T17:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T16:54:54",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1866,8 +1866,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T15:11:18",
-    "releasedAt": "2026-11-12T12:17:50",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T12:10:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1939,8 +1939,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T14:11:16",
-    "releasedAt": "2026-11-12T13:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T12:26:14",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2074,8 +2074,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T12:11:17",
-    "releasedAt": "2026-11-12T12:17:50",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T12:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2111,8 +2111,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T11:11:14",
-    "releasedAt": "2026-11-12T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T11:52:33",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -28755,8 +28755,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-12T15:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-12T14:40:33",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -36602,7 +36602,7 @@
     "name": "RUBIO, ISMAEL SIANEZ",
     "bookedAt": "2026-01-22T16:45:00",
     "scheduledRelease": null,
-    "location": "N102",
+    "location": "N104",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -37551,7 +37551,7 @@
     "name": "MANCILLAS-GARDUNO, JONATHAN",
     "bookedAt": "2025-12-19T20:00:00",
     "scheduledRelease": null,
-    "location": "N102",
+    "location": "N104",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
