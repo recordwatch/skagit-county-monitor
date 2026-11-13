@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T20:11:16",
+  "generatedAt": "2026-11-12T21:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 604,
-    "bookingsObserved": 401,
+    "bookingsTracked": 605,
+    "bookingsObserved": 402,
     "releasesObserved": 426,
-    "inCustody": 178,
-    "uniquePeople": 583
+    "inCustody": 179,
+    "uniquePeople": 584
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 14,
+      "booked": 15,
       "released": 13
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 113,
+      "count": 114,
       "pct": 5.5
     },
     {
@@ -183,13 +183,18 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 76,
-      "pct": 3.7
+      "count": 78,
+      "pct": 3.8
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
       "count": 69,
       "pct": 3.4
+    },
+    {
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "count": 47,
+      "pct": 2.3
     },
     {
       "name": "RECKLESS DRIVING",
@@ -202,11 +207,6 @@
       "pct": 2.2
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 44,
-      "pct": 2.1
-    },
-    {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
       "count": 41,
       "pct": 2
@@ -214,7 +214,7 @@
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 38,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 140,
-      "pct": 23.3,
+      "pct": 23.2,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 74,
-      "pct": 12.3,
+      "count": 75,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 22,
-      "pct": 3.7,
+      "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 22,
-      "pct": 3.7,
+      "pct": 3.6,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1085,
-      "pct": 53,
+      "pct": 52.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 224,
+      "count": 225,
       "pct": 10.9,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 176,
-      "pct": 8.6,
+      "count": 182,
+      "pct": 8.9,
       "label": "Burlington Municipal Court"
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "AMC",
       "count": 83,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 101,
-      "pct": 16.8
+      "count": 102,
+      "pct": 16.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 87,
-      "pct": 14.5
+      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 28,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 22,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 49,
-    "currentLongestDaysHeld": 1001.1
+    "currentMedianDaysHeld": 48.5,
+    "currentLongestDaysHeld": 1001.2
   },
   "bond": {
     "withBond": 124,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19283850
