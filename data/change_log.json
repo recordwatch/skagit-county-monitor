@@ -78,7 +78,7 @@
     "name": "LOPEZ-LOPEZ, JUAN JOSE",
     "bookedAt": "2026-11-12T22:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
