@@ -1,5 +1,139 @@
 [
   {
+    "id": "123300-20261112223500",
+    "nameNumber": "123300",
+    "name": "COMER, LACEY MELISSA",
+    "bookedAt": "2026-11-12T22:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T22:30:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-02-28T00:00:00",
+        "incident": "26-B01463",
+        "court": "BMC",
+        "courtReference": "6A0053583",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FAIL TRANSFER TITLE W/IN 45DAY",
+        "offenseDate": "2026-02-28T00:00:00",
+        "incident": "26-B01463",
+        "court": "BMC",
+        "courtReference": "6A0053583",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-12-05T00:00:00",
+        "incident": "25-B09355",
+        "court": "BMC",
+        "courtReference": "5A0496866",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2025-11-20T00:00:00",
+        "incident": "25-B09061",
+        "court": "BMC",
+        "courtReference": "5A0938851",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T00:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "629019-20261112223000",
+    "nameNumber": "629019",
+    "name": "LOPEZ-LOPEZ, JUAN JOSE",
+    "bookedAt": "2026-11-12T22:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T22:12:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT-2 STRNGULTN/SUFFOCATN-DV",
+        "offenseDate": "2026-11-12T22:12:00",
+        "incident": "26-M16772",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT-2 STRNGULTN/SUFFOCATN-DV",
+        "offenseDate": "2026-11-12T22:12:00",
+        "incident": "26-M16772",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "INTERFERE W/REPORT DOM VIOL-DV",
+        "offenseDate": "2026-11-12T22:12:00",
+        "incident": "26-M16772",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T00:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "387194-20261112200000",
     "nameNumber": "387194",
     "name": "WILBUR, NICOLE CAROLYN",
@@ -126,7 +260,7 @@
     "name": "HERNANDEZ, BRIAN",
     "bookedAt": "2026-11-12T18:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -238,11 +372,11 @@
     "scheduledRelease": null,
     "location": "J207",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-12T13:18:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -257,7 +391,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
@@ -566,13 +700,13 @@
     "bookedAt": "2026-11-12T13:00:00",
     "scheduledRelease": null,
     "location": "J105",
-    "arrestingAgency": "SHUTTLE",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-12T13:00:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SHUTTLE"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 10000,
@@ -587,7 +721,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SHUTTLE"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -599,7 +733,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SHUTTLE"
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -611,7 +745,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SHUTTLE"
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -34859,7 +34993,7 @@
         "courtReference": "26-1-00272-29",
         "bailAmount": 100000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -34871,7 +35005,7 @@
         "courtReference": "26-1-00272-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -34883,7 +35017,7 @@
         "courtReference": "26-1-00272-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
