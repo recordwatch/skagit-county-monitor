@@ -34983,7 +34983,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 200000,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -34991,8 +34991,8 @@
         "incident": null,
         "court": "SC",
         "courtReference": "26-1-00272-29",
-        "bailAmount": 100000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -35004,7 +35004,7 @@
         "court": "SC",
         "courtReference": "26-1-00272-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
@@ -35016,7 +35016,7 @@
         "court": "SC",
         "courtReference": "26-1-00272-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": null,
         "disposition": "Dismissed",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
