@@ -43,13 +43,13 @@
     "bookedAt": "2026-11-12T22:35:00",
     "scheduledRelease": null,
     "location": "J205",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-12T22:30:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 3000,
@@ -64,7 +64,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "FAIL TRANSFER TITLE W/IN 45DAY",
@@ -76,7 +76,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "THEFT 3RD DEG",
@@ -88,7 +88,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       },
       {
         "description": "THEFT 3RD DEG",
@@ -100,7 +100,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
