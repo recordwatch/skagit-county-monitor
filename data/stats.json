@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T08:11:15",
+  "generatedAt": "2026-11-13T08:59:50",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 608,
-    "bookingsObserved": 405,
-    "releasesObserved": 426,
+    "bookingsTracked": 609,
+    "bookingsObserved": 406,
+    "releasesObserved": 427,
     "inCustody": 182,
-    "uniquePeople": 587
+    "uniquePeople": 588
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 1,
-      "released": 0
+      "booked": 2,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -234,7 +234,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 32,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 144,
-      "pct": 23.8,
+      "count": 145,
+      "pct": 23.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1088,
+      "count": 1089,
       "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 101,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 49,
-      "pct": 8.1
+      "count": 50,
+      "pct": 8.2
     },
     {
       "name": "DUI CITATION ARREST",
@@ -439,7 +439,7 @@
     {
       "name": "SUPERIOR COURT SUMMONS",
       "count": 10,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "REVOCATION OF PR",
@@ -465,8 +465,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 140,
-      "pct": 10.8
+      "count": 141,
+      "pct": 10.9
     },
     {
       "name": "Declined To Prosecute",
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -557,8 +557,8 @@
     },
     {
       "name": "MALE INMATE WORKER (E103)",
-      "count": 4,
-      "pct": 2.3
+      "count": 3,
+      "pct": 1.7
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -605,11 +605,11 @@
   ],
   "releaseSources": {
     "official": 420,
-    "observed": 6,
+    "observed": 7,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 424,
+    "releasedCount": 425,
     "medianDays": 1.8,
     "meanDays": 44.5,
     "buckets": [
@@ -627,7 +627,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 41
+        "count": 42
       },
       {
         "label": "1–3 months",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 45.2,
-    "currentLongestDaysHeld": 1001.6
+    "currentLongestDaysHeld": 1001.7
   },
   "bond": {
     "withBond": 126,

@@ -1,5 +1,42 @@
 [
   {
+    "id": "651483-20261113081500",
+    "nameNumber": "651483",
+    "name": "MCGIRT, LUCI TASAHCOCE",
+    "bookedAt": "2026-11-13T08:15:00",
+    "scheduledRelease": null,
+    "location": "COMMUNITY SERVICE WORK",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T08:15:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-01-21T00:00:00",
+        "incident": "26-M00973",
+        "court": "SC",
+        "courtReference": "26-1-00038-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T08:59:50",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743144-20261113023000",
     "nameNumber": "743144",
     "name": "HANSEN, VIOLET R",
@@ -11367,10 +11404,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T09:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T08:59:50",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -17973,7 +18010,7 @@
     "nameNumber": "24542",
     "name": "ALMANZA, NOEL HILBERTO M",
     "bookedAt": "2026-10-14T10:00:00",
-    "scheduledRelease": "2026-11-13T10:00:00",
+    "scheduledRelease": "2026-11-13T09:00:00",
     "location": "ELECTRONIC HOME MONITORING",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -17994,7 +18031,7 @@
         "courtReference": "T00348493",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
