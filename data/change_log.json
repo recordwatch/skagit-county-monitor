@@ -1,5 +1,54 @@
 [
   {
+    "id": "659988-20261113140500",
+    "nameNumber": "659988",
+    "name": "SCOLLARD, CHARLES JAMES",
+    "bookedAt": "2026-11-13T14:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T14:05:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-07-18T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00679446",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS DRUG PARAPHEN",
+        "offenseDate": "2026-07-18T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00679447",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T15:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "145253-20261113114500",
     "nameNumber": "145253",
     "name": "ENSLEY, ROBERT VANCE",
@@ -442,7 +491,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -462,9 +511,9 @@
         "incident": "25-SP0655",
         "court": "SC",
         "courtReference": "25-1-00489-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -475,8 +524,8 @@
         "court": "SC",
         "courtReference": "25-1-00489-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -881,7 +930,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
@@ -889,7 +938,7 @@
         "incident": "25-M05769",
         "court": "SC",
         "courtReference": "25-1-00252-29",
-        "bailAmount": 5000,
+        "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",

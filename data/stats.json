@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T14:30:09",
+  "generatedAt": "2026-11-13T15:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 611,
-    "bookingsObserved": 408,
+    "bookingsTracked": 612,
+    "bookingsObserved": 409,
     "releasesObserved": 441,
-    "inCustody": 170,
-    "uniquePeople": 590
+    "inCustody": 171,
+    "uniquePeople": 591
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 4,
+      "booked": 5,
       "released": 15
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 146,
+      "count": 147,
       "pct": 7.1
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 117,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -272,13 +272,13 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 129,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 89,
-      "pct": 14.6,
+      "count": 90,
+      "pct": 14.8,
       "label": "WA STATE PATROL"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 43,
-      "pct": 7.1,
+      "pct": 7,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1092,
-      "pct": 52.8,
+      "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 318,
-      "pct": 15.4,
+      "count": 320,
+      "pct": 15.5,
       "label": "Skagit County District Court"
     },
     {
@@ -427,14 +427,14 @@
       "pct": 3.4
     },
     {
-      "name": "OTHER COUNTY HOLDS",
+      "name": "DUI WARRANT ARREST",
       "count": 17,
       "pct": 2.8
     },
     {
-      "name": "DUI WARRANT ARREST",
-      "count": 16,
-      "pct": 2.6
+      "name": "OTHER COUNTY HOLDS",
+      "count": 17,
+      "pct": 2.8
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 585,
-      "pct": 43.6
+      "count": 587,
+      "pct": 43.7
     },
     {
       "name": "Sentence Complete Release",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 52.5,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 1001.9
   },
   "bond": {
     "withBond": 116,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19124600
+    "totalBond": 19120100
   },
   "chargesPerBooking": 3.4
 }
