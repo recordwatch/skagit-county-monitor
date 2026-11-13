@@ -42,10 +42,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T16:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T17:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -115,7 +115,7 @@
     "name": "EGGLAND, FELICIA ANN",
     "bookedAt": "2026-11-12T13:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R209",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -224,7 +224,7 @@
     "name": "JOE, DUSTIN FELIX",
     "bookedAt": "2026-11-12T13:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -624,16 +624,16 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
         "offenseDate": "2026-11-12T02:17:00",
         "incident": null,
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00634-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
@@ -862,7 +862,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5500,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
@@ -870,9 +870,9 @@
         "incident": "26-A05936",
         "court": "SC",
         "courtReference": "26-1-00605-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -883,8 +883,8 @@
         "court": "SC",
         "courtReference": "26-1-00605-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1278,10 +1278,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T17:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4028,7 +4028,7 @@
     "nameNumber": "206919",
     "name": "HASSENMILLER, KRISTY LYNN",
     "bookedAt": "2026-11-06T21:05:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-15T21:05:00",
     "location": "R111",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
@@ -4049,7 +4049,7 @@
         "courtReference": "26-1-00246-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
