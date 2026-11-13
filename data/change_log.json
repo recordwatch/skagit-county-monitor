@@ -5,7 +5,7 @@
     "name": "ENSLEY, ROBERT VANCE",
     "bookedAt": "2026-11-13T11:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -76,7 +76,7 @@
         "agency": "OAK HARBOR POLICE DEPT"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -84,9 +84,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "25-1-00088-15",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Pending Transport",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "OAK HARBOR POLICE DEPT"
       }
@@ -420,10 +420,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T21:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T14:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3392,10 +3392,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T18:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T14:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -6684,10 +6684,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T10:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T14:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -23218,10 +23218,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T14:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
