@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T03:11:17",
+  "generatedAt": "2026-11-13T04:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 607,
-    "bookingsObserved": 404,
+    "bookingsTracked": 608,
+    "bookingsObserved": 405,
     "releasesObserved": 426,
-    "inCustody": 181,
-    "uniquePeople": 586
+    "inCustody": 182,
+    "uniquePeople": 587
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 69,
-      "pct": 3.3
+      "count": 70,
+      "pct": 3.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 142,
-      "pct": 23.5,
+      "count": 143,
+      "pct": 23.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 131,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 53,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 225,
+      "count": 226,
       "pct": 10.9,
       "label": "Mount Vernon Municipal Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 119,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -392,14 +392,14 @@
       "pct": 16.7
     },
     {
-      "name": "FELONY WARRANT ARREST",
+      "name": "MISDEMEANOR CITATION ARREST",
       "count": 89,
       "pct": 14.7
     },
     {
-      "name": "MISDEMEANOR CITATION ARREST",
-      "count": 88,
-      "pct": 14.5
+      "name": "FELONY WARRANT ARREST",
+      "count": 89,
+      "pct": 14.7
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 8.2
+      "count": 15,
+      "pct": 8.7
     },
     {
       "name": "K",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 9,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 29,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.1
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 46.5,
-    "currentLongestDaysHeld": 1001.4
+    "currentMedianDaysHeld": 45,
+    "currentLongestDaysHeld": 1001.5
   },
   "bond": {
     "withBond": 126,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19193850
