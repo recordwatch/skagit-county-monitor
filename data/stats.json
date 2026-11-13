@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:11:15",
+  "generatedAt": "2026-11-12T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 605,
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 114,
-      "pct": 5.5
+      "count": 115,
+      "pct": 5.6
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 78,
+      "count": 79,
       "pct": 3.8
     },
     {
@@ -192,14 +192,14 @@
       "pct": 3.4
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "name": "RECKLESS DRIVING",
       "count": 47,
       "pct": 2.3
     },
     {
-      "name": "RECKLESS DRIVING",
-      "count": 47,
-      "pct": 2.3
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "count": 46,
+      "pct": 2.2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -345,7 +345,7 @@
     },
     {
       "name": "BMC",
-      "count": 182,
+      "count": 183,
       "pct": 8.9,
       "label": "Burlington Municipal Court"
     },
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 650,
-      "pct": 94.2
+      "count": 658,
+      "pct": 94.3
     },
     {
       "name": "SCRAM With Bail",
       "count": 35,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1001.2
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 55,
+    "withBond": 125,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19283850
+    "totalBond": 19290850
   },
   "chargesPerBooking": 3.4
 }
