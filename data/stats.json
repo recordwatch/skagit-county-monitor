@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T17:22:14",
+  "generatedAt": "2026-11-12T18:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 602,
-    "bookingsObserved": 399,
+    "bookingsTracked": 603,
+    "bookingsObserved": 400,
     "releasesObserved": 426,
-    "inCustody": 176,
-    "uniquePeople": 581
+    "inCustody": 177,
+    "uniquePeople": 582
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 12,
+      "booked": 13,
       "released": 13
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 139,
-      "pct": 23.2,
+      "count": 140,
+      "pct": 23.3,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 74,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1076,
-      "pct": 52.8,
+      "count": 1083,
+      "pct": 53,
       "label": "Skagit County Superior Court"
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "OTHR",
       "count": 93,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Other"
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 101,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -443,8 +443,8 @@
     },
     {
       "name": "REVOCATION OF PR",
-      "count": 4,
-      "pct": 0.7
+      "count": 5,
+      "pct": 0.8
     },
     {
       "name": "PAROLE/PROB VIOLATION",
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 49.6,
-    "currentLongestDaysHeld": 1001
+    "currentMedianDaysHeld": 49.5,
+    "currentLongestDaysHeld": 1001.1
   },
   "bond": {
     "withBond": 123,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19281850

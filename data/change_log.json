@@ -49,6 +49,30 @@
     "baseline": false
   },
   {
+    "id": "508869-20261112141500",
+    "nameNumber": "508869",
+    "name": "CINNA, STEPHANIE MARIE",
+    "bookedAt": "2026-11-12T14:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T18:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "665388-20261112133000",
     "nameNumber": "665388",
     "name": "JIMENEZ-SANCHEZ, PEDRO JOSE",
@@ -92,17 +116,102 @@
     "bookedAt": "2026-11-12T13:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "REVOCATION OF PR",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-12T13:30:00",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "RAPE CHILD 1ST DEGREE",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RAPE CHILD 1ST DEGREE",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RAPE CHILD 1ST DEGREE",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RAPE CHILD 1ST DEGREE",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RAPE CHILD 1ST DEGREE",
+        "offenseDate": "2022-06-01T00:00:00",
+        "incident": "23-M10272",
+        "court": "SC",
+        "courtReference": "23-1-00476-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-12T15:11:15",
     "releasedAt": null,
@@ -201,10 +310,10 @@
       },
       {
         "description": "HOLD FOR OTHER AGNCY",
-        "offenseDate": "2026-11-12T13:00:00",
+        "offenseDate": "2017-11-18T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "ISLAND CO",
+        "courtReference": "C17-00171",
         "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
