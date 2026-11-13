@@ -141,11 +141,11 @@
     "scheduledRelease": null,
     "location": "J206",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
-    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-12T19:58:00",
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
@@ -160,7 +160,7 @@
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -172,7 +172,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -184,7 +184,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -196,7 +196,7 @@
         "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -208,7 +208,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -220,7 +220,7 @@
         "bailAmount": 1500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -232,7 +232,7 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
@@ -244,7 +244,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
