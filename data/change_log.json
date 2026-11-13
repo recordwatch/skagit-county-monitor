@@ -1,5 +1,54 @@
 [
   {
+    "id": "688373-20261112153000",
+    "nameNumber": "688373",
+    "name": "HANSON, SAMUEL DARRIN",
+    "bookedAt": "2026-11-12T15:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-12T15:30:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 1ST DEG",
+        "offenseDate": "2026-09-15T00:00:00",
+        "incident": "26-W04490",
+        "court": "SC",
+        "courtReference": "26-1-00563-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Superior Court Summon Release",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-15T00:00:00",
+        "incident": "26-W04490",
+        "court": "SC",
+        "courtReference": "26-1-00563-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Superior Court Summon Release",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "665388-20261112133000",
     "nameNumber": "665388",
     "name": "JIMENEZ-SANCHEZ, PEDRO JOSE",
@@ -67,17 +116,102 @@
     "bookedAt": "2026-11-12T13:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-12T13:00:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 60000,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DUI FELONY",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 1ST DEGREE",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2025-03-17T00:00:00",
+        "incident": "25-A01579",
+        "court": "SC",
+        "courtReference": "25-1-00220-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-12T13:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "ISLAND CO",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-12T15:11:15",
     "releasedAt": null,
@@ -128,17 +262,54 @@
     "bookedAt": "2026-11-12T13:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SHUTTLE",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-12T13:00:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SHUTTLE"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
+        "offenseDate": "2025-04-11T00:00:00",
+        "incident": "25-M05769",
+        "court": "SC",
+        "courtReference": "25-1-00252-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SHUTTLE"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-04-11T00:00:00",
+        "incident": "25-M05769",
+        "court": "SC",
+        "courtReference": "25-1-00252-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SHUTTLE"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2024-09-03T00:00:00",
+        "incident": "24-M16055",
+        "court": "MVMC",
+        "courtReference": "4A0686082",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SHUTTLE"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-12T15:11:15",
     "releasedAt": null,
@@ -566,10 +737,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T02:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -825,7 +996,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 100000,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "ROBBERY 1ST/BODILY INJURY",
@@ -833,7 +1004,7 @@
         "incident": "26-M13773",
         "court": "SC",
         "courtReference": "26-1-00617-29",
-        "bailAmount": 100000,
+        "bailAmount": 75000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -985,10 +1156,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T05:11:20",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-12T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
