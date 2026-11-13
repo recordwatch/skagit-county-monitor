@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T12:11:15",
+  "generatedAt": "2026-11-13T13:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 610,
-    "bookingsObserved": 407,
-    "releasesObserved": 433,
-    "inCustody": 177,
-    "uniquePeople": 589
+    "bookingsTracked": 611,
+    "bookingsObserved": 408,
+    "releasesObserved": 437,
+    "inCustody": 174,
+    "uniquePeople": 590
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 3,
-      "released": 7
+      "booked": 4,
+      "released": 11
     }
   ],
   "topCharges": [
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 92,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -217,6 +217,11 @@
       "pct": 1.8
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 33,
+      "pct": 1.6
+    },
+    {
       "name": "ATTEMPT TO ELUDE",
       "count": 33,
       "pct": 1.6
@@ -232,14 +237,9 @@
       "pct": 1.6
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 32,
-      "pct": 1.5
-    },
-    {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
       "count": 30,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 53,
-      "pct": 8.7,
+      "count": 54,
+      "pct": 8.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "SKAGIT COUNTY JAIL",
       "count": 7,
-      "pct": 1.2,
+      "pct": 1.1,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1089,
-      "pct": 52.7,
+      "count": 1092,
+      "pct": 52.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 187,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 119,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -392,12 +392,12 @@
       "pct": 16.6
     },
     {
-      "name": "MISDEMEANOR CITATION ARREST",
-      "count": 89,
-      "pct": 14.6
+      "name": "FELONY WARRANT ARREST",
+      "count": 90,
+      "pct": 14.8
     },
     {
-      "name": "FELONY WARRANT ARREST",
+      "name": "MISDEMEANOR CITATION ARREST",
       "count": 89,
       "pct": 14.6
     },
@@ -409,7 +409,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 38,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -424,7 +424,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 21,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -460,23 +460,23 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 575,
-      "pct": 43.2
+      "count": 585,
+      "pct": 43.6
     },
     {
       "name": "Sentence Complete Release",
-      "count": 141,
-      "pct": 10.6
-    },
-    {
-      "name": "Serving Commit",
-      "count": 133,
-      "pct": 10
+      "count": 150,
+      "pct": 11.2
     },
     {
       "name": "Declined To Prosecute",
       "count": 133,
-      "pct": 10
+      "pct": 9.9
+    },
+    {
+      "name": "Serving Commit",
+      "count": 124,
+      "pct": 9.2
     },
     {
       "name": "Dismissed",
@@ -486,12 +486,12 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 82,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "Amended",
       "count": 58,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Bail Bond Release",
@@ -501,7 +501,7 @@
     {
       "name": "Pending Transport",
       "count": 18,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "Shuttle Release",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.8
+      "pct": 8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,75 +543,75 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.4
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.8
+      "pct": 8
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.4
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 10.2
+      "count": 13,
+      "pct": 8
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.5
+      "pct": 17.9
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.7
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.7
+      "pct": 16
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 642,
-      "pct": 94.1
+      "count": 626,
+      "pct": 94
     },
     {
       "name": "SCRAM With Bail",
       "count": 35,
-      "pct": 5.1
+      "pct": 5.3
     },
     {
       "name": "Cash Only",
       "count": 5,
-      "pct": 0.7
+      "pct": 0.8
     }
   ],
   "releaseSources": {
     "official": 420,
-    "observed": 13,
+    "observed": 17,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 431,
+    "releasedCount": 435,
     "medianDays": 1.8,
-    "meanDays": 44,
+    "meanDays": 43.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -619,7 +619,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 114
+        "count": 118
       },
       {
         "label": "3–7 days",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.2,
+    "currentMedianDaysHeld": 51.2,
     "currentLongestDaysHeld": 1001.8
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 58,
+    "withBond": 117,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19152850
+    "totalBond": 19134600
   },
   "chargesPerBooking": 3.4
 }

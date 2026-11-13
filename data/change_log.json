@@ -1,5 +1,66 @@
 [
   {
+    "id": "145253-20261113114500",
+    "nameNumber": "145253",
+    "name": "ENSLEY, ROBERT VANCE",
+    "bookedAt": "2026-11-13T11:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T11:28:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "ASSAULT 3RD LAW ENFORCEMENT",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-W04553",
+        "court": "SC",
+        "courtReference": "26-1-00527-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-W04553",
+        "court": "SC",
+        "courtReference": "26-1-00527-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-09-17T00:00:00",
+        "incident": "26-W04553",
+        "court": "SC",
+        "courtReference": "26-1-00527-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T13:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "716518-20261113085500",
     "nameNumber": "716518",
     "name": "YOCAM, EMILY CHRISTINE",
@@ -260,41 +321,17 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 7000,
+    "bondTotal": null,
     "charges": [
-      {
-        "description": "DWLS/R 3RD DEGREE",
-        "offenseDate": "2026-11-12T19:58:00",
-        "incident": "26-B08234",
-        "court": "BMC",
-        "courtReference": "6A0439562",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
-      {
-        "description": "IGNITION INTERLOCK DR LIC VIOL",
-        "offenseDate": "2026-11-12T19:58:00",
-        "incident": "26-B08234",
-        "court": "BMC",
-        "courtReference": "6A0439562",
-        "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
-        "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "BURLINGTON POLICE DEPT"
-      },
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2024-04-04T00:00:00",
         "incident": null,
         "court": "MVMC",
         "courtReference": "4A0292899",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -304,9 +341,9 @@
         "incident": "26-B05509",
         "court": "BMC",
         "courtReference": "6A0341956",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -317,8 +354,8 @@
         "court": "BMC",
         "courtReference": "6A0341956",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -328,9 +365,9 @@
         "incident": "26-B03490",
         "court": "BMC",
         "courtReference": "6A0283463",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -341,8 +378,8 @@
         "court": "BMC",
         "courtReference": "6A0283463",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -352,9 +389,33 @@
         "incident": "24-B04346",
         "court": "BMC",
         "courtReference": "4A0515148",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-12T19:58:00",
+        "incident": "26-B08234",
+        "court": "BMC",
+        "courtReference": "6A0439561",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "IGNITION INTERLOCK DR LIC VIOL",
+        "offenseDate": "2026-11-12T19:58:00",
+        "incident": "26-B08234",
+        "court": "BMC",
+        "courtReference": "6A0439561",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -798,10 +859,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T13:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -932,10 +993,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T13:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1486,10 +1547,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T18:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T13:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1523,10 +1584,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T13:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -6608,7 +6669,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -6616,9 +6677,9 @@
         "incident": "25-08901",
         "court": "DC",
         "courtReference": "5A0570950",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -18683,7 +18744,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 3250,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATION 1ST",
@@ -18715,9 +18776,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0009215",
-        "bailAmount": 750,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -23011,7 +23072,7 @@
     "nameNumber": "459280",
     "name": "LARKIN, TYLER NICOLAS",
     "bookedAt": "2026-10-01T14:45:00",
-    "scheduledRelease": "2026-11-13T11:59:05",
+    "scheduledRelease": "2026-11-13T12:51:22",
     "location": "P108",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -23022,7 +23083,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "RECKLESS ENDANGERMENT",
@@ -23054,9 +23115,9 @@
         "incident": "24-B00849",
         "court": "BMC",
         "courtReference": "4A0218871",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23066,9 +23127,9 @@
         "incident": "24-B07120",
         "court": "BMC",
         "courtReference": "4A0770792",
-        "bailAmount": 1250,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23079,8 +23140,8 @@
         "court": "BMC",
         "courtReference": "4A0770792",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23090,9 +23151,9 @@
         "incident": "26-B06089",
         "court": "BMC",
         "courtReference": "6A0328734",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23103,8 +23164,8 @@
         "court": "BMC",
         "courtReference": "6A0328734",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23114,9 +23175,9 @@
         "incident": "26-B07223",
         "court": "BMC",
         "courtReference": "6A0328736",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23127,8 +23188,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23139,8 +23200,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -23151,8 +23212,8 @@
         "court": "BMC",
         "courtReference": "6A0328736",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
