@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T09:11:22",
+  "generatedAt": "2026-11-13T10:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 609,
-    "bookingsObserved": 406,
-    "releasesObserved": 428,
-    "inCustody": 181,
-    "uniquePeople": 588
+    "bookingsTracked": 610,
+    "bookingsObserved": 407,
+    "releasesObserved": 430,
+    "inCustody": 180,
+    "uniquePeople": 589
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 2,
-      "released": 2
+      "booked": 3,
+      "released": 4
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 91,
-      "pct": 4.4
+      "count": 92,
+      "pct": 4.5
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 145,
-      "pct": 23.9,
+      "pct": 23.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 129,
-      "pct": 21.3,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 89,
-      "pct": 14.7,
+      "pct": 14.6,
       "label": "WA STATE PATROL"
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "OTHR",
-      "count": 93,
+      "count": 94,
       "pct": 4.5,
       "label": "Other"
     },
@@ -394,12 +394,12 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 89,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 89,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -427,12 +427,12 @@
       "pct": 3.5
     },
     {
-      "name": "DUI WARRANT ARREST",
-      "count": 16,
-      "pct": 2.6
+      "name": "OTHER COUNTY HOLDS",
+      "count": 17,
+      "pct": 2.8
     },
     {
-      "name": "OTHER COUNTY HOLDS",
+      "name": "DUI WARRANT ARREST",
       "count": 16,
       "pct": 2.6
     },
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 555,
-      "pct": 42.7
+      "count": 561,
+      "pct": 42.9
     },
     {
       "name": "Sentence Complete Release",
@@ -491,7 +491,7 @@
     {
       "name": "Amended",
       "count": 58,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "Bail Bond Release",
@@ -499,12 +499,12 @@
       "pct": 4
     },
     {
-      "name": "Shuttle Release",
-      "count": 16,
-      "pct": 1.2
+      "name": "Pending Transport",
+      "count": 17,
+      "pct": 1.3
     },
     {
-      "name": "Pending Transport",
+      "name": "Shuttle Release",
       "count": 16,
       "pct": 1.2
     },
@@ -522,8 +522,8 @@
   "housingUnits": [
     {
       "name": "COMMUNITY SERVICE WORK",
-      "count": 4,
-      "pct": 2.3
+      "count": 3,
+      "pct": 1.8
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,17 +543,17 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 8.8
+      "pct": 8.9
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.7
     },
     {
       "name": "M",
-      "count": 9,
-      "pct": 5.3
+      "count": 8,
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,33 +563,33 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7
+      "pct": 7.1
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.5
+      "count": 16,
+      "pct": 9.5
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17
+      "pct": 17.3
     },
     {
       "name": "Q",
-      "count": 26,
-      "pct": 15.2
+      "count": 27,
+      "pct": 16.1
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 659,
+      "count": 656,
       "pct": 94.3
     },
     {
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 420,
-    "observed": 8,
+    "observed": 10,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 426,
+    "releasedCount": 428,
     "medianDays": 1.9,
-    "meanDays": 44.4,
+    "meanDays": 44.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 144
+        "count": 145
       },
       {
         "label": "1–3 days",
@@ -627,7 +627,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 42
+        "count": 43
       },
       {
         "label": "1–3 months",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 46.8,
+    "currentMedianDaysHeld": 47.9,
     "currentLongestDaysHeld": 1001.7
   },
   "bond": {
     "withBond": 126,
-    "noBond": 55,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19193850
+    "totalBond": 19185350
   },
   "chargesPerBooking": 3.4
 }
