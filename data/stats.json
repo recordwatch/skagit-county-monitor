@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:11:15",
+  "generatedAt": "2026-11-14T08:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 622,
@@ -213,7 +213,7 @@
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 40,
+      "count": 39,
       "pct": 1.9
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1108,
-      "pct": 52.8,
+      "count": 1104,
+      "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 326,
-      "pct": 15.5,
+      "pct": 15.6,
       "label": "Skagit County District Court"
     },
     {

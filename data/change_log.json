@@ -40,30 +40,6 @@
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
-      },
-      {
-        "description": "NVOL WITH ID (INFRACTION)",
-        "offenseDate": "2026-11-14T02:05:00",
-        "incident": null,
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "WA STATE PATROL"
-      },
-      {
-        "description": "SPEEDING",
-        "offenseDate": "2026-11-14T02:05:00",
-        "incident": null,
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
@@ -276,30 +252,6 @@
       },
       {
         "description": "BRIBERY",
-        "offenseDate": "2026-11-13T21:39:00",
-        "incident": "26-SP1715",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
-      },
-      {
-        "description": "BRIBERY",
-        "offenseDate": "2026-11-13T21:39:00",
-        "incident": "26-SP1715",
-        "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "INVESTIGATIVE HOLD",
-        "agency": "SWINOMISH POLICE DEPARTMENT"
-      },
-      {
-        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
         "offenseDate": "2026-11-13T21:39:00",
         "incident": "26-SP1715",
         "court": "SC",
