@@ -15,8 +15,21 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "ASSAULT-2 STRNGULTN/SUFFOCATN",
+        "offenseDate": "2022-08-25T00:00:00",
+        "incident": "22-12041",
+        "court": "SC",
+        "courtReference": "22-1-00753-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-14T12:52:53",
     "releasedAt": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:52:53",
+  "generatedAt": "2026-11-14T13:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 624,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1104,
-      "pct": 52.6,
+      "count": 1105,
+      "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 625,
+      "count": 626,
       "pct": 94
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1002.8
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 61,
+    "withBond": 116,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19117600
+    "totalBond": 19122600
   },
   "chargesPerBooking": 3.4
 }
