@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T12:11:21",
+  "generatedAt": "2026-11-14T12:52:53",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 623,
-    "bookingsObserved": 420,
+    "bookingsTracked": 624,
+    "bookingsObserved": 421,
     "releasesObserved": 448,
-    "inCustody": 175,
-    "uniquePeople": 601
+    "inCustody": 176,
+    "uniquePeople": 602
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 5,
+      "booked": 6,
       "released": 3
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 130,
-      "pct": 20.9,
+      "count": 131,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -389,7 +389,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 101,
-      "pct": 16.3
+      "pct": 16.2
+    },
+    {
+      "name": "FELONY WARRANT ARREST",
+      "count": 91,
+      "pct": 14.6
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -397,14 +402,9 @@
       "pct": 14.5
     },
     {
-      "name": "FELONY WARRANT ARREST",
-      "count": 90,
-      "pct": 14.5
-    },
-    {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 50,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DUI CITATION ARREST",
@@ -567,13 +567,13 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.9
+      "count": 15,
+      "pct": 9.3
     },
     {
       "name": "P",
-      "count": 27,
-      "pct": 16.7
+      "count": 28,
+      "pct": 17.3
     },
     {
       "name": "Q",
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 51.5,
+    "currentMedianDaysHeld": 51.4,
     "currentLongestDaysHeld": 1002.8
   },
   "bond": {
     "withBond": 115,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19117600

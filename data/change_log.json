@@ -1,5 +1,29 @@
 [
   {
+    "id": "239050-20261114114600",
+    "nameNumber": "239050",
+    "name": "BROWN, ZETH LEROY",
+    "bookedAt": "2026-11-14T11:46:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-14T10:43:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T12:52:53",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743674-20261114082000",
     "nameNumber": "743674",
     "name": "GONZALES, UNIQUE JAVON",
@@ -3490,7 +3514,7 @@
     "name": "TUCKER, JEREMY RYAN",
     "bookedAt": "2026-11-09T11:30:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": "P104",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
