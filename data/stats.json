@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T04:11:15",
+  "generatedAt": "2026-11-14T05:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 620,
-    "bookingsObserved": 417,
+    "bookingsTracked": 622,
+    "bookingsObserved": 419,
     "releasesObserved": 445,
-    "inCustody": 175,
-    "uniquePeople": 598
+    "inCustody": 177,
+    "uniquePeople": 600
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 2,
+      "booked": 4,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 151,
-      "pct": 7.2
+      "count": 153,
+      "pct": 7.3
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 133,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -217,12 +217,12 @@
       "pct": 1.9
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 33,
+      "name": "ATTEMPT TO ELUDE",
+      "count": 34,
       "pct": 1.6
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "RESISTING ARREST",
       "count": 33,
       "pct": 1.6
     },
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 146,
-      "pct": 23.6,
+      "pct": 23.5,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 94,
-      "pct": 15.2,
+      "count": 96,
+      "pct": 15.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 77,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 43,
-      "pct": 7,
+      "pct": 6.9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "DEPARTMENT OF CORRECTIONS",
       "count": 22,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1104,
-      "pct": 52.7,
+      "count": 1108,
+      "pct": 52.8,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 325,
+      "count": 326,
       "pct": 15.5,
       "label": "Skagit County District Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 121,
-      "pct": 19.6
+      "count": 123,
+      "pct": 19.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -394,12 +394,12 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 90,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 90,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 43,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 22,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -429,12 +429,12 @@
     {
       "name": "DUI WARRANT ARREST",
       "count": 17,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 17,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 51.1,
+    "currentMedianDaysHeld": 50.9,
     "currentLongestDaysHeld": 1002.5
   },
   "bond": {
     "withBond": 118,
-    "noBond": 57,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19122100
