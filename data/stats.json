@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T16:11:15",
+  "generatedAt": "2026-11-13T17:11:13",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 613,
     "bookingsObserved": 410,
-    "releasesObserved": 444,
-    "inCustody": 169,
+    "releasesObserved": 445,
+    "inCustody": 168,
     "uniquePeople": 592
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-13",
       "booked": 6,
-      "released": 18
+      "released": 19
     }
   ],
   "topCharges": [
@@ -562,8 +562,8 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 12,
-      "pct": 7.6
+      "count": 11,
+      "pct": 7.1
     },
     {
       "name": "N",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 27,
-      "pct": 17.2
+      "pct": 17.3
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.2
+      "pct": 17.3
     },
     {
       "name": "R",
       "count": 27,
-      "pct": 17.2
+      "pct": 17.3
     }
   ],
   "bailTypes": [
@@ -605,11 +605,11 @@
   ],
   "releaseSources": {
     "official": 420,
-    "observed": 24,
+    "observed": 25,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 442,
+    "releasedCount": 443,
     "medianDays": 1.8,
     "meanDays": 43,
     "buckets": [
@@ -631,22 +631,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 57
+        "count": 58
       },
       {
         "label": "3+ months",
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 53,
+    "currentMedianDaysHeld": 53.4,
     "currentLongestDaysHeld": 1002
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 115,
     "noBond": 53,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19120100
+    "totalBond": 19117600
   },
   "chargesPerBooking": 3.4
 }
