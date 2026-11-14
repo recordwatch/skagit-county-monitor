@@ -1,5 +1,54 @@
 [
   {
+    "id": "743674-20261114082000",
+    "nameNumber": "743674",
+    "name": "GONZALES, UNIQUE JAVON",
+    "bookedAt": "2026-11-14T08:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-14T07:34:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-14T07:34:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00991462",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-14T07:34:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00991462",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T11:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "649654-20261114035000",
     "nameNumber": "649654",
     "name": "SUAREZ-MATA, EDIE ELIGIO",
@@ -101,7 +150,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -111,7 +160,7 @@
         "courtReference": "T00884965",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -121,9 +170,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00884967",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -187,7 +236,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -195,9 +244,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00950360",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -207,9 +256,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00950361",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -431,7 +480,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -439,9 +488,9 @@
         "incident": "26-B08256",
         "court": "BMC",
         "courtReference": "6A0269838",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -451,9 +500,9 @@
         "incident": "26-M14805",
         "court": "MVMC",
         "courtReference": "6A0415755",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
