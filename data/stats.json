@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:11:15",
+  "generatedAt": "2026-11-14T04:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 620,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 150,
+      "count": 151,
       "pct": 7.2
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 45,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -266,19 +266,19 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 146,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 130,
-      "pct": 21.1,
+      "pct": 21,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 93,
-      "pct": 15.1,
+      "count": 94,
+      "pct": 15.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 54,
-      "pct": 8.8,
+      "pct": 8.7,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1104,
-      "pct": 52.8,
+      "pct": 52.7,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 323,
-      "pct": 15.4,
+      "count": 325,
+      "pct": 15.5,
       "label": "Skagit County District Court"
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 101,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 42,
-      "pct": 6.8
+      "count": 43,
+      "pct": 7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 13,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 10,
-      "pct": 6.2
+      "count": 11,
+      "pct": 6.8
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -573,23 +573,23 @@
     {
       "name": "P",
       "count": 27,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "R",
       "count": 27,
-      "pct": 16.8
+      "pct": 16.7
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 629,
+      "count": 630,
       "pct": 94
     },
     {
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 51.1,
-    "currentLongestDaysHeld": 1002.4
+    "currentLongestDaysHeld": 1002.5
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 58,
+    "withBond": 118,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19121600
+    "totalBond": 19122100
   },
   "chargesPerBooking": 3.4
 }

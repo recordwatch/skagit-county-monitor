@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-14T01:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-13T23:51:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-13T23:51:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00884965",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "POSS DRUG PARAPHEN",
+        "offenseDate": "2026-11-13T23:51:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00884967",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-14T03:11:15",
     "releasedAt": null,
@@ -66,7 +91,7 @@
     "name": "ZAREMBA, HOLLY DELORES",
     "bookedAt": "2026-11-13T23:29:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
