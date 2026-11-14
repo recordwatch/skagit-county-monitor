@@ -15,7 +15,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 36000,
     "charges": [
       {
         "description": "ASSAULT-2 STRNGULTN/SUFFOCATN",
@@ -24,6 +24,54 @@
         "court": "SC",
         "courtReference": "22-1-00753-29",
         "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2016-03-20T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "6Z0393767",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2016-03-16T00:00:00",
+        "incident": "16-03564",
+        "court": "DC",
+        "courtReference": "6Z0014386",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2018-12-04T00:00:00",
+        "incident": "18-17592",
+        "court": "DC",
+        "courtReference": "8Z0607638",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2021-11-18T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "990431394",
+        "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
