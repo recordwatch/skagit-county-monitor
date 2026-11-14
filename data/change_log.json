@@ -128,10 +128,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T05:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-14T12:11:21",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -177,10 +177,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-14T12:11:21",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -214,10 +214,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-14T12:11:21",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

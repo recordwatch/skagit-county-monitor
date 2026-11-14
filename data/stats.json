@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T11:11:20",
+  "generatedAt": "2026-11-14T12:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 623,
     "bookingsObserved": 420,
-    "releasesObserved": 445,
-    "inCustody": 178,
+    "releasesObserved": 448,
+    "inCustody": 175,
     "uniquePeople": 601
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-14",
       "booked": 5,
-      "released": 0
+      "released": 3
     }
   ],
   "topCharges": [
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.4
+      "count": 11,
+      "pct": 6.8
     },
     {
       "name": "K",
@@ -558,32 +558,32 @@
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6.7
+      "pct": 6.8
     },
     {
       "name": "N",
       "count": 16,
-      "pct": 9.8
+      "pct": 9.9
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.7
     },
     {
       "name": "R",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.7
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 439,
-    "observed": 6,
+    "observed": 9,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 443,
+    "releasedCount": 446,
     "medianDays": 1.8,
-    "meanDays": 43,
+    "meanDays": 42.7,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 152
+        "count": 155
       },
       {
         "label": "1–3 days",
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.6,
+    "currentMedianDaysHeld": 51.5,
     "currentLongestDaysHeld": 1002.8
   },
   "bond": {
     "withBond": 115,
-    "noBond": 63,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19117600
