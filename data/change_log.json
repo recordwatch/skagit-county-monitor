@@ -49,6 +49,79 @@
     "baseline": false
   },
   {
+    "id": "326086-20261113140500",
+    "nameNumber": "326086",
+    "name": "KONONEN, TIMOTHY JAMES",
+    "bookedAt": "2026-11-13T14:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T12:29:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 1ST PROPERTY/SERVICES",
+        "offenseDate": "2026-11-13T12:29:00",
+        "incident": "26-07755",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2026-11-13T12:29:00",
+        "incident": "26-07755",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "CARRY CONCEALED PISTOL W/OUT PERMIT",
+        "offenseDate": "2026-11-13T12:29:00",
+        "incident": "26-07755",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "UNLAW POSS FIREARM 1ST DEGREE",
+        "offenseDate": "2026-11-13T12:29:00",
+        "incident": "26-07755",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T16:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "145253-20261113114500",
     "nameNumber": "145253",
     "name": "ENSLEY, ROBERT VANCE",
@@ -140,10 +213,10 @@
         "agency": "OAK HARBOR POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T10:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -530,10 +603,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T19:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1273,7 +1346,7 @@
     "name": "BURNETT, JAZMYN LEE",
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
-    "location": "J204",
+    "location": "R210",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -2500,7 +2573,7 @@
     "name": "JOHNSON, KATHERINE M",
     "bookedAt": "2026-11-09T20:30:00",
     "scheduledRelease": null,
-    "location": "J111",
+    "location": "R101",
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -4431,7 +4504,7 @@
     "name": "COLLETT, KEVIN PAUL",
     "bookedAt": "2026-11-07T09:25:00",
     "scheduledRelease": null,
-    "location": "J106",
+    "location": "K103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -7052,10 +7125,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-13T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -24855,7 +24928,7 @@
     "name": "DELACRUZ, SAMMI MADISON",
     "bookedAt": "2026-09-22T17:30:00",
     "scheduledRelease": null,
-    "location": "R101",
+    "location": "J208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
