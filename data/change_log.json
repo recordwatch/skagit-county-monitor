@@ -30,8 +30,8 @@
     "bookedAt": "2026-11-13T22:25:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
       {
         "arrestDate": "2026-11-13T21:39:00",
@@ -40,7 +40,68 @@
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-11-13T21:39:00",
+        "incident": "26-SP1715",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "BRIBERY",
+        "offenseDate": "2026-11-13T21:39:00",
+        "incident": "26-SP1715",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "BRIBERY",
+        "offenseDate": "2026-11-13T21:39:00",
+        "incident": "26-SP1715",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-11-13T21:39:00",
+        "incident": "26-SP1715",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-11-13T21:39:00",
+        "incident": "26-SP1715",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-13T23:11:13",
     "releasedAt": null,
