@@ -1,5 +1,127 @@
 [
   {
+    "id": "118780-20261113204500",
+    "nameNumber": "118780",
+    "name": "DELEON, DAMIAN",
+    "bookedAt": "2026-11-13T20:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T14:36:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "SPEEDING IN EMERG ZONE",
+        "offenseDate": "2026-11-13T14:30:00",
+        "incident": "26-M16814",
+        "court": "MVMC",
+        "courtReference": "6A0396419",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 1ST DEGREE",
+        "offenseDate": "2026-11-13T14:30:00",
+        "incident": "26-M16814",
+        "court": "MVMC",
+        "courtReference": "6A0396419",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-11-13T14:30:00",
+        "incident": "26-M16814",
+        "court": "MVMC",
+        "courtReference": "6A0396419",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-13T14:30:00",
+        "incident": "26-M16814",
+        "court": "MVMC",
+        "courtReference": "6A0396419",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "697445-20261113203200",
+    "nameNumber": "697445",
+    "name": "SHARP, GARY DYRAN JR",
+    "bookedAt": "2026-11-13T20:32:00",
+    "scheduledRelease": null,
+    "location": "J103",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-13T20:05:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-13T20:05:00",
+        "incident": "26-B08256",
+        "court": "BMC",
+        "courtReference": "6A0269838",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-03T00:00:00",
+        "incident": null,
+        "court": "MVMC",
+        "courtReference": "6A0415755",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T22:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "659988-20261113140500",
     "nameNumber": "659988",
     "name": "SCOLLARD, CHARLES JAMES",
