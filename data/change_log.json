@@ -1,5 +1,29 @@
 [
   {
+    "id": "492190-20261113232900",
+    "nameNumber": "492190",
+    "name": "ZAREMBA, HOLLY DELORES",
+    "bookedAt": "2026-11-13T23:29:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T01:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "671754-20261113222500",
     "nameNumber": "671754",
     "name": "BRODIGAN, EMMA JOY",
@@ -10,9 +34,9 @@
     "arrestType": null,
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-13T21:39:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
