@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T01:11:18",
+  "generatedAt": "2026-11-15T02:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 631,
-    "bookingsObserved": 428,
+    "bookingsTracked": 632,
+    "bookingsObserved": 429,
     "releasesObserved": 450,
-    "inCustody": 181,
-    "uniquePeople": 609
+    "inCustody": 182,
+    "uniquePeople": 610
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 13,
+      "booked": 14,
       "released": 5
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 120,
-      "pct": 5.6
+      "count": 121,
+      "pct": 5.7
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -334,7 +334,7 @@
     {
       "name": "DC",
       "count": 337,
-      "pct": 15.9,
+      "pct": 15.8,
       "label": "Skagit County District Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 192,
-      "pct": 9,
+      "count": 193,
+      "pct": 9.1,
       "label": "Burlington Municipal Court"
     },
     {
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 646,
+      "count": 647,
       "pct": 94.2
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 48.5,
-    "currentLongestDaysHeld": 1003.3
+    "currentMedianDaysHeld": 47,
+    "currentLongestDaysHeld": 1003.4
   },
   "bond": {
     "withBond": 119,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19233600
+    "totalBond": 19234100
   },
   "chargesPerBooking": 3.4
 }

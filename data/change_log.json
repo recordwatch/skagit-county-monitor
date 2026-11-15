@@ -1,5 +1,29 @@
 [
   {
+    "id": "243683-20261114232500",
+    "nameNumber": "243683",
+    "name": "NAVEJAS, NICHOLAS WILLIAM",
+    "bookedAt": "2026-11-14T23:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T02:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "441713-20261114225500",
     "nameNumber": "441713",
     "name": "OSNES, EMILY ROSE",
@@ -15,7 +39,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -59,6 +83,18 @@
         "incident": "25-B09830",
         "court": "BMC",
         "courtReference": "6A0127408",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-06-04T00:00:00",
+        "incident": "24-B03817",
+        "court": "BMC",
+        "courtReference": "4A0518466",
         "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
