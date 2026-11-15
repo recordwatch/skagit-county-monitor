@@ -1,22 +1,192 @@
 [
   {
+    "id": "15718-20261114143800",
+    "nameNumber": "15718",
+    "name": "LADWIG, JEROMY KEITH",
+    "bookedAt": "2026-11-14T14:38:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-14T13:46:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 75500,
+    "charges": [
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-14T13:41:00",
+        "incident": "26-B08267",
+        "court": "BMC",
+        "courtReference": "6A0351419",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2025-01-17T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2025-04-14T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2025-04-15T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CONT SUBS AMPHET/METHAMPHET",
+        "offenseDate": "2025-04-28T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2025-04-28T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "BAIL JUMP-FELONY B OR C",
+        "offenseDate": "2026-04-27T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
+        "offenseDate": "2026-04-28T00:00:00",
+        "incident": "25-M01060",
+        "court": "SC",
+        "courtReference": "25-1-00040-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2024-10-04T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0795694",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-10-04T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0795695",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T16:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743679-20261114135600",
     "nameNumber": "743679",
     "name": "QUIGLEY, SEAN ANTHONY",
     "bookedAt": "2026-11-14T13:56:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-14T09:16:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-14T09:16:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976714",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-14T09:16:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976714",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-14T15:11:16",
     "releasedAt": null,
@@ -29,7 +199,7 @@
     "name": "BROWN, ZETH LEROY",
     "bookedAt": "2026-11-14T11:46:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J102",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -372,10 +542,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T01:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-14T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -616,10 +786,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-14T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
