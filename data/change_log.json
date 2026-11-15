@@ -1,5 +1,29 @@
 [
   {
+    "id": "731130-20261114215200",
+    "nameNumber": "731130",
+    "name": "SOBJACK, BRANDON LEE",
+    "bookedAt": "2026-11-14T21:52:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T23:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "380644-20261114200000",
     "nameNumber": "380644",
     "name": "NORGORD, ETHAN SHELBY",
@@ -152,7 +176,7 @@
     "name": "LADWIG, JEROMY KEITH",
     "bookedAt": "2026-11-14T14:38:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [

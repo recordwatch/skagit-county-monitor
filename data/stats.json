@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T22:11:14",
+  "generatedAt": "2026-11-14T23:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 629,
-    "bookingsObserved": 426,
+    "bookingsTracked": 630,
+    "bookingsObserved": 427,
     "releasesObserved": 450,
-    "inCustody": 179,
-    "uniquePeople": 607
+    "inCustody": 180,
+    "uniquePeople": 608
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 11,
+      "booked": 12,
       "released": 5
     }
   ],
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.8
+      "count": 17,
+      "pct": 10.3
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "R",
       "count": 27,
-      "pct": 16.5
+      "pct": 16.4
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.5,
-    "currentLongestDaysHeld": 1003.2
+    "currentMedianDaysHeld": 49.5,
+    "currentLongestDaysHeld": 1003.3
   },
   "bond": {
     "withBond": 118,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19230600
