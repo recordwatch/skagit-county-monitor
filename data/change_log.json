@@ -663,7 +663,7 @@
     "name": "GONZALES, UNIQUE JAVON",
     "bookedAt": "2026-11-14T08:20:00",
     "scheduledRelease": null,
-    "location": "J104",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
