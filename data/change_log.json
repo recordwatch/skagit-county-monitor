@@ -788,8 +788,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T05:11:14",
-    "releasedAt": "2026-11-14T12:11:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-14T11:21:30",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -837,8 +837,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T03:11:15",
-    "releasedAt": "2026-11-14T12:11:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-14T11:09:59",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -874,8 +874,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T03:11:15",
-    "releasedAt": "2026-11-14T12:11:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-14T11:21:54",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -923,8 +923,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T01:11:14",
-    "releasedAt": "2026-11-14T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-14T14:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1167,8 +1167,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-13T22:11:15",
-    "releasedAt": "2026-11-14T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-14T15:10:44",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5932,7 +5932,7 @@
     "nameNumber": "206919",
     "name": "HASSENMILLER, KRISTY LYNN",
     "bookedAt": "2026-11-06T21:05:00",
-    "scheduledRelease": "2026-11-15T21:05:00",
+    "scheduledRelease": "2026-11-15T15:05:00",
     "location": "R111",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
