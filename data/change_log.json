@@ -188,7 +188,7 @@
     "name": "SOBJACK, BRANDON LEE",
     "bookedAt": "2026-11-14T21:52:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J104",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -5953,7 +5953,7 @@
         "courtReference": "26-1-00246-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -5965,7 +5965,7 @@
         "courtReference": "26-1-00246-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
