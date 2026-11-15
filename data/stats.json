@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:11:17",
+  "generatedAt": "2026-11-15T09:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 633,
@@ -208,8 +208,8 @@
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
-      "count": 41,
-      "pct": 1.9
+      "count": 42,
+      "pct": 2
     },
     {
       "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 595,
-      "pct": 43.9
+      "pct": 43.8
     },
     {
       "name": "Sentence Complete Release",
@@ -476,22 +476,22 @@
     {
       "name": "Serving Commit",
       "count": 124,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "Dismissed",
-      "count": 103,
-      "pct": 7.6
+      "count": 101,
+      "pct": 7.4
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 82,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "Amended",
-      "count": 59,
-      "pct": 4.4
+      "count": 61,
+      "pct": 4.5
     },
     {
       "name": "Bail Bond Release",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 19,
-      "pct": 1.4
+      "count": 21,
+      "pct": 1.5
     },
     {
       "name": "Shuttle Release",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 45.7,
-    "currentLongestDaysHeld": 1003.6
+    "currentLongestDaysHeld": 1003.7
   },
   "bond": {
     "withBond": 119,
