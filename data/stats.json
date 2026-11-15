@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T02:11:17",
+  "generatedAt": "2026-11-15T03:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 632,
-    "bookingsObserved": 429,
+    "bookingsTracked": 633,
+    "bookingsObserved": 430,
     "releasesObserved": 450,
-    "inCustody": 182,
-    "uniquePeople": 610
+    "inCustody": 183,
+    "uniquePeople": 611
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 134,
+      "count": 135,
       "pct": 6.3
     },
     {
@@ -197,13 +197,13 @@
       "pct": 2.3
     },
     {
-      "name": "RECKLESS DRIVING",
+      "name": "CRIM TRESPASS 2ND",
       "count": 47,
       "pct": 2.2
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 46,
+      "name": "RECKLESS DRIVING",
+      "count": 47,
       "pct": 2.2
     },
     {
@@ -234,7 +234,7 @@
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
       "count": 33,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
@@ -266,25 +266,25 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 146,
-      "pct": 23.2,
+      "pct": 23.1,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 133,
-      "pct": 21.1,
+      "count": 134,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 98,
-      "pct": 15.6,
+      "pct": 15.5,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 79,
-      "pct": 12.6,
+      "count": 80,
+      "pct": 12.7,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 23,
-      "pct": 3.7,
+      "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1117,
+      "count": 1118,
       "pct": 52.5,
       "label": "Skagit County Superior Court"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 193,
-      "pct": 9.1,
+      "count": 196,
+      "pct": 9.2,
       "label": "Burlington Municipal Court"
     },
     {
@@ -383,13 +383,13 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 126,
-      "pct": 20
+      "count": 127,
+      "pct": 20.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 101,
-      "pct": 16.1
+      "count": 102,
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 91,
-      "pct": 14.5
+      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 28,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
+      "count": 650,
       "pct": 94.2
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 47,
+    "currentMedianDaysHeld": 45.4,
     "currentLongestDaysHeld": 1003.4
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 63,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19234100
+    "totalBond": 19239600
   },
   "chargesPerBooking": 3.4
 }
