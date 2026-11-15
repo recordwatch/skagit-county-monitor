@@ -76,7 +76,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 75500,
+    "bondTotal": 76500,
     "charges": [
       {
         "description": "RESISTING ARREST",
@@ -193,6 +193,18 @@
         "court": "DC",
         "courtReference": "4A0795695",
         "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DANGEROUS WEAPONS",
+        "offenseDate": "2026-11-14T13:41:00",
+        "incident": "26-B08267",
+        "court": "BMC",
+        "courtReference": "6A0394494",
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -345,7 +357,7 @@
     "name": "GONZALES, UNIQUE JAVON",
     "bookedAt": "2026-11-14T08:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J104",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -394,7 +406,7 @@
     "name": "SUAREZ-MATA, EDIE ELIGIO",
     "bookedAt": "2026-11-14T03:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -615,7 +627,7 @@
     "name": "BRODIGAN, EMMA JOY",
     "bookedAt": "2026-11-13T22:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -9020,7 +9032,7 @@
     "name": "BONENGE, MICHEL SATIVI",
     "bookedAt": "2026-11-01T10:45:40",
     "scheduledRelease": null,
-    "location": "J104",
+    "location": "J111",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
