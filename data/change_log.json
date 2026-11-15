@@ -1,5 +1,54 @@
 [
   {
+    "id": "380644-20261114200000",
+    "nameNumber": "380644",
+    "name": "NORGORD, ETHAN SHELBY",
+    "bookedAt": "2026-11-14T20:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-14T18:45:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-14T18:45:00",
+        "incident": "26-13829",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "UNLAWFUL IMPRISONMENT",
+        "offenseDate": "2026-11-14T18:45:00",
+        "incident": "26-13829",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T22:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743684-20261114184500",
     "nameNumber": "743684",
     "name": "MARCUS, HENRY DAVID",
