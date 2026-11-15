@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T16:11:15",
+  "generatedAt": "2026-11-14T16:51:42",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 626,
-    "bookingsObserved": 423,
+    "bookingsTracked": 627,
+    "bookingsObserved": 424,
     "releasesObserved": 450,
-    "inCustody": 176,
-    "uniquePeople": 604
+    "inCustody": 177,
+    "uniquePeople": 605
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 8,
+      "booked": 9,
       "released": 5
     }
   ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 45,
-      "pct": 2.1
+      "count": 46,
+      "pct": 2.2
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -283,14 +283,14 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 78,
-      "pct": 12.5,
+      "count": 79,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 54,
-      "pct": 8.7,
+      "pct": 8.6,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1112,
+      "count": 1114,
       "pct": 52.6,
       "label": "Skagit County Superior Court"
     },
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 189,
-      "pct": 8.9,
+      "count": 190,
+      "pct": 9,
       "label": "Burlington Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 123,
-      "pct": 19.7
+      "count": 124,
+      "pct": 19.8
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 640,
+      "count": 641,
       "pct": 94.1
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 51.5,
+    "currentMedianDaysHeld": 51.4,
     "currentLongestDaysHeld": 1003
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19229100
+    "totalBond": 19229600
   },
   "chargesPerBooking": 3.4
 }
