@@ -1,9 +1,9 @@
 [
   {
-    "id": "492803-20261115221000",
-    "nameNumber": "492803",
-    "name": "BERREY, HUNTER JOHN",
-    "bookedAt": "2026-11-15T22:10:00",
+    "id": "186328-20261115233500",
+    "nameNumber": "186328",
+    "name": "HERNANDEZ-ROSALES, RAMIRO",
+    "bookedAt": "2026-11-15T23:35:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -18,6 +18,55 @@
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
+    "firstSeen": "2026-11-16T01:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "492803-20261115221000",
+    "nameNumber": "492803",
+    "name": "BERREY, HUNTER JOHN",
+    "bookedAt": "2026-11-15T22:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-15T18:44:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-15T18:44:00",
+        "incident": "26-B08279",
+        "court": "BMC",
+        "courtReference": "6A0394101",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "HIT AND RUN",
+        "offenseDate": "2026-11-15T18:44:00",
+        "incident": "26-B08279",
+        "court": "BMC",
+        "courtReference": "6A0394101",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-11-15T23:11:17",
     "releasedAt": null,
     "releaseSource": null,
@@ -29,7 +78,7 @@
     "name": "KALLERMAN, JOHN LAVERN",
     "bookedAt": "2026-11-15T21:45:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -104,7 +153,7 @@
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
-        "offenseDate": "2026-11-15T20:03:00",
+        "offenseDate": "2026-11-15T18:12:00",
         "incident": "26-A07043",
         "court": "AMC",
         "courtReference": "6A0355657",
@@ -116,7 +165,7 @@
       },
       {
         "description": "RESISTING ARREST",
-        "offenseDate": "2026-11-15T20:03:00",
+        "offenseDate": "2026-11-15T18:12:00",
         "incident": "26-A07043",
         "court": "AMC",
         "courtReference": "6A0355657",
@@ -202,7 +251,7 @@
       {
         "description": "HOLD FOR OTHER AGNCY",
         "offenseDate": "2026-11-15T00:00:00",
-        "incident": null,
+        "incident": "20-M05777",
         "court": "OTHR",
         "courtReference": "DOC 20-1-00571-29",
         "bailAmount": null,
