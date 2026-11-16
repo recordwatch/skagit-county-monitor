@@ -154,7 +154,7 @@
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-06-06T00:00:00",
-        "incident": null,
+        "incident": "26-B04133",
         "court": "BMC",
         "courtReference": "6A0308603",
         "bailAmount": 2500,
@@ -373,7 +373,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-11-14T15:45:00",
+        "offenseDate": "2026-11-14T15:46:00",
         "incident": "26-W05508",
         "court": "SWMC",
         "courtReference": "6A0192744",
