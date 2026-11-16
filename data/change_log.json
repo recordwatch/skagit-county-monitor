@@ -39,7 +39,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -47,6 +47,30 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00572232",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2023-05-06T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0378707",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2021-07-03T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "1A0557939",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -66,7 +90,7 @@
     "name": "PARKER, CRAIG CHARLES",
     "bookedAt": "2026-11-15T20:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
