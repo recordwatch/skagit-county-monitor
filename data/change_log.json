@@ -29,7 +29,7 @@
     "name": "BERREY, HUNTER JOHN",
     "bookedAt": "2026-11-15T22:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -55,6 +55,18 @@
       },
       {
         "description": "HIT AND RUN",
+        "offenseDate": "2026-11-15T18:44:00",
+        "incident": "26-B08279",
+        "court": "BMC",
+        "courtReference": "6A0394101",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
         "offenseDate": "2026-11-15T18:44:00",
         "incident": "26-B08279",
         "court": "BMC",
