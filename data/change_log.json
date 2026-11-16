@@ -260,7 +260,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -268,9 +268,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00572232",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -280,9 +280,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "3A0378707",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -292,9 +292,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "1A0557939",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -553,7 +553,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 4000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -561,9 +561,9 @@
         "incident": "26-13836",
         "court": "DC",
         "courtReference": "6A0015848",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -574,8 +574,8 @@
         "court": "DC",
         "courtReference": "6A0015848",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -585,9 +585,9 @@
         "incident": "24-B03817",
         "court": "MVMC",
         "courtReference": "4A0302245",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -597,9 +597,9 @@
         "incident": "25-B09830",
         "court": "BMC",
         "courtReference": "6A0127408",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -609,9 +609,9 @@
         "incident": "24-B03817",
         "court": "BMC",
         "courtReference": "4A0518466",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -621,9 +621,9 @@
         "incident": "24-B03802",
         "court": "BMC",
         "courtReference": "4a0515142",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -5004,10 +5004,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T21:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
