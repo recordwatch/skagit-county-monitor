@@ -1,5 +1,42 @@
 [
   {
+    "id": "426541-20261116130000",
+    "nameNumber": "426541",
+    "name": "GARRETT, PATRICK ANTHONY",
+    "bookedAt": "2026-11-16T13:00:00",
+    "scheduledRelease": "2026-12-14T17:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T13:44:28",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2013-10-03T00:00:00",
+        "incident": "13-M16036",
+        "court": "MVMC",
+        "courtReference": "MC0030157",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T14:11:25",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "288391-20261116100000",
     "nameNumber": "288391",
     "name": "GONZALEZ-PACHECO, JOSE DEJESUS",
@@ -238,10 +275,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T01:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -299,10 +336,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T23:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -409,10 +446,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T21:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -592,10 +629,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T02:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -775,10 +812,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T22:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -812,10 +849,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T20:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1156,7 +1193,7 @@
         "offenseDate": "2021-11-18T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "990431394",
+        "courtReference": "SEATTLE 990431394",
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -1629,10 +1666,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T22:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1727,10 +1764,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T15:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T14:11:25",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2862,7 +2899,7 @@
     "bondTotal": 30000,
     "charges": [
       {
-        "description": "HARASSMENT",
+        "description": "HARASSMENT/PRIOR CON - FELONY",
         "offenseDate": "2024-11-01T00:00:00",
         "incident": "24-M19990",
         "court": "SC",
@@ -3744,7 +3781,7 @@
     "name": "BAUER, THOMAS JOSEPH",
     "bookedAt": "2026-11-10T13:20:00",
     "scheduledRelease": "2027-01-07T18:20:00",
-    "location": "P201",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -4979,7 +5016,7 @@
     "name": "SANCHEZ, FELIPE",
     "bookedAt": "2026-11-08T20:05:00",
     "scheduledRelease": null,
-    "location": "P207",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
