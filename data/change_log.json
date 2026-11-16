@@ -66,7 +66,7 @@
     "name": "ELDER, KENT MICHAEL",
     "bookedAt": "2026-11-16T09:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -189,7 +189,7 @@
     "name": "HERNANDEZ-ROSALES, RAMIRO",
     "bookedAt": "2026-11-15T23:35:00",
     "scheduledRelease": null,
-    "location": "N202",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -834,7 +834,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
@@ -866,9 +866,9 @@
         "incident": null,
         "court": "BMC",
         "courtReference": "6A0273273",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       }
