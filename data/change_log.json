@@ -1,5 +1,91 @@
 [
   {
+    "id": "643254-20261116090000",
+    "nameNumber": "643254",
+    "name": "ELDER, KENT MICHAEL",
+    "bookedAt": "2026-11-16T09:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T09:00:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2020-07-08T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "XZ0401115",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T10:04:28",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "247241-20261116081500",
+    "nameNumber": "247241",
+    "name": "HARRIS, CHRISTOPHER SCOTT",
+    "bookedAt": "2026-11-16T08:15:00",
+    "scheduledRelease": null,
+    "location": "COMMUNITY SERVICE WORK",
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T08:15:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2022-03-05T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA8400",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2022-03-05T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0045682",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T10:04:28",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "412305-20261116011500",
     "nameNumber": "412305",
     "name": "PETERSON, HOLLIE MARIE",
@@ -467,7 +553,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3500,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -523,6 +609,18 @@
         "incident": "24-B03817",
         "court": "BMC",
         "courtReference": "4A0518466",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-06-04T00:00:00",
+        "incident": "24-B03802",
+        "court": "BMC",
+        "courtReference": "4a0515142",
         "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
@@ -4380,7 +4478,7 @@
     "name": "HURD, MICHAEL GREGORY",
     "bookedAt": "2026-11-09T15:00:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": "P206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
