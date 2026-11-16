@@ -1,5 +1,66 @@
 [
   {
+    "id": "492803-20261115221000",
+    "nameNumber": "492803",
+    "name": "BERREY, HUNTER JOHN",
+    "bookedAt": "2026-11-15T22:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T23:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "738-20261115214500",
+    "nameNumber": "738",
+    "name": "KALLERMAN, JOHN LAVERN",
+    "bookedAt": "2026-11-15T21:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-15T21:04:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-15T21:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00572232",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T23:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "679198-20261115203500",
     "nameNumber": "679198",
     "name": "PARKER, CRAIG CHARLES",
@@ -54,7 +115,7 @@
     "name": "BLOCK, CODY LEE",
     "bookedAt": "2026-11-15T16:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -6776,7 +6837,7 @@
     "name": "PELTIER, BRADLEY GARDNER",
     "bookedAt": "2026-11-05T16:00:00",
     "scheduledRelease": "2026-12-05T16:00:00",
-    "location": "P208",
+    "location": "P205",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "PAROLE/PROB VIOLATION",
     "arrests": [
