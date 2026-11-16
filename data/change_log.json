@@ -1,5 +1,78 @@
 [
   {
+    "id": "289818-20261115162500",
+    "nameNumber": "289818",
+    "name": "BLOCK, CODY LEE",
+    "bookedAt": "2026-11-15T16:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-15T15:10:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 6500,
+    "charges": [
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-15T15:10:00",
+        "incident": "26-13854",
+        "court": "DC",
+        "courtReference": "6A0442442",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FT OBEY POLICE OFFICER",
+        "offenseDate": "2026-06-23T00:00:00",
+        "incident": "26-07267",
+        "court": "DC",
+        "courtReference": "6A0342709",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-06-23T00:00:00",
+        "incident": "26-07267",
+        "court": "DC",
+        "courtReference": "6A0342710",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2021-12-23T00:00:00",
+        "incident": "21-B09503",
+        "court": "BMC",
+        "courtReference": "1A0773710",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T18:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "676914-20261115003000",
     "nameNumber": "676914",
     "name": "WILSON, JOSHUA RYAN",
@@ -4148,7 +4221,7 @@
     "name": "TUCKER, JEREMY RYAN",
     "bookedAt": "2026-11-09T11:30:00",
     "scheduledRelease": null,
-    "location": "P104",
+    "location": "P107",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [

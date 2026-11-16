@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T17:11:14",
+  "generatedAt": "2026-11-15T18:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 633,
-    "bookingsObserved": 430,
+    "bookingsTracked": 634,
+    "bookingsObserved": 431,
     "releasesObserved": 453,
-    "inCustody": 180,
-    "uniquePeople": 611
+    "inCustody": 181,
+    "uniquePeople": 612
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "DUI",
       "count": 157,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 135,
-      "pct": 6.3
+      "count": 136,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -194,7 +194,7 @@
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 48,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -218,7 +218,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 34,
+      "count": 35,
       "pct": 1.6
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 134,
-      "pct": 21.2,
+      "count": 135,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -320,7 +320,7 @@
     {
       "name": "SAN JUAN COUNTY SHERIFF",
       "count": 6,
-      "pct": 1,
+      "pct": 0.9,
       "label": "SAN JUAN COUNTY SHERIFF"
     }
   ],
@@ -328,13 +328,13 @@
     {
       "name": "SC",
       "count": 1120,
-      "pct": 52.5,
+      "pct": 52.4,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 337,
-      "pct": 15.8,
+      "count": 340,
+      "pct": 15.9,
       "label": "Skagit County District Court"
     },
     {
@@ -345,14 +345,14 @@
     },
     {
       "name": "BMC",
-      "count": 196,
+      "count": 197,
       "pct": 9.2,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
       "count": 95,
-      "pct": 4.5,
+      "pct": 4.4,
       "label": "Other"
     },
     {
@@ -389,12 +389,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 102,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 92,
-      "pct": 14.6
+      "count": 93,
+      "pct": 14.7
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
+      "count": 651,
       "pct": 94.2
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 50.2,
-    "currentLongestDaysHeld": 1004
+    "currentMedianDaysHeld": 49.2,
+    "currentLongestDaysHeld": 1004.1
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19139600
+    "totalBond": 19146100
   },
   "chargesPerBooking": 3.4
 }
