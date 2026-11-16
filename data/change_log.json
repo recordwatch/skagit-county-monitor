@@ -1,5 +1,127 @@
 [
   {
+    "id": "724184-20261116142000",
+    "nameNumber": "724184",
+    "name": "GIFFORD, KELLY THOMAS",
+    "bookedAt": "2026-11-16T14:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T14:20:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 50000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTION-FELONY",
+        "offenseDate": "2026-10-03T00:00:00",
+        "incident": "26-12372",
+        "court": "SC",
+        "courtReference": "26-1-00588-29",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Bail Bond Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-10-06T00:00:00",
+        "incident": "26-12372",
+        "court": "SC",
+        "courtReference": "26-1-00588-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Bail Bond Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "478188-20261116135000",
+    "nameNumber": "478188",
+    "name": "HEGLIN-HERNANDEZ, VICTOR KYLE",
+    "bookedAt": "2026-11-16T13:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T13:50:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2025-11-08T00:00:00",
+        "incident": "25-W05563",
+        "court": "SC",
+        "courtReference": "25-1-00719-29",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2025-11-08T00:00:00",
+        "incident": "25-W05563",
+        "court": "SC",
+        "courtReference": "25-1-00719-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2024-01-19T00:00:00",
+        "incident": "24-B00453",
+        "court": "BMC",
+        "courtReference": "4A0134448",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "UNLAWFULLY CARRY A DANGEROUS WEAPON",
+        "offenseDate": "2024-01-19T00:00:00",
+        "incident": "24-B00453",
+        "court": "BMC",
+        "courtReference": "4A0134448",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "426541-20261116130000",
     "nameNumber": "426541",
     "name": "GARRETT, PATRICK ANTHONY",
@@ -557,7 +679,7 @@
     "charges": [
       {
         "description": "HARASSMENT/PRIOR CON - FELONY-DV",
-        "offenseDate": "2026-11-14T23:30:00",
+        "offenseDate": "2026-11-14T19:29:00",
         "incident": "26-13833",
         "court": "SC",
         "courtReference": "INV",
@@ -738,7 +860,7 @@
     "name": "SOBJACK, BRANDON LEE",
     "bookedAt": "2026-11-14T21:52:00",
     "scheduledRelease": null,
-    "location": "J104",
+    "location": "J206",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -8086,7 +8208,7 @@
     "name": "WEIDE, BRADLEY TAYLOR",
     "bookedAt": "2026-11-04T14:55:00",
     "scheduledRelease": null,
-    "location": "P206",
+    "location": "P201",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -11513,10 +11635,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T17:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T15:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -23903,7 +24025,7 @@
     "name": "MARTINEZ, CHRISTOPHER GABRIEL",
     "bookedAt": "2026-10-06T20:50:00",
     "scheduledRelease": null,
-    "location": "M102",
+    "location": "J104",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -36588,6 +36710,84 @@
     "releasedAt": null,
     "releaseSource": null,
     "baseline": true
+  },
+  {
+    "id": "113975-20260524220000",
+    "nameNumber": "113975",
+    "name": "TODD, SHAWN ROBERT",
+    "bookedAt": "2026-05-24T22:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-05-24T21:08:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "arrestDate": "2026-05-25T17:32:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 25000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-05-24T21:08:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00368362",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
+        "offenseDate": "2026-05-24T21:08:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00368364",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-05-24T21:08:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00368364",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "HIT AND RUN ACCIDENT/INJURY-FELONY",
+        "offenseDate": "2026-05-20T19:38:00",
+        "incident": "26-B03670",
+        "court": "SC",
+        "courtReference": "26-1-00288-29",
+        "bailAmount": 25000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:11:18",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
   },
   {
     "id": "451787-20260522145000",
