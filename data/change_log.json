@@ -1,9 +1,9 @@
 [
   {
-    "id": "186328-20261115233500",
-    "nameNumber": "186328",
-    "name": "HERNANDEZ-ROSALES, RAMIRO",
-    "bookedAt": "2026-11-15T23:35:00",
+    "id": "412305-20261116011500",
+    "nameNumber": "412305",
+    "name": "PETERSON, HOLLIE MARIE",
+    "bookedAt": "2026-11-16T01:15:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -17,6 +17,67 @@
     ],
     "bondTotal": null,
     "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T03:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "186328-20261115233500",
+    "nameNumber": "186328",
+    "name": "HERNANDEZ-ROSALES, RAMIRO",
+    "bookedAt": "2026-11-15T23:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-15T23:40:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2016-05-29T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "6Z0616342",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2022-02-05T00:00:00",
+        "incident": null,
+        "court": "MVMC",
+        "courtReference": "2A0060489",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "NVOL WITHOUT ID (CRIMINAL)",
+        "offenseDate": "2022-02-05T00:00:00",
+        "incident": null,
+        "court": "MVMC",
+        "courtReference": "2A0060489",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T01:11:15",
     "releasedAt": null,
