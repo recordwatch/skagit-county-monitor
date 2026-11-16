@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:11:15",
+  "generatedAt": "2026-11-16T09:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 639,
@@ -465,7 +465,7 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 153,
+      "count": 154,
       "pct": 11.3
     },
     {
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 122,
-      "pct": 9
+      "count": 121,
+      "pct": 8.9
     },
     {
       "name": "Dismissed",
@@ -638,8 +638,8 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 46,
-    "currentLongestDaysHeld": 1004.6
+    "currentMedianDaysHeld": 46.1,
+    "currentLongestDaysHeld": 1004.7
   },
   "bond": {
     "withBond": 122,
