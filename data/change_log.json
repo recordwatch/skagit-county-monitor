@@ -4,19 +4,32 @@
     "nameNumber": "412305",
     "name": "PETERSON, HOLLIE MARIE",
     "bookedAt": "2026-11-16T01:15:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-25T15:15:00",
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-16T00:56:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2024-01-13T00:00:00",
+        "incident": "24-SP0070",
+        "court": "DC",
+        "courtReference": "4A0164254",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T03:11:17",
     "releasedAt": null,
@@ -29,7 +42,7 @@
     "name": "HERNANDEZ-ROSALES, RAMIRO",
     "bookedAt": "2026-11-15T23:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -104,7 +117,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-11-15T18:44:00",
+        "offenseDate": "2026-11-15T17:30:00",
         "incident": "26-B08279",
         "court": "BMC",
         "courtReference": "6A0394101",

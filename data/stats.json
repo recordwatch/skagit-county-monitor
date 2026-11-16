@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:11:17",
+  "generatedAt": "2026-11-16T04:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 639,
@@ -168,8 +168,8 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 136,
-      "pct": 6.3
+      "count": 137,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 146,
-      "pct": 23,
+      "pct": 22.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 23,
-      "pct": 3.6,
+      "count": 24,
+      "pct": 3.8,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 344,
+      "count": 345,
       "pct": 16,
       "label": "Skagit County District Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 127,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -403,8 +403,8 @@
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 50,
-      "pct": 7.9
+      "count": 51,
+      "pct": 8
     },
     {
       "name": "DUI CITATION ARREST",
@@ -528,7 +528,7 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "K",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 11,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "N",
-      "count": 24,
-      "pct": 13.9
+      "count": 25,
+      "pct": 14.4
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 26,
-      "pct": 15
+      "pct": 14.9
     }
   ],
   "bailTypes": [
@@ -638,8 +638,8 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 45.8,
-    "currentLongestDaysHeld": 1004.4
+    "currentMedianDaysHeld": 45.9,
+    "currentLongestDaysHeld": 1004.5
   },
   "bond": {
     "withBond": 122,
