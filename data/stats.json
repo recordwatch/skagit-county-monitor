@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:11:16",
+  "generatedAt": "2026-11-16T07:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 639,
@@ -475,7 +475,7 @@
     },
     {
       "name": "Serving Commit",
-      "count": 122,
+      "count": 123,
       "pct": 9
     },
     {
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 82,
-      "pct": 6
+      "count": 83,
+      "pct": 6.1
     },
     {
       "name": "Amended",
@@ -500,7 +500,7 @@
     },
     {
       "name": "Pending Transport",
-      "count": 21,
+      "count": 20,
       "pct": 1.5
     },
     {
@@ -604,8 +604,8 @@
     }
   ],
   "releaseSources": {
-    "official": 444,
-    "observed": 9,
+    "official": 447,
+    "observed": 6,
     "reportOnly": 34
   },
   "stay": {
