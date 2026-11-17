@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-17T03:45:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-16T23:07:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-16T23:07:00",
+        "incident": "26-A07066",
+        "court": "AMC",
+        "courtReference": "6A0287804",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-16T23:07:00",
+        "incident": "26-A07066",
+        "court": "AMC",
+        "courtReference": "6A0287804",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T05:11:16",
     "releasedAt": null,
@@ -115,7 +140,7 @@
       },
       {
         "description": "TRIBAL CODE VIOLATION",
-        "offenseDate": "2025-12-25T00:00:00",
+        "offenseDate": "2025-12-29T00:00:00",
         "incident": "26-SP0008",
         "court": "OTHR",
         "courtReference": "SWI-AW04/26-2334",
