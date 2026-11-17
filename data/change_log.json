@@ -1,5 +1,42 @@
 [
   {
+    "id": "743719-20261117122409",
+    "nameNumber": "743719",
+    "name": "ALCALA, ERICK",
+    "bookedAt": "2026-11-17T12:24:09",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T12:34:41",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CARY/EXH/DRAW DANGEROUS WEAPON",
+        "offenseDate": "2026-11-17T12:37:25",
+        "incident": "26-M16897",
+        "court": "MVMC",
+        "courtReference": "6A0396173",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T13:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "577950-20261117110600",
     "nameNumber": "577950",
     "name": "NICKERSON, TYLER EVAN",
@@ -41,7 +78,7 @@
     "nameNumber": "666430",
     "name": "ANDERSON, DORIS EVELYN",
     "bookedAt": "2026-11-17T10:40:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-22T10:40:00",
     "location": null,
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -53,7 +90,44 @@
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-04-09T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00153-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-03-06T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00153-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2026-03-06T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "26-1-00153-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T12:11:14",
     "releasedAt": null,
@@ -105,6 +179,43 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T11:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "243683-20261117095400",
+    "nameNumber": "243683",
+    "name": "NAVEJAS, NICHOLAS WILLIAM",
+    "bookedAt": "2026-11-17T09:54:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T09:21:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
+        "offenseDate": "2026-11-17T09:21:00",
+        "incident": "26-B08318",
+        "court": "BMC",
+        "courtReference": "6A0328737",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T13:11:19",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -174,7 +285,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 16000,
+    "bondTotal": 4500,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -182,7 +293,7 @@
         "incident": "26-B08312",
         "court": "BMC",
         "courtReference": "6A0393285",
-        "bailAmount": 1000,
+        "bailAmount": 333,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -194,7 +305,7 @@
         "incident": "26-B07109",
         "court": "BMC",
         "courtReference": "6A0336299",
-        "bailAmount": 1000,
+        "bailAmount": 333,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -206,7 +317,7 @@
         "incident": "26-B06402",
         "court": "BMC",
         "courtReference": "6A0394488",
-        "bailAmount": 1000,
+        "bailAmount": 334,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -218,7 +329,7 @@
         "incident": "23-B09086",
         "court": "BMC",
         "courtReference": "3A0808160",
-        "bailAmount": 2500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -230,7 +341,7 @@
         "incident": "23-B07788",
         "court": "BMC",
         "courtReference": "3A0203536",
-        "bailAmount": 5000,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -242,7 +353,7 @@
         "incident": "23-B02654",
         "court": "BMC",
         "courtReference": "3A0161226",
-        "bailAmount": 5000,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -383,10 +494,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T01:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -469,10 +580,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T00:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -518,10 +629,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T21:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -540,7 +651,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 36500,
+    "bondTotal": 26000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -572,7 +683,7 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00211507",
-        "bailAmount": 1500,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "BOND SURR/REVOC ARREST",
@@ -596,7 +707,7 @@
         "incident": "15-04814",
         "court": "DC",
         "courtReference": "5Z0349883",
-        "bailAmount": 25000,
+        "bailAmount": 15000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "BOND SURR/REVOC ARREST",
@@ -724,7 +835,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -756,9 +867,9 @@
         "incident": "24-B00453",
         "court": "BMC",
         "courtReference": "4A0134448",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -769,8 +880,8 @@
         "court": "BMC",
         "courtReference": "4A0134448",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -885,7 +996,7 @@
     "name": "ELDER, KENT MICHAEL",
     "bookedAt": "2026-11-16T09:00:00",
     "scheduledRelease": null,
-    "location": "N108",
+    "location": "Q106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -1520,7 +1631,7 @@
     "name": "SOBJACK, BRANDON LEE",
     "bookedAt": "2026-11-14T21:52:00",
     "scheduledRelease": null,
-    "location": "J206",
+    "location": "P208",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -1530,7 +1641,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 25000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI FELONY",
@@ -1548,10 +1659,10 @@
         "description": "DUI",
         "offenseDate": "2026-11-14T19:15:00",
         "incident": "26-W05514",
-        "court": "SC",
+        "court": "DC",
         "courtReference": "PA0009547",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": 5000,
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -1922,7 +2033,7 @@
     "name": "BROWN, ZETH LEROY",
     "bookedAt": "2026-11-14T11:46:00",
     "scheduledRelease": null,
-    "location": "J205",
+    "location": "P206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
