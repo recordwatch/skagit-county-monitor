@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T16:11:16",
+  "generatedAt": "2026-11-16T17:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 646,
-    "bookingsObserved": 443,
+    "bookingsTracked": 647,
+    "bookingsObserved": 444,
     "releasesObserved": 467,
-    "inCustody": 179,
-    "uniquePeople": 624
+    "inCustody": 180,
+    "uniquePeople": 625
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 7,
+      "booked": 8,
       "released": 14
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DUI",
       "count": 164,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 89,
+      "count": 90,
       "pct": 4.1
     },
     {
@@ -192,14 +192,14 @@
       "pct": 3.3
     },
     {
-      "name": "RECKLESS DRIVING",
-      "count": 48,
-      "pct": 2.2
+      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+      "count": 49,
+      "pct": 2.3
     },
     {
-      "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 48,
-      "pct": 2.2
+      "name": "RECKLESS DRIVING",
+      "count": 49,
+      "pct": 2.3
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -253,7 +253,7 @@
     },
     {
       "name": "HARASSMENT/PRIOR CON - FELONY-DV",
-      "count": 24,
+      "count": 25,
       "pct": 1.1
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 137,
-      "pct": 21.3,
+      "count": 138,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 57,
-      "pct": 8.9,
+      "pct": 8.8,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1125,
-      "pct": 51.9,
+      "count": 1131,
+      "pct": 52,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 354,
-      "pct": 16.3,
+      "count": 357,
+      "pct": 16.4,
       "label": "Skagit County District Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 203,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -447,12 +447,12 @@
       "pct": 0.8
     },
     {
-      "name": "PAROLE/PROB VIOLATION",
-      "count": 1,
-      "pct": 0.2
+      "name": "BOND SURR/REVOC ARREST",
+      "count": 2,
+      "pct": 0.3
     },
     {
-      "name": "ORDER OF TRANSPORT",
+      "name": "PAROLE/PROB VIOLATION",
       "count": 1,
       "pct": 0.2
     }
@@ -460,23 +460,23 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 628,
-      "pct": 44.9
+      "count": 638,
+      "pct": 45.2
     },
     {
       "name": "Sentence Complete Release",
       "count": 154,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "Declined To Prosecute",
-      "count": 133,
-      "pct": 9.5
+      "count": 136,
+      "pct": 9.6
     },
     {
       "name": "Serving Commit",
       "count": 127,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "Dismissed",
@@ -491,12 +491,12 @@
     {
       "name": "Amended",
       "count": 61,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "Bail Bond Release",
       "count": 54,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "Pending Transport",
@@ -511,7 +511,7 @@
     {
       "name": "Sanction Release",
       "count": 12,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "Superior Court Summon Release",
@@ -567,29 +567,29 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.6
+      "count": 17,
+      "pct": 10.2
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 15.1
+      "pct": 15
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 648,
+      "count": 653,
       "pct": 94.2
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 52.3,
+    "currentMedianDaysHeld": 51.2,
     "currentLongestDaysHeld": 1005
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19170600
+    "totalBond": 19207100
   },
   "chargesPerBooking": 3.4
 }
