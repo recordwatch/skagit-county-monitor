@@ -1,5 +1,151 @@
 [
   {
+    "id": "403998-20261116232500",
+    "nameNumber": "403998",
+    "name": "FAY, TAYLOR MICHAEL",
+    "bookedAt": "2026-11-16T23:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "676149-20261116230500",
+    "nameNumber": "676149",
+    "name": "MARTINEZ, LOUIS IV",
+    "bookedAt": "2026-11-16T23:05:00",
+    "scheduledRelease": "2026-11-24T23:05:00",
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T22:43:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "ORGANIZED RETAIL THEFT 2ND DEGREE",
+        "offenseDate": "2025-03-03T00:00:00",
+        "incident": "25-A02179",
+        "court": "SC",
+        "courtReference": "25-1-00637-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-16T22:34:00",
+        "incident": "26-M16960",
+        "court": "MVMC",
+        "courtReference": "6A0442856",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-16T22:34:00",
+        "incident": "26-M16960",
+        "court": "MVMC",
+        "courtReference": "6A0442856",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "NVOL WITHOUT ID (CRIMINAL)",
+        "offenseDate": "2026-11-16T22:34:00",
+        "incident": "26-M16960",
+        "court": "MVMC",
+        "courtReference": "6A0442857",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "307368-20261116225000",
+    "nameNumber": "307368",
+    "name": "ALVARADO, JEREMY ALFREDO",
+    "bookedAt": "2026-11-16T22:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T22:29:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2023-09-23T00:00:00",
+        "incident": "23-13077",
+        "court": "DC",
+        "courtReference": "3A0701937",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-09-12T00:00:00",
+        "incident": "26-B06763",
+        "court": "BMC",
+        "courtReference": "6A0415208",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "498973-20261116223000",
     "nameNumber": "498973",
     "name": "PRUNIER, JAKE",
@@ -42,7 +188,7 @@
     "name": "GUNTER, JIMMIE JOE",
     "bookedAt": "2026-11-16T19:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -91,7 +237,7 @@
     "name": "BARBEE, BRUCE LEE II",
     "bookedAt": "2026-11-16T15:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J106",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "BOND SURR/REVOC ARREST",
     "arrests": [
