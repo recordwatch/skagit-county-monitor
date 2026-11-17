@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:11:16",
+  "generatedAt": "2026-11-16T22:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 648,
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 122,
+      "count": 123,
       "pct": 5.6
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1132,
-      "pct": 52,
+      "pct": 51.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SWMC",
-      "count": 56,
+      "count": 57,
       "pct": 2.6,
       "label": "Sedro-Woolley Municipal Court"
     },
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 648,
-      "pct": 94.2
+      "count": 647,
+      "pct": 93.8
     },
     {
       "name": "SCRAM With Bail",
-      "count": 35,
-      "pct": 5.1
+      "count": 38,
+      "pct": 5.5
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 53.7,
+    "currentMedianDaysHeld": 53.8,
     "currentLongestDaysHeld": 1005.2
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 55,
+    "withBond": 122,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19259100
+    "totalBond": 19261600
   },
   "chargesPerBooking": 3.4
 }
