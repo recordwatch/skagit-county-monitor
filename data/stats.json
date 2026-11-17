@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T03:11:23",
+  "generatedAt": "2026-11-17T04:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 652,
-    "bookingsObserved": 449,
+    "bookingsTracked": 653,
+    "bookingsObserved": 450,
     "releasesObserved": 473,
-    "inCustody": 179,
-    "uniquePeople": 629
+    "inCustody": 180,
+    "uniquePeople": 630
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 13,
+      "booked": 14,
       "released": 19
     },
     {
@@ -168,12 +168,12 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 139,
-      "pct": 6.3
+      "count": 140,
+      "pct": 6.4
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 124,
+      "count": 125,
       "pct": 5.7
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 47,
-      "pct": 2.1
+      "count": 48,
+      "pct": 2.2
     },
     {
       "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 148,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "WA STATE PATROL",
       "count": 105,
-      "pct": 16.2,
+      "pct": 16.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 81,
-      "pct": 12.5,
+      "count": 82,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1132,
-      "pct": 51.7,
+      "pct": 51.6,
       "label": "Skagit County Superior Court"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 205,
-      "pct": 9.4,
+      "count": 209,
+      "pct": 9.5,
       "label": "Burlington Municipal Court"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 98,
-      "pct": 15.1
+      "count": 99,
+      "pct": 15.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 87,
-      "pct": 6.1
+      "count": 88,
+      "pct": 6.2
     },
     {
       "name": "Amended",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 654,
-      "pct": 93.8
+      "count": 658,
+      "pct": 93.9
     },
     {
       "name": "SCRAM With Bail",
       "count": 38,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 52.7,
-    "currentLongestDaysHeld": 1005.4
+    "currentMedianDaysHeld": 51.7,
+    "currentLongestDaysHeld": 1005.5
   },
   "bond": {
-    "withBond": 124,
+    "withBond": 125,
     "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19268100
+    "totalBond": 19273600
   },
   "chargesPerBooking": 3.4
 }
