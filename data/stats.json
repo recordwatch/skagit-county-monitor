@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T15:11:18",
+  "generatedAt": "2026-11-16T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 646,
     "bookingsObserved": 443,
-    "releasesObserved": 465,
-    "inCustody": 181,
+    "releasesObserved": 467,
+    "inCustody": 179,
     "uniquePeople": 624
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-16",
       "booked": 7,
-      "released": 12
+      "released": 14
     }
   ],
   "topCharges": [
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 27,
-      "pct": 16.2
+      "pct": 16.3
     },
     {
       "name": "Q",
-      "count": 27,
-      "pct": 16.2
+      "count": 26,
+      "pct": 15.7
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 15
+      "pct": 15.1
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 447,
-    "observed": 18,
+    "observed": 20,
     "reportOnly": 34
   },
   "stay": {
-    "releasedCount": 463,
+    "releasedCount": 465,
     "medianDays": 1.8,
-    "meanDays": 41.3,
+    "meanDays": 41.2,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 162
+        "count": 163
       },
       {
         "label": "1–3 days",
@@ -631,22 +631,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 58
+        "count": 59
       },
       {
         "label": "3+ months",
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 52.2,
-    "currentLongestDaysHeld": 1004.9
+    "currentMedianDaysHeld": 52.3,
+    "currentLongestDaysHeld": 1005
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 61,
+    "withBond": 119,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19220600
+    "totalBond": 19170600
   },
   "chargesPerBooking": 3.4
 }

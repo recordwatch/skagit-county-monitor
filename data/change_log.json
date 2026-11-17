@@ -42,10 +42,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T15:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -643,7 +643,7 @@
       {
         "description": "HOLD FOR OTHER AGNCY",
         "offenseDate": "2026-11-15T00:00:00",
-        "incident": "20-M05777",
+        "incident": null,
         "court": "OTHR",
         "courtReference": "DOC 20-1-00571-29",
         "bailAmount": null,
@@ -1022,7 +1022,7 @@
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-10-03T00:00:00",
-        "incident": null,
+        "incident": "26-B07260",
         "court": "BMC",
         "courtReference": "6A0273273",
         "bailAmount": null,
@@ -1691,7 +1691,7 @@
         "agency": "WA STATE PATROL"
       },
       {
-        "description": "HIT AND RUN",
+        "description": "HIT AND RUN-DAMAGE ONLY",
         "offenseDate": "2026-11-13T19:43:00",
         "incident": null,
         "court": "SC",
@@ -3190,7 +3190,7 @@
     "name": "BURNETT, JAZMYN LEE",
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
-    "location": "R210",
+    "location": "R211",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -3866,7 +3866,7 @@
     "name": "FUENTES, JOSE DANIEL",
     "bookedAt": "2026-11-10T13:50:00",
     "scheduledRelease": "2026-12-10T13:50:00",
-    "location": "Q106",
+    "location": "Q107",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -27819,10 +27819,10 @@
         "agency": "SKAGIT COUNTY JAIL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-16T16:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
