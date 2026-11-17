@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:11:14",
+  "generatedAt": "2026-11-17T15:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 662,
@@ -460,7 +460,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 659,
+      "count": 660,
       "pct": 45.9
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.6
+      "pct": 9.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,17 +543,17 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.6
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.6
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,34 +563,34 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.6
     },
     {
       "name": "N",
-      "count": 13,
-      "pct": 7.8
+      "count": 15,
+      "pct": 8.8
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.4
+      "pct": 17.1
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.2
+      "pct": 15.9
     },
     {
       "name": "R",
-      "count": 25,
-      "pct": 15
+      "count": 26,
+      "pct": 15.3
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 653,
-      "pct": 93.6
+      "count": 652,
+      "pct": 93.5
     },
     {
       "name": "SCRAM With Bail",
@@ -646,7 +646,7 @@
     "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19255600
+    "totalBond": 19254600
   },
   "chargesPerBooking": 3.3
 }
