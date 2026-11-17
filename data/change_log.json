@@ -222,7 +222,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 4000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -230,9 +230,9 @@
         "incident": "26-01143",
         "court": "DC",
         "courtReference": "6A0163295",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -243,8 +243,8 @@
         "court": "DC",
         "courtReference": "6A0163295",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -254,9 +254,9 @@
         "incident": "26-B02597",
         "court": "BMC",
         "courtReference": "6A0225961",
-        "bailAmount": 2500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
