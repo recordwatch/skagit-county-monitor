@@ -1,11 +1,72 @@
 [
   {
+    "id": "577950-20261117110600",
+    "nameNumber": "577950",
+    "name": "NICKERSON, TYLER EVAN",
+    "bookedAt": "2026-11-17T11:06:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T10:36:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2024-12-02T00:00:00",
+        "incident": "24-15304",
+        "court": "SC",
+        "courtReference": "24-1-00896-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "666430-20261117104000",
+    "nameNumber": "666430",
+    "name": "ANDERSON, DORIS EVELYN",
+    "bookedAt": "2026-11-17T10:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T10:40:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "417592-20261117103000",
     "nameNumber": "417592",
     "name": "FORRESTER, VIRGIL R",
     "bookedAt": "2026-11-17T10:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -261,10 +322,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T01:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T12:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -273,7 +334,7 @@
     "name": "MARTINEZ, LOUIS IV",
     "bookedAt": "2026-11-16T23:05:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -383,7 +444,7 @@
     "name": "PRUNIER, JAKE DANIEL",
     "bookedAt": "2026-11-16T22:30:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -420,7 +481,7 @@
     "name": "GUNTER, JIMMIE JOE",
     "bookedAt": "2026-11-16T19:30:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": null,
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -2277,7 +2338,7 @@
     "name": "NICHOLSON, NOEL SARIC",
     "bookedAt": "2026-11-13T21:55:00",
     "scheduledRelease": null,
-    "location": "J207",
+    "location": "R108",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
