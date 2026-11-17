@@ -5,18 +5,55 @@
     "name": "FAY, TAYLOR MICHAEL",
     "bookedAt": "2026-11-16T23:25:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "location": "M104",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-16T23:11:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-01-30T00:00:00",
+        "incident": "26-01143",
+        "court": "DC",
+        "courtReference": "6A0163295",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-01-30T00:00:00",
+        "incident": "26-01143",
+        "court": "DC",
+        "courtReference": "6A0163295",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-04-09T00:00:00",
+        "incident": "26-B02597",
+        "court": "BMC",
+        "courtReference": "6A0225961",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T01:11:17",
     "releasedAt": null,
@@ -28,31 +65,19 @@
     "nameNumber": "676149",
     "name": "MARTINEZ, LOUIS IV",
     "bookedAt": "2026-11-16T23:05:00",
-    "scheduledRelease": "2026-11-24T23:05:00",
-    "location": null,
-    "arrestingAgency": "ANACORTES POLICE DEPT",
-    "arrestType": "FELONY COMMITMENT ARREST",
+    "scheduledRelease": null,
+    "location": "N205",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-16T22:43:00",
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": 2500,
     "charges": [
-      {
-        "description": "ORGANIZED RETAIL THEFT 2ND DEGREE",
-        "offenseDate": "2025-03-03T00:00:00",
-        "incident": "25-A02179",
-        "court": "SC",
-        "courtReference": "25-1-00637-29",
-        "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
-      },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-11-16T22:34:00",
@@ -62,8 +87,8 @@
         "bailAmount": 2000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -74,8 +99,8 @@
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
         "description": "NVOL WITHOUT ID (CRIMINAL)",
@@ -86,8 +111,8 @@
         "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "status": "in_custody",
