@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T10:11:15",
+  "generatedAt": "2026-11-17T11:11:22",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 655,
-    "bookingsObserved": 452,
+    "bookingsTracked": 656,
+    "bookingsObserved": 453,
     "releasesObserved": 476,
-    "inCustody": 179,
-    "uniquePeople": 632
+    "inCustody": 180,
+    "uniquePeople": 633
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
@@ -222,14 +222,14 @@
       "pct": 1.7
     },
     {
-      "name": "ATTEMPT TO ELUDE",
-      "count": 35,
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 36,
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 34,
-      "pct": 1.5
+      "name": "ATTEMPT TO ELUDE",
+      "count": 35,
+      "pct": 1.6
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 148,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 7,
-      "pct": 1.1,
+      "count": 8,
+      "pct": 1.2,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 362,
+      "count": 364,
       "pct": 16.5,
       "label": "Skagit County District Court"
     },
@@ -409,7 +409,7 @@
     {
       "name": "DUI CITATION ARREST",
       "count": 48,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -427,12 +427,12 @@
       "pct": 3.2
     },
     {
-      "name": "DUI WARRANT ARREST",
-      "count": 17,
-      "pct": 2.6
+      "name": "OTHER COUNTY HOLDS",
+      "count": 18,
+      "pct": 2.8
     },
     {
-      "name": "OTHER COUNTY HOLDS",
+      "name": "DUI WARRANT ARREST",
       "count": 17,
       "pct": 2.6
     },
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 647,
-      "pct": 45.5
+      "count": 654,
+      "pct": 45.7
     },
     {
       "name": "Sentence Complete Release",
@@ -486,11 +486,11 @@
     {
       "name": "Dept Of Corrections Release",
       "count": 88,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "Amended",
-      "count": 61,
+      "count": 62,
       "pct": 4.3
     },
     {
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 660,
-      "pct": 93.8
+      "count": 657,
+      "pct": 93.7
     },
     {
       "name": "SCRAM With Bail",
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 50.8,
-    "currentLongestDaysHeld": 1005.7
+    "currentMedianDaysHeld": 49.3,
+    "currentLongestDaysHeld": 1005.8
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 54,
+    "withBond": 124,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19284100
+    "totalBond": 19292600
   },
   "chargesPerBooking": 3.4
 }

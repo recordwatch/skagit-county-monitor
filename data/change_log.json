@@ -1,5 +1,54 @@
 [
   {
+    "id": "417592-20261117103000",
+    "nameNumber": "417592",
+    "name": "FORRESTER, VIRGIL R",
+    "bookedAt": "2026-11-17T10:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T10:30:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "bondTotal": 13500,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2024-12-31T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "4A0283951",
+        "bailAmount": 7500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SKAGIT COUNTY JAIL"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2023-03-06T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0268512",
+        "bailAmount": 6000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "SKAGIT COUNTY JAIL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T11:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743748-20261117034500",
     "nameNumber": "743748",
     "name": "MUTHOMI, LEWIS",
@@ -25,7 +74,7 @@
         "courtReference": "6A0287804",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -37,7 +86,7 @@
         "courtReference": "6A0287804",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -234,7 +283,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -242,9 +291,9 @@
         "incident": "26-M16960",
         "court": "MVMC",
         "courtReference": "6A0442856",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -255,8 +304,8 @@
         "court": "MVMC",
         "courtReference": "6A0442856",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -266,9 +315,9 @@
         "incident": "26-M16960",
         "court": "MVMC",
         "courtReference": "6A0442857",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -331,7 +380,7 @@
   {
     "id": "498973-20261116223000",
     "nameNumber": "498973",
-    "name": "PRUNIER, JAKE",
+    "name": "PRUNIER, JAKE DANIEL",
     "bookedAt": "2026-11-16T22:30:00",
     "scheduledRelease": null,
     "location": "N204",
@@ -354,7 +403,7 @@
         "courtReference": "T00884971",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -381,7 +430,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 2500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -389,9 +438,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00959716",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -401,9 +450,9 @@
         "incident": "22-W05451",
         "court": "SWMC",
         "courtReference": "SC0072978",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
