@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:11:17",
+  "generatedAt": "2026-11-17T02:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 652,
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 83,
-      "pct": 5.8
+      "count": 87,
+      "pct": 6.1
     },
     {
       "name": "Amended",
@@ -499,14 +499,14 @@
       "pct": 3.8
     },
     {
-      "name": "Pending Transport",
-      "count": 20,
-      "pct": 1.4
-    },
-    {
       "name": "Shuttle Release",
       "count": 17,
       "pct": 1.2
+    },
+    {
+      "name": "Pending Transport",
+      "count": 16,
+      "pct": 1.1
     },
     {
       "name": "Sanction Release",
@@ -567,29 +567,29 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9
+      "count": 16,
+      "pct": 9.6
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "Q",
       "count": 26,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 15.1
+      "pct": 15
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 652,
+      "count": 651,
       "pct": 93.8
     },
     {
@@ -638,15 +638,15 @@
         "count": 34
       }
     ],
-    "currentMedianDaysHeld": 51.5,
-    "currentLongestDaysHeld": 1005.3
+    "currentMedianDaysHeld": 51.6,
+    "currentLongestDaysHeld": 1005.4
   },
   "bond": {
     "withBond": 124,
     "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19270100
+    "totalBond": 19265100
   },
   "chargesPerBooking": 3.4
 }

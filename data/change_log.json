@@ -112,7 +112,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 6000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -120,8 +120,8 @@
         "incident": "23-13077",
         "court": "DC",
         "courtReference": "3A0701937",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -151,7 +151,7 @@
     "name": "PRUNIER, JAKE",
     "bookedAt": "2026-11-16T22:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -1579,7 +1579,7 @@
     "name": "BROWN, ZETH LEROY",
     "bookedAt": "2026-11-14T11:46:00",
     "scheduledRelease": null,
-    "location": "J102",
+    "location": "J205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -37646,7 +37646,7 @@
         "courtReference": "25-1-00473-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -37658,7 +37658,7 @@
         "courtReference": "25-1-00473-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -37682,7 +37682,7 @@
         "courtReference": "25-1-00473-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -37694,7 +37694,7 @@
         "courtReference": "25-1-00473-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "REVOCATION OF PR",
         "agency": "ANACORTES POLICE DEPT"
       }
