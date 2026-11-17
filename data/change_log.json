@@ -1,5 +1,42 @@
 [
   {
+    "id": "498973-20261116223000",
+    "nameNumber": "498973",
+    "name": "PRUNIER, JAKE",
+    "bookedAt": "2026-11-16T22:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T20:57:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-16T20:45:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00884971",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T00:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "68198-20261116193000",
     "nameNumber": "68198",
     "name": "GUNTER, JIMMIE JOE",
@@ -188,7 +225,7 @@
     "name": "HEGLIN-HERNANDEZ, VICTOR KYLE",
     "bookedAt": "2026-11-16T13:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -1812,7 +1849,7 @@
     "name": "NICHOLSON, NOEL SARIC",
     "bookedAt": "2026-11-13T21:55:00",
     "scheduledRelease": null,
-    "location": "J106",
+    "location": "J207",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
