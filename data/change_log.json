@@ -324,8 +324,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-17T01:11:17",
-    "releasedAt": "2026-11-17T02:30:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-17T02:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -544,8 +544,58 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-16T15:11:18",
-    "releasedAt": "2026-11-16T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T15:35:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "698052-20261116142000",
+    "nameNumber": "698052",
+    "name": "SNEKVIK, KATHERINE CHAN",
+    "bookedAt": "2026-11-16T14:20:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-11-16T15:45:00",
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-16T14:20:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2024-01-15T00:00:00",
+        "incident": "24-B00347",
+        "court": "SC",
+        "courtReference": "24-1-00716-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "FORGERY FALSELY MAKES/ALTERS WRITTEN DOC",
+        "offenseDate": "2024-01-15T00:00:00",
+        "incident": "24-B00347",
+        "court": "SC",
+        "courtReference": "24-1-00716-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-11-17T07:11:16",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
     "baseline": false
   },
   {
@@ -899,8 +949,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-16T01:11:15",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T12:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -960,8 +1010,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T23:11:17",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T13:02:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1021,8 +1071,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T23:11:17",
-    "releasedAt": "2026-11-16T12:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T11:24:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1070,8 +1120,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T21:11:16",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T13:04:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1192,8 +1242,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T03:11:16",
-    "releasedAt": "2026-11-16T17:57:38",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T17:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1253,8 +1303,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T02:11:17",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T12:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1350,8 +1400,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-15T01:11:18",
-    "releasedAt": "2026-11-16T12:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T11:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1448,8 +1498,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T22:11:14",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T13:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1485,8 +1535,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T20:11:14",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T12:48:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1546,8 +1596,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T16:51:42",
-    "releasedAt": "2026-11-16T17:57:38",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T17:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1935,8 +1985,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T05:11:14",
-    "releasedAt": "2026-11-16T17:57:38",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T17:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2168,8 +2218,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-13T23:11:13",
-    "releasedAt": "2026-11-16T19:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T18:35:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2302,8 +2352,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-13T22:11:15",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T13:02:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2400,8 +2450,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-13T15:11:16",
-    "releasedAt": "2026-11-16T14:11:25",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T12:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2521,8 +2571,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-13T16:11:15",
-    "releasedAt": "2026-11-16T17:57:38",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T17:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5786,8 +5836,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-08T21:11:18",
-    "releasedAt": "2026-11-16T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T10:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -11531,7 +11581,7 @@
         "courtReference": "5A0445204",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": null,
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -11543,7 +11593,7 @@
         "courtReference": "5A0445205",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Sentence Complete Release",
+        "disposition": null,
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -12197,8 +12247,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T17:11:16",
-    "releasedAt": "2026-11-16T15:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T14:48:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -28381,8 +28431,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-16T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-16T15:12:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {

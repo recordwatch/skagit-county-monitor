@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T06:11:15",
+  "generatedAt": "2026-11-17T07:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 654,
-    "bookingsObserved": 451,
-    "releasesObserved": 473,
+    "bookingsTracked": 655,
+    "bookingsObserved": 452,
+    "releasesObserved": 474,
     "inCustody": 181,
-    "uniquePeople": 631
+    "uniquePeople": 632
   },
   "bookingsByDay": [
     {
@@ -151,8 +151,8 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 14,
-      "released": 19
+      "booked": 15,
+      "released": 20
     },
     {
       "date": "2026-11-17",
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 140,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 82,
-      "pct": 12.6,
+      "count": 83,
+      "pct": 12.7,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1132,
+      "count": 1134,
       "pct": 51.5,
       "label": "Skagit County Superior Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 127,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 106,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 93,
-      "pct": 14.3
+      "count": 94,
+      "pct": 14.4
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -465,8 +465,8 @@
     },
     {
       "name": "Sentence Complete Release",
-      "count": 156,
-      "pct": 11
+      "count": 154,
+      "pct": 10.8
     },
     {
       "name": "Declined To Prosecute",
@@ -604,26 +604,26 @@
     }
   ],
   "releaseSources": {
-    "official": 447,
-    "observed": 26,
-    "reportOnly": 34
+    "official": 468,
+    "observed": 6,
+    "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 471,
+    "releasedCount": 472,
     "medianDays": 1.8,
-    "meanDays": 40.7,
+    "meanDays": 40.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 164
+        "count": 165
       },
       {
         "label": "1–3 days",
-        "count": 127
+        "count": 128
       },
       {
         "label": "3–7 days",
-        "count": 39
+        "count": 38
       },
       {
         "label": "1–4 weeks",
