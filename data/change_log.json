@@ -1,11 +1,35 @@
 [
   {
+    "id": "743748-20261117034500",
+    "nameNumber": "743748",
+    "name": "MUTHOMI, LEWIS",
+    "bookedAt": "2026-11-17T03:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T05:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "306535-20261116233500",
     "nameNumber": "306535",
     "name": "CAYOU, OLIVIA DANEISE",
     "bookedAt": "2026-11-16T23:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -15,10 +39,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5500,
+    "bondTotal": 16000,
     "charges": [
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-11-16T23:01:00",
         "incident": "26-B08312",
         "court": "BMC",
@@ -61,6 +85,42 @@
         "courtReference": "3A0808160",
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG -ATTEMPT",
+        "offenseDate": "2023-10-06T00:00:00",
+        "incident": "23-B07788",
+        "court": "BMC",
+        "courtReference": "3A0203536",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-04-14T00:00:00",
+        "incident": "23-B02654",
+        "court": "BMC",
+        "courtReference": "3A0161226",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "TRIBAL CODE VIOLATION",
+        "offenseDate": "2025-12-25T00:00:00",
+        "incident": "26-SP0008",
+        "court": "OTHR",
+        "courtReference": "SWI-AW04/26-2334",
+        "bailAmount": 500,
+        "bailType": "Cash Only",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
