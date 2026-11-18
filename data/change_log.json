@@ -2316,7 +2316,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI FELONY",
@@ -2336,9 +2336,9 @@
         "incident": "26-W05514",
         "court": "DC",
         "courtReference": "PA0009547",
-        "bailAmount": 5000,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }

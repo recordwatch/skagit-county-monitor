@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:11:16",
+  "generatedAt": "2026-11-18T15:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 675,
@@ -495,8 +495,8 @@
     },
     {
       "name": "Bail Bond Release",
-      "count": 56,
-      "pct": 3.8
+      "count": 57,
+      "pct": 3.9
     },
     {
       "name": "Shuttle Release",
@@ -590,12 +590,12 @@
     {
       "name": "Cash/Bond Accepted",
       "count": 645,
-      "pct": 92.5
+      "pct": 92.7
     },
     {
       "name": "SCRAM With Bail",
-      "count": 45,
-      "pct": 6.5
+      "count": 44,
+      "pct": 6.3
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1006.9
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 57,
+    "withBond": 122,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19240100
+    "totalBond": 19235100
   },
   "chargesPerBooking": 3.3
 }
