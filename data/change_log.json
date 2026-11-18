@@ -1,11 +1,85 @@
 [
   {
+    "id": "565349-20261118012000",
+    "nameNumber": "565349",
+    "name": "IBANEZ, JASON",
+    "bookedAt": "2026-11-18T01:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T23:33:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-17T23:18:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00950363",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T03:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "221168-20261118004500",
+    "nameNumber": "221168",
+    "name": "PATTERSON, CHANEL LYNN",
+    "bookedAt": "2026-11-18T00:45:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T00:27:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 20000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2025-01-10T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0009534",
+        "bailAmount": 20000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T03:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743748-20261118003000",
     "nameNumber": "743748",
     "name": "MUTHOMI, LEWIS",
     "bookedAt": "2026-11-18T00:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -23,8 +97,8 @@
         "incident": "26-A07088",
         "court": "AMC",
         "courtReference": "6A0442890",
-        "bailAmount": 1000,
-        "bailType": "Cash Only",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -35,8 +109,8 @@
         "incident": "26-A07088",
         "court": "AMC",
         "courtReference": "6A0442890",
-        "bailAmount": 1000,
-        "bailType": "Cash Only",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
