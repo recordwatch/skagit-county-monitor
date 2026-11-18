@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:11:17",
+  "generatedAt": "2026-11-17T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 665,
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -567,35 +567,35 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 8.9
+      "count": 16,
+      "pct": 9.5
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.9
+      "pct": 14.8
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 653,
-      "pct": 93.6
+      "count": 647,
+      "pct": 92.7
     },
     {
       "name": "SCRAM With Bail",
-      "count": 39,
-      "pct": 5.6
+      "count": 45,
+      "pct": 6.4
     },
     {
       "name": "Cash Only",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 49.8,
-    "currentLongestDaysHeld": 1006.2
+    "currentLongestDaysHeld": 1006.3
   },
   "bond": {
     "withBond": 124,

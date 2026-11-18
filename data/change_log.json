@@ -42,7 +42,7 @@
     "name": "SMITH, VADEN A",
     "bookedAt": "2026-11-17T16:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -3750,7 +3750,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": 50000,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -3762,7 +3762,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -3774,7 +3774,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -3786,7 +3786,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -3798,7 +3798,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
@@ -3810,7 +3810,7 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
+        "bailType": "SCRAM With Bail",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
