@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:11:20",
+  "generatedAt": "2026-11-17T20:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 664,
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 97,
-      "pct": 4.4,
+      "count": 96,
+      "pct": 4.3,
       "label": "Other"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 14,
-      "pct": 0.6,
+      "count": 15,
+      "pct": 0.7,
       "label": "TC"
     },
     {

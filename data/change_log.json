@@ -523,7 +523,7 @@
         "description": "TRIBAL CODE VIOLATION",
         "offenseDate": "2025-12-29T00:00:00",
         "incident": "26-SP0008",
-        "court": "OTHR",
+        "court": "TC",
         "courtReference": "SWI-AW04/26-2334",
         "bailAmount": 500,
         "bailType": "Cash Only",
