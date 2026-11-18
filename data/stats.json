@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T01:11:15",
+  "generatedAt": "2026-11-18T02:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 666,
-    "bookingsObserved": 463,
+    "bookingsTracked": 667,
+    "bookingsObserved": 464,
     "releasesObserved": 485,
-    "inCustody": 181,
+    "inCustody": 182,
     "uniquePeople": 639
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -183,13 +183,13 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 94,
-      "pct": 4.2
+      "count": 95,
+      "pct": 4.3
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 76,
-      "pct": 3.4
+      "count": 77,
+      "pct": 3.5
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -243,7 +243,7 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 29,
+      "count": 28,
       "pct": 1.3
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 84,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 45,
-      "pct": 6.8,
+      "count": 46,
+      "pct": 6.9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1139,
-      "pct": 51.4,
+      "pct": 51.3,
       "label": "Skagit County Superior Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 87,
-      "pct": 3.9,
+      "count": 89,
+      "pct": 4,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 128,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 107,
-      "pct": 16.1
+      "count": 108,
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 106,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.1
+      "count": 13,
+      "pct": 7.6
     },
     {
       "name": "K",
@@ -568,29 +568,29 @@
     {
       "name": "N",
       "count": 17,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.7
+      "pct": 14.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 650,
-      "pct": 92.7
+      "count": 649,
+      "pct": 92.5
     },
     {
       "name": "SCRAM With Bail",
@@ -599,8 +599,8 @@
     },
     {
       "name": "Cash Only",
-      "count": 6,
-      "pct": 0.9
+      "count": 8,
+      "pct": 1.1
     }
   ],
   "releaseSources": {
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 48.4,
-    "currentLongestDaysHeld": 1006.3
+    "currentMedianDaysHeld": 48.2,
+    "currentLongestDaysHeld": 1006.4
   },
   "bond": {
     "withBond": 126,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19252600
+    "totalBond": 19253600
   },
   "chargesPerBooking": 3.3
 }
