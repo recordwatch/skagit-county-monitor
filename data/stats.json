@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T17:11:16",
+  "generatedAt": "2026-11-17T18:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 663,
-    "bookingsObserved": 460,
+    "bookingsTracked": 664,
+    "bookingsObserved": 461,
     "releasesObserved": 484,
-    "inCustody": 179,
-    "uniquePeople": 636
+    "inCustody": 180,
+    "uniquePeople": 637
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 9,
+      "booked": 10,
       "released": 11
     }
   ],
@@ -194,7 +194,7 @@
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
       "count": 52,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "RECKLESS DRIVING",
@@ -301,8 +301,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 24,
-      "pct": 3.6,
+      "count": 25,
+      "pct": 3.8,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -369,7 +369,7 @@
     },
     {
       "name": "TC",
-      "count": 13,
+      "count": 14,
       "pct": 0.6,
       "label": "TC"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 128,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 104,
-      "pct": 15.7
+      "count": 105,
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 51.1,
-    "currentLongestDaysHeld": 1006
+    "currentMedianDaysHeld": 49.6,
+    "currentLongestDaysHeld": 1006.1
   },
   "bond": {
     "withBond": 125,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19254600
