@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T15:11:16",
+  "generatedAt": "2026-11-17T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 662,
-    "bookingsObserved": 459,
-    "releasesObserved": 481,
-    "inCustody": 181,
+    "bookingsTracked": 663,
+    "bookingsObserved": 460,
+    "releasesObserved": 483,
+    "inCustody": 180,
     "uniquePeople": 636
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 8,
-      "released": 8
+      "booked": 9,
+      "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
       "count": 167,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 94,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 151,
-      "pct": 22.9,
+      "count": 152,
+      "pct": 23,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 141,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 57,
-      "pct": 8.6,
+      "count": 58,
+      "pct": 8.8,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 9,
-      "pct": 1.4,
+      "count": 8,
+      "pct": 1.2,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 240,
+      "count": 241,
       "pct": 10.9,
       "label": "Mount Vernon Municipal Court"
     },
@@ -389,12 +389,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 106,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 103,
-      "pct": 15.6
+      "count": 104,
+      "pct": 15.7
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -475,8 +475,8 @@
     },
     {
       "name": "Serving Commit",
-      "count": 127,
-      "pct": 8.8
+      "count": 128,
+      "pct": 8.9
     },
     {
       "name": "Dismissed",
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 652,
-      "pct": 93.5
+      "count": 653,
+      "pct": 93.6
     },
     {
       "name": "SCRAM With Bail",
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 468,
-    "observed": 13,
+    "observed": 15,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 479,
-    "medianDays": 1.8,
-    "meanDays": 40.4,
+    "releasedCount": 481,
+    "medianDays": 1.7,
+    "meanDays": 40.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 170
+        "count": 172
       },
       {
         "label": "1–3 days",
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 47.9,
-    "currentLongestDaysHeld": 1005.9
+    "currentMedianDaysHeld": 49.5,
+    "currentLongestDaysHeld": 1006
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 56,
+    "withBond": 126,
+    "noBond": 54,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19254600
+    "totalBond": 19255600
   },
   "chargesPerBooking": 3.3
 }

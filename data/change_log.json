@@ -1,5 +1,42 @@
 [
   {
+    "id": "743719-20261117124500",
+    "nameNumber": "743719",
+    "name": "ALCALA, ERICK",
+    "bookedAt": "2026-11-17T12:45:00",
+    "scheduledRelease": null,
+    "location": "M103",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T12:22:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CARY/EXH/DRAW DANGEROUS WEAPON",
+        "offenseDate": "2026-11-17T12:22:00",
+        "incident": "26-M16897",
+        "court": "MVMC",
+        "courtReference": "6A0396173",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T16:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "743719-20261117122409",
     "nameNumber": "743719",
     "name": "ALCALA, ERICK",
@@ -67,10 +104,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T14:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -166,13 +203,13 @@
     "bookedAt": "2026-11-17T10:40:00",
     "scheduledRelease": "2026-11-22T10:40:00",
     "location": "R210",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-17T10:40:00",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "bondTotal": null,
@@ -185,9 +222,9 @@
         "courtReference": "26-1-00153-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -199,7 +236,7 @@
         "bailType": null,
         "disposition": null,
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -211,7 +248,7 @@
         "bailType": null,
         "disposition": null,
         "arrestType": "FELONY COMMITMENT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -289,7 +326,7 @@
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
-        "offenseDate": "2026-11-17T09:21:00",
+        "offenseDate": "2026-11-17T09:15:00",
         "incident": "26-B08318",
         "court": "BMC",
         "courtReference": "6A0328737",
@@ -349,10 +386,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T05:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
