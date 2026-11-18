@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T04:11:18",
+  "generatedAt": "2026-11-18T05:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 669,
-    "bookingsObserved": 466,
+    "bookingsTracked": 670,
+    "bookingsObserved": 467,
     "releasesObserved": 485,
-    "inCustody": 184,
-    "uniquePeople": 640
+    "inCustody": 185,
+    "uniquePeople": 641
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 169,
-      "pct": 7.6
+      "count": 170,
+      "pct": 7.7
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 152,
-      "pct": 22.8,
+      "count": 153,
+      "pct": 22.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 85,
-      "pct": 12.7,
+      "count": 84,
+      "pct": 12.6,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 241,
+      "count": 243,
       "pct": 10.9,
       "label": "Mount Vernon Municipal Court"
     },
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 108,
-      "pct": 16.2
+      "count": 109,
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -528,12 +528,12 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 7.6
+      "count": 14,
+      "pct": 8
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.5
+      "count": 19,
+      "pct": 10.9
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 16.9
+      "pct": 16.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.7
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 47.9,
+    "currentMedianDaysHeld": 47.7,
     "currentLongestDaysHeld": 1006.5
   },
   "bond": {
     "withBond": 127,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19273600
