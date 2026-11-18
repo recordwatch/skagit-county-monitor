@@ -1,5 +1,79 @@
 [
   {
+    "id": "26645-20261118102200",
+    "nameNumber": "26645",
+    "name": "BLISS, KEITH KILE",
+    "bookedAt": "2026-11-18T10:22:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T09:50:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-18T09:50:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "23-1-00874-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T11:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "424293-20261118094300",
+    "nameNumber": "424293",
+    "name": "GRILLOT, SARAH ELLEN",
+    "bookedAt": "2026-11-18T09:43:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T09:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-18T09:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "HOLD",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T11:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "21231-20261118093000",
     "nameNumber": "21231",
     "name": "SELIN, SCOTT PAUL",
@@ -90,10 +164,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T10:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -226,13 +300,13 @@
     "bookedAt": "2026-11-18T00:45:00",
     "scheduledRelease": null,
     "location": "J206",
-    "arrestingAgency": "PROSECUTING ATTORNEY",
+    "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-18T00:27:00",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "PROSECUTING ATTORNEY"
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
@@ -247,7 +321,7 @@
         "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
-        "agency": "PROSECUTING ATTORNEY"
+        "agency": "WA STATE PATROL"
       }
     ],
     "status": "in_custody",
@@ -407,7 +481,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "TRIBAL CODE VIOLATION",
@@ -415,8 +489,8 @@
         "incident": "26-SP1805",
         "court": "TC",
         "courtReference": "6A0314336",
-        "bailAmount": null,
-        "bailType": null,
+        "bailAmount": 1500,
+        "bailType": "Cash Only",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
@@ -565,7 +639,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -577,7 +651,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
