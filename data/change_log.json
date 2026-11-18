@@ -1,5 +1,42 @@
 [
   {
+    "id": "732933-20261118063600",
+    "nameNumber": "732933",
+    "name": "CAMERON, JAMES WADE",
+    "bookedAt": "2026-11-18T06:36:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
+    "arrestType": "OTHER COUNTY HOLDS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T06:36:00",
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-18T06:36:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "HOLD",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "OTHER COUNTY HOLDS",
+        "agency": "ISLAND COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T09:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "698645-20261118033000",
     "nameNumber": "698645",
     "name": "HANCOCK, GABRIEL ADAM",
@@ -496,7 +533,7 @@
     "nameNumber": "666430",
     "name": "ANDERSON, DORIS EVELYN",
     "bookedAt": "2026-11-17T10:40:00",
-    "scheduledRelease": "2026-11-22T10:40:00",
+    "scheduledRelease": "2026-11-21T15:40:00",
     "location": "R210",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
@@ -10975,7 +11012,7 @@
     "nameNumber": "277581",
     "name": "MITCHELL, GARY LYNN SR",
     "bookedAt": "2026-11-02T10:20:00",
-    "scheduledRelease": "2026-11-18T16:20:00",
+    "scheduledRelease": "2027-02-16T09:20:00",
     "location": "MALE INMATE WORKER (E103)",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
@@ -18038,7 +18075,7 @@
         "courtReference": "C69282",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
