@@ -59,7 +59,7 @@
         "offenseDate": "2026-11-18T09:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "HOLD",
+        "courtReference": "26-1-00378-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -324,10 +324,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T12:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -373,10 +373,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T02:11:20",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T12:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -459,10 +459,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T22:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T12:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -533,10 +533,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T16:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T12:11:20",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -776,7 +776,7 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 13500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -784,9 +784,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "ICSO 4A0283951",
-        "bailAmount": 7500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       },
@@ -796,9 +796,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "ICSO 3A0268512",
-        "bailAmount": 6000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "OTHER COUNTY HOLDS",
         "agency": "ISLAND COUNTY SHERIFF"
       }
