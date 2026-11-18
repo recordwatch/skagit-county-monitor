@@ -301,40 +301,40 @@
     "bookedAt": "2026-11-17T10:30:00",
     "scheduledRelease": null,
     "location": "N205",
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
       {
         "arrestDate": "2026-11-17T10:30:00",
         "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
     "bondTotal": 13500,
     "charges": [
       {
-        "description": "PROTECTION ORDER VIOLATION-DV",
-        "offenseDate": "2024-12-31T00:00:00",
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-17T10:30:00",
         "incident": null,
         "court": "DC",
-        "courtReference": "4A0283951",
+        "courtReference": "ICSO 4A0283951",
         "bailAmount": 7500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "ISLAND COUNTY SHERIFF"
       },
       {
-        "description": "PROTECTION ORDER VIOLATION-DV",
-        "offenseDate": "2023-03-06T00:00:00",
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-17T10:30:00",
         "incident": null,
         "court": "DC",
-        "courtReference": "3A0268512",
+        "courtReference": "ICSO 3A0268512",
         "bailAmount": 6000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "OTHER COUNTY HOLDS",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -10236,7 +10236,7 @@
         "courtReference": "25-1-00019-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -10248,7 +10248,7 @@
         "courtReference": "25-1-00019-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },

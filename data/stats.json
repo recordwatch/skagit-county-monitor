@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:12:30",
+  "generatedAt": "2026-11-17T19:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 664,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 94,
-      "pct": 4.2
+      "count": 96,
+      "pct": 4.3
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -222,14 +222,14 @@
       "pct": 1.7
     },
     {
-      "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 36,
-      "pct": 1.6
-    },
-    {
       "name": "ATTEMPT TO ELUDE",
       "count": 35,
       "pct": 1.6
+    },
+    {
+      "name": "PROTECTION ORDER VIOLATION-DV",
+      "count": 34,
+      "pct": 1.5
     },
     {
       "name": "PROTECTION ORDER VIOL PREV CONVICTION-DV-FELONY",
@@ -313,15 +313,15 @@
     },
     {
       "name": "SKAGIT COUNTY JAIL",
-      "count": 8,
-      "pct": 1.2,
+      "count": 7,
+      "pct": 1.1,
       "label": "SKAGIT COUNTY JAIL"
     },
     {
-      "name": "SAN JUAN COUNTY SHERIFF",
+      "name": "ISLAND COUNTY SHERIFF",
       "count": 6,
       "pct": 0.9,
-      "label": "SAN JUAN COUNTY SHERIFF"
+      "label": "ISLAND COUNTY SHERIFF"
     }
   ],
   "courts": [
@@ -495,8 +495,8 @@
     },
     {
       "name": "Bail Bond Release",
-      "count": 54,
-      "pct": 3.8
+      "count": 56,
+      "pct": 3.9
     },
     {
       "name": "Shuttle Release",
@@ -638,7 +638,7 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.6,
+    "currentMedianDaysHeld": 49.7,
     "currentLongestDaysHeld": 1006.1
   },
   "bond": {
