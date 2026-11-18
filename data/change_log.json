@@ -287,10 +287,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -803,10 +803,10 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T11:11:22",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -13227,10 +13227,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T14:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T13:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -28294,7 +28294,7 @@
         "offenseDate": "2026-09-22T00:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "KING 222015431",
+        "courtReference": "KING 22-2-01543-1",
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
