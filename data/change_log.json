@@ -1,5 +1,42 @@
 [
   {
+    "id": "29320-20261117203500",
+    "nameNumber": "29320",
+    "name": "HAWK, CHRISTOPHER BOYCE",
+    "bookedAt": "2026-11-17T20:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-17T19:50:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-17T19:50:00",
+        "incident": "26-13938",
+        "court": "DC",
+        "courtReference": "6A0406930",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T22:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "445747-20261117165500",
     "nameNumber": "445747",
     "name": "SMITH, VADEN A",
@@ -23,6 +60,18 @@
         "incident": "26-SP1805",
         "court": "TC",
         "courtReference": "6A0314336",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-11-17T19:50:00",
+        "incident": "26-13938",
+        "court": "DC",
+        "courtReference": "6A0406930",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -10277,10 +10326,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T13:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-17T22:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
