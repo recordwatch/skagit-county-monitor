@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T21:11:16",
+  "generatedAt": "2026-11-18T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 677,
-    "bookingsObserved": 474,
+    "bookingsTracked": 678,
+    "bookingsObserved": 475,
     "releasesObserved": 498,
-    "inCustody": 179,
-    "uniquePeople": 645
+    "inCustody": 180,
+    "uniquePeople": 646
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 11,
+      "booked": 12,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 172,
+      "count": 173,
       "pct": 7.7
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
-      "count": 53,
+      "count": 54,
       "pct": 2.4
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 37,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ATTEMPT TO ELUDE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 153,
-      "pct": 22.7,
+      "count": 154,
+      "pct": 22.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1152,
-      "pct": 51.4,
+      "pct": 51.3,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,14 +339,14 @@
     },
     {
       "name": "MVMC",
-      "count": 244,
-      "pct": 10.9,
+      "count": 247,
+      "pct": 11,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
       "count": 212,
-      "pct": 9.5,
+      "pct": 9.4,
       "label": "Burlington Municipal Court"
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 128,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 49,
-      "pct": 7.3
+      "count": 50,
+      "pct": 7.4
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 52.3,
+    "currentMedianDaysHeld": 50.8,
     "currentLongestDaysHeld": 1007.2
   },
   "bond": {
     "withBond": 123,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19230100

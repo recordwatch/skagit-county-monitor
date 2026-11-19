@@ -1,5 +1,66 @@
 [
   {
+    "id": "213124-20261118210000",
+    "nameNumber": "213124",
+    "name": "MOORE, MICHAEL JAMES",
+    "bookedAt": "2026-11-18T21:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T18:56:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-18T18:56:00",
+        "incident": "26-M17031",
+        "court": "MVMC",
+        "courtReference": "6A0431416",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-11-18T18:56:00",
+        "incident": "26-M17031",
+        "court": "MVMC",
+        "courtReference": "6A0431416",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-11-18T18:56:00",
+        "incident": "26-M17031",
+        "court": "MVMC",
+        "courtReference": "6A0431416",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "729565-20261118161500",
     "nameNumber": "729565",
     "name": "ALLEN, MELINDA IRENE",
