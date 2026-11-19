@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T22:11:14",
+  "generatedAt": "2026-11-18T23:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 678,
-    "bookingsObserved": 475,
+    "bookingsTracked": 679,
+    "bookingsObserved": 476,
     "releasesObserved": 498,
-    "inCustody": 180,
-    "uniquePeople": 646
+    "inCustody": 181,
+    "uniquePeople": 647
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 12,
+      "booked": 13,
       "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 173,
+      "count": 174,
       "pct": 7.7
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 154,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 109,
-      "pct": 16.1,
+      "count": 110,
+      "pct": 16.2,
       "label": "WA STATE PATROL"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "DC",
-      "count": 372,
+      "count": 373,
       "pct": 16.6,
       "label": "Skagit County District Court"
     },
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 110,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 95,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
@@ -408,8 +408,8 @@
     },
     {
       "name": "DUI CITATION ARREST",
-      "count": 50,
-      "pct": 7.4
+      "count": 51,
+      "pct": 7.5
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -419,12 +419,12 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 24,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "DUI COMMITMENT ARREST",
       "count": 24,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.7
+      "count": 19,
+      "pct": 11.2
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.8
+      "pct": 14.7
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 50.8,
-    "currentLongestDaysHeld": 1007.2
+    "currentMedianDaysHeld": 49.3,
+    "currentLongestDaysHeld": 1007.3
   },
   "bond": {
     "withBond": 123,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19230100
