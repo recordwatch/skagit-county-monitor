@@ -740,7 +740,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "BURGLARY 2ND DEGREE",
@@ -750,7 +750,7 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -762,7 +762,91 @@
         "courtReference": "INV",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Declined To Prosecute",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-08-05T00:00:00",
+        "incident": "26-B05835",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-08-05T00:00:00",
+        "incident": "26-B05835",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-19T00:00:00",
+        "incident": "26-B06938",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-11-14T00:00:00",
+        "incident": "26-B08268",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-11-17T00:00:00",
+        "incident": "26-M16974",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-09-19T00:00:00",
+        "incident": "26-B06938",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "offenseDate": "2026-11-17T00:00:00",
+        "incident": "26-M16974",
+        "court": "SC",
+        "courtReference": "26-1-00436-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
