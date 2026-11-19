@@ -1,5 +1,42 @@
 [
   {
+    "id": "475762-20261118155000",
+    "nameNumber": "475762",
+    "name": "HAWES, TONY RYAN",
+    "bookedAt": "2026-11-18T15:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T15:50:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DV",
+        "offenseDate": "2024-01-26T00:00:00",
+        "incident": "24-01063",
+        "court": "DC",
+        "courtReference": "4A0198109",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T17:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "323149-20261118124600",
     "nameNumber": "323149",
     "name": "SIMMONS, RILEY MICHAEL",
@@ -17221,7 +17258,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 12500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION-DV",
@@ -17229,9 +17266,9 @@
         "incident": "26-W05112",
         "court": "SWMC",
         "courtReference": "6A0308842",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
