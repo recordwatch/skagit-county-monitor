@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:21:51",
+  "generatedAt": "2026-11-18T18:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 677,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 171,
+      "count": 172,
       "pct": 7.7
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "SC",
       "count": 1145,
-      "pct": 51.3,
+      "pct": 51.2,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
-      "count": 371,
+      "count": 372,
       "pct": 16.6,
       "label": "Skagit County District Court"
     },
@@ -475,13 +475,13 @@
     },
     {
       "name": "Serving Commit",
-      "count": 129,
+      "count": 128,
       "pct": 8.8
     },
     {
       "name": "Dismissed",
-      "count": 101,
-      "pct": 6.9
+      "count": 102,
+      "pct": 7
     },
     {
       "name": "Dept Of Corrections Release",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.6
+      "count": 17,
+      "pct": 10.2
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "R",
       "count": 24,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1007
+    "currentLongestDaysHeld": 1007.1
   },
   "bond": {
     "withBond": 122,

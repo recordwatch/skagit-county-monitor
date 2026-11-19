@@ -16,7 +16,20 @@
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-18T14:23:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976741",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T17:21:51",
     "releasedAt": null,
@@ -66,7 +79,7 @@
     "name": "SIMMONS, RILEY MICHAEL",
     "bookedAt": "2026-11-18T12:46:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N104",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -33000,7 +33013,7 @@
         "courtReference": "23-1-00663-29",
         "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
-        "disposition": "Serving Commit",
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
