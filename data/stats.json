@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T13:11:23",
+  "generatedAt": "2026-11-19T14:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 684,
-    "bookingsObserved": 481,
+    "bookingsTracked": 686,
+    "bookingsObserved": 483,
     "releasesObserved": 505,
-    "inCustody": 179,
-    "uniquePeople": 650
+    "inCustody": 181,
+    "uniquePeople": 651
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 5,
+      "booked": 7,
       "released": 7
     }
   ],
@@ -178,7 +178,7 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 101,
+      "count": 102,
       "pct": 4.5
     },
     {
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 146,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 111,
-      "pct": 16.3,
+      "pct": 16.2,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 84,
-      "pct": 12.3,
+      "count": 85,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "DEPARTMENT OF CORRECTIONS",
-      "count": 25,
-      "pct": 3.7,
+      "count": 26,
+      "pct": 3.8,
       "label": "DEPARTMENT OF CORRECTIONS"
     },
     {
@@ -345,13 +345,13 @@
     },
     {
       "name": "BMC",
-      "count": 212,
+      "count": 213,
       "pct": 9.4,
       "label": "Burlington Municipal Court"
     },
     {
       "name": "OTHR",
-      "count": 101,
+      "count": 102,
       "pct": 4.5,
       "label": "Other"
     },
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 111,
-      "pct": 16.3
+      "count": 112,
+      "pct": 16.4
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -404,7 +404,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 53,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DUI CITATION ARREST",
@@ -414,12 +414,12 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 29,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
-      "count": 24,
-      "pct": 3.5
+      "count": 25,
+      "pct": 3.7
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 16,
-      "pct": 9.6
+      "count": 15,
+      "pct": 9
     },
     {
       "name": "P",
@@ -577,8 +577,8 @@
     },
     {
       "name": "Q",
-      "count": 27,
-      "pct": 16.3
+      "count": 28,
+      "pct": 16.9
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 655,
+      "count": 656,
       "pct": 92.8
     },
     {
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 53,
-    "currentLongestDaysHeld": 1007.8
+    "currentMedianDaysHeld": 49.9,
+    "currentLongestDaysHeld": 1007.9
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 55,
+    "withBond": 125,
+    "noBond": 56,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19255600
+    "totalBond": 19256600
   },
   "chargesPerBooking": 3.3
 }
