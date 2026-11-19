@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:11:15",
+  "generatedAt": "2026-11-19T01:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 679,
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 13,
-      "pct": 7.6
+      "count": 14,
+      "pct": 8.2
     },
     {
       "name": "K",
@@ -568,22 +568,22 @@
     {
       "name": "N",
       "count": 19,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.7
+      "pct": 14.6
     }
   ],
   "bailTypes": [
@@ -638,7 +638,7 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.3,
+    "currentMedianDaysHeld": 49.4,
     "currentLongestDaysHeld": 1007.3
   },
   "bond": {
