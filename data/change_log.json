@@ -1,5 +1,54 @@
 [
   {
+    "id": "527411-20261119015000",
+    "nameNumber": "527411",
+    "name": "MENDEZ, KEVIN",
+    "bookedAt": "2026-11-19T01:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-19T00:10:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-19T00:10:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T01008964",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-11-19T00:10:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T01008964",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T03:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "465148-20261118213000",
     "nameNumber": "465148",
     "name": "RICE, ARTHUR FREDERICK",
@@ -1139,6 +1188,18 @@
         "court": "MVMC",
         "courtReference": "6A0205191",
         "bailAmount": 3500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-04-07T00:00:00",
+        "incident": "26-M04737",
+        "court": "MVMC",
+        "courtReference": "6A0205191",
+        "bailAmount": null,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
