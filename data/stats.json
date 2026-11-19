@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:11:16",
+  "generatedAt": "2026-11-19T10:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 680,
@@ -178,8 +178,8 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 100,
-      "pct": 4.4
+      "count": 101,
+      "pct": 4.5
     },
     {
       "name": "DWLS/R 3RD DEGREE",
@@ -351,8 +351,8 @@
     },
     {
       "name": "OTHR",
-      "count": 100,
-      "pct": 4.4,
+      "count": 101,
+      "pct": 4.5,
       "label": "Other"
     },
     {
@@ -460,18 +460,18 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 669,
-      "pct": 45.7
+      "count": 677,
+      "pct": 46
     },
     {
       "name": "Sentence Complete Release",
       "count": 155,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "Declined To Prosecute",
       "count": 139,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "Serving Commit",
@@ -481,7 +481,7 @@
     {
       "name": "Dismissed",
       "count": 102,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "Dept Of Corrections Release",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 653,
+      "count": 654,
       "pct": 92.8
     },
     {
       "name": "SCRAM With Bail",
       "count": 44,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "Cash Only",
@@ -646,7 +646,7 @@
     "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19230100
+    "totalBond": 19255100
   },
   "chargesPerBooking": 3.3
 }
