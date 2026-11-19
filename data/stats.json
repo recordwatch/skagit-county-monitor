@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:11:15",
+  "generatedAt": "2026-11-19T10:31:01",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 680,
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 677,
-      "pct": 46
+      "count": 680,
+      "pct": 46.1
     },
     {
       "name": "Sentence Complete Release",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 654,
-      "pct": 92.8
+      "count": 651,
+      "pct": 92.7
     },
     {
       "name": "SCRAM With Bail",
       "count": 44,
-      "pct": 6.2
+      "pct": 6.3
     },
     {
       "name": "Cash Only",
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.7,
+    "currentMedianDaysHeld": 49.8,
     "currentLongestDaysHeld": 1007.7
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 58,
+    "withBond": 122,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19255100
+    "totalBond": 19250600
   },
   "chargesPerBooking": 3.3
 }
