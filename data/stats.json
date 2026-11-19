@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T17:11:15",
+  "generatedAt": "2026-11-18T17:21:51",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 676,
-    "bookingsObserved": 473,
+    "bookingsTracked": 677,
+    "bookingsObserved": 474,
     "releasesObserved": 497,
-    "inCustody": 179,
-    "uniquePeople": 644
+    "inCustody": 180,
+    "uniquePeople": 645
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 10,
+      "booked": 11,
       "released": 12
     }
   ],
@@ -272,19 +272,19 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 144,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 108,
-      "pct": 16,
+      "count": 109,
+      "pct": 16.1,
       "label": "WA STATE PATROL"
     },
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 84,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 109,
-      "pct": 16.2
+      "count": 110,
+      "pct": 16.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 52.1,
+    "currentMedianDaysHeld": 50.6,
     "currentLongestDaysHeld": 1007
   },
   "bond": {
     "withBond": 122,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19225100

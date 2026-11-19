@@ -1,5 +1,29 @@
 [
   {
+    "id": "729565-20261118161500",
+    "nameNumber": "729565",
+    "name": "ALLEN, MELINDA IRENE",
+    "bookedAt": "2026-11-18T16:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-18T14:23:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T17:21:51",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "475762-20261118155000",
     "nameNumber": "475762",
     "name": "HAWES, TONY RYAN",
