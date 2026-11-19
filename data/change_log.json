@@ -5,7 +5,7 @@
     "name": "ALLEN, MELINDA IRENE",
     "bookedAt": "2026-11-18T16:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R102",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -42,7 +42,7 @@
     "name": "HAWES, TONY RYAN",
     "bookedAt": "2026-11-18T15:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -96,7 +96,7 @@
         "offenseDate": "2026-11-18T12:25:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "23-1-00266-29",
+        "courtReference": "DOC 23-1-00266-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -133,7 +133,7 @@
         "offenseDate": "2026-11-18T09:50:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "23-1-00874-29",
+        "courtReference": "DOC 23-1-00874-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -170,7 +170,7 @@
         "offenseDate": "2026-11-18T09:00:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "26-1-00378-29",
+        "courtReference": "DOC 26-1-00378-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -521,10 +521,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T00:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-18T19:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
