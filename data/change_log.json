@@ -1,5 +1,54 @@
 [
   {
+    "id": "382366-20261119111000",
+    "nameNumber": "382366",
+    "name": "HENDRIX, ALEXUS MAY",
+    "bookedAt": "2026-11-19T11:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-19T10:28:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-19T10:28:00",
+        "incident": "26-A07105",
+        "court": "AMC",
+        "courtReference": "6A0443822",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-19T10:28:00",
+        "incident": "26-A07105",
+        "court": "AMC",
+        "courtReference": "6A0443822",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "271897-20261119093000",
     "nameNumber": "271897",
     "name": "LAHR, JUSTIN JAMES",
@@ -79,10 +128,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T03:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-19T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -116,10 +165,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T23:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-19T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
