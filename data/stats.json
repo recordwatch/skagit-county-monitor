@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T10:31:01",
+  "generatedAt": "2026-11-19T11:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 680,
-    "bookingsObserved": 477,
-    "releasesObserved": 499,
-    "inCustody": 181,
-    "uniquePeople": 648
+    "bookingsTracked": 681,
+    "bookingsObserved": 478,
+    "releasesObserved": 501,
+    "inCustody": 180,
+    "uniquePeople": 649
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 1,
-      "released": 1
+      "booked": 2,
+      "released": 3
     }
   ],
   "topCharges": [
@@ -271,14 +271,14 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 144,
-      "pct": 21.2,
+      "count": 145,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
       "count": 111,
-      "pct": 16.4,
+      "pct": 16.3,
       "label": "WA STATE PATROL"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
       "count": 58,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1152,
+      "count": 1153,
       "pct": 51.2,
       "label": "Skagit County Superior Court"
     },
@@ -402,12 +402,12 @@
       "pct": 14
     },
     {
-      "name": "DUI CITATION ARREST",
-      "count": 52,
-      "pct": 7.7
+      "name": "MISDEMEANOR COMMITMENT ARREST",
+      "count": 53,
+      "pct": 7.8
     },
     {
-      "name": "MISDEMEANOR COMMITMENT ARREST",
+      "name": "DUI CITATION ARREST",
       "count": 52,
       "pct": 7.7
     },
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 680,
-      "pct": 46.1
+      "pct": 46
     },
     {
       "name": "Sentence Complete Release",
@@ -475,7 +475,7 @@
     },
     {
       "name": "Serving Commit",
-      "count": 128,
+      "count": 129,
       "pct": 8.7
     },
     {
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.3
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -532,8 +532,8 @@
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
-      "count": 16,
-      "pct": 9.4
+      "count": 17,
+      "pct": 10
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 11.7
+      "count": 19,
+      "pct": 11.2
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.4
+      "pct": 16.5
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.8
+      "pct": 15.9
     },
     {
       "name": "R",
-      "count": 25,
-      "pct": 14.6
+      "count": 24,
+      "pct": 14.1
     }
   ],
   "bailTypes": [
@@ -605,21 +605,21 @@
   ],
   "releaseSources": {
     "official": 489,
-    "observed": 10,
+    "observed": 12,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 497,
+    "releasedCount": 499,
     "medianDays": 1.6,
-    "meanDays": 39.1,
+    "meanDays": 39,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 181
+        "count": 182
       },
       {
         "label": "1–3 days",
-        "count": 132
+        "count": 133
       },
       {
         "label": "3–7 days",
@@ -638,12 +638,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.8,
-    "currentLongestDaysHeld": 1007.7
+    "currentMedianDaysHeld": 51.3,
+    "currentLongestDaysHeld": 1007.8
   },
   "bond": {
     "withBond": 122,
-    "noBond": 59,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 19250600

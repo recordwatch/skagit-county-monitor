@@ -1,5 +1,42 @@
 [
   {
+    "id": "271897-20261119093000",
+    "nameNumber": "271897",
+    "name": "LAHR, JUSTIN JAMES",
+    "bookedAt": "2026-11-19T09:30:00",
+    "scheduledRelease": "2026-12-18T14:30:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-19T09:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH",
+        "offenseDate": "2026-07-22T00:00:00",
+        "incident": "26-08731",
+        "court": "SC",
+        "courtReference": "26-1-00408-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T11:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "527411-20261119015000",
     "nameNumber": "527411",
     "name": "MENDEZ, KEVIN",
@@ -177,10 +214,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T17:21:51",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-19T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1218,10 +1255,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T13:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-19T11:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
