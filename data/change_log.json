@@ -1,5 +1,29 @@
 [
   {
+    "id": "427400-20261120051000",
+    "nameNumber": "427400",
+    "name": "BAUMGARDNER, ZACHARY DAVID",
+    "bookedAt": "2026-11-20T05:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T06:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "18746-20261119203000",
     "nameNumber": "18746",
     "name": "HALL, JERRY ALLEN",
