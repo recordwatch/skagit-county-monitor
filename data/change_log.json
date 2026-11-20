@@ -1,5 +1,66 @@
 [
   {
+    "id": "680392-20261119142000",
+    "nameNumber": "680392",
+    "name": "PAVLIUK, DMYTRO D",
+    "bookedAt": "2026-11-19T14:20:00",
+    "scheduledRelease": "2027-02-16T14:20:00",
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "FELONY COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-19T14:20:00",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VEHICLE ASSAULT-RECKLESS",
+        "offenseDate": "2024-02-06T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-8-00022-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VEHICLE ASSAULT-RECKLESS",
+        "offenseDate": "2024-02-06T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-8-00022-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VEHICLE ASSAULT-RECKLESS",
+        "offenseDate": "2024-02-06T00:00:00",
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-8-00022-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "FELONY COMMITMENT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T16:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "191236-20261119132000",
     "nameNumber": "191236",
     "name": "JUNGQUIST, RYAN LEE",
@@ -15,8 +76,69 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 52500,
+    "charges": [
+      {
+        "description": "CIVIL COMPLAINTS",
+        "offenseDate": null,
+        "incident": null,
+        "court": "SC",
+        "courtReference": "24-3-00406-29",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2022-08-18T00:00:00",
+        "incident": "22-A05858",
+        "court": "AMC",
+        "courtReference": "2A0167402",
+        "bailAmount": 50000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2022-08-18T00:00:00",
+        "incident": "22-A05858",
+        "court": "AMC",
+        "courtReference": "2A0167402",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2022-08-18T00:00:00",
+        "incident": "22-A05858",
+        "court": "AMC",
+        "courtReference": "2A0167402",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "HARRASSMENT DVPA",
+        "offenseDate": "2025-06-19T00:00:00",
+        "incident": "25-07195",
+        "court": "DC",
+        "courtReference": "PA0009106",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T15:11:16",
     "releasedAt": null,
@@ -29,7 +151,7 @@
     "name": "KEITH, TODD JAY",
     "bookedAt": "2026-11-19T12:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -66,7 +188,7 @@
     "name": "SELL, KENNETH LEE DERRICK",
     "bookedAt": "2026-11-19T12:55:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -139,7 +261,7 @@
     "name": "CRUZ-GARCIA, SAUL",
     "bookedAt": "2026-11-19T12:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N207",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -176,7 +298,7 @@
     "name": "BALLARD, JASON ROY",
     "bookedAt": "2026-11-19T11:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N107",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -213,7 +335,7 @@
     "name": "HENDRIX, ALEXUS MAE",
     "bookedAt": "2026-11-19T11:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J207",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -22645,10 +22767,10 @@
         "agency": "SAN JUAN COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T19:04:59",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-19T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
