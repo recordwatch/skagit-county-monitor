@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:11:15",
+  "generatedAt": "2026-11-20T00:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 690,
@@ -9,11 +9,6 @@
     "uniquePeople": 654
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-21",
-      "booked": 14,
-      "released": 12
-    },
     {
       "date": "2026-10-22",
       "booked": 6,
@@ -158,6 +153,11 @@
       "date": "2026-11-19",
       "booked": 11,
       "released": 8
+    },
+    {
+      "date": "2026-11-20",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -528,7 +528,7 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 14,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "K",
@@ -553,12 +553,12 @@
     {
       "name": "M",
       "count": 6,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "MALE INMATE WORKER (E103)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "MALE WORK RELEASE (E102)",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 20,
-      "pct": 11.6
+      "count": 21,
+      "pct": 12.1
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.5
+      "pct": 14.4
     }
   ],
   "bailTypes": [
