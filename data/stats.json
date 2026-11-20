@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:11:22",
+  "generatedAt": "2026-11-19T19:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 689,
@@ -271,14 +271,14 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 146,
-      "pct": 21.3,
+      "count": 145,
+      "pct": 21.1,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
       "name": "WA STATE PATROL",
-      "count": 112,
-      "pct": 16.3,
+      "count": 113,
+      "pct": 16.4,
       "label": "WA STATE PATROL"
     },
     {
@@ -638,7 +638,7 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.7,
+    "currentMedianDaysHeld": 49.8,
     "currentLongestDaysHeld": 1008.1
   },
   "bond": {
