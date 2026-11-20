@@ -66,7 +66,7 @@
     "name": "BAUMGARDNER, ZACHARY DAVID",
     "bookedAt": "2026-11-20T05:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -5232,7 +5232,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 60000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -5240,9 +5240,9 @@
         "incident": "25-A01579",
         "court": "SC",
         "courtReference": "25-1-00220-29",
-        "bailAmount": 50000,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5253,8 +5253,8 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5265,8 +5265,8 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5277,8 +5277,8 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5289,8 +5289,8 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5301,8 +5301,8 @@
         "court": "SC",
         "courtReference": "25-1-00220-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -5312,9 +5312,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "ISLAND C17-00171",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -34550,7 +34550,7 @@
         "courtReference": "24-1-00487-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -34567,7 +34567,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "ASSAULT 4TH DV",
+        "description": "ASSAULT 4TH DEGREE DV",
         "offenseDate": "2026-08-11T00:00:00",
         "incident": "26-09645",
         "court": "SC",

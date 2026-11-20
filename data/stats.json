@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:11:15",
+  "generatedAt": "2026-11-20T11:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 692,
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 78,
-      "pct": 3.4
+      "count": 79,
+      "pct": 3.5
     },
     {
       "name": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
@@ -460,13 +460,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 689,
-      "pct": 45.6
+      "count": 690,
+      "pct": 45.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 155,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "Declined To Prosecute",
@@ -481,7 +481,7 @@
     {
       "name": "Dismissed",
       "count": 104,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "Dept Of Corrections Release",
@@ -495,8 +495,8 @@
     },
     {
       "name": "Bail Bond Release",
-      "count": 58,
-      "pct": 3.8
+      "count": 65,
+      "pct": 4.3
     },
     {
       "name": "Pending Transport",
@@ -567,35 +567,35 @@
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 10.5
+      "count": 19,
+      "pct": 11
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "R",
       "count": 25,
-      "pct": 14.6
+      "pct": 14.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 640,
-      "pct": 92.6
+      "count": 639,
+      "pct": 93.4
     },
     {
       "name": "SCRAM With Bail",
-      "count": 44,
-      "pct": 6.4
+      "count": 38,
+      "pct": 5.6
     },
     {
       "name": "Cash Only",
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 1008.7
+    "currentLongestDaysHeld": 1008.8
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 61,
-    "medianBond": 47000,
+    "withBond": 121,
+    "noBond": 62,
+    "medianBond": 44000,
     "maxBond": 1350000,
-    "totalBond": 18818100
+    "totalBond": 18758100
   },
   "chargesPerBooking": 3.3
 }
