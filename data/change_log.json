@@ -1,5 +1,42 @@
 [
   {
+    "id": "512210-20261120130000",
+    "nameNumber": "512210",
+    "name": "RATZLAFF, AVRI BLEU",
+    "bookedAt": "2026-11-20T13:00:00",
+    "scheduledRelease": "2026-12-10T13:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T13:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-03-07T00:00:00",
+        "incident": "26-02560",
+        "court": "SC",
+        "courtReference": "26-1-00130-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T14:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "370797-20261120101500",
     "nameNumber": "370797",
     "name": "MARTINEZ, LUIS EDUARDO",
@@ -4255,9 +4292,14 @@
         "arrestDate": "2026-11-13T19:43:00",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "arrestDate": "2026-11-20T11:30:00",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 100000,
+    "bondTotal": 101000,
     "charges": [
       {
         "description": "DUI FELONY",
@@ -4294,6 +4336,30 @@
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-02-19T00:00:00",
+        "incident": "26-01955",
+        "court": "DC",
+        "courtReference": "6A0055718",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-02-19T00:00:00",
+        "incident": "26-01955",
+        "court": "DC",
+        "courtReference": "6A0055718",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -11017,7 +11083,7 @@
         "courtReference": "WHATCOM 4Z0998841",
         "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -11029,7 +11095,7 @@
         "courtReference": "WHATCOM 7Z0373307",
         "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Pending Transport",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -31944,7 +32010,7 @@
     "nameNumber": "661819",
     "name": "HUFFSTODT, MATTHEW EDWARD",
     "bookedAt": "2026-09-08T14:10:00",
-    "scheduledRelease": "2026-10-14T00:54:20",
+    "scheduledRelease": "2026-11-20T13:01:05",
     "location": "Q203",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "FELONY WARRANT ARREST",
