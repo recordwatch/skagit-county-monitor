@@ -152,10 +152,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T22:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -235,7 +235,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 52500,
+    "bondTotal": 26500,
     "charges": [
       {
         "description": "CIVIL COMPLAINTS",
@@ -255,7 +255,7 @@
         "incident": "22-A05858",
         "court": "AMC",
         "courtReference": "2A0167402",
-        "bailAmount": 50000,
+        "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
@@ -291,9 +291,9 @@
         "incident": "25-07195",
         "court": "DC",
         "courtReference": "PA0009106",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -357,7 +357,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 7000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -365,9 +365,9 @@
         "incident": "26-B08359",
         "court": "BMC",
         "courtReference": "6A0351420",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -377,9 +377,9 @@
         "incident": "26-B06946",
         "court": "BMC",
         "courtReference": "6A0374187",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -457,7 +457,7 @@
     "name": "BALLARD, JASON ROY",
     "bookedAt": "2026-11-19T11:40:00",
     "scheduledRelease": null,
-    "location": "N107",
+    "location": "Q106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -467,7 +467,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -475,7 +475,7 @@
         "incident": "26-00356",
         "court": "DC",
         "courtReference": "PA0009317",
-        "bailAmount": 10000,
+        "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
@@ -555,10 +555,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
