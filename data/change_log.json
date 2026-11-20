@@ -1,5 +1,42 @@
 [
   {
+    "id": "218190-20261120143500",
+    "nameNumber": "218190",
+    "name": "FRANCE, JOSHUA AARON",
+    "bookedAt": "2026-11-20T14:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T14:09:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-20T14:09:00",
+        "incident": "26-M17142",
+        "court": "MVMC",
+        "courtReference": "6A0442754",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T15:46:12",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "690680-20261120135000",
     "nameNumber": "690680",
     "name": "GUYTON, KRISTEN JAMAAL",
@@ -81,6 +118,55 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T15:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "727285-20261120135000",
+    "nameNumber": "727285",
+    "name": "ROGERS, MICHAEL KURT PATRICK",
+    "bookedAt": "2026-11-20T13:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T13:50:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "UNLAW POSS FIREARM 1ST DEGREE",
+        "offenseDate": "2025-11-11T00:00:00",
+        "incident": "25-W05604",
+        "court": "SC",
+        "courtReference": "25-1-00725-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-11-11T00:00:00",
+        "incident": "25-W05604",
+        "court": "SC",
+        "courtReference": "25-1-00725-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T15:46:12",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -385,7 +471,7 @@
     "name": "PAVLIUK, DMYTRO D",
     "bookedAt": "2026-11-19T14:20:00",
     "scheduledRelease": "2027-02-16T14:20:00",
-    "location": "N205",
+    "location": "P204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -1658,7 +1744,7 @@
     "name": "SMITH, VADEN A",
     "bookedAt": "2026-11-17T16:55:00",
     "scheduledRelease": null,
-    "location": "N206",
+    "location": "P204",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -3953,7 +4039,7 @@
     "nameNumber": "239050",
     "name": "BROWN, ZETH LEROY",
     "bookedAt": "2026-11-14T11:46:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-20T15:16:56",
     "location": "P206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
@@ -3964,7 +4050,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 26000,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "ASSAULT-2 STRNGULTN/SUFFOCATN",
@@ -3984,9 +4070,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "6Z0393767",
-        "bailAmount": 300,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -3996,9 +4082,9 @@
         "incident": "16-03564",
         "court": "DC",
         "courtReference": "6Z0014386",
-        "bailAmount": 300,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -4008,9 +4094,9 @@
         "incident": "18-17592",
         "court": "DC",
         "courtReference": "8Z0607638",
-        "bailAmount": 400,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
