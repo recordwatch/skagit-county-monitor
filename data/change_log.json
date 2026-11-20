@@ -1,5 +1,91 @@
 [
   {
+    "id": "690680-20261120135000",
+    "nameNumber": "690680",
+    "name": "GUYTON, KRISTEN JAMAAL",
+    "bookedAt": "2026-11-20T13:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T13:50:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "HARRASSMENT DVPA",
+        "offenseDate": "2025-10-11T00:00:00",
+        "incident": "25-M16455",
+        "court": "MVMC",
+        "courtReference": "5A0874753",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HARRASSMENT",
+        "offenseDate": "2025-10-11T00:00:00",
+        "incident": "25-M16455",
+        "court": "MVMC",
+        "courtReference": "5A0874753",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T15:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "436065-20261120135000",
+    "nameNumber": "436065",
+    "name": "NIESHE, ODIN DREIGH",
+    "bookedAt": "2026-11-20T13:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T13:50:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2023-07-16T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "3A0538242",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T15:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "512210-20261120130000",
     "nameNumber": "512210",
     "name": "RATZLAFF, AVRI BLEU",
@@ -42,7 +128,7 @@
     "name": "MARTINEZ, LUIS EDUARDO",
     "bookedAt": "2026-11-20T10:15:00",
     "scheduledRelease": "2026-11-21T10:15:00",
-    "location": null,
+    "location": "M102",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -17554,10 +17640,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T14:08:37",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T15:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
