@@ -1,11 +1,48 @@
 [
   {
+    "id": "370797-20261120101500",
+    "nameNumber": "370797",
+    "name": "MARTINEZ, LUIS EDUARDO",
+    "bookedAt": "2026-11-20T10:15:00",
+    "scheduledRelease": "2026-11-21T10:15:00",
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T09:30:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-20T09:30:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "26-1-00169-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T13:11:19",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "627392-20261120100500",
     "nameNumber": "627392",
     "name": "REYES-OSORIO, JOEL",
     "bookedAt": "2026-11-20T10:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -66,7 +103,7 @@
     "name": "VAZQUEZ-ROBLES, ANTONIO",
     "bookedAt": "2026-11-20T08:05:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -5380,10 +5417,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -9636,10 +9673,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T15:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -10968,7 +11005,7 @@
         "courtReference": "2Z0647893",
         "bailAmount": 25000,
         "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "disposition": "Amended",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -10993,6 +11030,18 @@
         "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "NEG DRIVING 1ST (CRIMINAL)",
+        "offenseDate": "2012-08-07T00:00:00",
+        "incident": "12-10287",
+        "court": "DC",
+        "courtReference": "2Z0647893",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -14607,10 +14656,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T02:34:21",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T13:11:19",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -15837,7 +15886,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -15845,9 +15894,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0008896",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -15857,9 +15906,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0008895",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -15870,8 +15919,8 @@
         "court": "DC",
         "courtReference": "PA0008895",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -31952,7 +32001,7 @@
         "courtReference": "4A0361970",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY JAIL"
       },
