@@ -1,5 +1,66 @@
 [
   {
+    "id": "718694-20261120080500",
+    "nameNumber": "718694",
+    "name": "VAZQUEZ-ROBLES, ANTONIO",
+    "bookedAt": "2026-11-20T08:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T05:17:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-20T05:17:00",
+        "incident": "26-M17114",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-20T05:17:00",
+        "incident": "26-M17114",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HIT/RUN UNATTENDED PROPERTY",
+        "offenseDate": "2026-11-20T05:17:00",
+        "incident": "26-M17114",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T09:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "427400-20261120051000",
     "nameNumber": "427400",
     "name": "BAUMGARDNER, ZACHARY DAVID",
@@ -69,7 +130,7 @@
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
         "offenseDate": "2026-09-22T00:00:00",
-        "incident": null,
+        "incident": "26-M14297",
         "court": "MVMC",
         "courtReference": "6A0403368",
         "bailAmount": null,
@@ -81,7 +142,7 @@
       {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-09-22T00:00:00",
-        "incident": null,
+        "incident": "26-M14297",
         "court": "MVMC",
         "courtReference": "6A0403368",
         "bailAmount": 2000,
@@ -178,7 +239,7 @@
     "charges": [
       {
         "description": "CIVIL COMPLAINTS",
-        "offenseDate": null,
+        "offenseDate": "2024-09-19T00:00:00",
         "incident": null,
         "court": "SC",
         "courtReference": "24-3-00406-29",
@@ -335,7 +396,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       },
       {
-        "description": "THEFT 3RD DEG",
+        "description": "THEFT 3RD DEG - NOT TO EXCEED $750 VALUE",
         "offenseDate": "2026-08-18T00:00:00",
         "incident": "26-B06182",
         "court": "SC",
@@ -555,7 +616,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "HIT RUN UNATTENDED",
+        "description": "HIT/RUN UNATTENDED PROPERTY",
         "offenseDate": "2026-11-19T09:30:00",
         "incident": "26-M17045",
         "court": "SC",
@@ -567,7 +628,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "HIT AND RUN",
+        "description": "HIT AND RUN-DAMAGE ONLY",
         "offenseDate": "2026-11-19T09:30:00",
         "incident": "26-M17045",
         "court": "SC",
