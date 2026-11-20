@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:11:20",
+  "generatedAt": "2026-11-19T20:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 689,
@@ -461,17 +461,17 @@
     {
       "name": "Own Recognizance Release",
       "count": 680,
-      "pct": 45.9
+      "pct": 45.7
     },
     {
       "name": "Sentence Complete Release",
       "count": 155,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "Declined To Prosecute",
       "count": 139,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "Serving Commit",
@@ -490,8 +490,8 @@
     },
     {
       "name": "Amended",
-      "count": 62,
-      "pct": 4.2
+      "count": 65,
+      "pct": 4.4
     },
     {
       "name": "Bail Bond Release",
@@ -505,8 +505,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 17,
-      "pct": 1.1
+      "count": 19,
+      "pct": 1.3
     },
     {
       "name": "Sanction Release",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 8.7
+      "count": 14,
+      "pct": 8.1
     },
     {
       "name": "K",
@@ -582,15 +582,15 @@
     },
     {
       "name": "R",
-      "count": 24,
-      "pct": 13.9
+      "count": 25,
+      "pct": 14.5
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 664,
-      "pct": 92.9
+      "count": 659,
+      "pct": 92.8
     },
     {
       "name": "SCRAM With Bail",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1008.1
   },
   "bond": {
-    "withBond": 126,
-    "noBond": 57,
+    "withBond": 125,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 19191100
+    "totalBond": 19141100
   },
   "chargesPerBooking": 3.3
 }
