@@ -5390,7 +5390,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 30000,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "HARASSMENT/CRIMINAL JUSTICE - FELONY",
@@ -5398,7 +5398,7 @@
         "incident": "24-M19990",
         "court": "SC",
         "courtReference": "24-1-00828-29",
-        "bailAmount": 20000,
+        "bailAmount": 15000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -5446,7 +5446,7 @@
         "incident": "25-M17509",
         "court": "SC",
         "courtReference": "25-1-00705-29",
-        "bailAmount": 10000,
+        "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -5944,7 +5944,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 75000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "ROBBERY 1ST/BODILY INJURY",
@@ -5952,7 +5952,7 @@
         "incident": "26-M13773",
         "court": "SC",
         "courtReference": "26-1-00617-29",
-        "bailAmount": 75000,
+        "bailAmount": 10000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
