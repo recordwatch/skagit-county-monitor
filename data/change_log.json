@@ -29846,7 +29846,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 150000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
@@ -29854,9 +29854,9 @@
         "incident": "26-11570",
         "court": "SC",
         "courtReference": "26-1-00533-29",
-        "bailAmount": 150000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -29879,8 +29879,8 @@
         "court": "SC",
         "courtReference": "26-1-00533-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -29891,8 +29891,8 @@
         "court": "SC",
         "courtReference": "26-1-00533-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -29915,8 +29915,8 @@
         "court": "SC",
         "courtReference": "26-1-00533-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -29927,8 +29927,8 @@
         "court": "SC",
         "courtReference": "26-1-00533-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
