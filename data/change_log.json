@@ -1,5 +1,66 @@
 [
   {
+    "id": "627392-20261120100500",
+    "nameNumber": "627392",
+    "name": "REYES-OSORIO, JOEL",
+    "bookedAt": "2026-11-20T10:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T09:57:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-08-20T00:00:00",
+        "incident": "26-M12616",
+        "court": "MVMC",
+        "courtReference": "6A0394352",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-08-20T00:00:00",
+        "incident": "26-M12616",
+        "court": "MVMC",
+        "courtReference": "6A0383613",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "VIOL ANTI-HARASSMENT ORDER",
+        "offenseDate": "2026-06-01T00:00:00",
+        "incident": "26-M07763",
+        "court": "MVMC",
+        "courtReference": "6A0271095",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T12:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "718694-20261120080500",
     "nameNumber": "718694",
     "name": "VAZQUEZ-ROBLES, ANTONIO",
@@ -445,10 +506,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T14:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T12:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -9560,7 +9621,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 100,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -9568,9 +9629,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "PA0005570",
-        "bailAmount": 100,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -14496,7 +14557,7 @@
     "nameNumber": "415850",
     "name": "WILLIAMS, DANIEL LEWIS",
     "bookedAt": "2026-10-29T01:55:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2026-11-20T11:46:20",
     "location": "Q106",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -14507,7 +14568,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 10000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -14515,9 +14576,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "T00901570",
-        "bailAmount": 10000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -14528,8 +14589,8 @@
         "court": "DC",
         "courtReference": "T00901570",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -14540,8 +14601,8 @@
         "court": "DC",
         "courtReference": "T00901570",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -15301,7 +15362,7 @@
     "nameNumber": "417521",
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
-    "scheduledRelease": "2026-11-20T10:45:00",
+    "scheduledRelease": "2026-11-20T11:12:29",
     "location": "P205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -15382,7 +15443,7 @@
         "courtReference": "DOC 25-1-00585-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sanction Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
