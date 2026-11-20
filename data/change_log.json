@@ -5,7 +5,7 @@
     "name": "PAVLIUK, DMYTRO D",
     "bookedAt": "2026-11-19T14:20:00",
     "scheduledRelease": "2027-02-16T14:20:00",
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
@@ -66,7 +66,7 @@
     "name": "JUNGQUIST, RYAN LEE",
     "bookedAt": "2026-11-19T13:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J102",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
