@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T21:11:14",
+  "generatedAt": "2026-11-19T22:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 689,
-    "bookingsObserved": 486,
+    "bookingsTracked": 690,
+    "bookingsObserved": 487,
     "releasesObserved": 506,
-    "inCustody": 183,
+    "inCustody": 184,
     "uniquePeople": 654
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 10,
+      "booked": 11,
       "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 177,
+      "count": 178,
       "pct": 7.8
     },
     {
@@ -204,16 +204,16 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 49,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
-      "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+      "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
       "count": 42,
       "pct": 1.8
     },
     {
-      "name": "OBSTRUCT LAW ENFORCEMENT OFFIC",
-      "count": 41,
+      "name": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+      "count": 42,
       "pct": 1.8
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 155,
-      "pct": 22.6,
+      "count": 156,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1166,
+      "count": 1167,
       "pct": 51.2,
       "label": "Skagit County Superior Court"
     },
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 248,
-      "pct": 10.9,
+      "count": 250,
+      "pct": 11,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 108,
-      "pct": 15.7
+      "count": 109,
+      "pct": 15.8
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -490,7 +490,7 @@
     },
     {
       "name": "Amended",
-      "count": 67,
+      "count": 68,
       "pct": 4.5
     },
     {
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 21,
-      "pct": 1.4
+      "count": 23,
+      "pct": 1.5
     },
     {
       "name": "Shuttle Release",
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 49.9,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 1008.2
   },
   "bond": {
-    "withBond": 125,
+    "withBond": 126,
     "noBond": 58,
-    "medianBond": 50000,
+    "medianBond": 47000,
     "maxBond": 1350000,
-    "totalBond": 19061100
+    "totalBond": 19033100
   },
   "chargesPerBooking": 3.3
 }
