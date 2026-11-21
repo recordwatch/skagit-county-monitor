@@ -29843,7 +29843,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 52500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ARSON 1ST DEGREE",
@@ -29851,9 +29851,9 @@
         "incident": "24-M02920",
         "court": "SC",
         "courtReference": "24-1-00123-29",
-        "bailAmount": 50000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29864,8 +29864,8 @@
         "court": "SC",
         "courtReference": "24-1-00123-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29876,8 +29876,8 @@
         "court": "SC",
         "courtReference": "24-1-00123-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -29890,6 +29890,18 @@
         "bailAmount": 2500,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS BURN 1 DEG",
+        "offenseDate": "2024-02-16T00:00:00",
+        "incident": "24-M02920",
+        "court": "SC",
+        "courtReference": "24-1-00123-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
