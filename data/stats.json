@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:11:15",
+  "generatedAt": "2026-11-21T06:51:47",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 703,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "DUI",
-      "count": 181,
-      "pct": 7.8
+      "count": 182,
+      "pct": 7.9
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 160,
-      "pct": 22.9,
+      "pct": 22.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 59,
-      "pct": 8.4,
+      "count": 60,
+      "pct": 8.6,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SWMC",
-      "count": 57,
+      "count": 58,
       "pct": 2.5,
       "label": "Sedro-Woolley Municipal Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 130,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 116,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -402,14 +402,14 @@
       "pct": 13.7
     },
     {
-      "name": "MISDEMEANOR COMMITMENT ARREST",
+      "name": "DUI CITATION ARREST",
       "count": 54,
       "pct": 7.7
     },
     {
-      "name": "DUI CITATION ARREST",
-      "count": 53,
-      "pct": 7.6
+      "name": "MISDEMEANOR COMMITMENT ARREST",
+      "count": 54,
+      "pct": 7.7
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 89,
-      "pct": 5.7
+      "count": 90,
+      "pct": 5.8
     },
     {
       "name": "Amended",
