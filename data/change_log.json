@@ -1,5 +1,54 @@
 [
   {
+    "id": "717080-20261121120000",
+    "nameNumber": "717080",
+    "name": "HUGHES, SPENCER AUSTIN",
+    "bookedAt": "2026-11-21T12:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-21T11:31:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARASSMENT/CRIMINAL JUSTICE - FELONY",
+        "offenseDate": "2026-11-21T11:31:00",
+        "incident": "26-13980",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "FALSE STATEMENT TO PUB SERVANT",
+        "offenseDate": "2026-11-21T11:31:00",
+        "incident": "26-13980",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T14:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "735110-20261121044200",
     "nameNumber": "735110",
     "name": "MORALES, TRINIDAD ANGELA",
@@ -493,7 +542,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -501,9 +550,9 @@
         "incident": "26-M12616",
         "court": "MVMC",
         "courtReference": "6A0394352",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -513,9 +562,9 @@
         "incident": "26-M12616",
         "court": "MVMC",
         "courtReference": "6A0383613",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -525,9 +574,9 @@
         "incident": "26-M07763",
         "court": "MVMC",
         "courtReference": "6A0271095",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
