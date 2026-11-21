@@ -52,7 +52,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -60,9 +60,9 @@
         "incident": "26-07734",
         "court": "DC",
         "courtReference": "C00069709",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -886,7 +886,7 @@
     "name": "SELL, KENNETH LEE DERRICK",
     "bookedAt": "2026-11-19T12:55:00",
     "scheduledRelease": null,
-    "location": "N204",
+    "location": "P208",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -2148,7 +2148,7 @@
     "name": "DIAS, CHARLES ANTHONY",
     "bookedAt": "2026-11-17T11:55:00",
     "scheduledRelease": null,
-    "location": "N107",
+    "location": "P208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
