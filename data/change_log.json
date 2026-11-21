@@ -78,7 +78,7 @@
     "name": "STAFFORD, DARLENE JOYCE",
     "bookedAt": "2026-11-20T14:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "R210",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -651,7 +651,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 26500,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "CIVIL COMPLAINTS",
@@ -659,9 +659,9 @@
         "incident": null,
         "court": "SC",
         "courtReference": "24-3-00406-29",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -773,7 +773,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -805,7 +805,7 @@
         "incident": "26-B06182",
         "court": "SC",
         "courtReference": "26-1-00473-29",
-        "bailAmount": 5000,
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -993,16 +993,16 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "POSS STOLEN VEHICLE",
         "offenseDate": "2026-11-19T09:30:00",
         "incident": "26-M17045",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00646-29",
+        "bailAmount": 75000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -1012,9 +1012,9 @@
         "offenseDate": "2026-11-19T09:30:00",
         "incident": "26-M17045",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00646-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -1026,8 +1026,8 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1038,8 +1038,8 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1048,9 +1048,9 @@
         "offenseDate": "2026-11-19T09:30:00",
         "incident": "26-M17045",
         "court": "SC",
-        "courtReference": "INV",
+        "courtReference": "26-1-00646-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -1062,7 +1062,31 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2026-11-19T09:30:00",
+        "incident": "26-M17045",
+        "court": "SC",
+        "courtReference": "26-1-00646-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "MAL MIS 3RD-PHYCIAL DAMAGE",
+        "offenseDate": "2026-11-19T09:30:00",
+        "incident": "26-M17045",
+        "court": "SC",
+        "courtReference": "26-1-00646-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
