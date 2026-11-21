@@ -446,7 +446,7 @@
     "name": "MARTINEZ, LUIS EDUARDO",
     "bookedAt": "2026-11-20T10:15:00",
     "scheduledRelease": null,
-    "location": "M102",
+    "location": null,
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
