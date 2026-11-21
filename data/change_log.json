@@ -15,7 +15,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -23,8 +23,32 @@
         "incident": "26-M17142",
         "court": "MVMC",
         "courtReference": "6A0442754",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2026-07-16T00:00:00",
+        "incident": "26-08866",
+        "court": "SC",
+        "courtReference": "26-1-00569-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "TRAFFIC STOLEN PROP 1ST",
+        "offenseDate": "2026-07-16T00:00:00",
+        "incident": "26-08866",
+        "court": "SC",
+        "courtReference": "26-1-00569-29",
         "bailAmount": null,
-        "bailType": null,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"

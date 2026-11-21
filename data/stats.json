@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:46:12",
+  "generatedAt": "2026-11-20T16:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 699,
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1173,
-      "pct": 51,
+      "count": 1175,
+      "pct": 51.1,
       "label": "Skagit County Superior Court"
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "BMC",
       "count": 215,
-      "pct": 9.4,
+      "pct": 9.3,
       "label": "Burlington Municipal Court"
     },
     {
@@ -589,8 +589,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 640,
-      "pct": 93.4
+      "count": 643,
+      "pct": 93.5
     },
     {
       "name": "SCRAM With Bail",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1009
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 62,
-    "medianBond": 40000,
+    "withBond": 124,
+    "noBond": 61,
+    "medianBond": 37500,
     "maxBond": 1350000,
-    "totalBond": 18765000
+    "totalBond": 18771000
   },
   "chargesPerBooking": 3.3
 }
