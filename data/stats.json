@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T03:11:14",
+  "generatedAt": "2026-11-21T04:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 701,
-    "bookingsObserved": 498,
+    "bookingsTracked": 702,
+    "bookingsObserved": 499,
     "releasesObserved": 516,
-    "inCustody": 185,
-    "uniquePeople": 663
+    "inCustody": 186,
+    "uniquePeople": 664
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 11,
+      "booked": 12,
       "released": 10
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 49,
-      "pct": 7,
+      "count": 50,
+      "pct": 7.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 96,
-      "pct": 4.1,
+      "count": 97,
+      "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 115,
-      "pct": 16.5
+      "count": 116,
+      "pct": 16.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 636,
+      "count": 637,
       "pct": 93.4
     },
     {
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 1009.4
+    "currentMedianDaysHeld": 50.2,
+    "currentLongestDaysHeld": 1009.5
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 64,
-    "medianBond": 35000,
+    "medianBond": 32500,
     "maxBond": 1350000,
-    "totalBond": 18490500
+    "totalBond": 18491500
   },
   "chargesPerBooking": 3.3
 }

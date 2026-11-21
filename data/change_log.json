@@ -1,5 +1,42 @@
 [
   {
+    "id": "328071-20261120182000",
+    "nameNumber": "328071",
+    "name": "LINDQUIST, ERIK WESLEY",
+    "bookedAt": "2026-11-20T18:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-20T17:43:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-07-02T00:00:00",
+        "incident": "26-07734",
+        "court": "AMC",
+        "courtReference": "C00069709",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T04:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "329482-20261120153000",
     "nameNumber": "329482",
     "name": "TALLY, JASON AARON",
