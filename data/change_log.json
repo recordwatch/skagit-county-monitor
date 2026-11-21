@@ -1877,7 +1877,7 @@
     "name": "SMITH, VADEN A",
     "bookedAt": "2026-11-17T16:55:00",
     "scheduledRelease": null,
-    "location": "P204",
+    "location": "K205",
     "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -13461,7 +13461,7 @@
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
     "scheduledRelease": "2026-11-25T17:48:00",
-    "location": "P207",
+    "location": "M103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -34552,7 +34552,7 @@
     "name": "THOMAS, AUSTIN CARTER",
     "bookedAt": "2026-08-18T03:00:00",
     "scheduledRelease": null,
-    "location": "P202",
+    "location": "M110",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -34562,7 +34562,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 250000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ROBBERY 1ST DEGREE",
@@ -34570,8 +34570,8 @@
         "incident": "26-A05053",
         "court": "SC",
         "courtReference": "INV",
-        "bailAmount": 250000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
@@ -34583,8 +34583,8 @@
         "court": "SC",
         "courtReference": "26-1-00469-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -34595,8 +34595,8 @@
         "court": "SC",
         "courtReference": "26-1-00469-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -34607,8 +34607,8 @@
         "court": "SC",
         "courtReference": "26-1-00469-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -34997,7 +34997,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
@@ -35029,8 +35029,8 @@
         "incident": "24-07570",
         "court": "SC",
         "courtReference": "24-1-00487-29",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
+        "bailAmount": null,
+        "bailType": null,
         "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
@@ -35275,7 +35275,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 25500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "ASSAULT 4TH DV PRIORS-FELONY>March 18, 2020",
@@ -35283,9 +35283,9 @@
         "incident": "26-09545",
         "court": "SC",
         "courtReference": "26-1-00442-29",
-        "bailAmount": 25000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -35296,8 +35296,8 @@
         "court": "SC",
         "courtReference": "26-1-00442-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -35307,9 +35307,9 @@
         "incident": "25-06293",
         "court": "SC",
         "courtReference": "25-1-00350-29",
-        "bailAmount": 500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "REVOCATION OF PR",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -35320,8 +35320,8 @@
         "court": "SC",
         "courtReference": "25-1-00350-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
         "arrestType": "REVOCATION OF PR",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -35332,8 +35332,44 @@
         "court": "SC",
         "courtReference": "25-1-00350-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "ASSAULT 3RD - BODILY HARM BY WEAPON DV",
+        "offenseDate": "2025-05-30T00:00:00",
+        "incident": "25-06293",
+        "court": "SC",
+        "courtReference": "25-1-00350-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HARRASSMENT DVPA",
+        "offenseDate": "2025-05-31T00:00:00",
+        "incident": "25-06293",
+        "court": "SC",
+        "courtReference": "25-1-00350-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
+        "arrestType": "REVOCATION OF PR",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION-DV",
+        "offenseDate": "2025-06-24T00:00:00",
+        "incident": "25-07392",
+        "court": "SC",
+        "courtReference": "25-1-00350-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Pending Transport",
         "arrestType": "REVOCATION OF PR",
         "agency": "SKAGIT COUNTY SHERIFF"
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:11:16",
+  "generatedAt": "2026-11-21T00:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 700,
@@ -9,11 +9,6 @@
     "uniquePeople": 663
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-22",
-      "booked": 6,
-      "released": 19
-    },
     {
       "date": "2026-10-23",
       "booked": 10,
@@ -158,6 +153,11 @@
       "date": "2026-11-20",
       "booked": 10,
       "released": 10
+    },
+    {
+      "date": "2026-11-21",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -228,7 +228,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION-DV",
-      "count": 34,
+      "count": 35,
       "pct": 1.5
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1177,
-      "pct": 51,
+      "count": 1180,
+      "pct": 51.1,
       "label": "Skagit County Superior Court"
     },
     {
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 699,
-      "pct": 45.3
+      "pct": 45
     },
     {
       "name": "Sentence Complete Release",
@@ -481,17 +481,17 @@
     {
       "name": "Dismissed",
       "count": 111,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "Dept Of Corrections Release",
       "count": 89,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "Amended",
-      "count": 71,
-      "pct": 4.6
+      "count": 76,
+      "pct": 4.9
     },
     {
       "name": "Bail Bond Release",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 28,
-      "pct": 1.8
+      "count": 34,
+      "pct": 2.2
     },
     {
       "name": "Shuttle Release",
@@ -547,13 +547,13 @@
     },
     {
       "name": "K",
-      "count": 13,
-      "pct": 7.6
+      "count": 14,
+      "pct": 8.1
     },
     {
       "name": "M",
-      "count": 7,
-      "pct": 4.1
+      "count": 9,
+      "pct": 5.2
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -572,8 +572,8 @@
     },
     {
       "name": "P",
-      "count": 30,
-      "pct": 17.4
+      "count": 27,
+      "pct": 15.7
     },
     {
       "name": "Q",
@@ -589,13 +589,13 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 647,
-      "pct": 93.5
+      "count": 637,
+      "pct": 93.4
     },
     {
       "name": "SCRAM With Bail",
       "count": 38,
-      "pct": 5.5
+      "pct": 5.6
     },
     {
       "name": "Cash Only",
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1009.3
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 61,
-    "medianBond": 40000,
+    "withBond": 120,
+    "noBond": 64,
+    "medianBond": 42000,
     "maxBond": 1350000,
-    "totalBond": 18819000
+    "totalBond": 18538500
   },
   "chargesPerBooking": 3.3
 }
