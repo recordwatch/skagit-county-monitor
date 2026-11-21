@@ -1,5 +1,29 @@
 [
   {
+    "id": "621416-20261121131000",
+    "nameNumber": "621416",
+    "name": "DONAHUE, MICHAEL EDWARD",
+    "bookedAt": "2026-11-21T13:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T15:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "717080-20261121120000",
     "nameNumber": "717080",
     "name": "HUGHES, SPENCER AUSTIN",
@@ -581,10 +605,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T12:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-21T15:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -2387,7 +2411,7 @@
         "courtReference": "26-1-00153-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -2399,7 +2423,7 @@
         "courtReference": "26-1-00153-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -2411,7 +2435,7 @@
         "courtReference": "26-1-00153-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -6362,7 +6386,7 @@
     "name": "BURNETT, JAZMYN LEE",
     "bookedAt": "2026-11-12T03:00:00",
     "scheduledRelease": null,
-    "location": "R211",
+    "location": "R202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
