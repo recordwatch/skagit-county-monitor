@@ -1,18 +1,42 @@
 [
   {
+    "id": "735110-20261121044200",
+    "nameNumber": "735110",
+    "name": "MORALES, TRINIDAD ANGELA",
+    "bookedAt": "2026-11-21T04:42:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T06:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "328071-20261120182000",
     "nameNumber": "328071",
     "name": "LINDQUIST, ERIK WESLEY",
     "bookedAt": "2026-11-20T18:20:00",
     "scheduledRelease": null,
     "location": "N206",
-    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-20T17:43:00",
         "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "bondTotal": 1000,
@@ -21,13 +45,13 @@
         "description": "CRIM TRESPASS 1ST",
         "offenseDate": "2026-07-02T00:00:00",
         "incident": "26-07734",
-        "court": "AMC",
+        "court": "DC",
         "courtReference": "C00069709",
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "ANACORTES POLICE DEPT"
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -656,8 +680,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-19T22:11:14",
-    "releasedAt": "2026-11-20T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T09:39:55",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -949,8 +973,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-19T14:11:17",
-    "releasedAt": "2026-11-20T12:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T11:19:53",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1059,8 +1083,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-19T12:11:16",
-    "releasedAt": "2026-11-20T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T09:39:34",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1450,8 +1474,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-18T17:11:15",
-    "releasedAt": "2026-11-20T07:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T06:37:43",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5876,8 +5900,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T15:11:15",
-    "releasedAt": "2026-11-20T13:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T12:08:19",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5974,8 +5998,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T15:11:15",
-    "releasedAt": "2026-11-20T18:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T17:41:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -10132,8 +10156,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-06T15:11:15",
-    "releasedAt": "2026-11-20T13:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T12:36:09",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -15115,8 +15139,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-29T02:34:21",
-    "releasedAt": "2026-11-20T13:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T12:24:22",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -16420,8 +16444,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-26T15:11:14",
-    "releasedAt": "2026-11-20T19:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T18:53:40",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -17947,8 +17971,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-23T14:08:37",
-    "releasedAt": "2026-11-20T15:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-20T14:56:41",
+    "releaseSource": "official",
     "baseline": false
   },
   {
