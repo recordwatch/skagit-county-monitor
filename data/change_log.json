@@ -16308,10 +16308,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T15:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-20T19:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
