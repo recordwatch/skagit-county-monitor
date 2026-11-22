@@ -42,7 +42,7 @@
     "name": "MARKET, GUS T",
     "bookedAt": "2026-11-21T23:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N108",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -128,7 +128,7 @@
     "name": "CHAVEZ VASQUEZ, ELMER LARIANO",
     "bookedAt": "2026-11-21T20:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "OTHER AGNCY BIL",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -189,7 +189,7 @@
     "name": "VASQUEZ CHAVEZ, HENRRI MAURICIO",
     "bookedAt": "2026-11-21T20:25:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "OTHER AGNCY BIL",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
