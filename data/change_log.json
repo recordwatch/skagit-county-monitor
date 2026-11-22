@@ -1,5 +1,29 @@
 [
   {
+    "id": "182719-20261121232500",
+    "nameNumber": "182719",
+    "name": "MARKET, GUS T",
+    "bookedAt": "2026-11-21T23:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T00:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "166047-20261121203000",
     "nameNumber": "166047",
     "name": "WOODS, MICHAEL THOMAS",
@@ -164,7 +188,7 @@
     "name": "MARTINEZ, VICENTE ALEJANDRO",
     "bookedAt": "2026-11-21T18:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N202",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -274,7 +298,7 @@
     "name": "QUIGLEY, SHAWN EUGENE",
     "bookedAt": "2026-11-21T18:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -365,10 +389,10 @@
         "agency": "ISLAND COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T17:00:50",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-22T00:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
