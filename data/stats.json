@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:11:20",
+  "generatedAt": "2026-11-21T21:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 709,
@@ -178,7 +178,7 @@
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 104,
+      "count": 105,
       "pct": 4.5
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "name": "OTHR",
-      "count": 104,
+      "count": 105,
       "pct": 4.5,
       "label": "Other"
     },
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 634,
+      "count": 635,
       "pct": 93.4
     },
     {
@@ -639,14 +639,14 @@
       }
     ],
     "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 1010.1
+    "currentLongestDaysHeld": 1010.2
   },
   "bond": {
     "withBond": 120,
     "noBond": 67,
     "medianBond": 37500,
     "maxBond": 1350000,
-    "totalBond": 18482000
+    "totalBond": 18483500
   },
   "chargesPerBooking": 3.3
 }
