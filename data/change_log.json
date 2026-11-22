@@ -1,5 +1,29 @@
 [
   {
+    "id": "164277-20261122002500",
+    "nameNumber": "164277",
+    "name": "KILPATRICK, JASON DANIEL",
+    "bookedAt": "2026-11-22T00:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T01:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "182719-20261121232500",
     "nameNumber": "182719",
     "name": "MARKET, GUS T",
@@ -54,7 +78,7 @@
     "name": "WOODS, MICHAEL THOMAS",
     "bookedAt": "2026-11-21T20:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -88,7 +112,7 @@
   {
     "id": "743941-20261121202500",
     "nameNumber": "743941",
-    "name": "CHAVEZ VASQUEZ, ELMER L",
+    "name": "CHAVEZ VASQUEZ, ELMER LARIANO",
     "bookedAt": "2026-11-21T20:25:00",
     "scheduledRelease": null,
     "location": null,
