@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:11:14",
+  "generatedAt": "2026-11-22T08:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 717,
@@ -547,8 +547,8 @@
     },
     {
       "name": "K",
-      "count": 14,
-      "pct": 7.7
+      "count": 15,
+      "pct": 8.2
     },
     {
       "name": "M",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 27,
-      "pct": 14.8
+      "count": 26,
+      "pct": 14.2
     },
     {
       "name": "P",
@@ -582,8 +582,13 @@
     },
     {
       "name": "R",
-      "count": 22,
-      "pct": 12
+      "count": 21,
+      "pct": 11.5
+    },
+    {
+      "name": "SAN JUAN COUNTY",
+      "count": 1,
+      "pct": 0.5
     }
   ],
   "bailTypes": [
