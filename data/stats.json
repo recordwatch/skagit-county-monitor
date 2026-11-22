@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:00:50",
+  "generatedAt": "2026-11-21T17:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 707,
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 129,
+      "count": 130,
       "pct": 5.6
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "BURLINGTON POLICE DEPT",
       "count": 87,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 49,
-      "pct": 7,
+      "count": 50,
+      "pct": 7.1,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
       "count": 25,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1183,
-      "pct": 51,
+      "pct": 50.9,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 256,
-      "pct": 11,
+      "count": 257,
+      "pct": 11.1,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -389,12 +389,12 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 118,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 112,
-      "pct": 15.9
+      "count": 113,
+      "pct": 16
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 17,
-      "pct": 10
+      "count": 18,
+      "pct": 10.5
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 633,
+      "count": 634,
       "pct": 93.4
     },
     {
@@ -638,15 +638,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 51.1,
+    "currentMedianDaysHeld": 51.2,
     "currentLongestDaysHeld": 1010
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 66,
-    "medianBond": 40000,
+    "withBond": 120,
+    "noBond": 65,
+    "medianBond": 37500,
     "maxBond": 1350000,
-    "totalBond": 18481000
+    "totalBond": 18482000
   },
   "chargesPerBooking": 3.3
 }
