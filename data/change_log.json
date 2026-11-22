@@ -1,5 +1,66 @@
 [
   {
+    "id": "341895-20261121185000",
+    "nameNumber": "341895",
+    "name": "MARTINEZ, VICENTE ALEJANDRO",
+    "bookedAt": "2026-11-21T18:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "DUI CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-21T17:33:00",
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-21T17:40:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954276",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2026-11-21T17:40:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954276",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-21T17:40:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00954276",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DUI CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T20:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "562920-20261121182500",
     "nameNumber": "562920",
     "name": "NORTON, RICHARD DAVID",
