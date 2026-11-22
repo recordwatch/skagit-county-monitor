@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-21T23:25:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-21T20:00:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-21T19:56:00",
+        "incident": "26-W05616",
+        "court": "SWMC",
+        "courtReference": "6A0098608",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2024-09-23T00:00:00",
+        "incident": "24-M17507",
+        "court": "MVMC",
+        "courtReference": "4A0769433",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-22T00:11:15",
     "releasedAt": null,
@@ -438,7 +463,7 @@
     "name": "DONAHUE, MICHAEL EDWARD",
     "bookedAt": "2026-11-21T13:10:00",
     "scheduledRelease": null,
-    "location": "J103",
+    "location": "J105",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -891,7 +916,7 @@
     "name": "ROGERS, MICHAEL KURT PATRICK",
     "bookedAt": "2026-11-20T13:50:00",
     "scheduledRelease": null,
-    "location": "J105",
+    "location": "N107",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
