@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:11:15",
+  "generatedAt": "2026-11-22T02:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 715,
@@ -188,7 +188,7 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 84,
+      "count": 85,
       "pct": 3.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 160,
-      "pct": 22.5,
+      "pct": 22.4,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 115,
-      "pct": 16.2,
+      "pct": 16.1,
       "label": "WA STATE PATROL"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 50,
-      "pct": 7,
+      "count": 51,
+      "pct": 7.2,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "AMC",
-      "count": 96,
+      "count": 97,
       "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
@@ -388,13 +388,13 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 121,
-      "pct": 17
+      "count": 122,
+      "pct": 17.1
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 113,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -419,7 +419,7 @@
     {
       "name": "DEPT OF CORRECTIONS HOLD",
       "count": 26,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "DUI COMMITMENT ARREST",
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 46.4,
-    "currentLongestDaysHeld": 1010.3
+    "currentLongestDaysHeld": 1010.4
   },
   "bond": {
     "withBond": 122,
