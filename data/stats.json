@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T10:11:16",
+  "generatedAt": "2026-11-22T11:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 718,
     "bookingsObserved": 515,
-    "releasesObserved": 523,
-    "inCustody": 195,
+    "releasesObserved": 525,
+    "inCustody": 193,
     "uniquePeople": 680
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-22",
       "booked": 4,
-      "released": 0
+      "released": 2
     }
   ],
   "topCharges": [
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 161,
-      "pct": 22.5,
+      "count": 162,
+      "pct": 22.6,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 260,
+      "count": 261,
       "pct": 11.1,
       "label": "Mount Vernon Municipal Court"
     },
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 123,
-      "pct": 17.2
+      "count": 124,
+      "pct": 17.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 54,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -533,22 +533,22 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 9.3
+      "pct": 9.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
       "count": 16,
-      "pct": 8.7
+      "pct": 8.8
     },
     {
       "name": "K",
       "count": 15,
-      "pct": 8.2
+      "pct": 8.3
     },
     {
       "name": "M",
@@ -563,32 +563,32 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 7.1
+      "pct": 7.2
     },
     {
       "name": "N",
-      "count": 26,
-      "pct": 14.2
+      "count": 24,
+      "pct": 13.3
     },
     {
       "name": "P",
       "count": 29,
-      "pct": 15.8
+      "pct": 16
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.3
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 21,
-      "pct": 11.5
+      "pct": 11.6
     },
     {
       "name": "SAN JUAN COUNTY",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     }
   ],
   "bailTypes": [
@@ -610,17 +610,17 @@
   ],
   "releaseSources": {
     "official": 515,
-    "observed": 8,
+    "observed": 10,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 521,
+    "releasedCount": 523,
     "medianDays": 1.6,
-    "meanDays": 37.6,
+    "meanDays": 37.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 192
+        "count": 194
       },
       {
         "label": "1–3 days",
@@ -643,15 +643,15 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 46.5,
-    "currentLongestDaysHeld": 1010.7
+    "currentMedianDaysHeld": 46.6,
+    "currentLongestDaysHeld": 1010.8
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 73,
-    "medianBond": 32500,
+    "withBond": 121,
+    "noBond": 72,
+    "medianBond": 35000,
     "maxBond": 1350000,
-    "totalBond": 18494100
+    "totalBond": 18492100
   },
   "chargesPerBooking": 3.3
 }

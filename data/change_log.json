@@ -6,17 +6,30 @@
     "bookedAt": "2026-11-22T08:05:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-22T07:01:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEG SEXUAL MOTIVATIN SA",
+        "offenseDate": "2026-11-22T06:36:00",
+        "incident": "26-M17208",
+        "court": "MVMC",
+        "courtReference": "6A0440338",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-22T10:11:16",
     "releasedAt": null,
@@ -54,10 +67,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T05:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-22T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -189,10 +202,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T00:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-22T11:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3962,7 +3975,7 @@
     "name": "ELDER, KENT MICHAEL",
     "bookedAt": "2026-11-16T09:00:00",
     "scheduledRelease": null,
-    "location": "Q108",
+    "location": "Q103",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
