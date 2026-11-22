@@ -539,8 +539,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T17:00:50",
-    "releasedAt": "2026-11-22T00:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T23:25:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -748,8 +748,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T04:11:15",
-    "releasedAt": "2026-11-21T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T10:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -943,8 +943,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T17:11:16",
-    "releasedAt": "2026-11-21T11:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T10:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1152,8 +1152,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T13:11:19",
-    "releasedAt": "2026-11-21T09:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T08:00:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1213,8 +1213,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T12:11:17",
-    "releasedAt": "2026-11-21T15:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T14:10:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2080,8 +2080,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-18T22:11:14",
-    "releasedAt": "2026-11-21T17:00:50",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T16:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3048,8 +3048,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-17T12:11:14",
-    "releasedAt": "2026-11-21T16:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-21T15:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
