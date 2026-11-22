@@ -1,5 +1,29 @@
 [
   {
+    "id": "739332-20261122080500",
+    "nameNumber": "739332",
+    "name": "CEDILLO, DIEGO YANDEL",
+    "bookedAt": "2026-11-22T08:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T10:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "730500-20261122041000",
     "nameNumber": "730500",
     "name": "LARRON, TACKUCH",
@@ -25,7 +49,7 @@
         "courtReference": "T00959733",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }

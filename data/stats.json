@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T09:11:40",
+  "generatedAt": "2026-11-22T10:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 717,
-    "bookingsObserved": 514,
+    "bookingsTracked": 718,
+    "bookingsObserved": 515,
     "releasesObserved": 523,
-    "inCustody": 194,
-    "uniquePeople": 679
+    "inCustody": 195,
+    "uniquePeople": 680
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 3,
+      "booked": 4,
       "released": 0
     }
   ],
@@ -460,7 +460,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 700,
+      "count": 701,
       "pct": 44.7
     },
     {
@@ -648,7 +648,7 @@
   },
   "bond": {
     "withBond": 122,
-    "noBond": 72,
+    "noBond": 73,
     "medianBond": 32500,
     "maxBond": 1350000,
     "totalBond": 18494100
