@@ -79,7 +79,7 @@
     "name": "DONAHUE, MICHAEL EDWARD",
     "bookedAt": "2026-11-21T13:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -1278,7 +1278,7 @@
     "name": "COOPER, GRACE G FRANCIS",
     "bookedAt": "2026-11-19T10:05:00",
     "scheduledRelease": null,
-    "location": "J103",
+    "location": "J210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
