@@ -1,5 +1,29 @@
 [
   {
+    "id": "648066-20261123014000",
+    "nameNumber": "648066",
+    "name": "FERNANDO, DAVID SWENSON",
+    "bookedAt": "2026-11-23T01:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T02:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "127819-20261122202500",
     "nameNumber": "127819",
     "name": "JULIAN, ROBERT BOYCE",
@@ -35533,7 +35557,7 @@
         "courtReference": "26-1-00469-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -35557,7 +35581,7 @@
         "courtReference": "26-1-00469-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Pending Transport",
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "ANACORTES POLICE DEPT"
       }

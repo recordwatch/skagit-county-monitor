@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T01:11:14",
+  "generatedAt": "2026-11-23T02:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 720,
-    "bookingsObserved": 517,
+    "bookingsTracked": 721,
+    "bookingsObserved": 518,
     "releasesObserved": 526,
-    "inCustody": 194,
-    "uniquePeople": 682
+    "inCustody": 195,
+    "uniquePeople": 683
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 100,
-      "pct": 6.4
+      "count": 102,
+      "pct": 6.5
     },
     {
       "name": "Amended",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 27,
-      "pct": 1.7
+      "count": 25,
+      "pct": 1.6
     },
     {
       "name": "Shuttle Release",
@@ -644,11 +644,11 @@
       }
     ],
     "currentMedianDaysHeld": 47.1,
-    "currentLongestDaysHeld": 1011.3
+    "currentLongestDaysHeld": 1011.4
   },
   "bond": {
     "withBond": 123,
-    "noBond": 71,
+    "noBond": 72,
     "medianBond": 30000,
     "maxBond": 1350000,
     "totalBond": 18503600
