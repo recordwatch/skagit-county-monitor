@@ -30,17 +30,30 @@
     "bookedAt": "2026-11-23T11:35:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-23T11:24:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-09-23T00:00:00",
+        "incident": "26-M14321",
+        "court": "MVMC",
+        "courtReference": "6A0239747",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T14:11:14",
     "releasedAt": null,
@@ -405,7 +418,7 @@
         "courtReference": "6A0406069",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -417,7 +430,7 @@
         "courtReference": "6A0406069",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -699,7 +712,7 @@
         "courtReference": "T00954276",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -711,7 +724,7 @@
         "courtReference": "T00954276",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -723,7 +736,7 @@
         "courtReference": "T00954276",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -1647,7 +1660,7 @@
         "courtReference": "6A0214404",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -1659,7 +1672,7 @@
         "courtReference": "6A0214404",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1896,10 +1909,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T14:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T15:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

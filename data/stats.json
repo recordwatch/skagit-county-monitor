@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T14:11:14",
+  "generatedAt": "2026-11-23T15:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 726,
     "bookingsObserved": 523,
-    "releasesObserved": 539,
-    "inCustody": 187,
+    "releasesObserved": 540,
+    "inCustody": 186,
     "uniquePeople": 688
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 6,
-      "released": 13
+      "released": 14
     }
   ],
   "topCharges": [
@@ -168,7 +168,7 @@
     },
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-      "count": 148,
+      "count": 149,
       "pct": 6.3
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 163,
-      "pct": 22.6,
+      "count": 164,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "WA STATE PATROL",
       "count": 116,
-      "pct": 16.1,
+      "pct": 16,
       "label": "WA STATE PATROL"
     },
     {
@@ -339,7 +339,7 @@
     },
     {
       "name": "MVMC",
-      "count": 261,
+      "count": 262,
       "pct": 11.1,
       "label": "Mount Vernon Municipal Court"
     },
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 116,
-      "pct": 16.1
+      "count": 117,
+      "pct": 16.2
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -414,7 +414,7 @@
     {
       "name": "FELONY COMMITMENT ARREST",
       "count": 30,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "DEPT OF CORRECTIONS HOLD",
@@ -460,13 +460,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 708,
-      "pct": 44.6
+      "count": 715,
+      "pct": 44.9
     },
     {
       "name": "Sentence Complete Release",
       "count": 161,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "Declined To Prosecute",
@@ -491,7 +491,7 @@
     {
       "name": "Amended",
       "count": 77,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "Bail Bond Release",
@@ -506,7 +506,7 @@
     {
       "name": "Pending Transport",
       "count": 23,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Sanction Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.2
+      "pct": 9.3
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 6.9
+      "pct": 7
     },
     {
       "name": "K",
@@ -553,7 +553,7 @@
     {
       "name": "M",
       "count": 8,
-      "pct": 4.6
+      "pct": 4.7
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 6.9
+      "pct": 7
     },
     {
       "name": "N",
-      "count": 26,
-      "pct": 15
+      "count": 25,
+      "pct": 14.5
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.7
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.7
     },
     {
       "name": "R",
       "count": 21,
-      "pct": 12.1
+      "pct": 12.2
     },
     {
       "name": "SAN JUAN COUNTY",
@@ -610,11 +610,11 @@
   ],
   "releaseSources": {
     "official": 518,
-    "observed": 21,
+    "observed": 22,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 537,
+    "releasedCount": 538,
     "medianDays": 1.7,
     "meanDays": 38.2,
     "buckets": [
@@ -628,7 +628,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 40
+        "count": 41
       },
       {
         "label": "1–4 weeks",
@@ -643,12 +643,12 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 42.2,
+    "currentMedianDaysHeld": 44.7,
     "currentLongestDaysHeld": 1011.9
   },
   "bond": {
     "withBond": 117,
-    "noBond": 70,
+    "noBond": 69,
     "medianBond": 40000,
     "maxBond": 1350000,
     "totalBond": 18390500
