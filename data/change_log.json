@@ -30843,10 +30843,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T09:11:22",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -34489,10 +34489,10 @@
         "agency": "US DEPT OF HOMELAND SECURITY"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T09:11:22",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -35611,10 +35611,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T09:11:22",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -36058,10 +36058,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T09:11:22",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -41525,10 +41525,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T09:11:22",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
