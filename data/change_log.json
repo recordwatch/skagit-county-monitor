@@ -1,5 +1,54 @@
 [
   {
+    "id": "22821-20261122195500",
+    "nameNumber": "22821",
+    "name": "HOOPER, CALIB AMERY",
+    "bookedAt": "2026-11-22T19:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-22T19:07:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2025-08-15T00:00:00",
+        "incident": "25-W03897",
+        "court": "SWMC",
+        "courtReference": "5A0755828",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2025-08-15T00:00:00",
+        "incident": "25-W03987",
+        "court": "SWMC",
+        "courtReference": "5A0648407",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T21:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "739332-20261122080500",
     "nameNumber": "739332",
     "name": "CEDILLO, DIEGO YANDEL",
