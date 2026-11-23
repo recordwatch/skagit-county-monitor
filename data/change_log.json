@@ -29,7 +29,7 @@
     "name": "SOLOMON, GLEN RUDY",
     "bookedAt": "2026-11-23T09:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N101",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "DUI WARRANT ARREST",
     "arrests": [
@@ -56,6 +56,43 @@
     ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "287025-20261123083500",
+    "nameNumber": "287025",
+    "name": "GARCIA, JOSE BENJAMIN JR",
+    "bookedAt": "2026-11-23T08:35:00",
+    "scheduledRelease": "2026-11-25T08:35:00",
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-23T08:35:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2025-04-15T00:00:00",
+        "incident": "25-W01681",
+        "court": "SWMC",
+        "courtReference": "5A0080236",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T13:11:20",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -929,7 +966,7 @@
     "name": "MORALES, TRINIDAD ANGELA",
     "bookedAt": "2026-11-21T04:42:00",
     "scheduledRelease": null,
-    "location": "R102",
+    "location": null,
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -944,12 +981,12 @@
       {
         "description": "DUI",
         "offenseDate": "2026-11-21T01:46:00",
-        "incident": "26-W05606",
+        "incident": null,
         "court": "SWMC",
         "courtReference": "6A0427885",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -29272,7 +29309,7 @@
         "offenseDate": "2025-01-18T00:00:00",
         "incident": "25-M01110",
         "court": "SC",
-        "courtReference": "25-1-0047-29",
+        "courtReference": "25-1-00047-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": "Serving Commit",
@@ -42579,10 +42616,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T13:11:20",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
@@ -45658,7 +45695,7 @@
     "name": "HIDALGO, JOSE GORDILLO",
     "bookedAt": "2025-02-19T16:10:00",
     "scheduledRelease": null,
-    "location": "N101",
+    "location": "N103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
