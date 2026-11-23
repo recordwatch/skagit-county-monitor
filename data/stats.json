@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T21:11:15",
+  "generatedAt": "2026-11-22T22:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 719,
-    "bookingsObserved": 516,
+    "bookingsTracked": 720,
+    "bookingsObserved": 517,
     "releasesObserved": 526,
-    "inCustody": 193,
-    "uniquePeople": 681
+    "inCustody": 194,
+    "uniquePeople": 682
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 5,
+      "booked": 6,
       "released": 3
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 149,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 154,
-      "pct": 21.5,
+      "pct": 21.4,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 25,
-      "pct": 3.5,
+      "count": 26,
+      "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "name": "BMC",
-      "count": 219,
-      "pct": 9.3,
+      "count": 220,
+      "pct": 9.4,
       "label": "Burlington Municipal Court"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "name": "SWMC",
-      "count": 63,
+      "count": 64,
       "pct": 2.7,
       "label": "Sedro-Woolley Municipal Court"
     },
@@ -384,7 +384,7 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 131,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 114,
-      "pct": 15.9
+      "count": 115,
+      "pct": 16
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -594,8 +594,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 644,
-      "pct": 93.3
+      "count": 646,
+      "pct": 93.4
     },
     {
       "name": "SCRAM With Bail",
@@ -647,11 +647,11 @@
     "currentLongestDaysHeld": 1011.2
   },
   "bond": {
-    "withBond": 122,
+    "withBond": 123,
     "noBond": 71,
-    "medianBond": 32500,
+    "medianBond": 30000,
     "maxBond": 1350000,
-    "totalBond": 18495100
+    "totalBond": 18503600
   },
   "chargesPerBooking": 3.3
 }

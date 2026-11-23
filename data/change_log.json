@@ -1,5 +1,54 @@
 [
   {
+    "id": "127819-20261122202500",
+    "nameNumber": "127819",
+    "name": "JULIAN, ROBERT BOYCE",
+    "bookedAt": "2026-11-22T20:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-22T19:56:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": 8500,
+    "charges": [
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-01-30T00:00:00",
+        "incident": "26-W00457",
+        "court": "SWMC",
+        "courtReference": "6A0083363",
+        "bailAmount": 7500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-05-07T00:00:00",
+        "incident": "26-B03336",
+        "court": "BMC",
+        "courtReference": "6A0283459",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T22:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "22821-20261122195500",
     "nameNumber": "22821",
     "name": "HOOPER, CALIB AMERY",
