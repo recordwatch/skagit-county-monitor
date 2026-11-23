@@ -5,18 +5,31 @@
     "name": "FERNANDO, DAVID SWENSON",
     "bookedAt": "2026-11-23T01:40:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "location": "N108",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-23T01:04:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-25T00:00:00",
+        "incident": "26-13003",
+        "court": "DC",
+        "courtReference": "6A0399675",
+        "bailAmount": 500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T02:11:16",
     "releasedAt": null,
