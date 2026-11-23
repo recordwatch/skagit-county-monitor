@@ -15,7 +15,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -25,6 +25,18 @@
         "courtReference": "6A0399675",
         "bailAmount": 500,
         "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-23T02:45:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "KING 19-3-10777-8",
+        "bailAmount": 500,
+        "bailType": "Cash Only",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
