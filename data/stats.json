@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:11:19",
+  "generatedAt": "2026-11-23T00:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 720,
@@ -9,11 +9,6 @@
     "uniquePeople": 682
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-24",
-      "booked": 9,
-      "released": 3
-    },
     {
       "date": "2026-10-25",
       "booked": 7,
@@ -158,6 +153,11 @@
       "date": "2026-11-22",
       "booked": 6,
       "released": 3
+    },
+    {
+      "date": "2026-11-23",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 154,
-      "pct": 21.4,
+      "count": 153,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "SEDRO-WOOLLEY POLICE DEPT",
-      "count": 62,
-      "pct": 8.6,
+      "count": 64,
+      "pct": 8.9,
       "label": "SEDRO-WOOLLEY POLICE DEPT"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 26,
-      "pct": 3.6,
+      "count": 25,
+      "pct": 3.5,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 16,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "K",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 26,
-      "pct": 14.3
+      "count": 27,
+      "pct": 14.8
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "R",
