@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:11:19",
+  "generatedAt": "2026-11-23T01:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 720,
@@ -485,8 +485,8 @@
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 90,
-      "pct": 5.7
+      "count": 100,
+      "pct": 6.4
     },
     {
       "name": "Amended",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Pending Transport",
-      "count": 37,
-      "pct": 2.4
+      "count": 27,
+      "pct": 1.7
     },
     {
       "name": "Shuttle Release",
