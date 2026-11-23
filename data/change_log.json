@@ -1,5 +1,29 @@
 [
   {
+    "id": "260812-20261123100000",
+    "nameNumber": "260812",
+    "name": "SEGUEDA-ORTIZ, JOSUE R",
+    "bookedAt": "2026-11-23T10:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T11:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "611080-20261123093000",
     "nameNumber": "611080",
     "name": "SOLOMON, GLEN RUDY",
@@ -668,7 +692,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-11-21T19:00:00",
+        "offenseDate": "2026-11-21T17:09:00",
         "incident": "26-14068",
         "court": "DC",
         "courtReference": "6A0434467",
@@ -777,7 +801,7 @@
         "courtReference": "6A0195746",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -856,7 +880,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "HARASSMENT/PRIOR CON - FELONY",
+        "description": "HARASSEMENT/THREATS TO KILL - FELONY",
         "offenseDate": "2026-11-21T11:31:00",
         "incident": "26-13980",
         "court": "SC",
@@ -1003,10 +1027,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T01:11:13",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T11:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1029,7 +1053,7 @@
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
-        "offenseDate": "2026-11-20T14:09:00",
+        "offenseDate": "2026-11-20T13:57:00",
         "incident": "26-M17142",
         "court": "MVMC",
         "courtReference": "6A0442754",
@@ -1750,7 +1774,7 @@
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
-        "offenseDate": "2026-11-19T12:24:00",
+        "offenseDate": "2026-11-19T12:19:00",
         "incident": "26-B08359",
         "court": "BMC",
         "courtReference": "6A0351421",
@@ -30635,10 +30659,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T11:11:17",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
