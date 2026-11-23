@@ -1,5 +1,29 @@
 [
   {
+    "id": "611080-20261123093000",
+    "nameNumber": "611080",
+    "name": "SOLOMON, GLEN RUDY",
+    "bookedAt": "2026-11-23T09:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T10:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "648066-20261123014000",
     "nameNumber": "648066",
     "name": "FERNANDO, DAVID SWENSON",
@@ -240,7 +264,7 @@
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE DV",
-        "offenseDate": "2026-11-22T02:49:00",
+        "offenseDate": "2026-11-22T00:37:00",
         "incident": "26-M17203",
         "court": "MVMC",
         "courtReference": "6A0406069",
@@ -252,7 +276,7 @@
       },
       {
         "description": "ASSAULT 4TH DEGREE DV",
-        "offenseDate": "2026-11-22T02:49:00",
+        "offenseDate": "2026-11-22T00:37:00",
         "incident": "26-M17203",
         "court": "MVMC",
         "courtReference": "6A0406069",
@@ -784,7 +808,7 @@
     "charges": [
       {
         "description": "HARASSMENT-DV",
-        "offenseDate": "2026-11-21T11:46:00",
+        "offenseDate": "2026-11-21T10:15:00",
         "incident": "26-14052",
         "court": "DC",
         "courtReference": "6A0031269",
@@ -796,7 +820,7 @@
       },
       {
         "description": "ASSAULT 4TH DEGREE DV",
-        "offenseDate": "2026-11-21T11:46:00",
+        "offenseDate": "2026-11-21T10:15:00",
         "incident": "26-14052",
         "court": "DC",
         "courtReference": "6A0031269",
@@ -832,7 +856,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "HARASSMENT/CRIMINAL JUSTICE - FELONY",
+        "description": "HARASSMENT/PRIOR CON - FELONY",
         "offenseDate": "2026-11-21T11:31:00",
         "incident": "26-13980",
         "court": "SC",
@@ -952,7 +976,7 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -960,9 +984,9 @@
         "incident": "26-A07133",
         "court": "AMC",
         "courtReference": "6A0444428",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       },
@@ -972,9 +996,9 @@
         "incident": "26-A01194",
         "court": "AMC",
         "courtReference": "6A0213591",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -1248,7 +1272,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
       {
-        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "description": "POSSESSION CONTROLLED SUB KNOW USE PUBLIC",
         "offenseDate": "2025-11-11T00:00:00",
         "incident": "25-W05604",
         "court": "SC",
@@ -1482,7 +1506,7 @@
     "charges": [
       {
         "description": "DUI",
-        "offenseDate": "2026-11-20T02:30:00",
+        "offenseDate": "2026-11-20T01:35:00",
         "incident": "26-14013",
         "court": "DC",
         "courtReference": "6A0214404",
@@ -1494,7 +1518,7 @@
       },
       {
         "description": "HIT/RUN UNATTENDED-AID/ABET",
-        "offenseDate": "2026-11-20T02:30:00",
+        "offenseDate": "2026-11-20T01:35:00",
         "incident": "26-14013",
         "court": "DC",
         "courtReference": "6A0214404",
@@ -2568,7 +2592,7 @@
     "name": "CAMERON, JAMES WADE",
     "bookedAt": "2026-11-18T06:36:00",
     "scheduledRelease": null,
-    "location": "N208",
+    "location": "Q106",
     "arrestingAgency": "ISLAND COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -5232,10 +5256,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T12:52:53",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -5957,7 +5981,7 @@
     "name": "ENSLEY, ROBERT VANCE",
     "bookedAt": "2026-11-13T11:45:00",
     "scheduledRelease": null,
-    "location": "N203",
+    "location": "M105",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -10809,10 +10833,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T22:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T10:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
