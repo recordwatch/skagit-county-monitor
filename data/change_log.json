@@ -1,9 +1,9 @@
 [
   {
-    "id": "260812-20261123100000",
-    "nameNumber": "260812",
-    "name": "SEGUEDA-ORTIZ, JOSUE R",
-    "bookedAt": "2026-11-23T10:00:00",
+    "id": "384157-20261123115500",
+    "nameNumber": "384157",
+    "name": "HARRISON, BRADIN SHANE",
+    "bookedAt": "2026-11-23T11:55:00",
     "scheduledRelease": null,
     "location": null,
     "arrestingAgency": null,
@@ -17,6 +17,67 @@
     ],
     "bondTotal": null,
     "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T14:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "737162-20261123113500",
+    "nameNumber": "737162",
+    "name": "JOHNSON, SASHA ANNE",
+    "bookedAt": "2026-11-23T11:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T14:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "260812-20261123100000",
+    "nameNumber": "260812",
+    "name": "SEGUEDA-ORTIZ, JOSUE R",
+    "bookedAt": "2026-11-23T10:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-23T09:47:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-11-23T09:32:00",
+        "incident": "26-M17241",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T11:11:17",
     "releasedAt": null,
@@ -86,7 +147,7 @@
         "courtReference": "5A0080236",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR COMMITMENT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -270,7 +331,7 @@
         "courtReference": "6A0440338",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -991,10 +1052,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T06:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T14:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1820,7 +1881,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -1828,9 +1889,9 @@
         "incident": "26-B08359",
         "court": "BMC",
         "courtReference": "6A0351421",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -2067,7 +2128,7 @@
     "name": "COOPER, GRACE G FRANCIS",
     "bookedAt": "2026-11-19T10:05:00",
     "scheduledRelease": null,
-    "location": "J210",
+    "location": "R210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -3499,7 +3560,7 @@
     "name": "CAYOU, OLIVIA DANEISE",
     "bookedAt": "2026-11-16T23:35:00",
     "scheduledRelease": null,
-    "location": "J207",
+    "location": "R204",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -34793,7 +34854,7 @@
         "agency": "ANACORTES POLICE DEPT"
       },
       {
-        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
+        "description": "HARASSEMENT/THREATS TO KILL - FELONY",
         "offenseDate": "2026-06-21T00:00:00",
         "incident": "26-A04221",
         "court": "SC",
