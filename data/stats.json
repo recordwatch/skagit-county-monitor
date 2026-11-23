@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T15:11:16",
+  "generatedAt": "2026-11-22T16:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 718,
     "bookingsObserved": 515,
-    "releasesObserved": 525,
-    "inCustody": 193,
+    "releasesObserved": 526,
+    "inCustody": 192,
     "uniquePeople": 680
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-22",
       "booked": 4,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -533,12 +533,12 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 9.3
+      "pct": 9.4
     },
     {
       "name": "FEMALE WORK POD (E104)",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     },
     {
       "name": "J",
@@ -548,7 +548,7 @@
     {
       "name": "K",
       "count": 15,
-      "pct": 8.2
+      "pct": 8.3
     },
     {
       "name": "M",
@@ -563,32 +563,32 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 13,
-      "pct": 7.1
+      "pct": 7.2
     },
     {
       "name": "N",
       "count": 25,
-      "pct": 13.7
+      "pct": 13.8
     },
     {
       "name": "P",
-      "count": 29,
-      "pct": 15.9
+      "count": 28,
+      "pct": 15.5
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "name": "R",
       "count": 21,
-      "pct": 11.5
+      "pct": 11.6
     },
     {
       "name": "SAN JUAN COUNTY",
       "count": 1,
-      "pct": 0.5
+      "pct": 0.6
     }
   ],
   "bailTypes": [
@@ -610,11 +610,11 @@
   ],
   "releaseSources": {
     "official": 515,
-    "observed": 10,
+    "observed": 11,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 523,
+    "releasedCount": 524,
     "medianDays": 1.6,
     "meanDays": 37.5,
     "buckets": [
@@ -632,7 +632,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 55
+        "count": 56
       },
       {
         "label": "1–3 months",
@@ -643,12 +643,12 @@
         "count": 35
       }
     ],
-    "currentMedianDaysHeld": 46.8,
-    "currentLongestDaysHeld": 1010.9
+    "currentMedianDaysHeld": 47,
+    "currentLongestDaysHeld": 1011
   },
   "bond": {
     "withBond": 121,
-    "noBond": 72,
+    "noBond": 71,
     "medianBond": 35000,
     "maxBond": 1350000,
     "totalBond": 18492100
