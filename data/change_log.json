@@ -30,17 +30,30 @@
     "bookedAt": "2026-11-23T09:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "DUI WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-23T09:30:00",
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2018-09-07T00:00:00",
+        "incident": "18-B06297",
+        "court": "BMC",
+        "courtReference": "8Z0938357",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "DUI WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T10:11:15",
     "releasedAt": null,
@@ -343,7 +356,7 @@
         "courtReference": "6A0322960",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "ANACORTES POLICE DEPT"
       }
@@ -806,10 +819,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T16:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T12:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -19788,10 +19801,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T12:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T12:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -32143,7 +32156,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "HARASSMENT-DV",
+        "description": "HARRASSMENT DVPA",
         "offenseDate": "2026-09-15T17:24:00",
         "incident": "26-M13932",
         "court": "SC",
