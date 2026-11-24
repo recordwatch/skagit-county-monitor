@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-23T11:55:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-23T11:08:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-23T10:58:00",
+        "incident": "26-M17246",
+        "court": "MVMC",
+        "courtReference": "6A0445086",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-23T10:58:00",
+        "incident": "26-M17246",
+        "court": "MVMC",
+        "courtReference": "6A0445086",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T14:11:14",
     "releasedAt": null,
@@ -39,7 +64,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -49,6 +74,18 @@
         "courtReference": "6A0239747",
         "bailAmount": null,
         "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT DVPA",
+        "offenseDate": "2026-06-26T00:00:00",
+        "incident": "26-B04719",
+        "court": "BMC",
+        "courtReference": "6A0408824",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
@@ -66,7 +103,7 @@
     "name": "SEGUEDA-ORTIZ, JOSUE R",
     "bookedAt": "2026-11-23T10:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -140,7 +177,7 @@
     "name": "GARCIA, JOSE BENJAMIN JR",
     "bookedAt": "2026-11-23T08:35:00",
     "scheduledRelease": "2026-11-25T08:35:00",
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "MISDEMEANOR COMMITMENT ARREST",
     "arrests": [
@@ -553,7 +590,7 @@
         "courtReference": "C69977",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -619,10 +656,10 @@
         "agency": "OTHER AGNCY BIL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -680,10 +717,10 @@
         "agency": "OTHER AGNCY BIL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T16:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -3045,7 +3082,7 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "TRIBAL CODE VIOLATION",
@@ -3053,9 +3090,9 @@
         "incident": "26-SP1805",
         "court": "TC",
         "courtReference": "6A0314336",
-        "bailAmount": 1500,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Cash Bail Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }

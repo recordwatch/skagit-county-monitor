@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T15:11:15",
+  "generatedAt": "2026-11-23T16:11:16",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 726,
     "bookingsObserved": 523,
-    "releasesObserved": 540,
-    "inCustody": 186,
+    "releasesObserved": 542,
+    "inCustody": 184,
     "uniquePeople": 688
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 6,
-      "released": 14
+      "released": 16
     }
   ],
   "topCharges": [
@@ -183,8 +183,8 @@
     },
     {
       "name": "DWLS/R 3RD DEGREE",
-      "count": 100,
-      "pct": 4.2
+      "count": 102,
+      "pct": 4.3
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
@@ -199,7 +199,7 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 53,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 164,
-      "pct": 22.7,
+      "count": 165,
+      "pct": 22.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 51,
-      "pct": 7.1,
+      "pct": 7,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1184,
-      "pct": 50.3,
+      "pct": 50.2,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,13 +339,13 @@
     },
     {
       "name": "MVMC",
-      "count": 262,
-      "pct": 11.1,
+      "count": 264,
+      "pct": 11.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
       "name": "BMC",
-      "count": 221,
+      "count": 222,
       "pct": 9.4,
       "label": "Burlington Municipal Court"
     },
@@ -384,12 +384,12 @@
     {
       "name": "INVESTIGATIVE HOLD",
       "count": 132,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 124,
-      "pct": 17.2
+      "count": 125,
+      "pct": 17.3
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -460,7 +460,7 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 715,
+      "count": 716,
       "pct": 44.9
     },
     {
@@ -471,7 +471,7 @@
     {
       "name": "Declined To Prosecute",
       "count": 141,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "Serving Commit",
@@ -542,8 +542,8 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7
+      "count": 13,
+      "pct": 7.6
     },
     {
       "name": "K",
@@ -567,8 +567,8 @@
     },
     {
       "name": "N",
-      "count": 25,
-      "pct": 14.5
+      "count": 24,
+      "pct": 14
     },
     {
       "name": "P",
@@ -594,8 +594,8 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 634,
-      "pct": 93.2
+      "count": 637,
+      "pct": 93.4
     },
     {
       "name": "SCRAM With Bail",
@@ -604,19 +604,19 @@
     },
     {
       "name": "Cash Only",
-      "count": 8,
-      "pct": 1.2
+      "count": 7,
+      "pct": 1
     }
   ],
   "releaseSources": {
     "official": 518,
-    "observed": 22,
+    "observed": 24,
     "reportOnly": 35
   },
   "stay": {
-    "releasedCount": 538,
-    "medianDays": 1.7,
-    "meanDays": 38.2,
+    "releasedCount": 540,
+    "medianDays": 1.8,
+    "meanDays": 38,
     "buckets": [
       {
         "label": "< 1 day",
@@ -624,7 +624,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 140
+        "count": 142
       },
       {
         "label": "3–7 days",
@@ -643,15 +643,15 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 44.7,
-    "currentLongestDaysHeld": 1011.9
+    "currentMedianDaysHeld": 47.2,
+    "currentLongestDaysHeld": 1012
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 69,
-    "medianBond": 40000,
+    "withBond": 118,
+    "noBond": 66,
+    "medianBond": 37500,
     "maxBond": 1350000,
-    "totalBond": 18390500
+    "totalBond": 18391000
   },
   "chargesPerBooking": 3.2
 }
