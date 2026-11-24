@@ -101,15 +101,27 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 2100,
+    "bondTotal": 3200,
     "charges": [
       {
-        "description": "CRIM TRESPASS 1ST",
+        "description": "HOLD FOR OTHER AGNCY",
         "offenseDate": "2015-04-04T00:00:00",
         "incident": null,
         "court": "OTHR",
         "courtReference": "CB0090625",
         "bailAmount": 2100,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-23T16:10:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "CB0098045",
+        "bailAmount": 1100,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
@@ -128,29 +140,29 @@
     "name": "ADAMS, SHAWN MICHAEL",
     "bookedAt": "2026-11-23T15:40:00",
     "scheduledRelease": null,
-    "location": null,
-    "arrestingAgency": "SKAGIT COUNTY JAIL",
+    "location": "N202",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-23T15:40:00",
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 5000,
     "charges": [
       {
-        "description": "THEFT 2ND DEGREE",
-        "offenseDate": "2026-03-23T00:00:00",
-        "incident": null,
+        "description": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+        "offenseDate": "2026-01-10T00:00:00",
+        "incident": "26-B00246",
         "court": "SC",
         "courtReference": "26-1-00090-29",
         "bailAmount": 5000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "FELONY WARRANT ARREST",
-        "agency": "SKAGIT COUNTY JAIL"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -202,7 +214,7 @@
     "name": "MACHADO-BAIRES, JENSIS ANAEL",
     "bookedAt": "2026-11-23T15:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
