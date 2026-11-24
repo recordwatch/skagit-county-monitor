@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T09:11:21",
+  "generatedAt": "2026-11-24T10:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 735,
-    "bookingsObserved": 532,
-    "releasesObserved": 561,
+    "bookingsTracked": 736,
+    "bookingsObserved": 533,
+    "releasesObserved": 562,
     "inCustody": 174,
-    "uniquePeople": 696
+    "uniquePeople": 697
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 0,
-      "released": 0
+      "booked": 1,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "POSSESSION CONTROLLED SUB KNOW POSSESS",
       "count": 151,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -248,25 +248,25 @@
     },
     {
       "name": "BURGLARY 2ND DEGREE",
-      "count": 27,
+      "count": 28,
+      "pct": 1.2
+    },
+    {
+      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
+      "count": 26,
       "pct": 1.1
     },
     {
       "name": "DWLS/R 1ST DEGREE",
       "count": 26,
       "pct": 1.1
-    },
-    {
-      "name": "THEFT 2ND PROPERTY/SERVICES $750-$5000",
-      "count": 25,
-      "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 167,
-      "pct": 22.8,
+      "count": 168,
+      "pct": 22.9,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "ANACORTES POLICE DEPT",
       "count": 51,
-      "pct": 7,
+      "pct": 6.9,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -327,14 +327,14 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1193,
-      "pct": 50.2,
+      "count": 1196,
+      "pct": 50.3,
       "label": "Skagit County Superior Court"
     },
     {
       "name": "DC",
       "count": 398,
-      "pct": 16.8,
+      "pct": 16.7,
       "label": "Skagit County District Court"
     },
     {
@@ -389,7 +389,7 @@
     {
       "name": "MISDEMEANOR CITATION ARREST",
       "count": 125,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -398,8 +398,8 @@
     },
     {
       "name": "FELONY WARRANT ARREST",
-      "count": 98,
-      "pct": 13.4
+      "count": 99,
+      "pct": 13.5
     },
     {
       "name": "DUI CITATION ARREST",
@@ -460,13 +460,13 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 729,
-      "pct": 45.2
+      "count": 737,
+      "pct": 45.4
     },
     {
       "name": "Sentence Complete Release",
       "count": 161,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "Declined To Prosecute",
@@ -481,17 +481,17 @@
     {
       "name": "Dismissed",
       "count": 111,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "Dept Of Corrections Release",
-      "count": 104,
-      "pct": 6.4
+      "count": 105,
+      "pct": 6.5
     },
     {
       "name": "Amended",
       "count": 77,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "Bail Bond Release",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.8
+      "pct": 9.9
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,7 +543,7 @@
     {
       "name": "J",
       "count": 15,
-      "pct": 9.2
+      "pct": 9.3
     },
     {
       "name": "K",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 19,
-      "pct": 11.7
+      "count": 16,
+      "pct": 9.9
     },
     {
       "name": "P",
-      "count": 26,
-      "pct": 16
+      "count": 27,
+      "pct": 16.7
     },
     {
       "name": "Q",
-      "count": 27,
-      "pct": 16.6
+      "count": 28,
+      "pct": 17.3
     },
     {
       "name": "R",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 635,
+      "count": 634,
       "pct": 93.5
     },
     {
@@ -605,11 +605,11 @@
   ],
   "releaseSources": {
     "official": 553,
-    "observed": 8,
+    "observed": 9,
     "reportOnly": 38
   },
   "stay": {
-    "releasedCount": 559,
+    "releasedCount": 560,
     "medianDays": 1.8,
     "meanDays": 36.8,
     "buckets": [
@@ -619,7 +619,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 149
+        "count": 150
       },
       {
         "label": "3–7 days",
@@ -638,15 +638,15 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 51.4,
+    "currentMedianDaysHeld": 51.5,
     "currentLongestDaysHeld": 1012.7
   },
   "bond": {
-    "withBond": 113,
-    "noBond": 61,
+    "withBond": 112,
+    "noBond": 62,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18499500
+    "totalBond": 18570500
   },
   "chargesPerBooking": 3.2
 }
