@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:11:20",
+  "generatedAt": "2026-11-24T01:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 732,
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "DORM 1 (E101)",
@@ -542,13 +542,13 @@
     },
     {
       "name": "J",
-      "count": 14,
-      "pct": 8.6
+      "count": 15,
+      "pct": 9.1
     },
     {
       "name": "K",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "M",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "N",
-      "count": 18,
-      "pct": 11
+      "count": 19,
+      "pct": 11.6
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "R",
-      "count": 20,
-      "pct": 12.3
+      "count": 19,
+      "pct": 11.6
     },
     {
       "name": "SAN JUAN COUNTY",
@@ -643,7 +643,7 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 51,
+    "currentMedianDaysHeld": 51.1,
     "currentLongestDaysHeld": 1012.3
   },
   "bond": {

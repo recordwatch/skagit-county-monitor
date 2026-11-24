@@ -5,7 +5,7 @@
     "name": "MCCORMACK, KILLIAN WALTER JR",
     "bookedAt": "2026-11-23T18:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -34445,7 +34445,7 @@
     "name": "TALAVERA-VALDEZ, ATHZIRY",
     "bookedAt": "2026-09-03T12:30:00",
     "scheduledRelease": null,
-    "location": "R107",
+    "location": "J211",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
