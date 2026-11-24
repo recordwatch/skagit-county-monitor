@@ -74,7 +74,7 @@
         "courtReference": "DOC 26-1-00188-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Dept Of Corrections Release",
         "arrestType": "DEPT OF CORRECTIONS HOLD",
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
@@ -494,7 +494,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -514,9 +514,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "KING 19-3-10777-8",
-        "bailAmount": 500,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1538,7 +1538,7 @@
         "courtReference": "FERNDALE 3A0446210",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Shuttle Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
