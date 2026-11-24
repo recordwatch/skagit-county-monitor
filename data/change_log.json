@@ -1,5 +1,149 @@
 [
   {
+    "id": "585836-20261123180000",
+    "nameNumber": "585836",
+    "name": "MCCORMACK, KILLIAN WALTER JR",
+    "bookedAt": "2026-11-23T18:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "559214-20261123163500",
+    "nameNumber": "559214",
+    "name": "QUEVEDO, CHRISTIAN",
+    "bookedAt": "2026-11-23T16:35:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "740592-20261123161000",
+    "nameNumber": "740592",
+    "name": "SCOTT, JOSHUA ALLEN COLE",
+    "bookedAt": "2026-11-23T16:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "357447-20261123154000",
+    "nameNumber": "357447",
+    "name": "ADAMS, SHAWN MICHAEL",
+    "bookedAt": "2026-11-23T15:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "173083-20261123154000",
+    "nameNumber": "173083",
+    "name": "BRYAN, BRETT MICHAEL",
+    "bookedAt": "2026-11-23T15:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "686207-20261123154000",
+    "nameNumber": "686207",
+    "name": "MACHADO-BAIRES, JENSIS ANAEL",
+    "bookedAt": "2026-11-23T15:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "384157-20261123115500",
     "nameNumber": "384157",
     "name": "HARRISON, BRADIN SHANE",
@@ -66,7 +210,7 @@
     "name": "JOHNSON, SASHA ANNE",
     "bookedAt": "2026-11-23T11:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -133,6 +277,18 @@
         "incident": "26-M17241",
         "court": "SC",
         "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-23T10:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "DOC 22-1-00556-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -361,10 +517,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T21:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T19:11:22",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -876,10 +1032,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T19:11:22",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -1432,10 +1588,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T15:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T19:11:22",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
