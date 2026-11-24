@@ -78,7 +78,7 @@
     "name": "OHLSEN, TREVOR JAMES",
     "bookedAt": "2026-11-24T10:24:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -385,7 +385,7 @@
     "name": "MACHADO-BAIRES, JENSIS ANAEL",
     "bookedAt": "2026-11-23T15:40:00",
     "scheduledRelease": null,
-    "location": "N205",
+    "location": "P207",
     "arrestingAgency": "SKAGIT COUNTY JAIL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
