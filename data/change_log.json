@@ -36205,7 +36205,7 @@
     "name": "FARIAS-LUNA, FRANCISCO",
     "bookedAt": "2026-08-20T17:18:00",
     "scheduledRelease": "2026-11-28T17:18:00",
-    "location": "N207",
+    "location": "N208",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -38128,7 +38128,7 @@
     "name": "DELEON, JOSE ERMINIO",
     "bookedAt": "2026-07-25T10:15:00",
     "scheduledRelease": null,
-    "location": "N207",
+    "location": "N208",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -45685,10 +45685,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T15:11:19",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
