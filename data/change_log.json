@@ -204,8 +204,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": "2026-11-23T21:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T20:38:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -356,6 +356,56 @@
     "baseline": false
   },
   {
+    "id": "685309-20261123104000",
+    "nameNumber": "685309",
+    "name": "ORLICH, RYDER DARIUS",
+    "bookedAt": "2026-11-23T10:40:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-11-23T10:58:15",
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-23T10:40:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 1ST DEG",
+        "offenseDate": "2026-09-15T00:00:00",
+        "incident": "26-W04490",
+        "court": "SC",
+        "courtReference": "26-1-00564-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-15T00:00:00",
+        "incident": "26-W04490",
+        "court": "SC",
+        "courtReference": "26-1-00564-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-11-24T07:11:17",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
+    "baseline": false
+  },
+  {
     "id": "260812-20261123100000",
     "nameNumber": "260812",
     "name": "SEGUEDA-ORTIZ, JOSUE R",
@@ -405,6 +455,68 @@
     "baseline": false
   },
   {
+    "id": "562134-20261123100000",
+    "nameNumber": "562134",
+    "name": "ARRIAGA-MENDOZA, ROBERTO",
+    "bookedAt": "2026-11-23T10:00:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-11-23T10:40:57",
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-23T10:00:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-09-03T00:00:00",
+        "incident": "26-M13333",
+        "court": "SC",
+        "courtReference": "26-1-00570-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-09-03T00:00:00",
+        "incident": "26-M13333",
+        "court": "SC",
+        "courtReference": "26-1-00570-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-09-03T00:00:00",
+        "incident": "26-M13333",
+        "court": "SC",
+        "courtReference": "26-1-00570-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-11-24T07:11:17",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
+    "baseline": false
+  },
+  {
     "id": "611080-20261123093000",
     "nameNumber": "611080",
     "name": "SOLOMON, GLEN RUDY",
@@ -439,6 +551,44 @@
     "firstSeen": "2026-11-23T10:11:15",
     "releasedAt": null,
     "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "739107-20261123091500",
+    "nameNumber": "739107",
+    "name": "NUNEZ-RODRIGUEZ, RICARDO",
+    "bookedAt": "2026-11-23T09:15:00",
+    "scheduledRelease": null,
+    "releasedAt": "2026-11-23T09:40:41",
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-23T09:15:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-07-27T00:00:00",
+        "incident": "26-08976",
+        "court": "SC",
+        "courtReference": "26-1-00571-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "released",
+    "firstSeen": "2026-11-24T07:11:17",
+    "releaseSource": "official",
+    "fromReleaseReport": true,
     "baseline": false
   },
   {
@@ -572,8 +722,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-22T22:11:17",
-    "releasedAt": "2026-11-23T22:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:55:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -621,8 +771,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-22T21:11:15",
-    "releasedAt": "2026-11-23T19:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T18:40:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -658,8 +808,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-22T10:11:16",
-    "releasedAt": "2026-11-23T17:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T14:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -744,8 +894,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-22T04:11:17",
-    "releasedAt": "2026-11-23T22:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:55:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -781,8 +931,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-22T01:11:15",
-    "releasedAt": "2026-11-23T17:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T14:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -867,8 +1017,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T23:11:17",
-    "releasedAt": "2026-11-23T18:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:22:33",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -928,8 +1078,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": "2026-11-23T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T15:55:24",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -989,8 +1139,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": "2026-11-23T16:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T15:55:24",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1099,8 +1249,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T19:11:16",
-    "releasedAt": "2026-11-23T18:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:23:26",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1136,8 +1286,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T22:11:12",
-    "releasedAt": "2026-11-23T19:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T18:25:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1239,8 +1389,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T16:11:17",
-    "releasedAt": "2026-11-23T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T11:52:37",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1349,8 +1499,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T14:11:16",
-    "releasedAt": "2026-11-23T20:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T19:50:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1386,8 +1536,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T06:11:15",
-    "releasedAt": "2026-11-23T14:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T12:58:46",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1472,8 +1622,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T01:11:13",
-    "releasedAt": "2026-11-23T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T10:31:26",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1667,8 +1817,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T15:11:17",
-    "releasedAt": "2026-11-23T22:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:55:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1704,8 +1854,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T15:11:17",
-    "releasedAt": "2026-11-23T19:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T18:50:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1753,8 +1903,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T15:46:12",
-    "releasedAt": "2026-11-23T20:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T19:55:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2027,8 +2177,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T06:11:13",
-    "releasedAt": "2026-11-23T22:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T17:55:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2259,8 +2409,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-19T14:11:17",
-    "releasedAt": "2026-11-23T15:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T14:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -3410,8 +3560,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-17T18:11:17",
-    "releasedAt": "2026-11-23T17:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T16:46:39",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -5754,8 +5904,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-14T12:52:53",
-    "releasedAt": "2026-11-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T09:47:21",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -11331,8 +11481,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-06T22:11:16",
-    "releasedAt": "2026-11-23T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T09:47:21",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -12925,8 +13075,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-04T16:11:19",
-    "releasedAt": "2026-11-23T17:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T15:55:24",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -20262,8 +20412,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-21T12:11:14",
-    "releasedAt": "2026-11-23T12:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T11:14:42",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -31133,8 +31283,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T11:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T10:42:08",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -31365,8 +31515,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T09:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T08:43:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -35011,8 +35161,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T09:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T08:43:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -36133,8 +36283,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T09:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T08:43:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -36580,8 +36730,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T09:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T08:48:16",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -42047,8 +42197,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T09:11:22",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T08:50:00",
+    "releaseSource": "official",
     "baseline": true
   },
   {
@@ -43040,8 +43190,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-23T13:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-23T12:34:41",
+    "releaseSource": "official",
     "baseline": true
   },
   {
