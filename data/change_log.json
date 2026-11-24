@@ -15,7 +15,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
@@ -30,12 +30,24 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       },
       {
-        "description": "DWLS/R 3RD DEGREE",
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
         "offenseDate": "2026-11-23T10:58:00",
         "incident": "26-M17246",
         "court": "MVMC",
-        "courtReference": "6A0445086",
-        "bailAmount": null,
+        "courtReference": "6A0445087",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-09-23T00:00:00",
+        "incident": "26-M14321",
+        "court": "MVMC",
+        "courtReference": "6A0239746",
+        "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
@@ -322,7 +334,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 3000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -330,9 +342,9 @@
         "incident": "25-W03897",
         "court": "SWMC",
         "courtReference": "5A0755828",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -342,9 +354,9 @@
         "incident": "25-W03987",
         "court": "SWMC",
         "courtReference": "5A0648407",
-        "bailAmount": 1500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -595,10 +607,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T23:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T18:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -729,7 +741,7 @@
     "name": "MARTINEZ, VICENTE ALEJANDRO",
     "bookedAt": "2026-11-21T18:50:00",
     "scheduledRelease": null,
-    "location": "N202",
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "DUI CITATION ARREST",
     "arrests": [
@@ -827,10 +839,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T19:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T18:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -859,7 +871,7 @@
         "courtReference": "6A0434467",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -1405,7 +1417,7 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DUI",
@@ -1413,9 +1425,9 @@
         "incident": null,
         "court": "DC",
         "courtReference": "3A0538242",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "WA STATE PATROL"
       }
