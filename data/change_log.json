@@ -115,7 +115,7 @@
     "name": "HOVANDER, HAL LOUIS",
     "bookedAt": "2026-11-24T09:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -1369,10 +1369,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T20:11:20",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T12:46:21",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -45610,7 +45610,7 @@
     "nameNumber": "297698",
     "name": "KITCHNER, TIMOTHY CLINTON",
     "bookedAt": "2025-09-08T15:00:00",
-    "scheduledRelease": "2027-01-03T11:42:43",
+    "scheduledRelease": "2026-11-24T12:28:27",
     "location": "DORM 1 (E101)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
