@@ -273,7 +273,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 8500,
+    "bondTotal": null,
     "charges": [
       {
         "description": "DWLS/R 2ND DEGREE",
@@ -281,9 +281,9 @@
         "incident": "26-W00457",
         "court": "SWMC",
         "courtReference": "6A0083363",
-        "bailAmount": 7500,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -293,9 +293,9 @@
         "incident": "26-B03336",
         "court": "BMC",
         "courtReference": "6A0283459",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -386,10 +386,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T10:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -509,10 +509,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T01:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -810,7 +810,7 @@
         "courtReference": "6A0407961",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -822,7 +822,7 @@
         "courtReference": "6A0407961",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
@@ -1356,7 +1356,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HARRASSMENT DVPA",
@@ -1364,9 +1364,9 @@
         "incident": "25-M16455",
         "court": "MVMC",
         "courtReference": "5A0874753",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -1377,8 +1377,8 @@
         "court": "MVMC",
         "courtReference": "5A0874753",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -2178,7 +2178,7 @@
     "name": "COOPER, GRACE G FRANCIS",
     "bookedAt": "2026-11-19T10:05:00",
     "scheduledRelease": null,
-    "location": "R210",
+    "location": "R211",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -3097,10 +3097,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T18:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -12612,10 +12612,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T16:11:19",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-23T17:11:14",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
