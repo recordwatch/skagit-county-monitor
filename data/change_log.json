@@ -33170,7 +33170,7 @@
     "name": "LOPEZ-GARCIA, FELIPE",
     "bookedAt": "2026-09-11T13:30:00",
     "scheduledRelease": "2026-11-26T06:30:00",
-    "location": "MALE INMATE WORKER (E103)",
+    "location": null,
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY COMMITMENT ARREST",
     "arrests": [
