@@ -1,5 +1,115 @@
 [
   {
+    "id": "744025-20261124104000",
+    "nameNumber": "744025",
+    "name": "ZAVALA-HUIZACHE, ABRAM ZAVALA",
+    "bookedAt": "2026-11-24T10:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "642508-20261124103000",
+    "nameNumber": "642508",
+    "name": "PARSON, CHAD ALLEN",
+    "bookedAt": "2026-11-24T10:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-24T09:01:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "CARRY LOADED PISTOL IN VEHICLE",
+        "offenseDate": "2026-11-24T09:01:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976761",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "CARY/EXH/DRAW DANGEROUS WEAPON",
+        "offenseDate": "2026-11-24T09:01:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976761",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "410288-20261124102400",
+    "nameNumber": "410288",
+    "name": "OHLSEN, TREVOR JAMES",
+    "bookedAt": "2026-11-24T10:24:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
+    "arrestType": "DEPT OF CORRECTIONS HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-24T10:00:00",
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2026-11-24T10:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "24-1-00736-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "DEPT OF CORRECTIONS HOLD",
+        "agency": "DEPARTMENT OF CORRECTIONS"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "461300-20261124091500",
     "nameNumber": "461300",
     "name": "HOVANDER, HAL LOUIS",
@@ -103,10 +213,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -189,10 +299,10 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -361,10 +471,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T14:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T12:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -33267,7 +33377,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       },
       {
-        "description": "HARASSMENT/PRIOR CON - FELONY-DV",
+        "description": "HARASSEMENT/THREATS TO KILL - FELONY",
         "offenseDate": "2026-06-10T00:00:00",
         "incident": "26-06639",
         "court": "SC",
@@ -33440,7 +33550,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 250000,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "THEFT 1ST PROPERTY/SERVICES",
@@ -33448,8 +33558,8 @@
         "incident": null,
         "court": "SC",
         "courtReference": "26-1-00454-29",
-        "bailAmount": 250000,
-        "bailType": "SCRAM With Bail",
+        "bailAmount": 75000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33461,7 +33571,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33473,7 +33583,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33485,7 +33595,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33497,7 +33607,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33509,7 +33619,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -33521,7 +33631,7 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "SCRAM With Bail",
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
@@ -45500,7 +45610,7 @@
     "nameNumber": "297698",
     "name": "KITCHNER, TIMOTHY CLINTON",
     "bookedAt": "2025-09-08T15:00:00",
-    "scheduledRelease": null,
+    "scheduledRelease": "2027-01-03T11:42:43",
     "location": "DORM 1 (E101)",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
@@ -45511,7 +45621,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 50000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "CHILD MOLEST 1ST",
@@ -45519,9 +45629,33 @@
         "incident": "25-M01810",
         "court": "SC",
         "courtReference": "25-1-00549-29",
-        "bailAmount": 50000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Amended",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 3RD-CRIM NEG/SUB PAIN",
+        "offenseDate": "2016-01-26T00:00:00",
+        "incident": "25-M01810",
+        "court": "SC",
+        "courtReference": "25-1-00549-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "ASLT 4 /W SEXUAL MOTIVATION",
+        "offenseDate": "2016-01-26T00:00:00",
+        "incident": "25-M01810",
+        "court": "SC",
+        "courtReference": "25-1-00549-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
