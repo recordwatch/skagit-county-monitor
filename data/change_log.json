@@ -54,7 +54,7 @@
     "name": "QUEVEDO, CHRISTIAN",
     "bookedAt": "2026-11-23T16:35:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -91,7 +91,7 @@
     "name": "SCOTT, JOSHUA ALLEN COLE",
     "bookedAt": "2026-11-23T16:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J103",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -31945,7 +31945,7 @@
     "name": "SWEETEN, MEGAN ELIZABETH",
     "bookedAt": "2026-09-21T00:20:00",
     "scheduledRelease": null,
-    "location": "R107",
+    "location": "J202",
     "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
