@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T13:11:16",
+  "generatedAt": "2026-11-24T14:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 739,
     "bookingsObserved": 536,
-    "releasesObserved": 568,
-    "inCustody": 171,
+    "releasesObserved": 569,
+    "inCustody": 170,
     "uniquePeople": 700
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-24",
       "booked": 4,
-      "released": 7
+      "released": 8
     }
   ],
   "topCharges": [
@@ -283,8 +283,8 @@
     },
     {
       "name": "BURLINGTON POLICE DEPT",
-      "count": 89,
-      "pct": 12.1,
+      "count": 90,
+      "pct": 12.2,
       "label": "BURLINGTON POLICE DEPT"
     },
     {
@@ -320,14 +320,14 @@
     {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 7,
-      "pct": 1,
+      "pct": 0.9,
       "label": "ISLAND COUNTY SHERIFF"
     }
   ],
   "courts": [
     {
       "name": "SC",
-      "count": 1198,
+      "count": 1200,
       "pct": 50.3,
       "label": "Skagit County Superior Court"
     },
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 266,
-      "pct": 11.2,
+      "pct": 11.1,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "INVESTIGATIVE HOLD",
-      "count": 132,
-      "pct": 17.9
+      "count": 133,
+      "pct": 18
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
@@ -394,12 +394,12 @@
     {
       "name": "MISDEMEANOR WARRANT ARREST",
       "count": 119,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "FELONY WARRANT ARREST",
       "count": 99,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "DUI CITATION ARREST",
@@ -429,12 +429,12 @@
     {
       "name": "DUI WARRANT ARREST",
       "count": 21,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "OTHER COUNTY HOLDS",
       "count": 21,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "SUPERIOR COURT SUMMONS",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 10.1
+      "pct": 10.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -567,18 +567,18 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.5
+      "count": 14,
+      "pct": 8.9
     },
     {
       "name": "P",
       "count": 28,
-      "pct": 17.7
+      "pct": 17.8
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.1
+      "pct": 17.2
     },
     {
       "name": "R",
@@ -605,13 +605,13 @@
   ],
   "releaseSources": {
     "official": 553,
-    "observed": 15,
+    "observed": 16,
     "reportOnly": 38
   },
   "stay": {
-    "releasedCount": 566,
+    "releasedCount": 567,
     "medianDays": 1.7,
-    "meanDays": 36.4,
+    "meanDays": 36.3,
     "buckets": [
       {
         "label": "< 1 day",
@@ -623,7 +623,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 46
+        "count": 47
       },
       {
         "label": "1–4 weeks",
@@ -638,12 +638,12 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 54,
-    "currentLongestDaysHeld": 1012.8
+    "currentMedianDaysHeld": 54.3,
+    "currentLongestDaysHeld": 1012.9
   },
   "bond": {
     "withBond": 112,
-    "noBond": 59,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18357000
