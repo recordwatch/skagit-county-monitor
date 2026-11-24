@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T10:11:15",
+  "generatedAt": "2026-11-24T11:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 736,
     "bookingsObserved": 533,
-    "releasesObserved": 562,
-    "inCustody": 174,
+    "releasesObserved": 564,
+    "inCustody": 172,
     "uniquePeople": 697
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-24",
       "booked": 1,
-      "released": 1
+      "released": 3
     }
   ],
   "topCharges": [
@@ -460,8 +460,8 @@
   "dispositions": [
     {
       "name": "Own Recognizance Release",
-      "count": 737,
-      "pct": 45.4
+      "count": 739,
+      "pct": 45.5
     },
     {
       "name": "Sentence Complete Release",
@@ -500,8 +500,8 @@
     },
     {
       "name": "Shuttle Release",
-      "count": 36,
-      "pct": 2.2
+      "count": 34,
+      "pct": 2.1
     },
     {
       "name": "Pending Transport",
@@ -528,12 +528,12 @@
     {
       "name": "DORM 1 (E101)",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 9.9
+      "pct": 10
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 9.3
+      "count": 13,
+      "pct": 8.1
     },
     {
       "name": "K",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 4.9
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     },
     {
       "name": "N",
       "count": 16,
-      "pct": 9.9
+      "pct": 10
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 16.7
+      "pct": 16.9
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.3
+      "pct": 17.5
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 12.3
+      "pct": 12.5
     }
   ],
   "bailTypes": [
@@ -605,21 +605,21 @@
   ],
   "releaseSources": {
     "official": 553,
-    "observed": 9,
+    "observed": 11,
     "reportOnly": 38
   },
   "stay": {
-    "releasedCount": 560,
-    "medianDays": 1.8,
-    "meanDays": 36.8,
+    "releasedCount": 562,
+    "medianDays": 1.7,
+    "meanDays": 36.6,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 200
+        "count": 201
       },
       {
         "label": "1–3 days",
-        "count": 150
+        "count": 151
       },
       {
         "label": "3–7 days",
@@ -638,15 +638,15 @@
         "count": 39
       }
     ],
-    "currentMedianDaysHeld": 51.5,
-    "currentLongestDaysHeld": 1012.7
+    "currentMedianDaysHeld": 53.5,
+    "currentLongestDaysHeld": 1012.8
   },
   "bond": {
     "withBond": 112,
-    "noBond": 62,
+    "noBond": 60,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18570500
+    "totalBond": 18580500
   },
   "chargesPerBooking": 3.2
 }

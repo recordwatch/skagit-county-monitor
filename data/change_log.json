@@ -172,7 +172,7 @@
         "courtReference": "CB0090625",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Shuttle Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -184,7 +184,7 @@
         "courtReference": "CB0098045",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Shuttle Release",
+        "disposition": "Own Recognizance Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
@@ -285,7 +285,7 @@
         "agency": "SKAGIT COUNTY JAIL"
       }
     ],
-    "bondTotal": 20000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "DUI",
@@ -293,7 +293,7 @@
         "incident": "23-09832",
         "court": "DC",
         "courtReference": "3A0336349",
-        "bailAmount": 20000,
+        "bailAmount": 15000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -410,10 +410,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T14:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T11:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -509,10 +509,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T11:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T11:11:18",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -593,7 +593,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "DUI",
@@ -601,7 +601,7 @@
         "incident": "18-B06297",
         "court": "BMC",
         "courtReference": "8Z0938357",
-        "bailAmount": 5000,
+        "bailAmount": 20000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "DUI WARRANT ARREST",
