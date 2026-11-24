@@ -101,7 +101,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 3200,
+    "bondTotal": null,
     "charges": [
       {
         "description": "HOLD FOR OTHER AGNCY",
@@ -109,9 +109,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "CB0090625",
-        "bailAmount": 2100,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -121,9 +121,9 @@
         "incident": null,
         "court": "OTHR",
         "courtReference": "CB0098045",
-        "bailAmount": 1100,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Shuttle Release",
         "arrestType": "FELONY WARRANT ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       }
