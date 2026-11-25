@@ -1,5 +1,91 @@
 [
   {
+    "id": "673331-20261125133000",
+    "nameNumber": "673331",
+    "name": "ROMERO-LOPEZ, CUAUHTEMOC",
+    "bookedAt": "2026-11-25T13:30:00",
+    "scheduledRelease": "2026-12-04T13:30:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T13:30:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "offenseDate": "2025-08-03T00:00:00",
+        "incident": "25-M12515",
+        "court": "MVMC",
+        "courtReference": "5A0747365",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2025-08-03T00:00:00",
+        "incident": "25-M12515",
+        "court": "MVMC",
+        "courtReference": "5A0747365",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T14:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "282894-20261125132500",
+    "nameNumber": "282894",
+    "name": "PALOMO, REYES",
+    "bookedAt": "2026-11-25T13:25:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "SUPERIOR COURT SUMMONS",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T13:25:00",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND",
+        "offenseDate": "2026-09-30T00:00:00",
+        "incident": "26-M14634",
+        "court": "SC",
+        "courtReference": "26-1-00601-29",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Superior Court Summon Release",
+        "arrestType": "SUPERIOR COURT SUMMONS",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T14:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "688418-20261125100000",
     "nameNumber": "688418",
     "name": "FELIPE-FELIPE, DANIEL F",
