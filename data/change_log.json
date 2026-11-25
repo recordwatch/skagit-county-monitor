@@ -1,5 +1,79 @@
 [
   {
+    "id": "688418-20261125100000",
+    "nameNumber": "688418",
+    "name": "FELIPE-FELIPE, DANIEL F",
+    "bookedAt": "2026-11-25T10:00:00",
+    "scheduledRelease": "2026-12-24T10:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T10:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-28T00:00:00",
+        "incident": "23-11019",
+        "court": "DC",
+        "courtReference": "PA8485",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T11:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "251540-20261125100000",
+    "nameNumber": "251540",
+    "name": "JOHNSON, TONYA LYNN",
+    "bookedAt": "2026-11-25T10:00:00",
+    "scheduledRelease": "2026-12-24T10:00:00",
+    "location": "ELECTRONIC HOME MONITORING",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "DUI COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T10:00:00",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2023-08-17T00:00:00",
+        "incident": "23-11252",
+        "court": "DC",
+        "courtReference": "3A0130193",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "DUI COMMITMENT ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T11:11:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "96586-20261124235000",
     "nameNumber": "96586",
     "name": "KELLOGG, MELISSA ANN",
@@ -128,10 +202,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T18:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T11:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -18320,10 +18394,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T15:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T11:11:13",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
