@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:11:15",
+  "generatedAt": "2026-11-25T13:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 747,
@@ -562,8 +562,8 @@
     },
     {
       "name": "MALE WORK RELEASE (E102)",
-      "count": 12,
-      "pct": 7.7
+      "count": 13,
+      "pct": 8.4
     },
     {
       "name": "N",
@@ -572,8 +572,8 @@
     },
     {
       "name": "P",
-      "count": 27,
-      "pct": 17.4
+      "count": 26,
+      "pct": 16.8
     },
     {
       "name": "Q",
