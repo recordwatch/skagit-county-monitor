@@ -6,19 +6,81 @@
     "bookedAt": "2026-11-24T14:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-24T14:04:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
       }
     ],
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-24T14:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976764",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      },
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-24T14:04:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "T00976764",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-24T16:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "204067-20261124140000",
+    "nameNumber": "204067",
+    "name": "JEDLICKA, JOSEPH FARRELL",
+    "bookedAt": "2026-11-24T14:00:00",
+    "scheduledRelease": "2026-12-04T14:00:00",
+    "location": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-24T14:00:00",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "NEG DRIVING 1ST (CRIMINAL)",
+        "offenseDate": "2020-10-03T00:00:00",
+        "incident": null,
+        "court": "SWMC",
+        "courtReference": "SC0072872",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Serving Commit",
+        "arrestType": "MISDEMEANOR COMMITMENT ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T17:11:18",
     "releasedAt": null,
     "releaseSource": null,
     "baseline": false
@@ -29,7 +91,7 @@
     "name": "ZAVALA-HUIZACHE, ABRAM ZAVALA",
     "bookedAt": "2026-11-24T10:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -11112,7 +11174,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "OBSTRUCT LAW ENFORCEMENT OFFIC",
@@ -11132,9 +11194,9 @@
         "incident": "25-B03720",
         "court": "BMC",
         "courtReference": "5A0566533",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
       },
@@ -13094,7 +13156,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 16000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "DUI",
@@ -13126,9 +13188,9 @@
         "incident": "23-M07396",
         "court": "MVMC",
         "courtReference": "3A0375585",
-        "bailAmount": 1000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "DUI WARRANT ARREST",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -17658,7 +17720,7 @@
     "nameNumber": "417521",
     "name": "CHARLIE, TERRENCE DONALD",
     "bookedAt": "2026-10-27T10:45:00",
-    "scheduledRelease": "2026-11-20T11:12:29",
+    "scheduledRelease": "2026-12-22T16:24:52",
     "location": "P205",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
@@ -17669,7 +17731,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 1000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -17679,7 +17741,7 @@
         "courtReference": "5A0093646",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Serving Commit",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17691,7 +17753,7 @@
         "courtReference": "5A0457745",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17703,7 +17765,7 @@
         "courtReference": "5A0299321",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17715,7 +17777,7 @@
         "courtReference": "4A0855929",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Own Recognizance Release",
+        "disposition": "Dismissed",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17725,9 +17787,9 @@
         "incident": "26-SP0775",
         "court": "TC",
         "courtReference": "6A0318408",
-        "bailAmount": 1000,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       },
@@ -17750,8 +17812,8 @@
         "court": "TC",
         "courtReference": "6A0318408",
         "bailAmount": null,
-        "bailType": "Cash Only",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
