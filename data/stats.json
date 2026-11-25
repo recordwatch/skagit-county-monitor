@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T00:11:15",
+  "generatedAt": "2026-11-25T01:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 744,
-    "bookingsObserved": 541,
+    "bookingsTracked": 745,
+    "bookingsObserved": 542,
     "releasesObserved": 576,
-    "inCustody": 168,
-    "uniquePeople": 704
+    "inCustody": 169,
+    "uniquePeople": 705
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 9,
+      "booked": 10,
       "released": 15
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 131,
+      "count": 132,
       "pct": 5.5
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 169,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 157,
-      "pct": 21.2,
+      "count": 158,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "name": "BMC",
-      "count": 222,
+      "count": 223,
       "pct": 9.3,
       "label": "Burlington Municipal Court"
     },
@@ -358,7 +358,7 @@
     {
       "name": "AMC",
       "count": 97,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 130,
-      "pct": 17.5
+      "count": 131,
+      "pct": 17.6
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 12,
-      "pct": 7.6
+      "count": 13,
+      "pct": 8.2
     },
     {
       "name": "K",
       "count": 12,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,7 +563,7 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "N",
@@ -573,23 +573,23 @@
     {
       "name": "P",
       "count": 27,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "R",
       "count": 20,
-      "pct": 12.7
+      "pct": 12.6
     }
   ],
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 637,
+      "count": 638,
       "pct": 94.8
     },
     {
@@ -638,15 +638,15 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 54.7,
+    "currentMedianDaysHeld": 54.5,
     "currentLongestDaysHeld": 1013.3
   },
   "bond": {
-    "withBond": 107,
+    "withBond": 108,
     "noBond": 61,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18330500
+    "totalBond": 18333000
   },
   "chargesPerBooking": 3.2
 }

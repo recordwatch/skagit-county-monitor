@@ -1,5 +1,42 @@
 [
   {
+    "id": "96586-20261124235000",
+    "nameNumber": "96586",
+    "name": "KELLOGG, MELISSA ANN",
+    "bookedAt": "2026-11-24T23:50:00",
+    "scheduledRelease": null,
+    "location": "J207",
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-24T23:00:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2023-07-19T00:00:00",
+        "incident": "23-B05457",
+        "court": "BMC",
+        "courtReference": "3A0559997",
+        "bailAmount": 2500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T01:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "63670-20261124171400",
     "nameNumber": "63670",
     "name": "DAY, CORINNE TUEFAWN",
