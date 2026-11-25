@@ -283,7 +283,7 @@
         "courtReference": "T00976764",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       },
@@ -295,7 +295,7 @@
         "courtReference": "T00976764",
         "bailAmount": null,
         "bailType": null,
-        "disposition": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -5332,7 +5332,7 @@
     "name": "ELDER, KENT MICHAEL",
     "bookedAt": "2026-11-16T09:00:00",
     "scheduledRelease": null,
-    "location": "Q103",
+    "location": "MALE WORK RELEASE (E102)",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -40082,7 +40082,7 @@
     "name": "WALLEY, JOSHUA THOMAS",
     "bookedAt": "2026-07-06T05:00:00",
     "scheduledRelease": null,
-    "location": "N105",
+    "location": "DORM 1 (E101)",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
