@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-24T16:00:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-24T15:33:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-11-24T15:33:00",
+        "incident": "26-M17093",
+        "court": "MVMC",
+        "courtReference": "6A0423209",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      },
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2026-11-24T15:33:00",
+        "incident": "26-M17093",
+        "court": "MVMC",
+        "courtReference": "6A0423209",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-24T18:11:17",
     "releasedAt": null,
@@ -8177,10 +8202,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T04:19:25",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T19:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
