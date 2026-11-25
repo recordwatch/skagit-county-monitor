@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:59:01",
+  "generatedAt": "2026-11-24T20:11:20",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 743,
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1200,
-      "pct": 50.2,
+      "pct": 50.1,
       "label": "Skagit County Superior Court"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 15,
-      "pct": 0.6,
+      "count": 17,
+      "pct": 0.7,
       "label": "TC"
     },
     {
