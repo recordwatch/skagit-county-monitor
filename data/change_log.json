@@ -6,13 +6,13 @@
     "bookedAt": "2026-11-24T23:50:00",
     "scheduledRelease": null,
     "location": "J207",
-    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-24T23:00:00",
         "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "bondTotal": 2500,
@@ -27,7 +27,7 @@
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
-        "agency": "SKAGIT COUNTY SHERIFF"
+        "agency": "BURLINGTON POLICE DEPT"
       }
     ],
     "status": "in_custody",
@@ -1088,10 +1088,10 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T13:11:20",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T09:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -34138,7 +34138,7 @@
     "nameNumber": "71086",
     "name": "DALBEY, DIANNE LEIGH",
     "bookedAt": "2026-09-10T13:00:00",
-    "scheduledRelease": "2026-11-29T04:00:00",
+    "scheduledRelease": "2026-11-28T18:00:00",
     "location": "R201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "DUI COMMITMENT ARREST",
