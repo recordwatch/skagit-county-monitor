@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:11:20",
+  "generatedAt": "2026-11-24T21:11:19",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 743,
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 156,
-      "pct": 21.1,
+      "count": 157,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -312,16 +312,16 @@
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
-      "name": "SKAGIT COUNTY JAIL",
-      "count": 8,
-      "pct": 1.1,
-      "label": "SKAGIT COUNTY JAIL"
-    },
-    {
       "name": "ISLAND COUNTY SHERIFF",
       "count": 7,
       "pct": 0.9,
       "label": "ISLAND COUNTY SHERIFF"
+    },
+    {
+      "name": "SKAGIT COUNTY JAIL",
+      "count": 7,
+      "pct": 0.9,
+      "label": "SKAGIT COUNTY JAIL"
     }
   ],
   "courts": [
@@ -393,8 +393,8 @@
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
-      "count": 119,
-      "pct": 16.1
+      "count": 118,
+      "pct": 15.9
     },
     {
       "name": "FELONY WARRANT ARREST",
@@ -428,8 +428,8 @@
     },
     {
       "name": "DUI WARRANT ARREST",
-      "count": 21,
-      "pct": 2.8
+      "count": 22,
+      "pct": 3
     },
     {
       "name": "OTHER COUNTY HOLDS",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,47 +543,47 @@
     {
       "name": "J",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "K",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "MALE INMATE WORKER (E103)",
-      "count": 1,
-      "pct": 0.6
+      "count": 2,
+      "pct": 1.3
     },
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.7
+      "count": 16,
+      "pct": 10.2
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 17.4
+      "pct": 17.2
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.4
+      "pct": 17.2
     },
     {
       "name": "R",
       "count": 19,
-      "pct": 12.3
+      "pct": 12.1
     }
   ],
   "bailTypes": [
@@ -639,7 +639,7 @@
       }
     ],
     "currentMedianDaysHeld": 54.3,
-    "currentLongestDaysHeld": 1013.1
+    "currentLongestDaysHeld": 1013.2
   },
   "bond": {
     "withBond": 107,
