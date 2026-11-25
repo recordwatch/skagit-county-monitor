@@ -363,8 +363,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-24T12:11:16",
-    "releasedAt": "2026-11-24T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T15:31:09",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -510,8 +510,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": "2026-11-24T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T11:00:07",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -547,8 +547,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": "2026-11-24T22:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T11:45:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -596,8 +596,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": "2026-11-24T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T11:00:26",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -633,8 +633,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": "2026-11-24T16:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T15:51:36",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -768,8 +768,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T14:11:14",
-    "releasedAt": "2026-11-24T12:11:16",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T10:59:47",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -817,8 +817,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T14:11:14",
-    "releasedAt": "2026-11-24T11:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T10:26:31",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -916,8 +916,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T11:11:17",
-    "releasedAt": "2026-11-24T11:11:18",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T10:34:05",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1139,8 +1139,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-23T02:11:16",
-    "releasedAt": "2026-11-24T10:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T09:19:03",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -1666,8 +1666,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-21T20:11:20",
-    "releasedAt": "2026-11-24T12:46:21",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T12:19:28",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -2161,8 +2161,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-20T15:46:12",
-    "releasedAt": "2026-11-24T14:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T13:09:05",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -8339,8 +8339,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-12T04:19:25",
-    "releasedAt": "2026-11-24T19:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T18:19:15",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -9199,8 +9199,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-10T13:11:16",
-    "releasedAt": "2026-11-24T18:11:17",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T17:21:18",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -45957,8 +45957,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": "2026-11-24T15:11:19",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-24T14:12:20",
+    "releaseSource": "official",
     "baseline": true
   },
   {
