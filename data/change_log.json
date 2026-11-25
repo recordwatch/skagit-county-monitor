@@ -5,7 +5,7 @@
     "name": "FLEMING, CHRISTOPHER ANTONIO",
     "bookedAt": "2026-11-24T16:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -459,10 +459,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T22:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
