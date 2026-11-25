@@ -1,11 +1,35 @@
 [
   {
+    "id": "553343-20261124160000",
+    "nameNumber": "553343",
+    "name": "FLEMING, CHRISTOPHER ANTONIO",
+    "bookedAt": "2026-11-24T16:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T18:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "271347-20261124143000",
     "nameNumber": "271347",
     "name": "MORALES-LUNA, ANASTACIO",
     "bookedAt": "2026-11-24T14:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -9013,10 +9037,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T13:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T18:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
