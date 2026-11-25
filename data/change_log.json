@@ -1,5 +1,29 @@
 [
   {
+    "id": "271347-20261124143000",
+    "nameNumber": "271347",
+    "name": "MORALES-LUNA, ANASTACIO",
+    "bookedAt": "2026-11-24T14:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T16:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "744025-20261124104000",
     "nameNumber": "744025",
     "name": "ZAVALA-HUIZACHE, ABRAM ZAVALA",
@@ -91,10 +115,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -361,10 +385,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T19:11:22",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T16:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -8912,7 +8936,7 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": 5000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
@@ -8920,9 +8944,9 @@
         "incident": "25-B02725",
         "court": "BMC",
         "courtReference": "5A0286797",
-        "bailAmount": 5000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR WARRANT ARREST",
         "agency": "BURLINGTON POLICE DEPT"
       }
