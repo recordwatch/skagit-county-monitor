@@ -30,10 +30,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-25T01:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -101,7 +101,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 2000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
@@ -109,9 +109,9 @@
         "incident": "26-M17093",
         "court": "MVMC",
         "courtReference": "6A0423209",
-        "bailAmount": 2000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       },
@@ -122,8 +122,8 @@
         "court": "MVMC",
         "courtReference": "6A0423209",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Own Recognizance Release",
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
@@ -398,10 +398,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T10:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -4537,7 +4537,7 @@
     "name": "CAYOU, OLIVIA DANEISE",
     "bookedAt": "2026-11-16T23:35:00",
     "scheduledRelease": null,
-    "location": "R204",
+    "location": "R106",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -9539,7 +9539,7 @@
     "name": "JOHNSON, KATHERINE M",
     "bookedAt": "2026-11-09T20:30:00",
     "scheduledRelease": null,
-    "location": "R101",
+    "location": null,
     "arrestingAgency": "SAN JUAN COUNTY SHERIFF",
     "arrestType": "OTHER COUNTY HOLDS",
     "arrests": [
@@ -18315,7 +18315,7 @@
         "courtReference": "2A065013",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "DUI COMMITMENT ARREST",
         "agency": "WA STATE PATROL"
       }
@@ -26202,7 +26202,7 @@
     "name": "FREDAY, ROBERT RAE",
     "bookedAt": "2026-10-12T08:50:00",
     "scheduledRelease": null,
-    "location": "MALE WORK RELEASE (E102)",
+    "location": "Q205",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
