@@ -1,5 +1,54 @@
 [
   {
+    "id": "63670-20261124171400",
+    "nameNumber": "63670",
+    "name": "DAY, CORINNE TUEFAWN",
+    "bookedAt": "2026-11-24T17:14:00",
+    "scheduledRelease": null,
+    "location": "R202",
+    "arrestingAgency": "SWINOMISH POLICE DEPARTMENT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-24T16:33:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "TRIBAL CODE VIOLATION",
+        "offenseDate": "2026-11-24T16:33:00",
+        "incident": "26-SP1849",
+        "court": "TC",
+        "courtReference": "6A0445782",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      },
+      {
+        "description": "TRIBAL CODE VIOLATION",
+        "offenseDate": "2026-11-24T16:33:00",
+        "incident": "26-SP1849",
+        "court": "TC",
+        "courtReference": "6A0445782",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SWINOMISH POLICE DEPARTMENT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T23:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "553343-20261124160000",
     "nameNumber": "553343",
     "name": "FLEMING, CHRISTOPHER ANTONIO",
@@ -91,10 +140,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T19:59:01",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-24T23:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {

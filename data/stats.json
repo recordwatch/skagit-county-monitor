@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T22:11:15",
+  "generatedAt": "2026-11-24T23:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 743,
-    "bookingsObserved": 540,
-    "releasesObserved": 575,
+    "bookingsTracked": 744,
+    "bookingsObserved": 541,
+    "releasesObserved": 576,
     "inCustody": 168,
     "uniquePeople": 704
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 8,
-      "released": 14
+      "booked": 9,
+      "released": 15
     }
   ],
   "topCharges": [
@@ -307,8 +307,8 @@
     },
     {
       "name": "SWINOMISH POLICE DEPARTMENT",
-      "count": 26,
-      "pct": 3.5,
+      "count": 27,
+      "pct": 3.6,
       "label": "SWINOMISH POLICE DEPARTMENT"
     },
     {
@@ -369,8 +369,8 @@
     },
     {
       "name": "TC",
-      "count": 17,
-      "pct": 0.7,
+      "count": 19,
+      "pct": 0.8,
       "label": "TC"
     },
     {
@@ -388,8 +388,8 @@
     },
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 129,
-      "pct": 17.4
+      "count": 130,
+      "pct": 17.5
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -399,7 +399,7 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 99,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DUI CITATION ARREST",
@@ -409,7 +409,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 56,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 16,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -568,22 +568,22 @@
     {
       "name": "N",
       "count": 16,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "P",
       "count": 27,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "R",
-      "count": 19,
-      "pct": 12.1
+      "count": 20,
+      "pct": 12.7
     }
   ],
   "bailTypes": [
@@ -605,17 +605,17 @@
   ],
   "releaseSources": {
     "official": 553,
-    "observed": 22,
+    "observed": 23,
     "reportOnly": 38
   },
   "stay": {
-    "releasedCount": 573,
+    "releasedCount": 574,
     "medianDays": 1.7,
-    "meanDays": 36.8,
+    "meanDays": 36.7,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 204
+        "count": 205
       },
       {
         "label": "1–3 days",
@@ -638,8 +638,8 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 54.6,
-    "currentLongestDaysHeld": 1013.2
+    "currentMedianDaysHeld": 54.7,
+    "currentLongestDaysHeld": 1013.3
   },
   "bond": {
     "withBond": 107,
