@@ -1,5 +1,29 @@
 [
   {
+    "id": "563626-20261125230000",
+    "nameNumber": "563626",
+    "name": "HAWKES, JONATHAN EGGERT",
+    "bookedAt": "2026-11-25T23:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T21:36:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T00:11:20",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "677349-20261125154000",
     "nameNumber": "677349",
     "name": "BYRD, KYLA MARIE",
