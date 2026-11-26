@@ -337,10 +337,10 @@
         "agency": "DEPARTMENT OF CORRECTIONS"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-25T15:11:18",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-26T08:11:16",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
