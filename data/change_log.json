@@ -1,11 +1,48 @@
 [
   {
+    "id": "61116-20261126031000",
+    "nameNumber": "61116",
+    "name": "HOOPER, AMY LYN",
+    "bookedAt": "2026-11-26T03:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "INVESTIGATIVE HOLD",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T20:38:00",
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VEHICULAR HOMICIDE",
+        "offenseDate": "2026-11-25T19:20:00",
+        "incident": "26-14216",
+        "court": "SC",
+        "courtReference": "INV",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "INVESTIGATIVE HOLD",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T05:11:22",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "467734-20261126011000",
     "nameNumber": "467734",
     "name": "FORTHUN, ISAAC SCOTT JESSE",
     "bookedAt": "2026-11-26T01:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "WA STATE PATROL",
     "arrestType": "MISDEMEANOR WARRANT ARREST",
     "arrests": [
@@ -42,7 +79,7 @@
     "name": "FLORES, JAIME MANUEL",
     "bookedAt": "2026-11-25T23:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
@@ -79,7 +116,7 @@
     "name": "CONNOR, RONALD KEITH",
     "bookedAt": "2026-11-25T23:20:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N207",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [

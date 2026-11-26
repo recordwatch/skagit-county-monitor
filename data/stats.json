@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T04:11:14",
+  "generatedAt": "2026-11-26T05:11:22",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 756,
-    "bookingsObserved": 553,
+    "bookingsTracked": 757,
+    "bookingsObserved": 554,
     "releasesObserved": 587,
-    "inCustody": 169,
-    "uniquePeople": 715
+    "inCustody": 170,
+    "uniquePeople": 716
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
-      "count": 160,
-      "pct": 21.2,
+      "count": 161,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "SC",
-      "count": 1204,
+      "count": 1205,
       "pct": 49.9,
       "label": "Skagit County Superior Court"
     },
@@ -382,14 +382,14 @@
   ],
   "arrestTypes": [
     {
-      "name": "MISDEMEANOR CITATION ARREST",
+      "name": "INVESTIGATIVE HOLD",
       "count": 134,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
-      "name": "INVESTIGATIVE HOLD",
-      "count": 133,
-      "pct": 17.6
+      "name": "MISDEMEANOR CITATION ARREST",
+      "count": 134,
+      "pct": 17.7
     },
     {
       "name": "MISDEMEANOR WARRANT ARREST",
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 10.9
+      "pct": 10.7
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -543,17 +543,17 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,27 +563,27 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.5
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 9
+      "count": 17,
+      "pct": 10.7
     },
     {
       "name": "P",
       "count": 26,
-      "pct": 16.7
+      "pct": 16.4
     },
     {
       "name": "Q",
       "count": 27,
-      "pct": 17.3
+      "pct": 17
     },
     {
       "name": "R",
       "count": 17,
-      "pct": 10.9
+      "pct": 10.7
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 54.7,
+    "currentMedianDaysHeld": 53.2,
     "currentLongestDaysHeld": 1014.5
   },
   "bond": {
     "withBond": 111,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18263000
