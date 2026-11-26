@@ -1,5 +1,42 @@
 [
   {
+    "id": "622118-20261126110000",
+    "nameNumber": "622118",
+    "name": "JANDREAU, KATELYN ABIGAIL",
+    "bookedAt": "2026-11-26T11:00:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-26T10:25:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS ATTEMPT",
+        "offenseDate": "2024-03-03T00:00:00",
+        "incident": "24-M03896",
+        "court": "MVMC",
+        "courtReference": "4A01325589",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T12:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "61116-20261126031000",
     "nameNumber": "61116",
     "name": "HOOPER, AMY LYN",
@@ -30859,10 +30896,10 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:57:03",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-26T12:11:16",
+    "releaseSource": "observed",
     "baseline": true
   },
   {
