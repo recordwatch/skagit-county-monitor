@@ -1,11 +1,48 @@
 [
   {
+    "id": "677349-20261125154000",
+    "nameNumber": "677349",
+    "name": "BYRD, KYLA MARIE",
+    "bookedAt": "2026-11-25T15:40:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "BURLINGTON POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T15:40:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CRIMINAL IMPERSONATION 1ST-ASSUMES FALSE IDENTITY",
+        "offenseDate": "2023-01-06T00:00:00",
+        "incident": "22-B07939",
+        "court": "SC",
+        "courtReference": "23-1-00014-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "BURLINGTON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T17:11:17",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "554131-20261125143000",
     "nameNumber": "554131",
     "name": "BUCKLES, CARSON BLU",
     "bookedAt": "2026-11-25T14:30:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N201",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -54,7 +91,7 @@
     "name": "BECERRA, LOUIS SERRANO",
     "bookedAt": "2026-11-25T14:10:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N206",
     "arrestingAgency": "DEPARTMENT OF CORRECTIONS",
     "arrestType": "DEPT OF CORRECTIONS HOLD",
     "arrests": [
@@ -71,7 +108,7 @@
         "offenseDate": "2026-11-25T14:10:00",
         "incident": null,
         "court": "OTHR",
-        "courtReference": "25-1-00229-29",
+        "courtReference": "doc 25-1-00229-29",
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
@@ -472,10 +509,10 @@
         "agency": "WA STATE PATROL"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T16:11:15",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T17:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -5615,10 +5652,10 @@
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T03:11:17",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T17:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -34091,7 +34128,7 @@
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": 75000,
+    "bondTotal": null,
     "charges": [
       {
         "description": "THEFT 1ST PROPERTY/SERVICES",
@@ -34099,9 +34136,9 @@
         "incident": null,
         "court": "SC",
         "courtReference": "26-1-00454-29",
-        "bailAmount": 75000,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34112,8 +34149,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34124,8 +34161,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34136,8 +34173,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34148,8 +34185,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34160,8 +34197,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       },
@@ -34172,8 +34209,8 @@
         "court": "SC",
         "courtReference": "26-1-00454-29",
         "bailAmount": null,
-        "bailType": "Cash/Bond Accepted",
-        "disposition": null,
+        "bailType": null,
+        "disposition": "Bail Bond Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
