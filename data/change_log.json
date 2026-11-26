@@ -1,5 +1,42 @@
 [
   {
+    "id": "732320-20261125235000",
+    "nameNumber": "732320",
+    "name": "FLORES, JAIME MANUEL",
+    "bookedAt": "2026-11-25T23:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T23:34:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE DVPA",
+        "offenseDate": "2026-11-25T23:17:00",
+        "incident": "26-M17352",
+        "court": "MVMC",
+        "courtReference": "6A0442767",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T02:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "717522-20261125232000",
     "nameNumber": "717522",
     "name": "CONNOR, RONALD KEITH",

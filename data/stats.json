@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T01:11:15",
+  "generatedAt": "2026-11-26T02:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 754,
-    "bookingsObserved": 551,
+    "bookingsTracked": 755,
+    "bookingsObserved": 552,
     "releasesObserved": 587,
-    "inCustody": 167,
-    "uniquePeople": 713
+    "inCustody": 168,
+    "uniquePeople": 714
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 9,
+      "booked": 10,
       "released": 11
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "MOUNT VERNON POLICE DEPT",
-      "count": 171,
-      "pct": 22.7,
+      "count": 172,
+      "pct": 22.8,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 160,
-      "pct": 21.3,
+      "pct": 21.2,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -334,12 +334,12 @@
     {
       "name": "DC",
       "count": 406,
-      "pct": 16.9,
+      "pct": 16.8,
       "label": "Skagit County District Court"
     },
     {
       "name": "MVMC",
-      "count": 270,
+      "count": 271,
       "pct": 11.2,
       "label": "Mount Vernon Municipal Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 133,
-      "pct": 17.7
+      "count": 134,
+      "pct": 17.8
     },
     {
       "name": "INVESTIGATIVE HOLD",
@@ -638,12 +638,12 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 55.5,
-    "currentLongestDaysHeld": 1014.3
+    "currentMedianDaysHeld": 55.1,
+    "currentLongestDaysHeld": 1014.4
   },
   "bond": {
     "withBond": 110,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18256000
