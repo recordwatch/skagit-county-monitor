@@ -5,7 +5,7 @@
     "name": "BYRD, KYLA MARIE",
     "bookedAt": "2026-11-25T15:40:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J209",
     "arrestingAgency": "BURLINGTON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
@@ -12861,7 +12861,7 @@
         "courtReference": "3A0780317",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "FELONY COMMITMENT ARREST",
         "agency": "SWINOMISH POLICE DEPARTMENT"
       }
@@ -15865,7 +15865,7 @@
     "nameNumber": "371152",
     "name": "ACUNA, JESUS MOSES",
     "bookedAt": "2026-10-31T17:48:00",
-    "scheduledRelease": "2026-11-25T17:48:00",
+    "scheduledRelease": "2026-11-25T18:36:38",
     "location": "M103",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "INVESTIGATIVE HOLD",
@@ -15934,7 +15934,7 @@
         "courtReference": "DOC 22-1-00802-29",
         "bailAmount": null,
         "bailType": null,
-        "disposition": "Serving Commit",
+        "disposition": "Sentence Complete Release",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "MOUNT VERNON POLICE DEPT"
       }
