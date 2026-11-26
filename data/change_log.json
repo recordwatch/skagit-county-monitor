@@ -6,17 +6,42 @@
     "bookedAt": "2026-11-25T14:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "ANACORTES POLICE DEPT",
+    "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-25T13:44:00",
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-23T00:00:00",
+        "incident": "26-A05936",
+        "court": "SC",
+        "courtReference": "26-1-00605-29",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "offenseDate": "2026-09-23T00:00:00",
+        "incident": "26-A05936",
+        "court": "SC",
+        "courtReference": "26-1-00605-29",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "FELONY WARRANT ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-25T15:11:18",
     "releasedAt": null,
@@ -506,16 +531,16 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ANIMAL CRUELTY 1ST",
         "offenseDate": "2026-11-24T10:06:00",
         "incident": "26-B08459",
         "court": "SC",
-        "courtReference": "INV",
-        "bailAmount": null,
-        "bailType": null,
+        "courtReference": "26-1-00651-29",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
@@ -527,8 +552,8 @@
         "court": "SC",
         "courtReference": "INV",
         "bailAmount": null,
-        "bailType": null,
-        "disposition": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": "Declined To Prosecute",
         "arrestType": "INVESTIGATIVE HOLD",
         "agency": "BURLINGTON POLICE DEPT"
       }
@@ -2750,7 +2775,7 @@
         "agency": "MOUNT VERNON POLICE DEPT"
       }
     ],
-    "bondTotal": 125000,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -2794,7 +2819,7 @@
         "incident": "26-M05287",
         "court": "SC",
         "courtReference": "26-1-00202-29",
-        "bailAmount": 100000,
+        "bailAmount": 75000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
         "arrestType": "REVOCATION OF PR",
@@ -7913,10 +7938,10 @@
         "agency": "BURLINGTON POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T14:11:14",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-25T16:11:17",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -39864,7 +39889,7 @@
     "name": "CRANE, NATHAN REES",
     "bookedAt": "2026-07-10T15:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "K101",
     "arrestingAgency": "MOUNT VERNON POLICE DEPT",
     "arrestType": "FELONY WARRANT ARREST",
     "arrests": [
