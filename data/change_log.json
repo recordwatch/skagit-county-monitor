@@ -1,5 +1,54 @@
 [
   {
+    "id": "717522-20261125232000",
+    "nameNumber": "717522",
+    "name": "CONNOR, RONALD KEITH",
+    "bookedAt": "2026-11-25T23:20:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-25T22:48:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-25T22:48:00",
+        "incident": "26-14217",
+        "court": "DC",
+        "courtReference": "6A0446462",
+        "bailAmount": 1500,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-25T22:48:00",
+        "incident": "26-14217",
+        "court": "DC",
+        "courtReference": "6A0446462",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T01:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "563626-20261125230000",
     "nameNumber": "563626",
     "name": "HAWKES, JONATHAN EGGERT",
@@ -15,8 +64,33 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-25T23:00:00",
+        "incident": "26-A07216",
+        "court": "AMC",
+        "courtReference": "6A0120868",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-25T23:00:00",
+        "incident": "19-A04853",
+        "court": "AMC",
+        "courtReference": "AC0018006",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "ANACORTES POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-26T00:11:20",
     "releasedAt": null,
