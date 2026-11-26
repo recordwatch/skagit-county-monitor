@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:11:16",
+  "generatedAt": "2026-11-26T13:11:21",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 758,
@@ -461,7 +461,7 @@
     {
       "name": "Own Recognizance Release",
       "count": 747,
-      "pct": 45.2
+      "pct": 45.1
     },
     {
       "name": "Sentence Complete Release",
@@ -490,8 +490,8 @@
     },
     {
       "name": "Bail Bond Release",
-      "count": 78,
-      "pct": 4.7
+      "count": 79,
+      "pct": 4.8
     },
     {
       "name": "Amended",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 641,
+      "count": 639,
       "pct": 94.8
     },
     {
@@ -638,15 +638,15 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 52,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 1014.8
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 56,
+    "withBond": 110,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18263000
+    "totalBond": 18258000
   },
   "chargesPerBooking": 3.2
 }
