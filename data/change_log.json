@@ -1,5 +1,42 @@
 [
   {
+    "id": "467734-20261126011000",
+    "nameNumber": "467734",
+    "name": "FORTHUN, ISAAC SCOTT JESSE",
+    "bookedAt": "2026-11-26T01:10:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "WA STATE PATROL",
+    "arrestType": "MISDEMEANOR WARRANT ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-26T00:50:00",
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2026-11-26T00:50:00",
+        "incident": "26-B06983",
+        "court": "BMC",
+        "courtReference": "6A0336298",
+        "bailAmount": 5000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR WARRANT ARREST",
+        "agency": "WA STATE PATROL"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T03:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "732320-20261125235000",
     "nameNumber": "732320",
     "name": "FLORES, JAIME MANUEL",
@@ -52,7 +89,7 @@
         "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
-    "bondTotal": 1500,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -77,6 +114,18 @@
         "disposition": null,
         "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "offenseDate": "2025-03-05T00:00:00",
+        "incident": null,
+        "court": "OTHR",
+        "courtReference": "990506751",
+        "bailAmount": 2000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
       }
     ],
     "status": "in_custody",
@@ -91,7 +140,7 @@
     "name": "HAWKES, JONATHAN EGGERT",
     "bookedAt": "2026-11-25T23:00:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N204",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
