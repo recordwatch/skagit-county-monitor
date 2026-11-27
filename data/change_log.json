@@ -1,5 +1,29 @@
 [
   {
+    "id": "744126-20261127105000",
+    "nameNumber": "744126",
+    "name": "KINLOW, MALACHI XAVIER",
+    "bookedAt": "2026-11-27T10:50:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T12:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "694735-20261127094500",
     "nameNumber": "694735",
     "name": "GOMEZ, VICTORIA ROSE",
@@ -105,11 +129,11 @@
     "scheduledRelease": null,
     "location": "N206",
     "arrestingAgency": "WA STATE PATROL",
-    "arrestType": "DUI CITATION ARREST",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-26T19:38:00",
-        "arrestType": "DUI CITATION ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -124,7 +148,7 @@
         "bailAmount": null,
         "bailType": null,
         "disposition": null,
-        "arrestType": "DUI CITATION ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -214,10 +238,10 @@
         "agency": "ANACORTES POLICE DEPT"
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-26T12:11:16",
-    "releasedAt": null,
-    "releaseSource": null,
+    "releasedAt": "2026-11-27T12:11:15",
+    "releaseSource": "observed",
     "baseline": false
   },
   {
@@ -412,7 +436,7 @@
     "charges": [
       {
         "description": "DWLS/R 3RD DEGREE",
-        "offenseDate": "2026-11-25T23:00:00",
+        "offenseDate": "2026-11-25T21:30:00",
         "incident": "26-A07216",
         "court": "AMC",
         "courtReference": "6A0120868",
@@ -424,7 +448,7 @@
       },
       {
         "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-11-25T23:00:00",
+        "offenseDate": "2019-07-15T00:00:00",
         "incident": "19-A04853",
         "court": "AMC",
         "courtReference": "AC0018006",
