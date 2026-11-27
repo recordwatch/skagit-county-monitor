@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T22:11:17",
+  "generatedAt": "2026-11-26T23:11:14",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 758,
-    "bookingsObserved": 555,
+    "bookingsTracked": 759,
+    "bookingsObserved": 556,
     "releasesObserved": 592,
-    "inCustody": 166,
-    "uniquePeople": 717
+    "inCustody": 167,
+    "uniquePeople": 718
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 3,
+      "booked": 4,
       "released": 5
     }
   ],
   "topCharges": [
     {
       "name": "DUI",
-      "count": 190,
+      "count": 191,
       "pct": 7.9
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "MOUNT VERNON POLICE DEPT",
       "count": 172,
-      "pct": 22.8,
+      "pct": 22.7,
       "label": "MOUNT VERNON POLICE DEPT"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "WA STATE PATROL",
-      "count": 119,
-      "pct": 15.7,
+      "count": 120,
+      "pct": 15.9,
       "label": "WA STATE PATROL"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "name": "DC",
-      "count": 406,
-      "pct": 16.8,
+      "count": 407,
+      "pct": 16.9,
       "label": "Skagit County District Court"
     },
     {
@@ -399,15 +399,15 @@
     {
       "name": "FELONY WARRANT ARREST",
       "count": 101,
-      "pct": 13.4
-    },
-    {
-      "name": "MISDEMEANOR COMMITMENT ARREST",
-      "count": 58,
-      "pct": 7.7
+      "pct": 13.3
     },
     {
       "name": "DUI CITATION ARREST",
+      "count": 59,
+      "pct": 7.8
+    },
+    {
+      "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 58,
       "pct": 7.7
     },
@@ -523,7 +523,7 @@
     {
       "name": "COMMUNITY SERVICE WORK",
       "count": 4,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "DORM 1 (E101)",
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -563,22 +563,22 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "N",
-      "count": 13,
-      "pct": 8.3
+      "count": 14,
+      "pct": 8.9
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "R",
@@ -638,12 +638,12 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 54,
-    "currentLongestDaysHeld": 1015.2
+    "currentMedianDaysHeld": 52.5,
+    "currentLongestDaysHeld": 1015.3
   },
   "bond": {
     "withBond": 110,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18258000
