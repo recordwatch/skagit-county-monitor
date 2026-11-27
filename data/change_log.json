@@ -37,6 +37,55 @@
     "baseline": false
   },
   {
+    "id": "666229-20261126213000",
+    "nameNumber": "666229",
+    "name": "SANTIAGO-FRANCISCO, PEDRO",
+    "bookedAt": "2026-11-26T21:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "SKAGIT COUNTY SHERIFF",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-26T21:02:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS/R 3RD DEGREE",
+        "offenseDate": "2026-11-26T21:02:00",
+        "incident": "26-14259",
+        "court": "DC",
+        "courtReference": "6A0042922",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2025-01-15T00:00:00",
+        "incident": "25-00565",
+        "court": "DC",
+        "courtReference": "5A0070895",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SKAGIT COUNTY SHERIFF"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T00:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "622118-20261126110000",
     "nameNumber": "622118",
     "name": "JANDREAU, KATELYN ABIGAIL",
