@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T02:11:15",
+  "generatedAt": "2026-11-27T03:11:18",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 760,
-    "bookingsObserved": 557,
+    "bookingsTracked": 761,
+    "bookingsObserved": 558,
     "releasesObserved": 592,
-    "inCustody": 168,
-    "uniquePeople": 719
+    "inCustody": 169,
+    "uniquePeople": 720
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -188,7 +188,7 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE DV",
-      "count": 87,
+      "count": 88,
       "pct": 3.6
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "SKAGIT COUNTY SHERIFF",
       "count": 162,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "SKAGIT COUNTY SHERIFF"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 54,
-      "pct": 7.1,
+      "count": 55,
+      "pct": 7.2,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1205,
-      "pct": 49.9,
+      "pct": 49.8,
       "label": "Skagit County Superior Court"
     },
     {
@@ -340,7 +340,7 @@
     {
       "name": "MVMC",
       "count": 272,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "name": "AMC",
-      "count": 99,
+      "count": 100,
       "pct": 4.1,
       "label": "Anacortes Municipal Court"
     },
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 135,
-      "pct": 17.8
+      "count": 136,
+      "pct": 17.9
     },
     {
       "name": "INVESTIGATIVE HOLD",
@@ -409,7 +409,7 @@
     {
       "name": "MISDEMEANOR COMMITMENT ARREST",
       "count": 58,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "FELONY COMMITMENT ARREST",
@@ -638,12 +638,12 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 52.1,
+    "currentMedianDaysHeld": 51.7,
     "currentLongestDaysHeld": 1015.4
   },
   "bond": {
     "withBond": 111,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18260000
