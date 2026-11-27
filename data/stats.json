@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T00:11:14",
+  "generatedAt": "2026-11-27T00:56:42",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 760,
@@ -543,12 +543,12 @@
     {
       "name": "J",
       "count": 13,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "K",
       "count": 13,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "M",
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 14,
-      "pct": 8.9
+      "count": 15,
+      "pct": 9.5
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
       "count": 29,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11.5
+      "pct": 11.4
     }
   ],
   "bailTypes": [
@@ -638,7 +638,7 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 52,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 1015.3
   },
   "bond": {
