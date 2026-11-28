@@ -42,7 +42,7 @@
     "name": "OTTO, TROY ADAM",
     "bookedAt": "2026-11-27T16:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N203",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
@@ -79,7 +79,7 @@
     "name": "SINGLETON, SKYLAR ALLISON",
     "bookedAt": "2026-11-27T16:15:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J210",
     "arrestingAgency": "ANACORTES POLICE DEPT",
     "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
