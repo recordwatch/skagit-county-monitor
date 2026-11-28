@@ -1,5 +1,29 @@
 [
   {
+    "id": "51813-20261128023000",
+    "nameNumber": "51813",
+    "name": "RUDDELL, SKYE RAELYNN",
+    "bookedAt": "2026-11-28T02:30:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T03:11:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "744140-20261127215500",
     "nameNumber": "744140",
     "name": "SILVA, JUAN AZTECA",
