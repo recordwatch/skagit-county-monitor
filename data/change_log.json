@@ -6,17 +6,66 @@
     "bookedAt": "2026-11-28T02:30:00",
     "scheduledRelease": null,
     "location": null,
-    "arrestingAgency": null,
-    "arrestType": null,
+    "arrestingAgency": "SEDRO-WOOLLEY POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
-        "arrestDate": null,
-        "arrestType": null,
-        "agency": null
+        "arrestDate": "2026-11-27T23:14:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
       }
     ],
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 12000,
+    "charges": [
+      {
+        "description": "POSSESSION CONTROLLED SUB KNOW POSSESS",
+        "offenseDate": "2026-11-27T23:10:00",
+        "incident": "26-W05685",
+        "court": "SWMC",
+        "courtReference": "6A0447036",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "DWLS/R 2ND DEGREE",
+        "offenseDate": "2024-12-14T00:00:00",
+        "incident": "24-15774",
+        "court": "DC",
+        "courtReference": "4A0787234",
+        "bailAmount": 1000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "VIOL DUI RESTRICTIONS - IGNITION INTERLOCK VIOLATION",
+        "offenseDate": "2024-12-14T00:00:00",
+        "incident": "24-15774",
+        "court": "DC",
+        "courtReference": "4A0787234",
+        "bailAmount": null,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      },
+      {
+        "description": "NEG DRIVING 1ST (CRIMINAL)",
+        "offenseDate": "2021-01-18T00:00:00",
+        "incident": null,
+        "court": "DC",
+        "courtReference": "PA0007641",
+        "bailAmount": 10000,
+        "bailType": "Cash/Bond Accepted",
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "SEDRO-WOOLLEY POLICE DEPT"
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-28T03:11:14",
     "releasedAt": null,
