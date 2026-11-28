@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T16:11:15",
+  "generatedAt": "2026-11-27T17:11:15",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
-    "bookingsTracked": 763,
-    "bookingsObserved": 560,
+    "bookingsTracked": 764,
+    "bookingsObserved": 561,
     "releasesObserved": 594,
-    "inCustody": 169,
-    "uniquePeople": 722
+    "inCustody": 170,
+    "uniquePeople": 723
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 3,
+      "booked": 4,
       "released": 2
     }
   ],
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 137,
-      "pct": 18
+      "count": 138,
+      "pct": 18.1
     },
     {
       "name": "INVESTIGATIVE HOLD",
@@ -452,7 +452,7 @@
       "pct": 0.3
     },
     {
-      "name": "TRAFFIC CITATION ARREST",
+      "name": "PAROLE/PROB VIOLATION",
       "count": 1,
       "pct": 0.1
     }
@@ -567,23 +567,23 @@
     },
     {
       "name": "N",
-      "count": 15,
-      "pct": 9.6
+      "count": 16,
+      "pct": 10.1
     },
     {
       "name": "P",
       "count": 25,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11.5
+      "pct": 11.4
     }
   ],
   "bailTypes": [
@@ -638,12 +638,12 @@
         "count": 40
       }
     ],
-    "currentMedianDaysHeld": 52.2,
+    "currentMedianDaysHeld": 52.1,
     "currentLongestDaysHeld": 1016
   },
   "bond": {
     "withBond": 111,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 50000,
     "maxBond": 1350000,
     "totalBond": 18256700

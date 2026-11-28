@@ -1,17 +1,41 @@
 [
   {
+    "id": "204432-20261127161500",
+    "nameNumber": "204432",
+    "name": "SINGLETON, SKYLAR ALLISON",
+    "bookedAt": "2026-11-27T16:15:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T17:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "744126-20261127105000",
     "nameNumber": "744126",
     "name": "KINLOW, MALACHI XAVIER",
     "bookedAt": "2026-11-27T10:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "N205",
     "arrestingAgency": "WA STATE PATROL",
-    "arrestType": "TRAFFIC CITATION ARREST",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
     "arrests": [
       {
         "arrestDate": "2026-11-27T10:00:00",
-        "arrestType": "TRAFFIC CITATION ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
@@ -26,7 +50,7 @@
         "bailAmount": 1000,
         "bailType": "Cash/Bond Accepted",
         "disposition": null,
-        "arrestType": "TRAFFIC CITATION ARREST",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
         "agency": "WA STATE PATROL"
       }
     ],
