@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:11:15",
+  "generatedAt": "2026-11-27T17:47:34",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 764,
@@ -295,8 +295,8 @@
     },
     {
       "name": "ANACORTES POLICE DEPT",
-      "count": 55,
-      "pct": 7.2,
+      "count": 56,
+      "pct": 7.3,
       "label": "ANACORTES POLICE DEPT"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1205,
-      "pct": 49.8,
+      "pct": 49.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "name": "AMC",
-      "count": 100,
-      "pct": 4.1,
+      "count": 101,
+      "pct": 4.2,
       "label": "Anacortes Municipal Court"
     },
     {
@@ -383,8 +383,8 @@
   "arrestTypes": [
     {
       "name": "MISDEMEANOR CITATION ARREST",
-      "count": 138,
-      "pct": 18.1
+      "count": 139,
+      "pct": 18.2
     },
     {
       "name": "INVESTIGATIVE HOLD",
@@ -589,7 +589,7 @@
   "bailTypes": [
     {
       "name": "Cash/Bond Accepted",
-      "count": 642,
+      "count": 643,
       "pct": 94.8
     },
     {
@@ -642,11 +642,11 @@
     "currentLongestDaysHeld": 1016
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 59,
+    "withBond": 112,
+    "noBond": 58,
     "medianBond": 50000,
     "maxBond": 1350000,
-    "totalBond": 18256700
+    "totalBond": 18257700
   },
   "chargesPerBooking": 3.2
 }
