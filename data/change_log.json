@@ -1,5 +1,29 @@
 [
   {
+    "id": "740769-20261128050500",
+    "nameNumber": "740769",
+    "name": "ALEGRIA, BERSAIN PALACIOS",
+    "bookedAt": "2026-11-28T05:05:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": null,
+    "arrestType": null,
+    "arrests": [
+      {
+        "arrestDate": null,
+        "arrestType": null,
+        "agency": null
+      }
+    ],
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T07:11:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "51813-20261128023000",
     "nameNumber": "51813",
     "name": "RUDDELL, SKYE RAELYNN",
@@ -265,8 +289,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-27T12:11:15",
-    "releasedAt": "2026-11-27T19:11:20",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-27T18:30:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -449,8 +473,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-27T00:11:14",
-    "releasedAt": "2026-11-27T13:11:14",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-27T12:15:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
@@ -486,8 +510,8 @@
     ],
     "status": "released",
     "firstSeen": "2026-11-26T12:11:16",
-    "releasedAt": "2026-11-27T12:11:15",
-    "releaseSource": "observed",
+    "releasedAt": "2026-11-27T11:20:00",
+    "releaseSource": "official",
     "baseline": false
   },
   {
