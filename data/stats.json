@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:11:15",
+  "generatedAt": "2026-11-28T01:11:17",
   "monitoringSince": "2026-10-10T21:57:03",
   "totals": {
     "bookingsTracked": 767,
@@ -328,7 +328,7 @@
     {
       "name": "SC",
       "count": 1207,
-      "pct": 49.8,
+      "pct": 49.7,
       "label": "Skagit County Superior Court"
     },
     {
@@ -339,8 +339,8 @@
     },
     {
       "name": "MVMC",
-      "count": 275,
-      "pct": 11.3,
+      "count": 276,
+      "pct": 11.4,
       "label": "Mount Vernon Municipal Court"
     },
     {
@@ -533,7 +533,7 @@
     {
       "name": "ELECTRONIC HOME MONITORING",
       "count": 17,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "FEMALE WORK POD (E104)",
@@ -542,18 +542,18 @@
     },
     {
       "name": "J",
-      "count": 15,
-      "pct": 9.3
+      "count": 16,
+      "pct": 9.9
     },
     {
       "name": "K",
       "count": 14,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "M",
       "count": 8,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "MALE INMATE WORKER (E103)",
@@ -563,7 +563,7 @@
     {
       "name": "MALE WORK RELEASE (E102)",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "N",
@@ -573,17 +573,17 @@
     {
       "name": "P",
       "count": 25,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "Q",
       "count": 28,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "R",
       "count": 18,
-      "pct": 11.2
+      "pct": 11.1
     }
   ],
   "bailTypes": [
