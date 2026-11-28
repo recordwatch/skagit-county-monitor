@@ -1,11 +1,48 @@
 [
   {
+    "id": "744140-20261127215500",
+    "nameNumber": "744140",
+    "name": "SILVA, JUAN AZTECA",
+    "bookedAt": "2026-11-27T21:55:00",
+    "scheduledRelease": null,
+    "location": null,
+    "arrestingAgency": "MOUNT VERNON POLICE DEPT",
+    "arrestType": "MISDEMEANOR CITATION ARREST",
+    "arrests": [
+      {
+        "arrestDate": "2026-11-27T21:40:00",
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-27T20:53:00",
+        "incident": "26-M17406",
+        "court": "MVMC",
+        "courtReference": "6A0427906",
+        "bailAmount": null,
+        "bailType": null,
+        "disposition": null,
+        "arrestType": "MISDEMEANOR CITATION ARREST",
+        "agency": "MOUNT VERNON POLICE DEPT"
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T00:11:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "446893-20261127165000",
     "nameNumber": "446893",
     "name": "JONES, EMILIANA MARIE",
     "bookedAt": "2026-11-27T16:50:00",
     "scheduledRelease": null,
-    "location": null,
+    "location": "J208",
     "arrestingAgency": "SKAGIT COUNTY SHERIFF",
     "arrestType": "INVESTIGATIVE HOLD",
     "arrests": [
